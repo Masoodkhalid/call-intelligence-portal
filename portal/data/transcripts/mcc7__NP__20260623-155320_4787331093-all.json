@@ -1,0 +1,77 @@
+{
+  "id": "mcc7__NP__20260623-155320_4787331093-all",
+  "campaign": "mcc7",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "15:53:20",
+  "phone": "4787331093",
+  "filename": "20260623-155320_4787331093-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NP/20260623-155320_4787331093-all.mp3",
+  "duration": 27.94,
+  "text": "Hello. Hello. Good afternoon. This is Alissa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account. Hello. Your just state relief program. So far, have you received any updates or notifications about this yet? Hello. Hello. So just so you know, a lot of members haven't been notified yet and I just want to help you get the...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.44,
+      "text": "Hello. Hello. Good afternoon. This is Alissa. I'm calling because there are pending grocery"
+    },
+    {
+      "start": 7.44,
+      "end": 14.08,
+      "text": "and cash benefits worth up to $300 available on your Medicare account. Hello. Your just state relief"
+    },
+    {
+      "start": 14.08,
+      "end": 20.72,
+      "text": "program. So far, have you received any updates or notifications about this yet? Hello."
+    },
+    {
+      "start": 23.04,
+      "end": 27.44,
+      "text": "Hello. So just so you know, a lot of members haven't been notified yet and I just want to help"
+    },
+    {
+      "start": 27.44,
+      "end": 29.44,
+      "text": "you get the..."
+    }
+  ],
+  "word_count": 68,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is Alissa"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Your just state relief program"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So far, have you received any updates or notifications about this yet? Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So just so you know, a lot of members haven't been notified yet and I just want to help you get the"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Alissa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account. Hello. Your just state relief program. So far, have you received any updates or notifications about this yet? Hello. Hello. So just so you know, a lot of members haven't been notified yet and I just want to help you get the...",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 68
+}

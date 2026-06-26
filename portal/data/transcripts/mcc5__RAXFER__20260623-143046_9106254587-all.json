@@ -1,0 +1,92 @@
+{
+  "id": "mcc5__RAXFER__20260623-143046_9106254587-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:30:46",
+  "phone": "9106254587",
+  "filename": "20260623-143046_9106254587-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-143046_9106254587-all.mp3",
+  "duration": 76.61,
+  "text": "- Hello. - Hello. - Good afternoon. My name is Cassie. I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick, so you do have both part A and part B, right? - Yes. - You do qualify forwarding you to our supervisor now. Please hold. - Thank you so much for holding on. This is Adam Conner. How are you today? - lousy. I'm in the doctor's office and I'm freezing. - Okay. Actually, this is called regarding your Medicare benefits for 2026. So I believe you do have Medicare parts A and B, correct? - Yes, I do. - Racially in a special enrollment period, Medicare has just released a lot of new upgrades and extra benefits. A lot of people are getting more than $320 for their food and utility allowance for a month. - lousy. I can't hear you. The doctor has just walked in.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.08,
+      "text": "- Hello. - Hello."
+    },
+    {
+      "start": 3.08,
+      "end": 7.08,
+      "text": "- Good afternoon. My name is Cassie."
+    },
+    {
+      "start": 7.08,
+      "end": 16.68,
+      "text": "I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 16.68,
+      "end": 22.08,
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals."
+    },
+    {
+      "start": 22.08,
+      "end": 27.84,
+      "text": "I can verify it real quick, so you do have both part A and part B, right?"
+    },
+    {
+      "start": 27.84,
+      "end": 36.8,
+      "text": "- Yes. - You do qualify forwarding you to our supervisor now. Please hold."
+    },
+    {
+      "start": 36.8,
+      "end": 45.36,
+      "text": "- Thank you so much for holding on. This is Adam Conner. How are you today?"
+    },
+    {
+      "start": 45.36,
+      "end": 50.12,
+      "text": "- lousy. I'm in the doctor's office and I'm freezing."
+    },
+    {
+      "start": 50.12,
+      "end": 60.24,
+      "text": "- Okay. Actually, this is called regarding your Medicare benefits for 2026. So I believe you do have Medicare parts A and B, correct?"
+    },
+    {
+      "start": 60.24,
+      "end": 68.72,
+      "text": "- Yes, I do. - Racially in a special enrollment period, Medicare has just released a lot of new upgrades and extra benefits."
+    },
+    {
+      "start": 68.72,
+      "end": 73.52,
+      "text": "A lot of people are getting more than $320 for their food and utility allowance for a month."
+    },
+    {
+      "start": 73.52,
+      "end": 76.24,
+      "text": "- lousy. I can't hear you. The doctor has just walked in."
+    }
+  ],
+  "word_count": 175,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Hello Good afternoon My name is Cassie I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick, so you do have both part A and part B, right? Yes You do qualify forwarding you to our supervisor now Please hold Thank you so much for holding on"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Hello Good afternoon My name is Cassie I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick, so you do have both part A and part B, right? Yes You do qualify forwarding you to our supervisor now Please hold Thank you so much for holding on",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 74
+}

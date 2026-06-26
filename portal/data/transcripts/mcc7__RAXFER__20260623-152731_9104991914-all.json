@@ -1,0 +1,91 @@
+{
+  "id": "mcc7__RAXFER__20260623-152731_9104991914-all",
+  "campaign": "mcc7",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "15:27:31",
+  "phone": "9104991914",
+  "filename": "20260623-152731_9104991914-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-raxfer/20260623-152731_9104991914-all.mp3",
+  "duration": 46.51,
+  "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program. So, have you received any notification about these benefits yet? Hello. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both part A and part B, yes? Yes. Perfect. You qualify for the benefits. I'm forwarding you to our supervisor. Please hold on.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Hello. Good afternoon. This is Alyssa."
+    },
+    {
+      "start": 5.0,
+      "end": 16.0,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program."
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "So, have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "Hello."
+    },
+    {
+      "start": 23.0,
+      "end": 27.0,
+      "text": "Oh, that's all right. That's exactly why I'm calling."
+    },
+    {
+      "start": 27.0,
+      "end": 31.0,
+      "text": "I want to help you get these benefits processed before they go unclaimed."
+    },
+    {
+      "start": 31.0,
+      "end": 36.0,
+      "text": "You're covered under both part A and part B, yes?"
+    },
+    {
+      "start": 36.0,
+      "end": 39.0,
+      "text": "Yes."
+    },
+    {
+      "start": 39.0,
+      "end": 41.0,
+      "text": "Perfect. You qualify for the benefits."
+    },
+    {
+      "start": 41.0,
+      "end": 45.0,
+      "text": "I'm forwarding you to our supervisor. Please hold on."
+    }
+  ],
+  "word_count": 91,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program So, have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? Yes Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program So, have you received any notification about these benefits yet? Hello Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? Yes Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 91
+}

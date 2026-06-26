@@ -1,0 +1,209 @@
+{
+  "id": "mcc5__RAXFER__20260623-142338_4792227422-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:23:38",
+  "phone": "4792227422",
+  "filename": "20260623-142338_4792227422-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-142338_4792227422-all.mp3",
+  "duration": 105.7,
+  "text": "Hello. Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approvals. So to get your file updated, do you have both Medicare Part A and Part B? Yeah. Okay. You do qualify forwarding you to our supervisor. Now what they need to do is just nice double for dinner and breathe. Thank you for holding this as David Williams. How are you doing today? They're doing pretty good. All right. Great. This call is in regard to inquiry about your Medicare benefits and savings. So do you have Medicare Part A and B? No, but I'm going to McDonald's, do you want anything McDonald's? Yeah, but I would love to have McDonald's ice cream. Ah, I love McDonald's ice cream. That's the best, but now I appreciate your offer. If you could take this one, it's a company of fun. I would love to have Pineapple, Pineapple, Pineapple ice cream. You know, I haven't had that in a long time. Oh, I can invite you for that if you want to. No, sir, I appreciate it. But I tell you what, if you could take my phone number off your list, this is a company phone. I'd appreciate it. I would love to put you in the nuts call list. Thank you. Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "text": "Hello."
+    },
+    {
+      "start": 1.74,
+      "end": 3.66,
+      "text": "Hello."
+    },
+    {
+      "start": 3.66,
+      "end": 6.72,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 6.72,
+      "end": 9.48,
+      "text": "My name is Cassie."
+    },
+    {
+      "start": 9.48,
+      "end": 14.38,
+      "text": "So I'm calling because your Medicare member profile is showing it hasn't been transferred"
+    },
+    {
+      "start": 14.38,
+      "end": 18.72,
+      "text": "into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 18.72,
+      "end": 21.68,
+      "text": "And that can delay your coverage approvals."
+    },
+    {
+      "start": 21.68,
+      "end": 27.52,
+      "text": "So to get your file updated, do you have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 27.52,
+      "end": 28.52,
+      "text": "Yeah."
+    },
+    {
+      "start": 28.52,
+      "end": 30.0,
+      "text": "Okay."
+    },
+    {
+      "start": 30.0,
+      "end": 33.0,
+      "text": "You do qualify forwarding you to our supervisor."
+    },
+    {
+      "start": 33.0,
+      "end": 41.4,
+      "text": "Now what they need to do is just nice double for dinner and breathe."
+    },
+    {
+      "start": 41.4,
+      "end": 44.04,
+      "text": "Thank you for holding this as David Williams."
+    },
+    {
+      "start": 44.04,
+      "end": 45.88,
+      "text": "How are you doing today?"
+    },
+    {
+      "start": 45.88,
+      "end": 47.92,
+      "text": "They're doing pretty good."
+    },
+    {
+      "start": 47.92,
+      "end": 48.92,
+      "text": "All right."
+    },
+    {
+      "start": 48.92,
+      "end": 49.92,
+      "text": "Great."
+    },
+    {
+      "start": 49.92,
+      "end": 53.68,
+      "text": "This call is in regard to inquiry about your Medicare benefits and savings."
+    },
+    {
+      "start": 53.68,
+      "end": 56.24,
+      "text": "So do you have Medicare Part A and B?"
+    },
+    {
+      "start": 56.24,
+      "end": 60.48,
+      "text": "No, but I'm going to McDonald's, do you want anything McDonald's?"
+    },
+    {
+      "start": 60.48,
+      "end": 64.2,
+      "text": "Yeah, but I would love to have McDonald's ice cream."
+    },
+    {
+      "start": 64.2,
+      "end": 67.72,
+      "text": "Ah, I love McDonald's ice cream."
+    },
+    {
+      "start": 67.72,
+      "end": 72.12,
+      "text": "That's the best, but now I appreciate your offer."
+    },
+    {
+      "start": 72.12,
+      "end": 74.88,
+      "text": "If you could take this one, it's a company of fun."
+    },
+    {
+      "start": 74.88,
+      "end": 83.2,
+      "text": "I would love to have Pineapple, Pineapple, Pineapple ice cream."
+    },
+    {
+      "start": 83.2,
+      "end": 86.12,
+      "text": "You know, I haven't had that in a long time."
+    },
+    {
+      "start": 86.12,
+      "end": 93.64,
+      "text": "Oh, I can invite you for that if you want to."
+    },
+    {
+      "start": 93.64,
+      "end": 95.48,
+      "text": "No, sir, I appreciate it."
+    },
+    {
+      "start": 95.48,
+      "end": 99.52,
+      "text": "But I tell you what, if you could take my phone number off your list, this is a company phone."
+    },
+    {
+      "start": 99.52,
+      "end": 100.52,
+      "text": "I'd appreciate it."
+    },
+    {
+      "start": 100.52,
+      "end": 102.8,
+      "text": "I would love to put you in the nuts call list."
+    },
+    {
+      "start": 102.8,
+      "end": 103.8,
+      "text": "Thank you."
+    },
+    {
+      "start": 103.8,
+      "end": 104.56,
+      "text": "Thank you."
+    }
+  ],
+  "word_count": 239,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon My name is Cassie So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage approvals So to get your file updated, do you have both Medicare Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah Okay You do qualify forwarding you to our supervisor Now what they need to do is just nice double for dinner and breathe Thank you for holding this as David Williams How are you doing today? They're doing pretty good All right Great This call is in regard to inquiry about your Medicare benefits and savings"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So do you have Medicare Part A and B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, but I'm going to McDonald's, do you want anything McDonald's? Yeah, but I would love to have McDonald's ice cream Ah, I love McDonald's ice cream That's the best, but now I appreciate your offer If you could take this one, it's a company of fun I would love to have Pineapple, Pineapple, Pineapple ice cream You know, I haven't had that in a long time Oh, I can invite you for that if you want to No, sir, I appreciate it But I tell you what, if you could take my phone number off your list, this is a company phone I'd appreciate it I would love to put you in the nuts call list Thank you Thank you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approvals. So to get your file updated, do you have both Medicare Part A and Part B? Yeah. Okay. You do qualify forwarding you to our supervisor. Now what they need to do is just nice double for dinner and breathe. Thank you for holding this as David Williams. How are you doing today? They're doing pretty good. All right. Great. This call is in regard to inquiry about your Medicare benefits and savings. So do you have Medicare Part A and B? No, but I'm going to McDonald's, do you want anything McDonald's? Yeah, but I would love to have McDonald's ice cream. Ah, I love McDonald's ice cream. That's the best, but now I appreciate your offer. If you could take this one, it's a company of fun. I would love to have Pineapple, Pineapple, Pineapple ice cream. You know, I haven't had that in a long time. Oh, I can invite you for that if you want to. No, sir, I appreciate it. But I tell you what, if you could take my phone number off your list, this is a company phone. I'd appreciate it. I would love to put you in the nuts call list. Thank you. Thank you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 239
+}

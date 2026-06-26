@@ -1,0 +1,96 @@
+{
+  "id": "mcc5__BDNC__20260623-120938_8658285595-all",
+  "campaign": "mcc5",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "12:09:38",
+  "phone": "8658285595",
+  "filename": "20260623-120938_8658285595-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-BNDC/20260623-120938_8658285595-all.mp3",
+  "duration": 11.3,
+  "text": "Hello? [inaudible] Hello? [inaudible] Hello? [inaudible] Hello? [inaudible] Hello? [inaudible] Hello? [inaudible]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "[inaudible]"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "[inaudible]"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "[inaudible]"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "[inaudible]"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "[inaudible]"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "[inaudible]"
+    }
+  ],
+  "word_count": 12,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "[inaudible] Hello? [inaudible] Hello? [inaudible] Hello? [inaudible] Hello? [inaudible] Hello? [inaudible]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? [inaudible] Hello? [inaudible] Hello? [inaudible] Hello? [inaudible] Hello? [inaudible] Hello? [inaudible]",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 12
+}

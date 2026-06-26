@@ -1,0 +1,94 @@
+{
+  "id": "mcc5__DNQ__20260623-132538_8128655426-all",
+  "campaign": "mcc5",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "13:25:38",
+  "phone": "8128655426",
+  "filename": "20260623-132538_8128655426-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DNQ/20260623-132538_8128655426-all.mp3",
+  "duration": 36.29,
+  "text": "- Hello? - Hello? - Good afternoon. - Hello? - My name is Cassie. - So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. - I don't have Medicare. - So you do have both Part A and Part B, right? - No, I work. I have a job. I don't have Medicare. - Sorry, you don't see my wall. - Sorry, you don't see my wall. - For the plans we have, have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "- Hello? - Hello?"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "- Good afternoon. - Hello?"
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": "- My name is Cassie. - So I'm calling because your Medicare"
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "member profile hasn't been transferred into Medicare's"
+    },
+    {
+      "start": 13.0,
+      "end": 16.0,
+      "text": "national database for 2026 yet."
+    },
+    {
+      "start": 16.0,
+      "end": 19.0,
+      "text": "And that can hold up your coverage approvals."
+    },
+    {
+      "start": 19.0,
+      "end": 24.0,
+      "text": "- I don't have Medicare. - So you do have both Part A and Part B, right?"
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": "- No, I work. I have a job. I don't have Medicare."
+    },
+    {
+      "start": 29.0,
+      "end": 32.0,
+      "text": "- Sorry, you don't see my wall. - Sorry, you don't see my wall."
+    },
+    {
+      "start": 32.0,
+      "end": 35.0,
+      "text": "- For the plans we have, have a great day."
+    }
+  ],
+  "word_count": 94,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good afternoon Hello? My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I don't have Medicare"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you do have both Part A and Part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, I work I have a job I don't have Medicare Sorry, you don't see my wall Sorry, you don't see my wall For the plans we have, have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "- Hello? - Hello? - Good afternoon. - Hello? - My name is Cassie. - So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. - I don't have Medicare. - So you do have both Part A and Part B, right? - No, I work. I have a job. I don't have Medicare. - Sorry, you don't see my wall. - Sorry, you don't see my wall. - For the plans we have, have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 94
+}

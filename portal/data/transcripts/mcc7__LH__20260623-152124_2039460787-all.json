@@ -1,0 +1,42 @@
+{
+  "id": "mcc7__LH__20260623-152124_2039460787-all",
+  "campaign": "mcc7",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "15:21:24",
+  "phone": "2039460787",
+  "filename": "20260623-152124_2039460787-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-LH/20260623-152124_2039460787-all.mp3",
+  "duration": 30.02,
+  "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Connecticut State Relief Program. So far, have you received any updates or notifications about this yet?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 17.0,
+      "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Connecticut State Relief Program."
+    },
+    {
+      "start": 17.0,
+      "end": 23.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    }
+  ],
+  "word_count": 43,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Connecticut State Relief Program So far, have you received any updates or notifications about this yet?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Connecticut State Relief Program. So far, have you received any updates or notifications about this yet?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 43
+}

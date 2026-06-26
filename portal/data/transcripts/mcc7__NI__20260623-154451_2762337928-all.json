@@ -1,0 +1,75 @@
+{
+  "id": "mcc7__NI__20260623-154451_2762337928-all",
+  "campaign": "mcc7",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "15:44:51",
+  "phone": "2762337928",
+  "filename": "20260623-154451_2762337928-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NI/20260623-154451_2762337928-all.mp3",
+  "duration": 60.55,
+  "text": "\"Hello?\" \"Hello?\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Virginia State Relief Program. So, have you been notified about these benefits yet?\" \"Okay, what is it now?\" Well, we're now offering improved dental, vision, hearing, food card, and cash back up to $300. And I just want to help you get them processed before anything lapsed. You're covered under both Part A and Part B, aren't you? Can you hear me? I was just asking if you have Medicare Part A and Part B.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.24,
+      "text": "\"Hello?\" \"Hello?\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending"
+    },
+    {
+      "start": 12.24,
+      "end": 18.8,
+      "text": "grocery and cash benefits worth up to $300 available on your Medicare account through"
+    },
+    {
+      "start": 18.8,
+      "end": 26.16,
+      "text": "Virginia State Relief Program. So, have you been notified about these benefits yet?\""
+    },
+    {
+      "start": 26.16,
+      "end": 33.62,
+      "text": "\"Okay, what is it now?\" Well, we're now offering improved dental, vision, hearing,"
+    },
+    {
+      "start": 33.62,
+      "end": 39.8,
+      "text": "food card, and cash back up to $300. And I just want to help you get them processed"
+    },
+    {
+      "start": 39.8,
+      "end": 49.44,
+      "text": "before anything lapsed. You're covered under both Part A and Part B, aren't you?"
+    },
+    {
+      "start": 49.44,
+      "end": 61.0,
+      "text": "Can you hear me? I was just asking if you have Medicare Part A and Part B."
+    }
+  ],
+  "word_count": 103,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "\"Hello?\" \"Hello?\" \"Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Virginia State Relief Program"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So, have you been notified about these benefits yet?\" \"Okay, what is it now?\" Well, we're now offering improved dental, vision, hearing, food card, and cash back up to $300"
+    },
+    {
+      "speaker": "BOT",
+      "text": "And I just want to help you get them processed before anything lapsed You're covered under both Part A and Part B, aren't you? Can you hear me? I was just asking if you have Medicare Part A and Part B"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Hello?\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Virginia State Relief Program. So, have you been notified about these benefits yet?\" \"Okay, what is it now?\" Well, we're now offering improved dental, vision, hearing, food card, and cash back up to $300. And I just want to help you get them processed before anything lapsed. You're covered under both Part A and Part B, aren't you? Can you hear me? I was just asking if you have Medicare Part A and Part B.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 103
+}

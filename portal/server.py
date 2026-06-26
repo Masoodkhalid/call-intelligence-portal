@@ -1,0 +1,138 @@
+"""Call Intelligence Portal — local Flask web app.
+
+Run:  python3 portal/server.py   then open http://127.0.0.1:5000
+"""
+import os
+import sys
+import json
+
+from flask import (Flask, render_template, jsonify, send_file,
+                   request, abort)
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "pipeline"))
+import common as C  # noqa: E402
+
+app = Flask(__name__)
+
+
+def _summary():
+    return C.load_json(os.path.join(C.ANALYSIS_DIR, "summary.json"), {}) or {}
+
+
+def _flows():
+    return C.load_json(os.path.join(C.ANALYSIS_DIR, "flows.json"), {}) or {}
+
+
+@app.route("/")
+def index():
+    return render_template("index.html")
+
+
+# ---- API -------------------------------------------------------------------
+@app.route("/api/summary")
+def api_summary():
+    s = _summary()
+    s["last_run"] = C.load_json(os.path.join(C.ANALYSIS_DIR, "last_run.json"), {})
+    return jsonify(s)
+
+
+@app.route("/api/flows")
+def api_flows():
+    return jsonify(_flows())
+
+
+@app.route("/api/calls")
+def api_calls():
+    """List transcripts with optional ?campaign=&dispo=&q= filters."""
+    camp = request.args.get("campaign", "")
+    dispo = request.args.get("dispo", "")
+    q = request.args.get("q", "").lower()
+    out = []
+    for fn in sorted(os.listdir(C.TRANSCRIPTS_DIR)):
+        if not fn.endswith(".json"):
+            continue
+        t = C.load_json(os.path.join(C.TRANSCRIPTS_DIR, fn))
+        if not t:
+            continue
+        if camp and t["campaign"] != camp:
+            continue
+        if dispo and t["dispo"] != dispo:
+            continue
+        if q and q not in (t.get("text", "").lower()):
+            continue
+        out.append({
+            "id": t["id"], "campaign": t["campaign"], "dispo": t["dispo"],
+            "dispo_label": t.get("dispo_label", ""), "date": t["date"],
+            "time": t["time"], "phone": t["phone"], "duration": t["duration"],
+            "preview": (t.get("text", "")[:160]),
+        })
+    out.sort(key=lambda x: (x["date"], x["time"]))
+    return jsonify({"count": len(out), "calls": out})
+
+
+@app.route("/api/call/<cid>")
+def api_call(cid):
+    t = C.load_json(os.path.join(C.TRANSCRIPTS_DIR, cid + ".json"))
+    if not t:
+        abort(404)
+    return jsonify(t)
+
+
+@app.route("/api/audio/<cid>")
+def api_audio(cid):
+    t = C.load_json(os.path.join(C.TRANSCRIPTS_DIR, cid + ".json"))
+    if not t:
+        abort(404)
+    path = os.path.join(C.ROOT, t["rel_path"])
+    if not os.path.exists(path):
+        abort(404)
+    return send_file(path, mimetype="audio/mpeg")
+
+
+@app.route("/api/scripts")
+def api_scripts():
+    out = {}
+    idx = C.load_json(os.path.join(C.SCRIPTS_DIR, "index.json"), {})
+    for dispo in (idx.get("dispositions") or []):
+        s = C.load_json(os.path.join(C.SCRIPTS_DIR, f"{dispo}.json"))
+        if s:
+            out[dispo] = s
+    return jsonify({"index": idx, "scripts": out})
+
+
+@app.route("/api/scripts_detected")
+def api_scripts_detected():
+    return jsonify(C.load_json(os.path.join(C.ANALYSIS_DIR, "scripts_detected.json"), {}))
+
+
+@app.route("/api/flows_detected")
+def api_flows_detected():
+    return jsonify(C.load_json(os.path.join(C.ANALYSIS_DIR, "flows_detected.json"), {}))
+
+
+@app.route("/api/research")
+def api_research():
+    path = os.path.join(C.DATA_DIR, "research", "medicare_2026.json")
+    return jsonify(C.load_json(path, {}))
+
+
+@app.route("/api/generate", methods=["POST"])
+def api_generate():
+    import generator
+    body = request.get_json(force=True, silent=True) or {}
+    style = body.get("style", "warm")
+    focus = body.get("focus") or "2026 Part D $2,100 out-of-pocket cap savings"
+    rec = generator.generate(style_key=style, focus=focus)
+    return jsonify(rec)
+
+
+@app.route("/api/generated")
+def api_generated():
+    import generator
+    return jsonify({"styles": generator.STYLES, "items": generator.list_generated()})
+
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", "5000"))
+    print(f"Call Intelligence Portal -> http://127.0.0.1:{port}")
+    app.run(host="127.0.0.1", port=port, debug=False)

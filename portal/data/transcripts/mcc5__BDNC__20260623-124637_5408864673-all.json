@@ -1,0 +1,60 @@
+{
+  "id": "mcc5__BDNC__20260623-124637_5408864673-all",
+  "campaign": "mcc5",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "12:46:37",
+  "phone": "5408864673",
+  "filename": "20260623-124637_5408864673-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-BNDC/20260623-124637_5408864673-all.mp3",
+  "duration": 10.51,
+  "text": "Hello. This is the Valley Mission. So we'll see it right there for now. So go back and Rachel. Hello.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello. This is the Valley Mission."
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "So we'll see it right there for now."
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "So go back and Rachel."
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Hello."
+    }
+  ],
+  "word_count": 20,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is the Valley Mission So we'll see it right there for now So go back and Rachel"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. This is the Valley Mission. So we'll see it right there for now. So go back and Rachel. Hello.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 20
+}

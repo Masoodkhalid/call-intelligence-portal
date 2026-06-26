@@ -1,0 +1,94 @@
+{
+  "id": "mcc3__DNQ__20260623-104304_3868554781-all",
+  "campaign": "mcc3",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "10:43:04",
+  "phone": "3868554781",
+  "filename": "20260623-104304_3868554781-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3DNQ/20260623-104304_3868554781-all.mp3",
+  "duration": 39.17,
+  "text": "Hello, hello, good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So you do have both part A and part B, right? VA case here, Alma. Sorry, you don't seem to qualify for the plans we have. Have a great day. Okay.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Hello, hello, good morning."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "My name is Cassie."
+    },
+    {
+      "start": 7.0,
+      "end": 17.0,
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals."
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "I can verify it real quick."
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": "So you do have both part A and part B, right?"
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "VA case here, Alma."
+    },
+    {
+      "start": 32.0,
+      "end": 36.0,
+      "text": "Sorry, you don't seem to qualify for the plans we have."
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "Have a great day."
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "text": "Okay."
+    }
+  ],
+  "word_count": 76,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, hello, good morning My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick So you do have both part A and part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "VA case here, Alma"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, you don't seem to qualify for the plans we have Have a great day"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Okay"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello, hello, good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So you do have both part A and part B, right? VA case here, Alma. Sorry, you don't seem to qualify for the plans we have. Have a great day. Okay.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 76
+}

@@ -1,0 +1,47 @@
+{
+  "id": "mcc7__DC__20260623-151321_3083253845-all",
+  "campaign": "mcc7",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "15:13:21",
+  "phone": "3083253845",
+  "filename": "20260623-151321_3083253845-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DC/20260623-151321_3083253845-all.mp3",
+  "duration": 16.49,
+  "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nebraska State Relief Project.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.44,
+      "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery"
+    },
+    {
+      "start": 9.44,
+      "end": 15.6,
+      "text": "and cash benefits worth up to $300 available on your Medicare account through Nebraska"
+    },
+    {
+      "start": 15.6,
+      "end": 16.6,
+      "text": "State Relief Project."
+    }
+  ],
+  "word_count": 31,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nebraska State Relief Project"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nebraska State Relief Project.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 31
+}

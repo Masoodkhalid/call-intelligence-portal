@@ -1,0 +1,37 @@
+{
+  "id": "mcc5__N__20260623-140528_6623924727-all",
+  "campaign": "mcc5",
+  "dispo": "N",
+  "dispo_label": "No Response",
+  "date": "2026-06-23",
+  "time": "14:05:28",
+  "phone": "6623924727",
+  "filename": "20260623-140528_6623924727-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-N/20260623-140528_6623924727-all.mp3",
+  "duration": 11.74,
+  "text": "Hello are you there to review?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.44,
+      "text": "Hello are you there to review?"
+    }
+  ],
+  "word_count": 6,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello are you there to review?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello are you there to review?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 6
+}

@@ -1,0 +1,50 @@
+{
+  "id": "mcc5__BDNC__20260623-122742_3043939871-all",
+  "campaign": "mcc5",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "12:27:42",
+  "phone": "3043939871",
+  "filename": "20260623-122742_3043939871-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-BNDC/20260623-122742_3043939871-all.mp3",
+  "duration": 14.33,
+  "text": "Hello? Hello? Let me guess, you're from Medicator. Hello?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello? Hello? Let me guess, you're from Medicator."
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "Hello?"
+    }
+  ],
+  "word_count": 9,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Let me guess, you're from Medicator"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Let me guess, you're from Medicator. Hello?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 9
+}

@@ -1,0 +1,56 @@
+{
+  "id": "mcc11__LH__20260623-161947_6067962892-all",
+  "campaign": "mcc11",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "16:19:47",
+  "phone": "6067962892",
+  "filename": "20260623-161947_6067962892-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-LH/20260623-161947_6067962892-all.mp3",
+  "duration": 22.1,
+  "text": "Oh hello. May I help you? Hi, this is Sarah. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "Oh hello. May I help you?"
+    },
+    {
+      "start": 4.96,
+      "end": 11.04,
+      "text": "Hi, this is Sarah. We pulled up your Medicare profile and there's a note showing your 2026"
+    },
+    {
+      "start": 11.04,
+      "end": 16.16,
+      "text": "update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't"
+    },
+    {
+      "start": 16.16,
+      "end": 27.84,
+      "text": "get interrupted. Do you have both part A and part B?"
+    }
+  ],
+  "word_count": 49,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh hello May I help you?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi, this is Sarah We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both part A and part B?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Oh hello. May I help you? Hi, this is Sarah. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 49
+}

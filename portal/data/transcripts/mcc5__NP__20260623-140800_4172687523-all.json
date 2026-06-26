@@ -1,0 +1,37 @@
+{
+  "id": "mcc5__NP__20260623-140800_4172687523-all",
+  "campaign": "mcc5",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "14:08:00",
+  "phone": "4172687523",
+  "filename": "20260623-140800_4172687523-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NP/20260623-140800_4172687523-all.mp3",
+  "duration": 18.29,
+  "text": "Hello. Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 18.26,
+      "text": "Hello. Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet."
+    }
+  ],
+  "word_count": 26,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 26
+}

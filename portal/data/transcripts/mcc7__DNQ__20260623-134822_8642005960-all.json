@@ -1,0 +1,115 @@
+{
+  "id": "mcc7__DNQ__20260623-134822_8642005960-all",
+  "campaign": "mcc7",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "13:48:22",
+  "phone": "8642005960",
+  "filename": "20260623-134822_8642005960-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DNQ/20260623-134822_8642005960-all.mp3",
+  "duration": 45.79,
+  "text": "- Hello. - Yes. - Good afternoon. My name is Anna. You doing all right? - Yeah. - So, I'm calling to inform you about the new Medicare benefits just released, like capped drug costs, doctor visits, and more. Could you let me know if you have Medicare Part A and B? - No. - Can you hear me? I was just asking if you have Medicare Part A and B. - No. - Unfortunately, you don't seem to qualify for the plans we're offering. Have a wonderful day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "- Hello. - Yes."
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "- Good afternoon. My name is Anna."
+    },
+    {
+      "start": 8.0,
+      "end": 13.0,
+      "text": "You doing all right? - Yeah."
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "- So, I'm calling to inform you about the new Medicare benefits just released,"
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "text": "like capped drug costs, doctor visits, and more."
+    },
+    {
+      "start": 21.0,
+      "end": 25.0,
+      "text": "Could you let me know if you have Medicare Part A and B?"
+    },
+    {
+      "start": 25.0,
+      "end": 31.0,
+      "text": "- No."
+    },
+    {
+      "start": 31.0,
+      "end": 36.0,
+      "text": "- Can you hear me? I was just asking if you have Medicare Part A and B."
+    },
+    {
+      "start": 36.0,
+      "end": 39.0,
+      "text": "- No."
+    },
+    {
+      "start": 39.0,
+      "end": 43.0,
+      "text": "- Unfortunately, you don't seem to qualify for the plans we're offering."
+    },
+    {
+      "start": 43.0,
+      "end": 46.0,
+      "text": "Have a wonderful day."
+    }
+  ],
+  "word_count": 89,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Anna You doing all right? Yeah So, I'm calling to inform you about the new Medicare benefits just released, like capped drug costs, doctor visits, and more Could you let me know if you have Medicare Part A and B? No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I was just asking if you have Medicare Part A and B No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Unfortunately, you don't seem to qualify for the plans we're offering"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Have a wonderful day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "- Hello. - Yes. - Good afternoon. My name is Anna. You doing all right? - Yeah. - So, I'm calling to inform you about the new Medicare benefits just released, like capped drug costs, doctor visits, and more. Could you let me know if you have Medicare Part A and B? - No. - Can you hear me? I was just asking if you have Medicare Part A and B. - No. - Unfortunately, you don't seem to qualify for the plans we're offering. Have a wonderful day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 89
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mcc7__NP__20260623-155639_2053628890-all",
+  "campaign": "mcc7",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "15:56:39",
+  "phone": "2053628890",
+  "filename": "20260623-155639_2053628890-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NP/20260623-155639_2053628890-all.mp3",
+  "duration": 25.34,
+  "text": "Hello. Hello. Good afternoon. My name is Anna. How are you doing today? I'm good. How are you? So how's your day going? I'm doing great. Thanks. I'm calling about the updated Medicare plans. You may now qualify.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": "Hello. Hello. Good afternoon. My name is Anna. How are you doing today? I'm good. How are you?"
+    },
+    {
+      "start": 12.0,
+      "end": 26.0,
+      "text": "So how's your day going? I'm doing great. Thanks. I'm calling about the updated Medicare plans. You may now qualify."
+    }
+  ],
+  "word_count": 38,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Anna How are you doing today? I'm good How are you? So how's your day going? I'm doing great Thanks I'm calling about the updated Medicare plans You may now qualify"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. My name is Anna. How are you doing today? I'm good. How are you? So how's your day going? I'm doing great. Thanks. I'm calling about the updated Medicare plans. You may now qualify.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 38
+}

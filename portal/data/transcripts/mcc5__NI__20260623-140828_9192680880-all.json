@@ -1,0 +1,62 @@
+{
+  "id": "mcc5__NI__20260623-140828_9192680880-all",
+  "campaign": "mcc5",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "14:08:28",
+  "phone": "9192680880",
+  "filename": "20260623-140828_9192680880-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NI/20260623-140828_9192680880-all.mp3",
+  "duration": 37.73,
+  "text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because their pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina state relief program. So have you received any notification about these benefits yet? Yes, so I was asking if you've received the notification about the pending credits on your Medicare plan?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.24,
+      "text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because their"
+    },
+    {
+      "start": 9.24,
+      "end": 13.98,
+      "text": "pending grocery and cash benefits worth up to $300 available on your Medicare"
+    },
+    {
+      "start": 13.98,
+      "end": 18.2,
+      "text": "account through North Carolina state relief program. So have you received any"
+    },
+    {
+      "start": 18.2,
+      "end": 21.84,
+      "text": "notification about these benefits yet?"
+    },
+    {
+      "start": 24.46,
+      "end": 29.2,
+      "text": "Yes, so I was asking if you've received the notification about the pending"
+    },
+    {
+      "start": 29.2,
+      "end": 32.56,
+      "text": "credits on your Medicare plan?"
+    }
+  ],
+  "word_count": 60,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Rachel So I'm calling because their pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina state relief program So have you received any notification about these benefits yet? Yes, so I was asking if you've received the notification about the pending credits on your Medicare plan?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because their pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina state relief program. So have you received any notification about these benefits yet? Yes, so I was asking if you've received the notification about the pending credits on your Medicare plan?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 60
+}

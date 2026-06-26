@@ -1,0 +1,66 @@
+{
+  "id": "mcc11__A__20260623-154706_4343745410-all",
+  "campaign": "mcc11",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "15:47:06",
+  "phone": "4343745410",
+  "filename": "20260623-154706_4343745410-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-A/20260623-154706_4343745410-all.mp3",
+  "duration": 13.75,
+  "text": "Hello. Sorry we missed your call, but if you leave your name and number, the message will try to get back to you just as soon as possible. We hope you're having a great day. Thanks again. Bye bye now.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 7.34,
+      "text": "Sorry we missed your call, but if you leave your name and number, the message will try"
+    },
+    {
+      "start": 7.34,
+      "end": 9.92,
+      "text": "to get back to you just as soon as possible."
+    },
+    {
+      "start": 9.92,
+      "end": 11.52,
+      "text": "We hope you're having a great day."
+    },
+    {
+      "start": 11.52,
+      "end": 12.52,
+      "text": "Thanks again."
+    },
+    {
+      "start": 12.52,
+      "end": 13.02,
+      "text": "Bye bye now."
+    }
+  ],
+  "word_count": 40,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Sorry we missed your call, but if you leave your name and number, the message will try to get back to you just as soon as possible We hope you're having a great day Thanks again Bye bye now"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Sorry we missed your call, but if you leave your name and number, the message will try to get back to you just as soon as possible. We hope you're having a great day. Thanks again. Bye bye now.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 40
+}

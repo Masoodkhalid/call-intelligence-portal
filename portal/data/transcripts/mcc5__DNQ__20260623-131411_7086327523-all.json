@@ -1,0 +1,74 @@
+{
+  "id": "mcc5__DNQ__20260623-131411_7086327523-all",
+  "campaign": "mcc5",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "13:14:11",
+  "phone": "7086327523",
+  "filename": "20260623-131411_7086327523-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DNQ/20260623-131411_7086327523-all.mp3",
+  "duration": 23.18,
+  "text": "Hello. How can I help you? Hello. Good afternoon. This is Rachel. So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So have you received any notification about these benefits yet? No, because I don't have Medicare.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello."
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "How can I help you?"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "Hello. Good afternoon. This is Rachel."
+    },
+    {
+      "start": 9.0,
+      "end": 17.0,
+      "text": "So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program."
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "text": "So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "No, because I don't have Medicare."
+    }
+  ],
+  "word_count": 52,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "How can I help you?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello Good afternoon This is Rachel So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, because I don't have Medicare"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. How can I help you? Hello. Good afternoon. This is Rachel. So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So have you received any notification about these benefits yet? No, because I don't have Medicare.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 52
+}

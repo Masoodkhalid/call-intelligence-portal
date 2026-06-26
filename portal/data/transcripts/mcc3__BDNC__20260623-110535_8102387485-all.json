@@ -1,0 +1,117 @@
+{
+  "id": "mcc3__BDNC__20260623-110535_8102387485-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "11:05:35",
+  "phone": "8102387485",
+  "filename": "20260623-110535_8102387485-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-110535_8102387485-all.mp3",
+  "duration": 51.91,
+  "text": "Hello. How can I help you? Hi, good morning. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. So have you received any notification about these benefits yet? Scam. Oh, no, no. This is not a scam. We actually sent you a notification about it as well. I just want to help you get these benefits processed. You're covered under both Part A and Part B, right? Scam. Oh, no, that's certainly not true. Yeah, you are on Part A and Part B of Medicare, aren't you? This is a business.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Hello. How can I help you?"
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "Hi, good morning. This is Evelyn."
+    },
+    {
+      "start": 8.0,
+      "end": 17.0,
+      "text": "So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program."
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "Scam."
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": "Oh, no, no. This is not a scam."
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": "We actually sent you a notification about it as well."
+    },
+    {
+      "start": 29.0,
+      "end": 32.0,
+      "text": "I just want to help you get these benefits processed."
+    },
+    {
+      "start": 32.0,
+      "end": 35.0,
+      "text": "You're covered under both Part A and Part B, right?"
+    },
+    {
+      "start": 35.0,
+      "end": 39.0,
+      "text": "Scam."
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": "Oh, no, that's certainly not true."
+    },
+    {
+      "start": 42.0,
+      "end": 46.0,
+      "text": "Yeah, you are on Part A and Part B of Medicare, aren't you?"
+    },
+    {
+      "start": 46.0,
+      "end": 49.0,
+      "text": "This is a business."
+    }
+  ],
+  "word_count": 110,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "How can I help you?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi, good morning This is Evelyn So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Scam Oh, no, no This is not a scam We actually sent you a notification about it as well"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I just want to help you get these benefits processed You're covered under both Part A and Part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Scam Oh, no, that's certainly not true Yeah, you are on Part A and Part B of Medicare, aren't you? This is a business"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. How can I help you? Hi, good morning. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. So have you received any notification about these benefits yet? Scam. Oh, no, no. This is not a scam. We actually sent you a notification about it as well. I just want to help you get these benefits processed. You're covered under both Part A and Part B, right? Scam. Oh, no, that's certainly not true. Yeah, you are on Part A and Part B of Medicare, aren't you? This is a business.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 110
+}

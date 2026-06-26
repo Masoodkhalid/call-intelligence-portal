@@ -1,0 +1,61 @@
+{
+  "id": "mcc5__DC__20260623-133927_9153015543-all",
+  "campaign": "mcc5",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "13:39:27",
+  "phone": "9153015543",
+  "filename": "20260623-133927_9153015543-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DC/20260623-133927_9153015543-all.mp3",
+  "duration": 36.5,
+  "text": "Hello? Are you there? Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So you do have both Part A and Part B, right? Unified my agent is working on it right now. So thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.34,
+      "text": "Hello? Are you there? Good morning. My name is Cassie. So I'm calling because your Medicare"
+    },
+    {
+      "start": 12.34,
+      "end": 19.7,
+      "text": "member profile hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 19.7,
+      "end": 25.42,
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals. I can verify"
+    },
+    {
+      "start": 25.42,
+      "end": 32.22,
+      "text": "it real quick. So you do have both Part A and Part B, right? Unified my agent is working"
+    },
+    {
+      "start": 32.22,
+      "end": 35.46,
+      "text": "on it right now. So thank you."
+    }
+  ],
+  "word_count": 70,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there? Good morning My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick So you do have both Part A and Part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Unified my agent is working on it right now So thank you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there? Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So you do have both Part A and Part B, right? Unified my agent is working on it right now. So thank you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 70
+}

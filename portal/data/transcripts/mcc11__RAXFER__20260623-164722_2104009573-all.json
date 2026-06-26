@@ -1,0 +1,137 @@
+{
+  "id": "mcc11__RAXFER__20260623-164722_2104009573-all",
+  "campaign": "mcc11",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "16:47:22",
+  "phone": "2104009573",
+  "filename": "20260623-164722_2104009573-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-RAXFER/20260623-164722_2104009573-all.mp3",
+  "duration": 68.26,
+  "text": "Hello. Yes. Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B? Yes. Perfect. Let me connect you with the Medicare specialist from Texas. Thanks for holding. This is Daniel. How are you doing today? Doing fine. Thank you. You're most welcome best. This call is in regards to inquiry about Medicare benefits and savings options. Do you have Medicare part A and B? Yes. And how old are you? 83 years old. I wish you a good bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Yes."
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Hi, this is Chelsea."
+    },
+    {
+      "start": 5.0,
+      "end": 13.0,
+      "text": "We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet."
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "We just need a quick confirmation so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "Do you have both part A and part B?"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Yes."
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "Perfect."
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": "Let me connect you with the Medicare specialist from Texas."
+    },
+    {
+      "start": 29.0,
+      "end": 34.0,
+      "text": "Thanks for holding."
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "text": "This is Daniel."
+    },
+    {
+      "start": 35.0,
+      "end": 37.0,
+      "text": "How are you doing today?"
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "text": "Doing fine."
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "text": "Thank you."
+    },
+    {
+      "start": 39.0,
+      "end": 41.0,
+      "text": "You're most welcome best."
+    },
+    {
+      "start": 41.0,
+      "end": 45.0,
+      "text": "This call is in regards to inquiry about Medicare benefits and savings options."
+    },
+    {
+      "start": 45.0,
+      "end": 48.0,
+      "text": "Do you have Medicare part A and B?"
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "text": "Yes."
+    },
+    {
+      "start": 49.0,
+      "end": 52.0,
+      "text": "And how old are you?"
+    },
+    {
+      "start": 52.0,
+      "end": 65.0,
+      "text": "83 years old."
+    },
+    {
+      "start": 65.0,
+      "end": 66.6,
+      "text": "I wish you a good bye."
+    }
+  ],
+  "word_count": 112,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Yes Hi, this is Chelsea We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both part A and part B? Yes Perfect Let me connect you with the Medicare specialist from Texas Thanks for holding"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Yes Hi, this is Chelsea We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both part A and part B? Yes Perfect Let me connect you with the Medicare specialist from Texas Thanks for holding",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 60
+}

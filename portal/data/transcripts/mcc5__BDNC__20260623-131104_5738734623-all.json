@@ -1,0 +1,61 @@
+{
+  "id": "mcc5__BDNC__20260623-131104_5738734623-all",
+  "campaign": "mcc5",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "13:11:04",
+  "phone": "5738734623",
+  "filename": "20260623-131104_5738734623-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-BNDC/20260623-131104_5738734623-all.mp3",
+  "duration": 11.95,
+  "text": "Hello. These are happy. No. You forgot my coffee. >> [INAUDIBLE]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "These are happy."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "No."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "You forgot my coffee."
+    },
+    {
+      "start": 8.0,
+      "end": 18.0,
+      "text": ">> [INAUDIBLE]"
+    }
+  ],
+  "word_count": 11,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "These are happy No You forgot my coffee [INAUDIBLE]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. These are happy. No. You forgot my coffee. >> [INAUDIBLE]",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 11
+}

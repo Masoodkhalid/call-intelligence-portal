@@ -1,0 +1,70 @@
+{
+  "id": "mcc7__A__20260623-141012_7027420899-all",
+  "campaign": "mcc7",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "14:10:12",
+  "phone": "7027420899",
+  "filename": "20260623-141012_7027420899-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-A/20260623-141012_7027420899-all.mp3",
+  "duration": 19.66,
+  "text": "Hello? Can you hear me? We record or add to your message, press 1. To mark your message urgent, press 2. To mark your message private, press 3. to send your message as is.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "We record or add to your message, press 1."
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "To mark your message urgent, press 2."
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "To mark your message private, press 3."
+    },
+    {
+      "start": 17.0,
+      "end": 19.2,
+      "text": "to send your message as is."
+    }
+  ],
+  "word_count": 34,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "We record or add to your message, press 1"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To mark your message urgent, press 2 To mark your message private, press 3 to send your message as is"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Can you hear me? We record or add to your message, press 1. To mark your message urgent, press 2. To mark your message private, press 3. to send your message as is.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 34
+}

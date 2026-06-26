@@ -1,0 +1,51 @@
+{
+  "id": "mcc7__LH__20260623-150623_6093968983-all",
+  "campaign": "mcc7",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "15:06:23",
+  "phone": "6093968983",
+  "filename": "20260623-150623_6093968983-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-LH/20260623-150623_6093968983-all.mp3",
+  "duration": 33.77,
+  "text": "Hello? Hello? Good afternoon. My name is Sophie. You doing okay? Yeah, you doing all right? Yeah. I'm doing good. Thanks for asking. I'm excited to chat about how we can enhance your Medicare coverage and maximize your benefits for the 2026 Special Enrollment. To kick things off, you currently have both Part A and B of Medicare.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.0,
+      "text": "Hello? Hello? Good afternoon. My name is Sophie. You doing okay? Yeah, you doing all right? Yeah. I'm doing good. Thanks for asking."
+    },
+    {
+      "start": 14.0,
+      "end": 22.0,
+      "text": "I'm excited to chat about how we can enhance your Medicare coverage and maximize your benefits for the 2026 Special Enrollment."
+    },
+    {
+      "start": 22.0,
+      "end": 29.0,
+      "text": "To kick things off, you currently have both Part A and B of Medicare."
+    }
+  ],
+  "word_count": 58,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good afternoon My name is Sophie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You doing okay? Yeah, you doing all right? Yeah I'm doing good Thanks for asking I'm excited to chat about how we can enhance your Medicare coverage and maximize your benefits for the 2026 Special Enrollment To kick things off, you currently have both Part A and B of Medicare"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Good afternoon. My name is Sophie. You doing okay? Yeah, you doing all right? Yeah. I'm doing good. Thanks for asking. I'm excited to chat about how we can enhance your Medicare coverage and maximize your benefits for the 2026 Special Enrollment. To kick things off, you currently have both Part A and B of Medicare.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 58
+}

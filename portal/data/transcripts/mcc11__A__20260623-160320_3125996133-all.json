@@ -1,0 +1,69 @@
+{
+  "id": "mcc11__A__20260623-160320_3125996133-all",
+  "campaign": "mcc11",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "16:03:20",
+  "phone": "3125996133",
+  "filename": "20260623-160320_3125996133-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-A/20260623-160320_3125996133-all.mp3",
+  "duration": 15.7,
+  "text": "Hello? Is not available. Are you there? Your message after the tone. After you have finished your message.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 10.0,
+      "text": "Is not available."
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Your message after the tone."
+    },
+    {
+      "start": 13.0,
+      "end": 16.0,
+      "text": "After you have finished your message."
+    }
+  ],
+  "word_count": 18,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Is not available"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Your message after the tone After you have finished your message"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Is not available. Are you there? Your message after the tone. After you have finished your message.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 18
+}

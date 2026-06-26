@@ -1,0 +1,100 @@
+{
+  "id": "mcc5__DNQ__20260623-134250_3125996281-all",
+  "campaign": "mcc5",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "13:42:50",
+  "phone": "3125996281",
+  "filename": "20260623-134250_3125996281-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DNQ/20260623-134250_3125996281-all.mp3",
+  "duration": 42.05,
+  "text": "Hello. Hello. Yes. Hello. Good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So far, have you received any updates or notifications about this yet? No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both part A and part B, yes? No. Sorry, but you did not seem to qualify for the plans that we have. Have a great day. Oh, you too.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.08,
+      "text": "Hello. Hello. Yes. Hello. Good afternoon. This is Rachel."
+    },
+    {
+      "start": 7.52,
+      "end": 12.4,
+      "text": "So I'm calling because there are pending grocery and cash benefits worth up to $300"
+    },
+    {
+      "start": 12.4,
+      "end": 15.84,
+      "text": "available on your Medicare account through Illinois State Relief Program."
+    },
+    {
+      "start": 15.84,
+      "end": 20.56,
+      "text": "So far, have you received any updates or notifications about this yet? No."
+    },
+    {
+      "start": 21.6,
+      "end": 25.84,
+      "text": "Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits"
+    },
+    {
+      "start": 25.84,
+      "end": 31.04,
+      "text": "processed before they go unclaimed. You're covered under both part A and part B, yes?"
+    },
+    {
+      "start": 32.48,
+      "end": 38.32,
+      "text": "No. Sorry, but you did not seem to qualify for the plans that we have."
+    },
+    {
+      "start": 39.12,
+      "end": 41.76,
+      "text": "Have a great day. Oh, you too."
+    }
+  ],
+  "word_count": 101,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello Good afternoon This is Rachel So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you did not seem to qualify for the plans that we have Have a great day"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, you too"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello. Hello. Yes. Hello. Good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So far, have you received any updates or notifications about this yet? No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both part A and part B, yes? No. Sorry, but you did not seem to qualify for the plans that we have. Have a great day. Oh, you too.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 101
+}

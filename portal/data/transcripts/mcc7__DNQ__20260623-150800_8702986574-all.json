@@ -1,0 +1,75 @@
+{
+  "id": "mcc7__DNQ__20260623-150800_8702986574-all",
+  "campaign": "mcc7",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "15:08:00",
+  "phone": "8702986574",
+  "filename": "20260623-150800_8702986574-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DNQ/20260623-150800_8702986574-all.mp3",
+  "duration": 32.47,
+  "text": "Hello? Hello? Good afternoon, this is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arkansas State Relief Program. So, have you received any notification about these benefits yet? I don't have medicine. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello? Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Good afternoon, this is Jacob."
+    },
+    {
+      "start": 7.0,
+      "end": 18.0,
+      "text": "So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arkansas State Relief Program."
+    },
+    {
+      "start": 18.0,
+      "end": 24.0,
+      "text": "So, have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": "I don't have medicine."
+    },
+    {
+      "start": 28.0,
+      "end": 31.68,
+      "text": "Sorry, but you don't seem to qualify for the plans that we have."
+    },
+    {
+      "start": 31.68,
+      "end": 32.4,
+      "text": "Have a great day."
+    }
+  ],
+  "word_count": 63,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good afternoon, this is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arkansas State Relief Program So, have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I don't have medicine"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you don't seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello? Hello? Good afternoon, this is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arkansas State Relief Program. So, have you received any notification about these benefits yet? I don't have medicine. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 63
+}

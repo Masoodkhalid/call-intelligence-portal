@@ -1,0 +1,37 @@
+{
+  "id": "mcc11__DC__20260623-163121_8174284290-all",
+  "campaign": "mcc11",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "16:31:21",
+  "phone": "8174284290",
+  "filename": "20260623-163121_8174284290-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DC/20260623-163121_8174284290-all.mp3",
+  "duration": 13.25,
+  "text": "Hello.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    }
+  ],
+  "word_count": 1,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 1
+}

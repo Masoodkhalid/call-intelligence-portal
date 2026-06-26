@@ -1,0 +1,127 @@
+{
+  "id": "mcc7__RAXFER__20260623-160709_2037058291-all",
+  "campaign": "mcc7",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "16:07:09",
+  "phone": "2037058291",
+  "filename": "20260623-160709_2037058291-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-raxfer/20260623-160709_2037058291-all.mp3",
+  "duration": 129.67,
+  "text": "\"Hello?\" \"Yes.\" \"Good evening. My name is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Connecticut State Relief Program. So have you been notified about these benefits yet?\" \"No, I haven't.\" \"Oh, that's all right. That's exactly why I'm calling. And I want to help you get these benefits processed before they go unclaimed. You're covered under Part A and Part B, yes?\" \"Yes.\" \"Perfect. You qualify for the benefits.\" \"I'm forwarding you to our supervisor. Please hold on.\" \"Okay.\" \"Thank you so much for holding this suggestion with Medicare benefits. How are you doing today?\" \"Hi.\" \"Good to hear that. I'll just call this any guard to worry about your Medicare benefits. Just to come from that, you do have Medicare A and B both?\" \"Yes.\" \"Okay, so it's a almost special enrollment here, so we're just going to make sure that you're getting maximum benefits for entitled to, like the food card and more dental vision that you can qualify. So how old are you? What's your age?\" \"My age, 80 years old and three months.\" \"Okay, and you do make your own decisions about your health in the age of 80, or you have any power of the turning, like somebody else make the health care decisions for you.\" \"No.\" \"Okay, and are you getting any kind of health insurance right now? Through your previous employment, any union or retirement, VA or dry care for life?\" \"Yes.\" \"No.\" \"Any kind of secondary insurance you have, like Humana, United Health Care, ECMA, or any kind that you have?\" \"No.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.46,
+      "text": "\"Hello?\" \"Yes.\" \"Good evening. My name is Jacob. So I'm calling because there are pending"
+    },
+    {
+      "start": 10.46,
+      "end": 16.56,
+      "text": "grocery and cash benefits worth up to $300 available on your Medicare account through"
+    },
+    {
+      "start": 16.56,
+      "end": 22.74,
+      "text": "Connecticut State Relief Program. So have you been notified about these benefits yet?\""
+    },
+    {
+      "start": 22.74,
+      "end": 29.82,
+      "text": "\"No, I haven't.\" \"Oh, that's all right. That's exactly why I'm calling. And I want"
+    },
+    {
+      "start": 29.82,
+      "end": 33.88,
+      "text": "to help you get these benefits processed before they go unclaimed. You're covered"
+    },
+    {
+      "start": 33.88,
+      "end": 42.84,
+      "text": "under Part A and Part B, yes?\" \"Yes.\" \"Perfect. You qualify for the benefits.\" \"I'm"
+    },
+    {
+      "start": 42.84,
+      "end": 51.66,
+      "text": "forwarding you to our supervisor. Please hold on.\" \"Okay.\" \"Thank you so much for holding"
+    },
+    {
+      "start": 51.66,
+      "end": 60.7,
+      "text": "this suggestion with Medicare benefits. How are you doing today?\" \"Hi.\" \"Good to"
+    },
+    {
+      "start": 60.7,
+      "end": 65.68,
+      "text": "hear that. I'll just call this any guard to worry about your Medicare benefits. Just"
+    },
+    {
+      "start": 65.68,
+      "end": 73.24,
+      "text": "to come from that, you do have Medicare A and B both?\" \"Yes.\" \"Okay, so it's a"
+    },
+    {
+      "start": 73.24,
+      "end": 77.04,
+      "text": "almost special enrollment here, so we're just going to make sure that you're"
+    },
+    {
+      "start": 77.04,
+      "end": 82.2,
+      "text": "getting maximum benefits for entitled to, like the food card and more dental"
+    },
+    {
+      "start": 82.2,
+      "end": 90.0,
+      "text": "vision that you can qualify. So how old are you? What's your age?\" \"My age, 80 years"
+    },
+    {
+      "start": 90.0,
+      "end": 96.4,
+      "text": "old and three months.\" \"Okay, and you do make your own decisions about your health"
+    },
+    {
+      "start": 96.4,
+      "end": 101.8,
+      "text": "in the age of 80, or you have any power of the turning, like somebody else make the"
+    },
+    {
+      "start": 101.8,
+      "end": 108.28,
+      "text": "health care decisions for you.\" \"No.\" \"Okay, and are you getting any kind of health"
+    },
+    {
+      "start": 108.28,
+      "end": 114.18,
+      "text": "insurance right now? Through your previous employment, any union or retirement, VA or"
+    },
+    {
+      "start": 114.18,
+      "end": 120.68,
+      "text": "dry care for life?\" \"Yes.\" \"No.\" \"Any kind of secondary insurance you have, like"
+    },
+    {
+      "start": 120.68,
+      "end": 132.56,
+      "text": "Humana, United Health Care, ECMA, or any kind that you have?\" \"No.\""
+    }
+  ],
+  "word_count": 275,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello?\" \"Yes.\" \"Good evening My name is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Connecticut State Relief Program So have you been notified about these benefits yet?\" \"No, I haven't.\" \"Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under Part A and Part B, yes?\" \"Yes.\" \"Perfect You qualify for the benefits.\" \"I'm forwarding you to our supervisor Please hold on.\" \"Okay.\" \"Thank you so much for holding this suggestion with Medicare benefits How are you doing today?\" \"Hi.\" \"Good to hear that"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Yes.\" \"Good evening My name is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Connecticut State Relief Program So have you been notified about these benefits yet?\" \"No, I haven't.\" \"Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under Part A and Part B, yes?\" \"Yes.\" \"Perfect You qualify for the benefits.\" \"I'm forwarding you to our supervisor Please hold on.\" \"Okay.\" \"Thank you so much for holding this suggestion with Medicare benefits How are you doing today?\" \"Hi.\" \"Good to hear that",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 115
+}

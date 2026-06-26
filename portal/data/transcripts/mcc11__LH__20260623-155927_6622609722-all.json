@@ -1,0 +1,54 @@
+{
+  "id": "mcc11__LH__20260623-155927_6622609722-all",
+  "campaign": "mcc11",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "15:59:27",
+  "phone": "6622609722",
+  "filename": "20260623-155927_6622609722-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-LH/20260623-155927_6622609722-all.mp3",
+  "duration": 17.57,
+  "text": "Hello? Hello? Hello? Hey, Chris here. Good morning. Hello? How's life treating you today? So, how's your day going? I need an air conditioner. And it's hot.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": "Hello? Hello? Hello? Hey, Chris here. Good morning. Hello? How's life treating you today?"
+    },
+    {
+      "start": 9.0,
+      "end": 18.0,
+      "text": "So, how's your day going? I need an air conditioner. And it's hot."
+    }
+  ],
+  "word_count": 27,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey, Chris here"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "How's life treating you today? So, how's your day going? I need an air conditioner And it's hot"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Hello? Hey, Chris here. Good morning. Hello? How's life treating you today? So, how's your day going? I need an air conditioner. And it's hot.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 27
+}

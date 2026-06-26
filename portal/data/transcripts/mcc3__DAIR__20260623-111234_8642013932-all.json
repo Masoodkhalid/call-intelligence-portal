@@ -1,0 +1,37 @@
+{
+  "id": "mcc3__DAIR__20260623-111234_8642013932-all",
+  "campaign": "mcc3",
+  "dispo": "DAIR",
+  "dispo_label": "Dead Air",
+  "date": "2026-06-23",
+  "time": "11:12:34",
+  "phone": "8642013932",
+  "filename": "20260623-111234_8642013932-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-deadair/20260623-111234_8642013932-all.mp3",
+  "duration": 0.14,
+  "text": "You",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "You"
+    }
+  ],
+  "word_count": 1,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "You"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "You",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 1
+}

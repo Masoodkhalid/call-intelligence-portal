@@ -1,0 +1,42 @@
+{
+  "id": "mcc11__NP__20260623-164459_8287366346-all",
+  "campaign": "mcc11",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "16:44:59",
+  "phone": "8287366346",
+  "filename": "20260623-164459_8287366346-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NP/20260623-164459_8287366346-all.mp3",
+  "duration": 13.68,
+  "text": "Hello? Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 5.0,
+      "end": 14.0,
+      "text": "Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet."
+    }
+  ],
+  "word_count": 23,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hi, this is Chelsea We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 23
+}

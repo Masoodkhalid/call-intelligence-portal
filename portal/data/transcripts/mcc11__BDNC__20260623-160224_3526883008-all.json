@@ -1,0 +1,50 @@
+{
+  "id": "mcc11__BDNC__20260623-160224_3526883008-all",
+  "campaign": "mcc11",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "16:02:24",
+  "phone": "3526883008",
+  "filename": "20260623-160224_3526883008-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-BDNC/20260623-160224_3526883008-all.mp3",
+  "duration": 12.6,
+  "text": "Hello. Hey, this is Amrita. Duest. Hello. Hello.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.64,
+      "text": "Hello. Hey, this is Amrita. Duest. Hello."
+    },
+    {
+      "start": 9.76,
+      "end": 12.4,
+      "text": "Hello."
+    }
+  ],
+  "word_count": 8,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hey, this is Amrita"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Duest"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hey, this is Amrita. Duest. Hello. Hello.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 8
+}

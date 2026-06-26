@@ -1,0 +1,72 @@
+{
+  "id": "mcc11__NI__20260623-164254_9362120989-all",
+  "campaign": "mcc11",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "16:42:54",
+  "phone": "9362120989",
+  "filename": "20260623-164254_9362120989-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NI/20260623-164254_9362120989-all.mp3",
+  "duration": 32.76,
+  "text": "Hello. Are you there? Hello. Good afternoon. This is Evelyn. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So have you been notified about these benefits yet? So I was asking if you received the notification about the pending credits on your Medicare plan.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello."
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Hello."
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "This is Evelyn."
+    },
+    {
+      "start": 13.0,
+      "end": 23.0,
+      "text": "So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program."
+    },
+    {
+      "start": 23.0,
+      "end": 28.0,
+      "text": "So have you been notified about these benefits yet?"
+    },
+    {
+      "start": 28.0,
+      "end": 32.7,
+      "text": "So I was asking if you received the notification about the pending credits on your Medicare plan."
+    }
+  ],
+  "word_count": 60,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Are you there? Hello Good afternoon This is Evelyn So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So have you been notified about these benefits yet? So I was asking if you received the notification about the pending credits on your Medicare plan"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Are you there? Hello. Good afternoon. This is Evelyn. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So have you been notified about these benefits yet? So I was asking if you received the notification about the pending credits on your Medicare plan.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 60
+}

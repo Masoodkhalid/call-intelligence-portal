@@ -1,0 +1,146 @@
+{
+  "id": "mcc11__RAXFER__20260623-160158_9738619652-all",
+  "campaign": "mcc11",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "16:01:58",
+  "phone": "9738619652",
+  "filename": "20260623-160158_9738619652-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-RAXFER/20260623-160158_9738619652-all.mp3",
+  "duration": 59.98,
+  "text": "Hello. Hello. Okay. Good evening. This is Evelyn. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program. So, have you been notified about these benefits yet? Okay. Well, it's really important that you know what you're entitled to and I want to help you get these benefits sorted out. You're on both Part A and Part B, I assume. So, you do have both Part A and Part B of Medicare, right? Yeah. Perfect. You qualify for the benefits. I am forwarding you to our supervisor. Please hold on. I thank you so much for holding on the line. My name is Alex Murphy. How are you doing, Trudy? Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Okay."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Good evening."
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "This is Evelyn."
+    },
+    {
+      "start": 5.0,
+      "end": 12.64,
+      "text": "So, I'm calling because there are pending grocery and cash benefits worth up to $300"
+    },
+    {
+      "start": 12.64,
+      "end": 16.52,
+      "text": "available on your Medicare account through New Jersey State Relief Program."
+    },
+    {
+      "start": 16.52,
+      "end": 19.68,
+      "text": "So, have you been notified about these benefits yet?"
+    },
+    {
+      "start": 19.68,
+      "end": 20.68,
+      "text": "Okay."
+    },
+    {
+      "start": 20.68,
+      "end": 25.52,
+      "text": "Well, it's really important that you know what you're entitled to and I want to help you"
+    },
+    {
+      "start": 25.52,
+      "end": 28.0,
+      "text": "get these benefits sorted out."
+    },
+    {
+      "start": 28.0,
+      "end": 31.4,
+      "text": "You're on both Part A and Part B, I assume."
+    },
+    {
+      "start": 31.4,
+      "end": 35.8,
+      "text": "So, you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "start": 35.8,
+      "end": 36.8,
+      "text": "Yeah."
+    },
+    {
+      "start": 36.8,
+      "end": 37.8,
+      "text": "Perfect."
+    },
+    {
+      "start": 37.8,
+      "end": 38.8,
+      "text": "You qualify for the benefits."
+    },
+    {
+      "start": 38.8,
+      "end": 41.12,
+      "text": "I am forwarding you to our supervisor."
+    },
+    {
+      "start": 41.12,
+      "end": 44.3,
+      "text": "Please hold on."
+    },
+    {
+      "start": 44.3,
+      "end": 50.3,
+      "text": "I thank you so much for holding on the line."
+    },
+    {
+      "start": 50.3,
+      "end": 51.4,
+      "text": "My name is Alex Murphy."
+    },
+    {
+      "start": 51.4,
+      "end": 53.2,
+      "text": "How are you doing, Trudy?"
+    },
+    {
+      "start": 53.2,
+      "end": 60.2,
+      "text": "Thank you."
+    }
+  ],
+  "word_count": 128,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Okay Good evening This is Evelyn So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program So, have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Okay Well, it's really important that you know what you're entitled to and I want to help you get these benefits sorted out You're on both Part A and Part B, I assume So, you do have both Part A and Part B of Medicare, right? Yeah Perfect You qualify for the benefits I am forwarding you to our supervisor Please hold on I thank you so much for holding on the line"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Hello Okay Good evening This is Evelyn So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program So, have you been notified about these benefits yet? Okay Well, it's really important that you know what you're entitled to and I want to help you get these benefits sorted out You're on both Part A and Part B, I assume So, you do have both Part A and Part B of Medicare, right? Yeah Perfect You qualify for the benefits I am forwarding you to our supervisor Please hold on I thank you so much for holding on the line",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 116
+}

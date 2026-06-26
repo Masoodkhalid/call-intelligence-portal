@@ -1,0 +1,139 @@
+{
+  "id": "mcc3__DC__20260623-115133_6185625902-all",
+  "campaign": "mcc3",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "11:51:33",
+  "phone": "6185625902",
+  "filename": "20260623-115133_6185625902-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-DC/20260623-115133_6185625902-all.mp3",
+  "duration": 38.95,
+  "text": "- Hello. - What's so important? Medicaid? - Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2020. - I do not have Medicare. - When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So you do have both part A and part B, right? - How many times have I got to tell you guys? No, I don't. - Sorry, we don't need to qualify for the plans. - No, sure, sure. - We have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "- Hello. - What's so important?"
+    },
+    {
+      "start": 2.72,
+      "end": 3.56,
+      "text": "Medicaid?"
+    },
+    {
+      "start": 5.52,
+      "end": 6.52,
+      "text": "- Good morning."
+    },
+    {
+      "start": 6.52,
+      "end": 7.96,
+      "text": "My name is Cassie."
+    },
+    {
+      "start": 9.16,
+      "end": 12.8,
+      "text": "So I'm calling because your Medicare member profile"
+    },
+    {
+      "start": 12.8,
+      "end": 16.04,
+      "text": "hasn't been transferred into Medicare's national database"
+    },
+    {
+      "start": 16.04,
+      "end": 18.8,
+      "text": "for 2020. - I do not have Medicare."
+    },
+    {
+      "start": 18.8,
+      "end": 20.56,
+      "text": "- When that transfer is missing,"
+    },
+    {
+      "start": 20.56,
+      "end": 23.96,
+      "text": "it can cause delays in your coverage approvals."
+    },
+    {
+      "start": 23.96,
+      "end": 25.52,
+      "text": "I can verify it real quick."
+    },
+    {
+      "start": 25.52,
+      "end": 28.8,
+      "text": "So you do have both part A and part B, right?"
+    },
+    {
+      "start": 29.8,
+      "end": 31.24,
+      "text": "- How many times have I got to tell you guys?"
+    },
+    {
+      "start": 31.24,
+      "end": 32.08,
+      "text": "No, I don't."
+    },
+    {
+      "start": 34.56,
+      "end": 37.12,
+      "text": "- Sorry, we don't need to qualify for the plans."
+    },
+    {
+      "start": 37.12,
+      "end": 39.16,
+      "text": "- No, sure, sure. - We have a great day."
+    }
+  ],
+  "word_count": 102,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "What's so important? Medicaid?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2020"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I do not have Medicare"
+    },
+    {
+      "speaker": "BOT",
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick So you do have both part A and part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "How many times have I got to tell you guys? No, I don't"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, we don't need to qualify for the plans"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, sure, sure"
+    },
+    {
+      "speaker": "BOT",
+      "text": "We have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "- Hello. - What's so important? Medicaid? - Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2020. - I do not have Medicare. - When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So you do have both part A and part B, right? - How many times have I got to tell you guys? No, I don't. - Sorry, we don't need to qualify for the plans. - No, sure, sure. - We have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 102
+}

@@ -1,0 +1,51 @@
+{
+  "id": "mcc7__NP__20260623-153142_5073818905-all",
+  "campaign": "mcc7",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "15:31:42",
+  "phone": "5073818905",
+  "filename": "20260623-153142_5073818905-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NP/20260623-153142_5073818905-all.mp3",
+  "duration": 20.95,
+  "text": "Hello? Hello? Good afternoon. My name is Sophie. You doing okay? Fine. That's great. My goal is to help you fully optimize your Medicare benefits during the 2026 Special Enrollment.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Hello? Hello? Good afternoon. My name is Sophie. You doing okay?"
+    },
+    {
+      "start": 8.0,
+      "end": 18.0,
+      "text": "Fine. That's great. My goal is to help you fully optimize your Medicare benefits during"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "the 2026 Special Enrollment."
+    }
+  ],
+  "word_count": 30,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good afternoon My name is Sophie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You doing okay? Fine That's great My goal is to help you fully optimize your Medicare benefits during the 2026 Special Enrollment"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Good afternoon. My name is Sophie. You doing okay? Fine. That's great. My goal is to help you fully optimize your Medicare benefits during the 2026 Special Enrollment.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 30
+}

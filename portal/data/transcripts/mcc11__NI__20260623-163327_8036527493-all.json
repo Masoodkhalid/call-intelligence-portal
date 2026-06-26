@@ -1,0 +1,47 @@
+{
+  "id": "mcc11__NI__20260623-163327_8036527493-all",
+  "campaign": "mcc11",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "16:33:27",
+  "phone": "8036527493",
+  "filename": "20260623-163327_8036527493-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NI/20260623-163327_8036527493-all.mp3",
+  "duration": 42.05,
+  "text": "Good evening. My name is Jacob. I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief program. So have you received any notification about these benefits yet? Yes, so I was asking if you received the notification about the pending credits on your Medicare plan.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 20.0,
+      "text": "Good evening. My name is Jacob. I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief program."
+    },
+    {
+      "start": 20.0,
+      "end": 26.0,
+      "text": "So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 29.0,
+      "end": 36.0,
+      "text": "Yes, so I was asking if you received the notification about the pending credits on your Medicare plan."
+    }
+  ],
+  "word_count": 58,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Good evening My name is Jacob I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief program So have you received any notification about these benefits yet? Yes, so I was asking if you received the notification about the pending credits on your Medicare plan"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Good evening. My name is Jacob. I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief program. So have you received any notification about these benefits yet? Yes, so I was asking if you received the notification about the pending credits on your Medicare plan.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 58
+}

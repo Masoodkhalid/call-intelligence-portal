@@ -1,0 +1,95 @@
+{
+  "id": "mcc11__NI__20260623-162236_5039540499-all",
+  "campaign": "mcc11",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "16:22:36",
+  "phone": "5039540499",
+  "filename": "20260623-162236_5039540499-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NI/20260623-162236_5039540499-all.mp3",
+  "duration": 48.38,
+  "text": "Hello. Yeah. Hello, good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Oregon State Relief Program. So have you been notified about these benefits yet? Yes. Oh, okay, great. So the notification has all the details and I just want to help you get everything processed. You're enrolled in both Part A and Part B, aren't you? Mm-hmm. So you do have both Part A and Part B of Medicare, right? Mm-hmm. Let's talk about this some other time. Thanks.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.12,
+      "text": "Hello. Yeah. Hello, good afternoon. This is Alyssa. I'm calling because there are"
+    },
+    {
+      "start": 8.12,
+      "end": 13.08,
+      "text": "pending grocery and cash benefits worth up to $300 available on your Medicare"
+    },
+    {
+      "start": 13.08,
+      "end": 18.24,
+      "text": "account through Oregon State Relief Program. So have you been notified about"
+    },
+    {
+      "start": 18.24,
+      "end": 26.6,
+      "text": "these benefits yet? Yes. Oh, okay, great. So the notification has all the details"
+    },
+    {
+      "start": 26.6,
+      "end": 30.62,
+      "text": "and I just want to help you get everything processed. You're enrolled in"
+    },
+    {
+      "start": 30.62,
+      "end": 39.24,
+      "text": "both Part A and Part B, aren't you? Mm-hmm. So you do have both Part A and Part B of"
+    },
+    {
+      "start": 39.24,
+      "end": 46.24,
+      "text": "Medicare, right? Mm-hmm. Let's talk about this some other time. Thanks."
+    }
+  ],
+  "word_count": 96,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello, good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Oregon State Relief Program So have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes Oh, okay, great So the notification has all the details and I just want to help you get everything processed"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're enrolled in both Part A and Part B, aren't you?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Mm-hmm"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Mm-hmm Let's talk about this some other time Thanks"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Yeah. Hello, good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Oregon State Relief Program. So have you been notified about these benefits yet? Yes. Oh, okay, great. So the notification has all the details and I just want to help you get everything processed. You're enrolled in both Part A and Part B, aren't you? Mm-hmm. So you do have both Part A and Part B of Medicare, right? Mm-hmm. Let's talk about this some other time. Thanks.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 96
+}

@@ -1,0 +1,62 @@
+{
+  "id": "mcc7__LH__20260623-144654_2536610618-all",
+  "campaign": "mcc7",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "14:46:54",
+  "phone": "2536610618",
+  "filename": "20260623-144654_2536610618-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-LH/20260623-144654_2536610618-all.mp3",
+  "duration": 35.5,
+  "text": "\"Hello?\" \"Hello?\" \"Good morning. My name is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Washington State Relief Program. So, have you been notified about these benefits yet? \"Yeah, and we actually sent you a notification about the pending credits on your Medicare account. I just want to help you get these benefits processed. You're on both part A and part B, right?\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.88,
+      "text": "\"Hello?\" \"Hello?\" \"Good morning. My name is Jacob. So, I'm calling because there are"
+    },
+    {
+      "start": 8.88,
+      "end": 15.24,
+      "text": "pending grocery and cash benefits worth up to $300 available on your Medicare account"
+    },
+    {
+      "start": 15.24,
+      "end": 20.52,
+      "text": "through Washington State Relief Program. So, have you been notified about these benefits"
+    },
+    {
+      "start": 20.52,
+      "end": 27.44,
+      "text": "yet? \"Yeah, and we actually sent you a notification about the pending credits on your Medicare"
+    },
+    {
+      "start": 27.44,
+      "end": 32.6,
+      "text": "account. I just want to help you get these benefits processed. You're on both part A and"
+    },
+    {
+      "start": 32.6,
+      "end": 33.56,
+      "text": "part B, right?\""
+    }
+  ],
+  "word_count": 77,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "\"Hello?\" \"Hello?\" \"Good morning My name is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Washington State Relief Program So, have you been notified about these benefits yet? \"Yeah, and we actually sent you a notification about the pending credits on your Medicare account I just want to help you get these benefits processed You're on both part A and part B, right?\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Hello?\" \"Good morning. My name is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Washington State Relief Program. So, have you been notified about these benefits yet? \"Yeah, and we actually sent you a notification about the pending credits on your Medicare account. I just want to help you get these benefits processed. You're on both part A and part B, right?\"",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 77
+}

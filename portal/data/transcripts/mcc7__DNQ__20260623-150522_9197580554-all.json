@@ -1,0 +1,113 @@
+{
+  "id": "mcc7__DNQ__20260623-150522_9197580554-all",
+  "campaign": "mcc7",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "15:05:22",
+  "phone": "9197580554",
+  "filename": "20260623-150522_9197580554-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DNQ/20260623-150522_9197580554-all.mp3",
+  "duration": 45.5,
+  "text": "- Hello? - Hello? - Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program. So far, have you received any updates or notifications about this yet? - Yes. - Oh, okay, great. So the notification has all the details and I just want to help you get everything processed. You're enrolled in both Part A and Part B, aren't you? - No. - Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "- Hello? - Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "- Good afternoon. This is Jacob."
+    },
+    {
+      "start": 6.0,
+      "end": 11.0,
+      "text": "So I'm calling because there are pending grocery and cash benefits"
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": "worth up to $300 available on your Medicare account"
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": "through North Carolina State Relief Program."
+    },
+    {
+      "start": 18.0,
+      "end": 23.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": "- Yes."
+    },
+    {
+      "start": 26.0,
+      "end": 30.0,
+      "text": "- Oh, okay, great. So the notification has all the details"
+    },
+    {
+      "start": 30.0,
+      "end": 33.0,
+      "text": "and I just want to help you get everything processed."
+    },
+    {
+      "start": 33.0,
+      "end": 37.0,
+      "text": "You're enrolled in both Part A and Part B, aren't you?"
+    },
+    {
+      "start": 37.0,
+      "end": 39.0,
+      "text": "- No."
+    },
+    {
+      "start": 39.0,
+      "end": 43.0,
+      "text": "- Sorry, but you don't seem to qualify for the plans that we have."
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": "Have a great day."
+    }
+  ],
+  "word_count": 102,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good afternoon This is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes Oh, okay, great So the notification has all the details and I just want to help you get everything processed"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're enrolled in both Part A and Part B, aren't you?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you don't seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "- Hello? - Hello? - Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program. So far, have you received any updates or notifications about this yet? - Yes. - Oh, okay, great. So the notification has all the details and I just want to help you get everything processed. You're enrolled in both Part A and Part B, aren't you? - No. - Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 102
+}

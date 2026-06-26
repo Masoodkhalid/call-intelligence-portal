@@ -1,0 +1,89 @@
+{
+  "id": "mcc5__NP__20260623-141613_9706586108-all",
+  "campaign": "mcc5",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "14:16:13",
+  "phone": "9706586108",
+  "filename": "20260623-141613_9706586108-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NP/20260623-141613_9706586108-all.mp3",
+  "duration": 28.58,
+  "text": "Hello? Are you there? We want. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approvals. So to get your friends.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.48,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.48,
+      "end": 9.24,
+      "text": "Are you there?"
+    },
+    {
+      "start": 9.24,
+      "end": 11.56,
+      "text": "We want."
+    },
+    {
+      "start": 11.56,
+      "end": 12.56,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 12.56,
+      "end": 15.5,
+      "text": "My name is Cassie."
+    },
+    {
+      "start": 15.5,
+      "end": 20.42,
+      "text": "So I'm calling because your Medicare member profile is showing it hasn't been transferred"
+    },
+    {
+      "start": 20.42,
+      "end": 24.76,
+      "text": "into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 24.76,
+      "end": 27.72,
+      "text": "And that can delay your coverage approvals."
+    },
+    {
+      "start": 27.72,
+      "end": 28.72,
+      "text": "So to get your friends."
+    }
+  ],
+  "word_count": 45,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "We want"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon My name is Cassie So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage approvals"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So to get your friends"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there? We want. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approvals. So to get your friends.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 45
+}

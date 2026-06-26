@@ -1,0 +1,89 @@
+{
+  "id": "mcc11__NI__20260623-164630_3618085095-all",
+  "campaign": "mcc11",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "16:46:30",
+  "phone": "3618085095",
+  "filename": "20260623-164630_3618085095-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NI/20260623-164630_3618085095-all.mp3",
+  "duration": 71.35,
+  "text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas state relief program. So have you received any notification about these benefits yet? Well, I really want to help you get this taken care of as these benefits are time sensitive. So you do have Medicare Part A and B, right? Can you hear me? I was just asking if you have Medicare Part A and Part B. So if you could give me a few minutes of yours, I want to tell you about the new benefits that have been introduced with the special enrollment 2026. You can get benefits like food cards and cash back rewards up to $300. It will only take a minute if you'll talk to me.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.36,
+      "text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because there are pending grocery"
+    },
+    {
+      "start": 7.36,
+      "end": 12.4,
+      "text": "and cash benefits worth up to $300 available on your Medicare account through Texas state"
+    },
+    {
+      "start": 12.4,
+      "end": 16.32,
+      "text": "relief program. So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 19.76,
+      "end": 24.16,
+      "text": "Well, I really want to help you get this taken care of as these benefits are time sensitive."
+    },
+    {
+      "start": 25.28,
+      "end": 28.4,
+      "text": "So you do have Medicare Part A and B, right?"
+    },
+    {
+      "start": 30.32,
+      "end": 38.0,
+      "text": "Can you hear me? I was just asking if you have Medicare Part A and Part B."
+    },
+    {
+      "start": 42.88,
+      "end": 47.2,
+      "text": "So if you could give me a few minutes of yours, I want to tell you about the new benefits that"
+    },
+    {
+      "start": 47.2,
+      "end": 54.08,
+      "text": "have been introduced with the special enrollment 2026. You can get benefits like food cards and"
+    },
+    {
+      "start": 54.08,
+      "end": 71.12,
+      "text": "cash back rewards up to $300. It will only take a minute if you'll talk to me."
+    }
+  ],
+  "word_count": 141,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Rachel So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas state relief program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Well, I really want to help you get this taken care of as these benefits are time sensitive"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you do have Medicare Part A and B, right? Can you hear me? I was just asking if you have Medicare Part A and Part B"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So if you could give me a few minutes of yours, I want to tell you about the new benefits that have been introduced with the special enrollment 2026 You can get benefits like food cards and cash back rewards up to $300 It will only take a minute if you'll talk to me"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas state relief program. So have you received any notification about these benefits yet? Well, I really want to help you get this taken care of as these benefits are time sensitive. So you do have Medicare Part A and B, right? Can you hear me? I was just asking if you have Medicare Part A and Part B. So if you could give me a few minutes of yours, I want to tell you about the new benefits that have been introduced with the special enrollment 2026. You can get benefits like food cards and cash back rewards up to $300. It will only take a minute if you'll talk to me.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 141
+}

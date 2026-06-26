@@ -1,0 +1,103 @@
+{
+  "id": "mcc7__NI__20260623-151213_7049014493-all",
+  "campaign": "mcc7",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "15:12:13",
+  "phone": "7049014493",
+  "filename": "20260623-151213_7049014493-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NI/20260623-151213_7049014493-all.mp3",
+  "duration": 32.04,
+  "text": "Hello. Hello. Hello. Are you there? Oh, I'm not scamming you at all. I'm actually calling because there may be pending grocery and cash benefits worth up to $300 available on your Medicare account through your state's relief program. And I genuinely just want to help you get those sorted out. You're on both Part A and B, aren't you? Can you hear me? I was just asking if you have Medicare Part A and Part B.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Hello."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 4.0,
+      "end": 9.6,
+      "text": "Oh, I'm not scamming you at all."
+    },
+    {
+      "start": 9.6,
+      "end": 14.12,
+      "text": "I'm actually calling because there may be pending grocery and cash benefits worth up"
+    },
+    {
+      "start": 14.12,
+      "end": 20.1,
+      "text": "to $300 available on your Medicare account through your state's relief program."
+    },
+    {
+      "start": 20.1,
+      "end": 23.56,
+      "text": "And I genuinely just want to help you get those sorted out."
+    },
+    {
+      "start": 23.56,
+      "end": 26.16,
+      "text": "You're on both Part A and B, aren't you?"
+    },
+    {
+      "start": 26.16,
+      "end": 27.16,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 27.16,
+      "end": 31.2,
+      "text": "I was just asking if you have Medicare Part A and Part B."
+    }
+  ],
+  "word_count": 77,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hello Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, I'm not scamming you at all"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm actually calling because there may be pending grocery and cash benefits worth up to $300 available on your Medicare account through your state's relief program"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "And I genuinely just want to help you get those sorted out"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're on both Part A and B, aren't you? Can you hear me? I was just asking if you have Medicare Part A and Part B"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Hello. Are you there? Oh, I'm not scamming you at all. I'm actually calling because there may be pending grocery and cash benefits worth up to $300 available on your Medicare account through your state's relief program. And I genuinely just want to help you get those sorted out. You're on both Part A and B, aren't you? Can you hear me? I was just asking if you have Medicare Part A and Part B.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 77
+}

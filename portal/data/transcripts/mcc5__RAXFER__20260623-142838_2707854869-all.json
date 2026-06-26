@@ -1,0 +1,62 @@
+{
+  "id": "mcc5__RAXFER__20260623-142838_2707854869-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:28:38",
+  "phone": "2707854869",
+  "filename": "20260623-142838_2707854869-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-142838_2707854869-all.mp3",
+  "duration": 58.03,
+  "text": "\"Hello?\" \"Hello.\" \"Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals. So, you do have both Part A and Part B, right?\" \"Try.\" \"Hey, are you still there?\" \"I was just asking, you do have both Part A and Part B of Medicare, right?\" \"Yes, I do.\" \"You do qualify, forwarding you to our supervisor now. Please hold.\" \"Thank you so much for holding on. Can you hear me?\" \"Hello?\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.36,
+      "text": "\"Hello?\" \"Hello.\" \"Good afternoon. My name is Cassie. So, I'm calling because your Medicare"
+    },
+    {
+      "start": 10.36,
+      "end": 16.8,
+      "text": "member profile hasn't been transferred into Medicare's national database for 2026 yet,"
+    },
+    {
+      "start": 16.8,
+      "end": 23.44,
+      "text": "and that can hold up your coverage approvals. So, you do have both Part A and Part B, right?\""
+    },
+    {
+      "start": 23.44,
+      "end": 36.2,
+      "text": "\"Try.\" \"Hey, are you still there?\" \"I was just asking, you do have both Part A and Part B of Medicare, right?\""
+    },
+    {
+      "start": 36.2,
+      "end": 43.88,
+      "text": "\"Yes, I do.\" \"You do qualify, forwarding you to our supervisor now. Please hold.\""
+    },
+    {
+      "start": 43.88,
+      "end": 55.56,
+      "text": "\"Thank you so much for holding on. Can you hear me?\" \"Hello?\""
+    }
+  ],
+  "word_count": 93,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello?\" \"Hello.\" \"Good afternoon My name is Cassie So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals So, you do have both Part A and Part B, right?\" \"Try.\" \"Hey, are you still there?\" \"I was just asking, you do have both Part A and Part B of Medicare, right?\" \"Yes, I do.\" \"You do qualify, forwarding you to our supervisor now Please hold.\" \"Thank you so much for holding on Can you hear me?\" \"Hello?\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Hello.\" \"Good afternoon My name is Cassie So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals So, you do have both Part A and Part B, right?\" \"Try.\" \"Hey, are you still there?\" \"I was just asking, you do have both Part A and Part B of Medicare, right?\" \"Yes, I do.\" \"You do qualify, forwarding you to our supervisor now Please hold.\" \"Thank you so much for holding on Can you hear me?\" \"Hello?\"",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 93
+}

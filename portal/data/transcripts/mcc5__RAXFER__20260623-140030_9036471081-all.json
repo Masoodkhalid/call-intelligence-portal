@@ -1,0 +1,157 @@
+{
+  "id": "mcc5__RAXFER__20260623-140030_9036471081-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:00:30",
+  "phone": "9036471081",
+  "filename": "20260623-140030_9036471081-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-140030_9036471081-all.mp3",
+  "duration": 100.3,
+  "text": "Hello. Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick, so you do have both part A and part B, right? I'm going to let you talk with my wife over this. She takes care of all that. No problem. So what's your age? '69. Got it. Please hold while I connect you to the advisor. What's your name? It's our holding, my name is Danny. How are you doing? Good. Well, this call is about your Medicare benefits. Do you have Medicare A and B? Yes. Yes. So my job is very simple, making sure that you get everything that you are entitled to. The coverage on all the dental, eyeglasses, hair rank, money for free.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 4.12,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 4.12,
+      "end": 6.96,
+      "text": "My name is Cassie."
+    },
+    {
+      "start": 6.96,
+      "end": 12.44,
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's"
+    },
+    {
+      "start": 12.44,
+      "end": 16.56,
+      "text": "national database for 2026 yet."
+    },
+    {
+      "start": 16.56,
+      "end": 21.6,
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals."
+    },
+    {
+      "start": 21.6,
+      "end": 27.64,
+      "text": "I can verify it real quick, so you do have both part A and part B, right?"
+    },
+    {
+      "start": 27.64,
+      "end": 30.16,
+      "text": "I'm going to let you talk with my wife over this."
+    },
+    {
+      "start": 30.16,
+      "end": 33.96,
+      "text": "She takes care of all that."
+    },
+    {
+      "start": 33.96,
+      "end": 34.96,
+      "text": "No problem."
+    },
+    {
+      "start": 34.96,
+      "end": 39.48,
+      "text": "So what's your age?"
+    },
+    {
+      "start": 39.48,
+      "end": 42.44,
+      "text": "'69."
+    },
+    {
+      "start": 42.44,
+      "end": 43.44,
+      "text": "Got it."
+    },
+    {
+      "start": 43.44,
+      "end": 45.64,
+      "text": "Please hold while I connect you to the advisor."
+    },
+    {
+      "start": 45.64,
+      "end": 61.56,
+      "text": "What's your name?"
+    },
+    {
+      "start": 61.56,
+      "end": 78.24,
+      "text": "It's our holding, my name is Danny."
+    },
+    {
+      "start": 78.24,
+      "end": 80.36,
+      "text": "How are you doing?"
+    },
+    {
+      "start": 80.36,
+      "end": 81.36,
+      "text": "Good."
+    },
+    {
+      "start": 81.36,
+      "end": 84.92,
+      "text": "Well, this call is about your Medicare benefits."
+    },
+    {
+      "start": 84.92,
+      "end": 88.92,
+      "text": "Do you have Medicare A and B?"
+    },
+    {
+      "start": 88.92,
+      "end": 89.92,
+      "text": "Yes."
+    },
+    {
+      "start": 89.92,
+      "end": 90.92,
+      "text": "Yes."
+    },
+    {
+      "start": 90.92,
+      "end": 96.24,
+      "text": "So my job is very simple, making sure that you get everything that you are entitled to."
+    },
+    {
+      "start": 96.24,
+      "end": 100.24,
+      "text": "The coverage on all the dental, eyeglasses, hair rank, money for free."
+    }
+  ],
+  "word_count": 152,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Hello Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick, so you do have both part A and part B, right? I'm going to let you talk with my wife over this She takes care of all that No problem So what's your age? '69 Got it Please hold while I connect you to the advisor What's your name?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Hello Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick, so you do have both part A and part B, right? I'm going to let you talk with my wife over this She takes care of all that No problem So what's your age? '69 Got it Please hold while I connect you to the advisor What's your name?",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 94
+}

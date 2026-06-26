@@ -1,0 +1,47 @@
+{
+  "id": "mcc7__DC__20260623-150727_5129051354-all",
+  "campaign": "mcc7",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "15:07:27",
+  "phone": "5129051354",
+  "filename": "20260623-150727_5129051354-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DC/20260623-150727_5129051354-all.mp3",
+  "duration": 16.63,
+  "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.6,
+      "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling"
+    },
+    {
+      "start": 9.6,
+      "end": 15.02,
+      "text": "because there are pending grocery and cash benefits worth up to $300 available on your"
+    },
+    {
+      "start": 15.02,
+      "end": 16.56,
+      "text": "Medicare account through"
+    }
+  ],
+  "word_count": 27,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 27
+}

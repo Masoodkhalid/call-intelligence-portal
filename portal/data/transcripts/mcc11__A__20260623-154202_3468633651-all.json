@@ -1,0 +1,55 @@
+{
+  "id": "mcc11__A__20260623-154202_3468633651-all",
+  "campaign": "mcc11",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "15:42:02",
+  "phone": "3468633651",
+  "filename": "20260623-154202_3468633651-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-A/20260623-154202_3468633651-all.mp3",
+  "duration": 10.08,
+  "text": "Hello. At the tell-and-please record your message. When you've finished recording you may hang up or press 1 for more options.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": "At the tell-and-please record your message."
+    },
+    {
+      "start": 3.0,
+      "end": 7.0,
+      "text": "When you've finished recording you may hang up or press 1 for more options."
+    }
+  ],
+  "word_count": 21,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "At the tell-and-please record your message"
+    },
+    {
+      "speaker": "BOT",
+      "text": "When you've finished recording you may hang up or press 1 for more options"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. At the tell-and-please record your message. When you've finished recording you may hang up or press 1 for more options.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 21
+}

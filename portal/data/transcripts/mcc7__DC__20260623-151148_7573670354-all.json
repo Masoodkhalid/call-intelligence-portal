@@ -1,0 +1,88 @@
+{
+  "id": "mcc7__DC__20260623-151148_7573670354-all",
+  "campaign": "mcc7",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "15:11:48",
+  "phone": "7573670354",
+  "filename": "20260623-151148_7573670354-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DC/20260623-151148_7573670354-all.mp3",
+  "duration": 49.68,
+  "text": "Hello? Hello? Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Virginia State Relief Program. So far, have you received any updates or notifications about this yet? Yes. So, I was asking if you received the notification about the pending credits on your Medicare plan. Oh, okay, great. So, the notification has all the details, and I just want to help you get everything processed. You're enrolled in both Part A and Part B, aren't you?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Good afternoon. This is Jacob."
+    },
+    {
+      "start": 7.0,
+      "end": 19.0,
+      "text": "So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Virginia State Relief Program."
+    },
+    {
+      "start": 19.0,
+      "end": 29.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 29.0,
+      "end": 38.0,
+      "text": "Yes. So, I was asking if you received the notification about the pending credits on your Medicare plan."
+    },
+    {
+      "start": 38.0,
+      "end": 44.0,
+      "text": "Oh, okay, great. So, the notification has all the details, and I just want to help you get everything processed."
+    },
+    {
+      "start": 44.0,
+      "end": 49.0,
+      "text": "You're enrolled in both Part A and Part B, aren't you?"
+    }
+  ],
+  "word_count": 93,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Virginia State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So, I was asking if you received the notification about the pending credits on your Medicare plan"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, okay, great So, the notification has all the details, and I just want to help you get everything processed"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're enrolled in both Part A and Part B, aren't you?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Virginia State Relief Program. So far, have you received any updates or notifications about this yet? Yes. So, I was asking if you received the notification about the pending credits on your Medicare plan. Oh, okay, great. So, the notification has all the details, and I just want to help you get everything processed. You're enrolled in both Part A and Part B, aren't you?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 93
+}

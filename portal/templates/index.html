@@ -1,0 +1,410 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Call Intelligence Portal</title>
+<style>
+  :root{
+    --bg:#0e1117; --panel:#171c26; --panel2:#1f2632; --line:#2b3442;
+    --text:#e6edf3; --muted:#8b97a8; --accent:#4f9cf9; --good:#3fb950;
+    --bad:#f85149; --warn:#d29922; --bot:#1f6feb; --cust:#8957e5;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+       background:var(--bg);color:var(--text)}
+  header{display:flex;align-items:center;gap:16px;padding:14px 22px;
+         background:var(--panel);border-bottom:1px solid var(--line)}
+  header h1{font-size:17px;margin:0;font-weight:600}
+  header .pill{font-size:12px;color:var(--muted)}
+  nav{display:flex;gap:6px;padding:10px 18px;background:var(--panel);
+      border-bottom:1px solid var(--line);position:sticky;top:0;z-index:5}
+  nav button{background:transparent;border:1px solid transparent;color:var(--muted);
+    padding:7px 14px;border-radius:8px;cursor:pointer;font-size:13px}
+  nav button.active{background:var(--panel2);color:var(--text);border-color:var(--line)}
+  main{padding:22px;max-width:1180px;margin:0 auto}
+  .grid{display:grid;gap:14px}
+  .cards{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px}
+  .kpi{font-size:28px;font-weight:700}
+  .kpi.good{color:var(--good)} .kpi.accent{color:var(--accent)}
+  .label{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.04em}
+  h2{font-size:15px;margin:26px 0 12px;font-weight:600}
+  table{width:100%;border-collapse:collapse}
+  th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);font-size:13px}
+  th{color:var(--muted);font-weight:600}
+  .bar{height:9px;border-radius:5px;background:var(--panel2);overflow:hidden}
+  .bar>i{display:block;height:100%;background:var(--accent)}
+  .tag{display:inline-block;padding:2px 8px;border-radius:20px;font-size:11px;
+       background:var(--panel2);border:1px solid var(--line);color:var(--muted)}
+  .tag.win{color:var(--good);border-color:var(--good)}
+  select,input{background:var(--panel2);color:var(--text);border:1px solid var(--line);
+    border-radius:8px;padding:8px 10px;font-size:13px}
+  .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:14px}
+  .callrow{cursor:pointer} .callrow:hover{background:var(--panel2)}
+  .funnel-step{margin:6px 0}
+  .funnel-step .top{display:flex;justify-content:space-between;font-size:12px;margin-bottom:3px}
+  .turn{margin:6px 0;display:flex;gap:8px}
+  .turn .who{font-size:11px;font-weight:700;min-width:74px;padding-top:2px}
+  .turn.BOT .who{color:var(--bot)} .turn.CUSTOMER .who{color:var(--cust)}
+  .turn .txt{background:var(--panel2);border:1px solid var(--line);border-radius:8px;
+    padding:7px 10px;flex:1}
+  .turn.BOT .txt{border-left:3px solid var(--bot)}
+  .turn.CUSTOMER .txt{border-left:3px solid var(--cust)}
+  pre{white-space:pre-wrap;background:var(--panel2);border:1px solid var(--line);
+    border-radius:10px;padding:14px;font:13px/1.6 ui-monospace,Menlo,monospace}
+  .muted{color:var(--muted)}
+  .modal{position:fixed;inset:0;background:rgba(0,0,0,.6);display:none;
+    align-items:center;justify-content:center;z-index:20}
+  .modal.open{display:flex}
+  .modal .box{background:var(--panel);border:1px solid var(--line);border-radius:14px;
+    width:min(760px,92vw);max-height:86vh;overflow:auto;padding:20px}
+  .x{float:right;cursor:pointer;color:var(--muted);font-size:20px}
+  audio{width:100%;margin:10px 0}
+  .chip{padding:3px 9px;border-radius:7px;background:var(--panel2);border:1px solid var(--line);
+    font-size:12px;margin:2px;display:inline-block}
+</style>
+</head>
+<body>
+<header>
+  <h1>📞 Call Intelligence Portal</h1>
+  <span class="pill" id="hdr-stat">loading…</span>
+</header>
+<nav>
+  <button data-tab="dashboard" class="active">Dashboard</button>
+  <button data-tab="transcripts">Transcripts</button>
+  <button data-tab="detected">Scripts Detected</button>
+  <button data-tab="flows">Flow Maps</button>
+  <button data-tab="scripts">Recovery Scripts</button>
+  <button data-tab="generator">✨ Script Generator</button>
+</nav>
+<main>
+  <section id="dashboard"></section>
+  <section id="transcripts" hidden></section>
+  <section id="detected" hidden></section>
+  <section id="flows" hidden></section>
+  <section id="scripts" hidden></section>
+  <section id="generator" hidden></section>
+</main>
+
+<div class="modal" id="modal"><div class="box">
+  <span class="x" onclick="closeModal()">✕</span>
+  <div id="modal-body"></div>
+</div></div>
+
+<script>
+const $ = s => document.querySelector(s);
+const api = p => fetch(p).then(r=>r.json());
+let SUMMARY=null, FLOWS=null;
+
+document.querySelectorAll('nav button').forEach(b=>{
+  b.onclick=()=>{
+    document.querySelectorAll('nav button').forEach(x=>x.classList.remove('active'));
+    b.classList.add('active');
+    ['dashboard','transcripts','detected','flows','scripts','generator']
+      .forEach(t=>$('#'+t).hidden=(t!==b.dataset.tab));
+    if(b.dataset.tab==='transcripts') loadTranscripts();
+    if(b.dataset.tab==='detected') renderDetected();
+    if(b.dataset.tab==='flows') renderFlows();
+    if(b.dataset.tab==='scripts') renderScripts();
+    if(b.dataset.tab==='generator') renderGenerator();
+  };
+});
+
+function pct(n){return (n||0).toFixed(1)+'%';}
+
+async function boot(){
+  SUMMARY = await api('/api/summary');
+  FLOWS = await api('/api/flows');
+  $('#hdr-stat').textContent =
+    `${SUMMARY.total_calls||0} calls · ${SUMMARY.transfers||0} transfers · ${pct(SUMMARY.transfer_rate)} transfer rate`;
+  renderDashboard();
+}
+
+function renderDashboard(){
+  const s=SUMMARY;
+  const dc=s.dispo_counts||{}, dl=s.dispo_labels||{};
+  const sorted=Object.entries(dc).sort((a,b)=>b[1]-a[1]);
+  const max=Math.max(1,...sorted.map(x=>x[1]));
+  let camps='';
+  for(const [c,st] of Object.entries(s.campaigns||{})){
+    camps+=`<tr><td><b>${c}</b></td><td>${st.count}</td><td>${st.wins}</td>
+      <td><span class="tag win">${pct(st.transfer_rate)}</span></td></tr>`;
+  }
+  let rows='';
+  for(const [d,n] of sorted){
+    const isWin=FLOWS[d]&&FLOWS[d].is_win;
+    rows+=`<tr><td><span class="tag ${isWin?'win':''}">${d}</span> ${dl[d]||''}</td>
+      <td>${n}</td><td style="width:45%"><div class="bar"><i style="width:${100*n/max}%;background:${isWin?'var(--good)':'var(--accent)'}"></i></div></td></tr>`;
+  }
+  $('#dashboard').innerHTML=`
+    <div class="grid cards">
+      <div class="card"><div class="label">Total Calls</div><div class="kpi">${s.total_calls||0}</div></div>
+      <div class="card"><div class="label">Transfers (wins)</div><div class="kpi good">${s.transfers||0}</div></div>
+      <div class="card"><div class="label">Transfer Rate</div><div class="kpi accent">${pct(s.transfer_rate)}</div></div>
+      <div class="card"><div class="label">Avg Duration</div><div class="kpi">${s.avg_duration||0}s</div></div>
+    </div>
+    <h2>Dispositions</h2>
+    <div class="card"><table><thead><tr><th>Disposition</th><th>Calls</th><th></th></tr></thead><tbody>${rows}</tbody></table></div>
+    <h2>By Campaign</h2>
+    <div class="card"><table><thead><tr><th>Campaign</th><th>Calls</th><th>Transfers</th><th>Rate</th></tr></thead><tbody>${camps}</tbody></table></div>`;
+}
+
+// ---- Transcripts -----------------------------------------------------------
+function dispoOptions(){
+  return Object.keys(SUMMARY.dispo_labels||{}).sort()
+    .map(d=>`<option value="${d}">${d} — ${SUMMARY.dispo_labels[d]}</option>`).join('');
+}
+function campOptions(){
+  return Object.keys(SUMMARY.campaigns||{}).sort()
+    .map(c=>`<option value="${c}">${c}</option>`).join('');
+}
+async function loadTranscripts(){
+  if(!$('#tx-controls')){
+    $('#transcripts').innerHTML=`
+      <div class="row" id="tx-controls">
+        <select id="f-camp"><option value="">All campaigns</option>${campOptions()}</select>
+        <select id="f-dispo"><option value="">All dispositions</option>${dispoOptions()}</select>
+        <input id="f-q" placeholder="search transcript text…" style="flex:1;min-width:200px">
+        <button onclick="loadTranscripts()" class="chip">Search</button>
+      </div>
+      <div class="card" id="tx-list">loading…</div>`;
+    $('#f-q').addEventListener('keydown',e=>{if(e.key==='Enter')loadTranscripts();});
+  }
+  const camp=$('#f-camp').value, dispo=$('#f-dispo').value, q=$('#f-q').value;
+  const d=await api(`/api/calls?campaign=${camp}&dispo=${dispo}&q=${encodeURIComponent(q)}`);
+  let rows=d.calls.map(c=>`<tr class="callrow" onclick="openCall('${c.id}')">
+    <td>${c.date} ${c.time}</td><td>${c.campaign}</td>
+    <td><span class="tag ${FLOWS[c.dispo]&&FLOWS[c.dispo].is_win?'win':''}">${c.dispo}</span></td>
+    <td>${c.phone}</td><td>${c.duration}s</td>
+    <td class="muted">${c.preview||''}…</td></tr>`).join('');
+  $('#tx-list').innerHTML=`<div class="muted" style="margin-bottom:8px">${d.count} calls</div>
+    <table><thead><tr><th>When</th><th>Campaign</th><th>Dispo</th><th>Phone</th><th>Dur</th><th>Preview</th></tr></thead>
+    <tbody>${rows||'<tr><td colspan=6 class=muted>no matches</td></tr>'}</tbody></table>`;
+}
+async function openCall(cid){
+  const t=await api('/api/call/'+cid);
+  let turns=(t.turns||[]).map(x=>`<div class="turn ${x.speaker}">
+    <div class="who">${x.speaker==='BOT'?'🤖 BOT':'🧑 CUST'}</div>
+    <div class="txt">${x.text}</div></div>`).join('') ||
+    `<pre>${t.text||'(no speech detected)'}</pre>`;
+  $('#modal-body').innerHTML=`
+    <h2 style="margin-top:0">${t.campaign} · <span class="tag">${t.dispo}</span> ${t.dispo_label}</h2>
+    <div class="muted">${t.date} ${t.time} · ${t.phone} · ${t.duration}s</div>
+    <audio controls src="/api/audio/${cid}"></audio>
+    <div>${turns}</div>`;
+  $('#modal').classList.add('open');
+}
+function closeModal(){$('#modal').classList.remove('open');}
+$('#modal').addEventListener('click',e=>{if(e.target.id==='modal')closeModal();});
+
+// ---- Scripts Detected ------------------------------------------------------
+const ROLE_COLORS = {
+  IDENTIFY:   {bg:'#1f3a5f', border:'#4f9cf9', label:'🤖 IDENTIFY'},
+  PITCH:      {bg:'#2a1f5f', border:'#8957e5', label:'📣 PITCH'},
+  QUALIFY:    {bg:'#1f4a2a', border:'#3fb950', label:'✅ QUALIFY (Part A & B)'},
+  TRANSFER:   {bg:'#1f3a30', border:'#39d353', label:'🔄 TRANSFER'},
+  DISQUALIFY: {bg:'#4a1f1f', border:'#f85149', label:'❌ DISQUALIFY'},
+};
+const ROLE_ORDER = ['IDENTIFY','PITCH','QUALIFY','TRANSFER','DISQUALIFY'];
+
+function buildScriptHTML(full_script){
+  if(!full_script||!full_script.length) return '<span class="muted">No script lines recovered</span>';
+  // group by role in canonical order
+  const byRole={};
+  for(const ln of full_script){
+    if(!byRole[ln.role]) byRole[ln.role]=[];
+    byRole[ln.role].push(ln);
+  }
+  let html='';
+  for(const role of ROLE_ORDER){
+    if(!byRole[role]) continue;
+    const {bg,border,label}=ROLE_COLORS[role]||{bg:'#1e2430',border:'#4f9cf9',label:role};
+    html+=`<div style="margin:10px 0;background:${bg};border-left:4px solid ${border};
+      border-radius:0 8px 8px 0;padding:10px 14px">
+      <div style="font-size:11px;font-weight:700;color:${border};letter-spacing:.06em;
+        margin-bottom:6px">${label}</div>`;
+    for(const ln of byRole[role]){
+      html+=`<div style="margin:5px 0;display:flex;gap:10px;align-items:flex-start">
+        <span style="font-size:11px;color:#8b97a8;min-width:44px;padding-top:2px">${ln.pct}%</span>
+        <span style="font-size:13px;line-height:1.5">"${ln.line}"</span></div>`;
+    }
+    html+='</div>';
+  }
+  return html;
+}
+
+async function renderDetected(){
+  $('#detected').innerHTML='<div class="card">analysing…</div>';
+  const d=await api('/api/scripts_detected');
+  const s=d.scripts||[];
+  let html=`<div class="grid cards" style="margin-bottom:16px">
+    <div class="card"><div class="label">Distinct Scripts Detected</div>
+      <div class="kpi accent">${d.count||0}</div></div></div>
+    <p class="muted" style="margin:0 0 14px">Agent name, state, year and $ are treated as variables.
+    Percentage = share of that script's calls where the line appeared. Only pitch-relevant lines shown.</p>`;
+  for(const sc of s){
+    if(sc.calls<2) continue;
+    const names=(sc.agent_names||[]).map(x=>`<span class="chip">${x[0]} ×${x[1]}</span>`).join('')||'<span class=muted>—</span>';
+    const states=(sc.states||[]).slice(0,10).map(x=>`<span class="chip">${x[0]} ×${x[1]}</span>`).join('')||'<span class=muted>—</span>';
+    const dispos=(sc.dispo_breakdown||[]).map(([d,n])=>{
+      const win=d==='RAXFER';
+      return `<span class="chip${win?' win':''}">${d}: ${n}</span>`;
+    }).join('');
+    html+=`<div class="card" style="margin-bottom:18px">
+      <div class="row" style="margin:0 0 10px;flex-wrap:wrap;gap:8px">
+        <h2 style="margin:0">Script ${sc.id}</h2>
+        <span class="chip">${sc.calls} calls</span>
+        <span class="chip">${sc.variants} wording variants</span>
+        <span class="tag ${sc.transfer_rate>0?'win':''}">${sc.transfer_rate}% transferred</span>
+      </div>
+      ${buildScriptHTML(sc.full_script)}
+      <div style="margin-top:12px">
+        <div class="label">Agent names used</div><div style="margin-bottom:6px">${names}</div>
+        <div class="label">States / regions</div><div style="margin-bottom:6px">${states}</div>
+        <div class="label">Outcome breakdown</div><div>${dispos}</div>
+      </div>
+    </div>`;
+  }
+  $('#detected').innerHTML=html;
+}
+
+// ---- Flow maps -------------------------------------------------------------
+async function renderFlows(){
+  const fd=await api('/api/flows_detected');
+  let top=`<div class="grid cards"><div class="card"><div class="label">Distinct Flow Paths</div>
+    <div class="kpi accent">${fd.count||0}</div></div></div>
+    <h2>Distinct flows (path through the funnel)</h2>`;
+  for(const f of (fd.flows||[])){
+    if(f.calls<3) continue;
+    const dispos=(f.dispo_breakdown||[]).map(x=>`<span class="chip">${x[0]}:${x[1]}</span>`).join('');
+    top+=`<div class="card" style="margin-bottom:10px">
+      <div class="row" style="margin:0 0 6px"><b>${f.signature}</b>
+        <span class="chip">${f.calls} calls · ${f.pct}%</span>
+        <span class="tag ${f.transfer_rate>0?'win':''}">${f.transfer_rate}% transferred</span></div>
+      <div>${dispos}</div></div>`;
+  }
+  $('#flows').innerHTML=top+'<h2>Funnel by disposition</h2>'+flowFunnelsHTML();
+}
+function flowFunnelsHTML(){
+  const order=Object.values(FLOWS).sort((a,b)=>b.count-a.count);
+  let html='';
+  for(const f of order){
+    let steps=f.funnel.map(s=>`<div class="funnel-step">
+      <div class="top"><span>${s.label}</span><span class="muted">${s.count} · ${s.pct}%</span></div>
+      <div class="bar"><i style="width:${s.pct}%"></i></div></div>`).join('');
+    let obj=(f.top_objections||[]).map(o=>`<span class="chip">"${o[0]}" ×${o[1]}</span>`).join('')||'<span class="muted">none</span>';
+    html+=`<div class="card" style="margin-bottom:14px">
+      <div class="row" style="margin:0 0 10px"><h2 style="margin:0">${f.label}
+        <span class="tag ${f.is_win?'win':''}">${f.dispo}</span></h2>
+        <span class="muted">${f.count} calls · avg ${f.avg_duration}s</span></div>
+      ${steps}
+      <div style="margin-top:10px"><div class="label">Top objections / customer pushback</div>${obj}</div>
+    </div>`;
+  }
+  return html;
+}
+
+// ---- Script Studio ---------------------------------------------------------
+async function renderScripts(){
+  $('#scripts').innerHTML='<div class="card">loading scripts…</div>';
+  const d=await api('/api/scripts');
+  const scripts=d.scripts||{};
+  if(!Object.keys(scripts).length){
+    $('#scripts').innerHTML='<div class="card muted">No scripts yet. Run the Script Agent (pipeline/script_agent.py).</div>';
+    return;
+  }
+  let html=`<div class="muted" style="margin-bottom:10px">Generated ${d.index.generated_at||''} · engine improves these per disposition.</div>`;
+  for(const [dispo,s] of Object.entries(scripts)){
+    html+=`<div class="card" style="margin-bottom:14px">
+      <div class="row" style="margin:0 0 8px"><h2 style="margin:0">${s.label}
+        <span class="tag">${dispo}</span></h2>
+        <span class="chip">${s.engine}</span><span class="muted">${s.count} calls analysed</span></div>
+      <pre>${(s.output||'').replace(/</g,'&lt;')}</pre></div>`;
+  }
+  $('#scripts').innerHTML=html;
+}
+
+// ---- Script Generator ------------------------------------------------------
+let GEN_STYLES=null;
+async function renderGenerator(){
+  const d=await api('/api/generated');
+  GEN_STYLES=d.styles;
+  const styleBtns=Object.entries(d.styles).map(([k,v])=>
+    `<button class="chip" onclick="genScript('${k}')" id="gs-${k}" title="${v}">${k.replace('_',' ')}</button>`).join('');
+  const FOCUS_OPTIONS=[
+    "Medicare Part A & Part B qualification check — help member confirm coverage",
+    "Part A (hospital) + Part B (medical) — explain what each covers in 2026",
+    "2026 Part D prescription drug out-of-pocket cap ($2,100) for Part A & B members",
+    "Medicare Advantage plan review for members who have Part A and Part B",
+    "Insulin $35/month cap — available to members with Part A and Part B",
+    "Annual Enrollment Period (Oct 15 – Dec 7) — reviewing plan options for Part A & B holders",
+    "Prescription Payment Plan (M3P) — monthly payment option for Part A & B members",
+    "Supplemental benefits (dental/vision/hearing) available with Part A and Part B",
+  ];
+  const focusOpts=FOCUS_OPTIONS.map((f,i)=>`<option value="${f}">${f}</option>`).join('');
+  $('#generator').innerHTML=`
+    <div class="card">
+      <h2 style="margin-top:0">✨ Generate a new 2026 Medicare script</h2>
+      <p class="muted">Scripts are grounded in verified 2026 Medicare facts and CMS compliance rules.
+      Select a pitch focus (all options are Part A &amp; Part B based), then pick a style.</p>
+      <div class="row">
+        <div style="flex:1;min-width:260px">
+          <div class="label" style="margin-bottom:4px">Pitch focus (Part A &amp; B based)</div>
+          <select id="gen-focus" style="width:100%">
+            ${focusOpts}
+          </select>
+        </div>
+      </div>
+      <div class="row" style="margin-bottom:0">
+        <span class="label" style="align-self:center">Style:</span> ${styleBtns}
+      </div>
+      <div id="gen-status" class="muted" style="margin-top:10px"></div>
+    </div>
+    <div id="gen-output"></div>
+    <h2>Previously generated</h2>
+    <div id="gen-history"></div>
+    <div class="card" style="margin-top:18px">
+      <div class="label" style="margin-bottom:8px">2026 Medicare Part A &amp; B — Research basis</div>
+      <div id="gen-research" class="muted">loading…</div>
+    </div>`;
+  renderHistory(d.items);
+  const r=await api('/api/research');
+  // only show Part A & B relevant facts
+  const partabFacts=(r.facts||[]).filter(f=>
+    /part [ab]|part a|part b|prescription|insulin|drug cap|out.of.pocket|enrollment|advantage|supplement/i.test(f.topic+' '+f.fact)
+  );
+  $('#gen-research').innerHTML=
+    `<b>Verified facts used to ground every generated script:</b><br><br>`+
+    partabFacts.map(f=>`<span style="color:var(--accent)">▸ ${f.topic}:</span> ${f.fact}`).join('<br><br>')+
+    `<br><br><span class="label">CMS compliance guardrails (always enforced)</span><br>`+
+    (r.compliance_rules||[]).map(x=>`• ${x}`).join('<br>');
+}
+async function genScript(style){
+  const focus=$('#gen-focus').value;
+  $('#gen-status').textContent='🤖 Writing a '+style.replace('_',' ')+' script… (local AI, ~10-30s)';
+  document.querySelectorAll('[id^=gs-]').forEach(b=>b.style.opacity=.4);
+  try{
+    const rec=await fetch('/api/generate',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({style,focus})}).then(r=>r.json());
+    $('#gen-output').innerHTML=genCard(rec,true);
+    $('#gen-status').textContent='✓ Done — saved to history.';
+    const d=await api('/api/generated'); renderHistory(d.items);
+  }catch(e){ $('#gen-status').textContent='Error: '+e; }
+  document.querySelectorAll('[id^=gs-]').forEach(b=>b.style.opacity=1);
+}
+function genCard(rec,fresh){
+  return `<div class="card" style="margin-bottom:14px;${fresh?'border-color:var(--good)':''}">
+    <div class="row" style="margin:0 0 8px"><h2 style="margin:0">${fresh?'🆕 ':''}${rec.style.replace('_',' ')} style</h2>
+      <span class="chip">${rec.focus}</span><span class="muted">${rec.generated_at}</span></div>
+    <pre>${(rec.output||'').replace(/</g,'&lt;')}</pre></div>`;
+}
+function renderHistory(items){
+  $('#gen-history').innerHTML=(items&&items.length)?
+    items.map(r=>genCard(r,false)).join(''):'<div class="card muted">No scripts generated yet.</div>';
+}
+
+boot();
+</script>
+</body>
+</html>

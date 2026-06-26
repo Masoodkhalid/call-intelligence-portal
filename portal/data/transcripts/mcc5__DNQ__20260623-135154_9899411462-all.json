@@ -1,0 +1,73 @@
+{
+  "id": "mcc5__DNQ__20260623-135154_9899411462-all",
+  "campaign": "mcc5",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "13:51:54",
+  "phone": "9899411462",
+  "filename": "20260623-135154_9899411462-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DNQ/20260623-135154_9899411462-all.mp3",
+  "duration": 33.55,
+  "text": "Hello. Yes. Hello. Good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. So have you received any notification about these benefits yet? Well, first of all, I'm not on Medicare. Sorry, but you did not seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Hello. Yes. Hello. Good afternoon. This is Rachel."
+    },
+    {
+      "start": 8.0,
+      "end": 16.0,
+      "text": "So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program."
+    },
+    {
+      "start": 16.0,
+      "end": 21.0,
+      "text": "So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 21.0,
+      "end": 26.0,
+      "text": "Well, first of all, I'm not on Medicare."
+    },
+    {
+      "start": 26.0,
+      "end": 33.0,
+      "text": "Sorry, but you did not seem to qualify for the plans that we have. Have a great day."
+    }
+  ],
+  "word_count": 69,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello Good afternoon This is Rachel So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Well, first of all, I'm not on Medicare"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you did not seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello. Yes. Hello. Good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. So have you received any notification about these benefits yet? Well, first of all, I'm not on Medicare. Sorry, but you did not seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 69
+}

@@ -1,0 +1,116 @@
+{
+  "id": "mcc11__RAXFER__20260623-165420_4026105039-all",
+  "campaign": "mcc11",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "16:54:20",
+  "phone": "4026105039",
+  "filename": "20260623-165420_4026105039-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-RAXFER/20260623-165420_4026105039-all.mp3",
+  "duration": 73.73,
+  "text": "Hello. Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nebraska State Relief Program. So far, have you received any updates or notifications about this yet? No. Oh, that's all right. That's exactly why I'm calling. And I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? Okay, okay, yes, yes, yes. Perfect. You qualify for the benefits. I'm forwarding you to our supervisor. Please hold on. Okay. Hi there. Thank you for holding. My name is Robert Walquez. Are we you? I'm doing good. So I did a supervisor. All right. Yeah, I'm supervising. Yes. You supervising. Okay.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello. Good afternoon. This is Jacob."
+    },
+    {
+      "start": 4.0,
+      "end": 11.0,
+      "text": "So, I'm calling because there are pending grocery and cash benefits worth up to $300"
+    },
+    {
+      "start": 11.0,
+      "end": 16.0,
+      "text": "available on your Medicare account through Nebraska State Relief Program."
+    },
+    {
+      "start": 16.0,
+      "end": 21.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": "No."
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": "Oh, that's all right. That's exactly why I'm calling."
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "And I want to help you get these benefits processed before they go unclaimed."
+    },
+    {
+      "start": 32.0,
+      "end": 36.0,
+      "text": "You're covered under both Part A and Part B, yes?"
+    },
+    {
+      "start": 36.0,
+      "end": 39.0,
+      "text": "Okay, okay, yes, yes, yes."
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": "Perfect. You qualify for the benefits."
+    },
+    {
+      "start": 42.0,
+      "end": 45.0,
+      "text": "I'm forwarding you to our supervisor. Please hold on."
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": "Okay."
+    },
+    {
+      "start": 52.0,
+      "end": 57.0,
+      "text": "Hi there. Thank you for holding. My name is Robert Walquez. Are we you?"
+    },
+    {
+      "start": 57.0,
+      "end": 65.0,
+      "text": "I'm doing good. So I did a supervisor."
+    },
+    {
+      "start": 65.0,
+      "end": 68.0,
+      "text": "All right. Yeah, I'm supervising. Yes."
+    },
+    {
+      "start": 68.0,
+      "end": 72.0,
+      "text": "You supervising. Okay."
+    }
+  ],
+  "word_count": 129,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nebraska State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes? Okay, okay, yes, yes, yes Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on Okay"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nebraska State Relief Program So far, have you received any updates or notifications about this yet? No Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes? Okay, okay, yes, yes, yes Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on Okay",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 98
+}

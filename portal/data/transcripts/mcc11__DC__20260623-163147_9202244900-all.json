@@ -1,0 +1,67 @@
+{
+  "id": "mcc11__DC__20260623-163147_9202244900-all",
+  "campaign": "mcc11",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "16:31:47",
+  "phone": "9202244900",
+  "filename": "20260623-163147_9202244900-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DC/20260623-163147_9202244900-all.mp3",
+  "duration": 27.79,
+  "text": "Hello. Are you there? Hello. Good afternoon. This is Evelyn. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Wisconsin State Relief Program. So, have you been notified about these benefits yet?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello."
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Hello."
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "This is Evelyn."
+    },
+    {
+      "start": 14.0,
+      "end": 23.0,
+      "text": "So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Wisconsin State Relief Program."
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": "So, have you been notified about these benefits yet?"
+    }
+  ],
+  "word_count": 44,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Are you there? Hello Good afternoon This is Evelyn So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Wisconsin State Relief Program So, have you been notified about these benefits yet?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Are you there? Hello. Good afternoon. This is Evelyn. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Wisconsin State Relief Program. So, have you been notified about these benefits yet?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 44
+}

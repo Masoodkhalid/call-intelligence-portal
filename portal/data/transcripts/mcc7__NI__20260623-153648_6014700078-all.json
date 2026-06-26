@@ -1,0 +1,83 @@
+{
+  "id": "mcc7__NI__20260623-153648_6014700078-all",
+  "campaign": "mcc7",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "15:36:48",
+  "phone": "6014700078",
+  "filename": "20260623-153648_6014700078-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NI/20260623-153648_6014700078-all.mp3",
+  "duration": 26.93,
+  "text": "Hello? Yes, hello? Can you hear me? Can you hear me? Good afternoon. My name is Sophie. You doing okay? Hello? Hello?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Yes, hello?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "Good afternoon. My name is Sophie. You doing okay?"
+    },
+    {
+      "start": 14.0,
+      "end": 20.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Hello?"
+    }
+  ],
+  "word_count": 22,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, hello?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you hear me? Can you hear me? Good afternoon My name is Sophie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You doing okay?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Yes, hello? Can you hear me? Can you hear me? Good afternoon. My name is Sophie. You doing okay? Hello? Hello?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 22
+}

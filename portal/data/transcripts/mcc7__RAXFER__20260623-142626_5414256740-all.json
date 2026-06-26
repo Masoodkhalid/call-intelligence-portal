@@ -1,0 +1,74 @@
+{
+  "id": "mcc7__RAXFER__20260623-142626_5414256740-all",
+  "campaign": "mcc7",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:26:26",
+  "phone": "5414256740",
+  "filename": "20260623-142626_5414256740-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-raxfer/20260623-142626_5414256740-all.mp3",
+  "duration": 85.25,
+  "text": "Hello? Hello? Hello? Good morning. My name is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through an organic relief program. So have you received any notification about these benefits yet? No. Oh, that's all right. That's exactly why I'm calling. And I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? Mm-hmm. So you do have both Part A and Part B of Medicare, right? Yeah, I do. Perfect. You qualify for the benefits. I'm forwarding you to our supervisor. Please hold on. Mm-hmm. Thank you so much for holding this suggestion with Medicare benefits. Sorry. Mm-hmm. I'm fine. I'll call you right back at this number. Would that be all right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.0,
+      "text": "Hello? Hello? Hello? Good morning. My name is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through an organic relief program. So have you received any notification about these benefits yet? No. Oh, that's all right. That's exactly why I'm calling."
+    },
+    {
+      "start": 29.0,
+      "end": 38.0,
+      "text": "And I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes?"
+    },
+    {
+      "start": 38.0,
+      "end": 48.0,
+      "text": "Mm-hmm. So you do have both Part A and Part B of Medicare, right? Yeah, I do."
+    },
+    {
+      "start": 48.0,
+      "end": 56.0,
+      "text": "Perfect. You qualify for the benefits. I'm forwarding you to our supervisor. Please hold on. Mm-hmm."
+    },
+    {
+      "start": 72.0,
+      "end": 79.0,
+      "text": "Thank you so much for holding this suggestion with Medicare benefits. Sorry. Mm-hmm."
+    },
+    {
+      "start": 79.0,
+      "end": 85.0,
+      "text": "I'm fine. I'll call you right back at this number. Would that be all right?"
+    }
+  ],
+  "word_count": 139,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Hello? Good morning My name is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through an organic relief program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Mm-hmm So you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah, I do Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on Mm-hmm"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Hello? Good morning My name is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through an organic relief program So have you received any notification about these benefits yet? No Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes? Mm-hmm So you do have both Part A and Part B of Medicare, right? Yeah, I do Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on Mm-hmm",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 111
+}

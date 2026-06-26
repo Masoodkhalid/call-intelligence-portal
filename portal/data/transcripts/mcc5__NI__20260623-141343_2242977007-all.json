@@ -1,0 +1,67 @@
+{
+  "id": "mcc5__NI__20260623-141343_2242977007-all",
+  "campaign": "mcc5",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "14:13:43",
+  "phone": "2242977007",
+  "filename": "20260623-141343_2242977007-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NI/20260623-141343_2242977007-all.mp3",
+  "duration": 47.3,
+  "text": "- Hello. - Hello. - Good afternoon. My name is Cassie. I'm calling because your Medicare member profile hasn't been transferred into Medicare's National Database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick, so you do have both part A and part B, right? Hey, are you still there? I was just asking, you do have both part A and part B of Medicare, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "- Hello. - Hello."
+    },
+    {
+      "start": 2.96,
+      "end": 7.2,
+      "text": "- Good afternoon. My name is Cassie."
+    },
+    {
+      "start": 7.2,
+      "end": 16.7,
+      "text": "I'm calling because your Medicare member profile hasn't been transferred into Medicare's National Database for 2026 yet."
+    },
+    {
+      "start": 16.7,
+      "end": 22.1,
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals."
+    },
+    {
+      "start": 22.1,
+      "end": 28.0,
+      "text": "I can verify it real quick, so you do have both part A and part B, right?"
+    },
+    {
+      "start": 30.0,
+      "end": 34.0,
+      "text": "Hey, are you still there?"
+    },
+    {
+      "start": 34.0,
+      "end": 40.0,
+      "text": "I was just asking, you do have both part A and part B of Medicare, right?"
+    }
+  ],
+  "word_count": 79,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon My name is Cassie I'm calling because your Medicare member profile hasn't been transferred into Medicare's National Database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick, so you do have both part A and part B, right? Hey, are you still there? I was just asking, you do have both part A and part B of Medicare, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "- Hello. - Hello. - Good afternoon. My name is Cassie. I'm calling because your Medicare member profile hasn't been transferred into Medicare's National Database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick, so you do have both part A and part B, right? Hey, are you still there? I was just asking, you do have both part A and part B of Medicare, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 79
+}

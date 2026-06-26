@@ -1,0 +1,126 @@
+{
+  "id": "mcc7__RAXFER__20260623-154656_7799704088-all",
+  "campaign": "mcc7",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "15:46:56",
+  "phone": "7799704088",
+  "filename": "20260623-154656_7799704088-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-raxfer/20260623-154656_7799704088-all.mp3",
+  "duration": 106.7,
+  "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So have you been notified about these benefits yet? I don't think so. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both part A and part B, yes? Yeah. Perfect. You qualify for the benefits. I'm forwarding you to our supervisor. Please hold on. Thank you so much for holding. This is Daniel. How are you doing today? Yes. Well, this call in regards to inquiry about your medical benefits. So do you have medical for A and B? Let me try to go. And what's your zip code, sir? 61101. Yes. All right. Let's see what benefits are available to you and how old are you? 35. Okay. Do you make your own health care decisions or is someone has a power for attorney? I'd be wrong. Okay.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello. Hello. Good afternoon. This is Alyssa."
+    },
+    {
+      "start": 7.0,
+      "end": 17.0,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program."
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "text": "So have you been notified about these benefits yet?"
+    },
+    {
+      "start": 22.0,
+      "end": 32.0,
+      "text": "I don't think so. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed."
+    },
+    {
+      "start": 32.0,
+      "end": 37.0,
+      "text": "You're covered under both part A and part B, yes?"
+    },
+    {
+      "start": 37.0,
+      "end": 40.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 40.0,
+      "end": 47.0,
+      "text": "Perfect. You qualify for the benefits. I'm forwarding you to our supervisor. Please hold on."
+    },
+    {
+      "start": 47.0,
+      "end": 59.0,
+      "text": "Thank you so much for holding. This is Daniel. How are you doing today?"
+    },
+    {
+      "start": 59.0,
+      "end": 61.0,
+      "text": "Yes."
+    },
+    {
+      "start": 61.0,
+      "end": 71.0,
+      "text": "Well, this call in regards to inquiry about your medical benefits. So do you have medical for A and B?"
+    },
+    {
+      "start": 71.0,
+      "end": 78.0,
+      "text": "Let me try to go. And what's your zip code, sir?"
+    },
+    {
+      "start": 78.0,
+      "end": 85.0,
+      "text": "61101."
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "text": "Yes."
+    },
+    {
+      "start": 86.0,
+      "end": 92.0,
+      "text": "All right. Let's see what benefits are available to you and how old are you?"
+    },
+    {
+      "start": 92.0,
+      "end": 94.0,
+      "text": "35."
+    },
+    {
+      "start": 94.0,
+      "end": 101.0,
+      "text": "Okay. Do you make your own health care decisions or is someone has a power for attorney?"
+    },
+    {
+      "start": 101.0,
+      "end": 105.0,
+      "text": "I'd be wrong."
+    },
+    {
+      "start": 105.0,
+      "end": 107.0,
+      "text": "Okay."
+    }
+  ],
+  "word_count": 177,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program So have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I don't think so Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? Yeah Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on Thank you so much for holding"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program So have you been notified about these benefits yet? I don't think so Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? Yeah Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on Thank you so much for holding",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 98
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mcc5__A__20260623-122550_3143814883-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "12:25:50",
+  "phone": "3143814883",
+  "filename": "20260623-122550_3143814883-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-122550_3143814883-all.mp3",
+  "duration": 12.6,
+  "text": "I'm not available to take this call. Please leave a detailed message. Thank you, and have a blessed day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "I'm not available to take this call. Please leave a detailed message. Thank you, and have a blessed day."
+    }
+  ],
+  "word_count": 19,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm not available to take this call Please leave a detailed message Thank you, and have a blessed day"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "I'm not available to take this call. Please leave a detailed message. Thank you, and have a blessed day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 19
+}

@@ -1,0 +1,74 @@
+{
+  "id": "mcc5__DC__20260623-133630_6015696788-all",
+  "campaign": "mcc5",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "13:36:30",
+  "phone": "6015696788",
+  "filename": "20260623-133630_6015696788-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DC/20260623-133630_6015696788-all.mp3",
+  "duration": 38.59,
+  "text": "Hello, good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick, so you do have both Part A and Part B, right? No. Sorry, you don't seem to qualify for the plans we have. Have a great day. Bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 18.0,
+      "text": "Hello, good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 18.0,
+      "end": 23.0,
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals."
+    },
+    {
+      "start": 23.0,
+      "end": 29.0,
+      "text": "I can verify it real quick, so you do have both Part A and Part B, right?"
+    },
+    {
+      "start": 29.0,
+      "end": 31.0,
+      "text": "No."
+    },
+    {
+      "start": 31.0,
+      "end": 37.0,
+      "text": "Sorry, you don't seem to qualify for the plans we have. Have a great day."
+    },
+    {
+      "start": 37.0,
+      "end": 39.0,
+      "text": "Bye."
+    }
+  ],
+  "word_count": 72,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick, so you do have both Part A and Part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, you don't seem to qualify for the plans we have Have a great day"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Bye"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello, good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick, so you do have both Part A and Part B, right? No. Sorry, you don't seem to qualify for the plans we have. Have a great day. Bye.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 72
+}

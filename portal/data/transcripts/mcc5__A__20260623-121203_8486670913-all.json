@@ -1,0 +1,52 @@
+{
+  "id": "mcc5__A__20260623-121203_8486670913-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "12:12:03",
+  "phone": "8486670913",
+  "filename": "20260623-121203_8486670913-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-121203_8486670913-all.mp3",
+  "duration": 11.02,
+  "text": "\"Hello?\" \"Not available.\" \"Please leave a message after the tone.\" [beep]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "\"Hello?\""
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "\"Not available.\""
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "\"Please leave a message after the tone.\""
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "[beep]"
+    }
+  ],
+  "word_count": 11,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello?\" \"Not available.\" \"Please leave a message after the tone.\" [beep]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Not available.\" \"Please leave a message after the tone.\" [beep]",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 11
+}

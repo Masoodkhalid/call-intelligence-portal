@@ -1,0 +1,95 @@
+{
+  "id": "mcc3__DNQ__20260623-104941_9152161919-all",
+  "campaign": "mcc3",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "10:49:41",
+  "phone": "9152161919",
+  "filename": "20260623-104941_9152161919-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3DNQ/20260623-104941_9152161919-all.mp3",
+  "duration": 46.22,
+  "text": "Hello. Hello. Hi, good morning. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So far, have you received any updates or notifications about this yet? No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? Hello. Sorry, but you do not seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Hello. Hello. Hi, good morning. This is Evelyn."
+    },
+    {
+      "start": 5.0,
+      "end": 12.0,
+      "text": "So I'm calling because there are pending grocery and cash benefits worth up to $300"
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "available on your Medicare account through Texas State Relief Program."
+    },
+    {
+      "start": 16.0,
+      "end": 21.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": "No."
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": "Oh, that's all right. That's exactly why I'm calling."
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "I want to help you get these benefits processed before they go unclaimed."
+    },
+    {
+      "start": 32.0,
+      "end": 36.0,
+      "text": "You're covered under both Part A and Part B, yes?"
+    },
+    {
+      "start": 36.0,
+      "end": 39.0,
+      "text": "Hello."
+    },
+    {
+      "start": 39.0,
+      "end": 43.0,
+      "text": "Sorry, but you do not seem to qualify for the plans that we have."
+    },
+    {
+      "start": 43.0,
+      "end": 46.0,
+      "text": "Have a great day."
+    }
+  ],
+  "word_count": 97,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hi, good morning This is Evelyn So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes? Hello Sorry, but you do not seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello. Hello. Hi, good morning. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So far, have you received any updates or notifications about this yet? No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? Hello. Sorry, but you do not seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 97
+}

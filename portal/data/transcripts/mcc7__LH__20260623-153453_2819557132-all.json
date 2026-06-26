@@ -1,0 +1,75 @@
+{
+  "id": "mcc7__LH__20260623-153453_2819557132-all",
+  "campaign": "mcc7",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "15:34:53",
+  "phone": "2819557132",
+  "filename": "20260623-153453_2819557132-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-LH/20260623-153453_2819557132-all.mp3",
+  "duration": 53.86,
+  "text": "Hello? Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars available on your Medicare account through Texas state relief program. So have you received any notification about these benefits yet? I'm sorry but can you speak English? Oh I just want to make sure you're aware because a lot of people in your area haven't heard about these yet and I want to help you get them processed in time. You're covered under part A and part B aren't you?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.36,
+      "text": "Hello? Good afternoon. This is Jacob. So I'm calling because there are pending"
+    },
+    {
+      "start": 9.36,
+      "end": 14.56,
+      "text": "grocery and cash benefits worth up to three hundred dollars available on your"
+    },
+    {
+      "start": 14.56,
+      "end": 20.28,
+      "text": "Medicare account through Texas state relief program. So have you received any"
+    },
+    {
+      "start": 20.28,
+      "end": 37.14,
+      "text": "notification about these benefits yet? I'm sorry but can you speak English? Oh I"
+    },
+    {
+      "start": 37.14,
+      "end": 41.0,
+      "text": "just want to make sure you're aware because a lot of people in your area"
+    },
+    {
+      "start": 41.0,
+      "end": 44.68,
+      "text": "haven't heard about these yet and I want to help you get them processed in"
+    },
+    {
+      "start": 44.68,
+      "end": 50.24,
+      "text": "time. You're covered under part A and part B aren't you?"
+    }
+  ],
+  "word_count": 93,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Good afternoon This is Jacob So I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars available on your Medicare account through Texas state relief program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm sorry but can you speak English? Oh I just want to make sure you're aware because a lot of people in your area haven't heard about these yet and I want to help you get them processed in time"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're covered under part A and part B aren't you?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars available on your Medicare account through Texas state relief program. So have you received any notification about these benefits yet? I'm sorry but can you speak English? Oh I just want to make sure you're aware because a lot of people in your area haven't heard about these yet and I want to help you get them processed in time. You're covered under part A and part B aren't you?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 93
+}

@@ -1,0 +1,56 @@
+{
+  "id": "mcc11__DNQ__20260623-162836_4803422140-all",
+  "campaign": "mcc11",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "16:28:36",
+  "phone": "4803422140",
+  "filename": "20260623-162836_4803422140-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DNQ/20260623-162836_4803422140-all.mp3",
+  "duration": 24.77,
+  "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arizona State Relief Program. So have you been notified about these benefits yet? No, I don't have Medicare. I'm not old enough. Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.7,
+      "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery"
+    },
+    {
+      "start": 8.7,
+      "end": 14.6,
+      "text": "and cash benefits worth up to $300 available on your Medicare account through Arizona State"
+    },
+    {
+      "start": 14.6,
+      "end": 20.54,
+      "text": "Relief Program. So have you been notified about these benefits yet? No, I don't have"
+    },
+    {
+      "start": 20.54,
+      "end": 24.16,
+      "text": "Medicare. I'm not old enough. Thank you."
+    }
+  ],
+  "word_count": 51,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arizona State Relief Program So have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, I don't have Medicare I'm not old enough Thank you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arizona State Relief Program. So have you been notified about these benefits yet? No, I don't have Medicare. I'm not old enough. Thank you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 51
+}

@@ -1,0 +1,111 @@
+{
+  "id": "mcc5__LH__20260623-134809_3252278222-all",
+  "campaign": "mcc5",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "13:48:09",
+  "phone": "3252278222",
+  "filename": "20260623-134809_3252278222-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-LH/20260623-134809_3252278222-all.mp3",
+  "duration": 45.86,
+  "text": "Hello. Who would you like to talk to? Good afternoon. My name is Kathy. Who are you following? I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. That can delay your coverage approvals. To get your file updated, do you have both Medicare Part A and Part B? Tell me who you're calling. So I'm with Nova Health Care and new 2026 benefits have just rolled in. We want to make sure you're on the best plan. So you're enrolled in both Part A and Part B of Medicare, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Who would you like to talk to?"
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "Good afternoon. My name is Kathy."
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "Who are you following?"
+    },
+    {
+      "start": 11.0,
+      "end": 20.0,
+      "text": "I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "That can delay your coverage approvals."
+    },
+    {
+      "start": 23.0,
+      "end": 29.0,
+      "text": "To get your file updated, do you have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 29.0,
+      "end": 32.0,
+      "text": "Tell me who you're calling."
+    },
+    {
+      "start": 32.0,
+      "end": 38.0,
+      "text": "So I'm with Nova Health Care and new 2026 benefits have just rolled in."
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "We want to make sure you're on the best plan."
+    },
+    {
+      "start": 40.0,
+      "end": 44.0,
+      "text": "So you're enrolled in both Part A and Part B of Medicare, right?"
+    }
+  ],
+  "word_count": 101,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Who would you like to talk to?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon My name is Kathy"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Who are you following?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet That can delay your coverage approvals To get your file updated, do you have both Medicare Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Tell me who you're calling So I'm with Nova Health Care and new 2026 benefits have just rolled in We want to make sure you're on the best plan"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you're enrolled in both Part A and Part B of Medicare, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Who would you like to talk to? Good afternoon. My name is Kathy. Who are you following? I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. That can delay your coverage approvals. To get your file updated, do you have both Medicare Part A and Part B? Tell me who you're calling. So I'm with Nova Health Care and new 2026 benefits have just rolled in. We want to make sure you're on the best plan. So you're enrolled in both Part A and Part B of Medicare, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 101
+}

@@ -1,0 +1,56 @@
+{
+  "id": "mcc7__BDNC__20260623-132805_7573806570-all",
+  "campaign": "mcc7",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "13:28:05",
+  "phone": "7573806570",
+  "filename": "20260623-132805_7573806570-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-BDNC/20260623-132805_7573806570-all.mp3",
+  "duration": 18.79,
+  "text": ">> Hello? Are you there? >> Thank you for calling open first. How can I help you?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": ">> Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 10.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": ">> Thank you for calling open first."
+    },
+    {
+      "start": 13.0,
+      "end": 18.0,
+      "text": "How can I help you?"
+    }
+  ],
+  "word_count": 17,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Thank you for calling open first How can I help you?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": ">> Hello? Are you there? >> Thank you for calling open first. How can I help you?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 17
+}

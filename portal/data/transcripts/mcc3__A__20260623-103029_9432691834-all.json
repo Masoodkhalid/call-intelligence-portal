@@ -1,0 +1,94 @@
+{
+  "id": "mcc3__A__20260623-103029_9432691834-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "10:30:29",
+  "phone": "9432691834",
+  "filename": "20260623-103029_9432691834-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-103029_9432691834-all.mp3",
+  "duration": 40.1,
+  "text": "- Hello. - For pleasure. - Good morning. My name is Cassie. I'm calling because your Medicare Member Profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. That can delay your coverage approvals. To get your file updated, do you have both Medicare Part A and Part B? To listen to your message, press 1. To rerecord your message, press 2. To continue recording your message, press 3. Accept the recording and send as normal, press 4.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "- Hello. - For pleasure."
+    },
+    {
+      "start": 2.58,
+      "end": 8.56,
+      "text": "- Good morning. My name is Cassie."
+    },
+    {
+      "start": 8.56,
+      "end": 14.26,
+      "text": "I'm calling because your Medicare Member Profile is showing it hasn't been transferred"
+    },
+    {
+      "start": 14.26,
+      "end": 18.26,
+      "text": "into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 18.26,
+      "end": 20.98,
+      "text": "That can delay your coverage approvals."
+    },
+    {
+      "start": 20.98,
+      "end": 27.66,
+      "text": "To get your file updated, do you have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 30.16,
+      "end": 32.5,
+      "text": "To listen to your message, press 1."
+    },
+    {
+      "start": 32.5,
+      "end": 34.62,
+      "text": "To rerecord your message, press 2."
+    },
+    {
+      "start": 34.62,
+      "end": 37.04,
+      "text": "To continue recording your message, press 3."
+    },
+    {
+      "start": 37.04,
+      "end": 40.1,
+      "text": "Accept the recording and send as normal, press 4."
+    }
+  ],
+  "word_count": 82,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "For pleasure"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning My name is Cassie I'm calling because your Medicare Member Profile is showing it hasn't been transferred into Medicare's national database for 2026 yet That can delay your coverage approvals To get your file updated, do you have both Medicare Part A and Part B? To listen to your message, press 1 To rerecord your message, press 2"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To continue recording your message, press 3 Accept the recording and send as normal, press 4"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "- Hello. - For pleasure. - Good morning. My name is Cassie. I'm calling because your Medicare Member Profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. That can delay your coverage approvals. To get your file updated, do you have both Medicare Part A and Part B? To listen to your message, press 1. To rerecord your message, press 2. To continue recording your message, press 3. Accept the recording and send as normal, press 4.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 82
+}

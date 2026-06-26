@@ -1,0 +1,69 @@
+{
+  "id": "mcc11__NP__20260623-165232_7863193363-all",
+  "campaign": "mcc11",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "16:52:32",
+  "phone": "7863193363",
+  "filename": "20260623-165232_7863193363-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NP/20260623-165232_7863193363-all.mp3",
+  "duration": 11.81,
+  "text": "Hello? Is this on? Hi, this is Sarah. I'm reaching out because we pulled up your Medicare profile, and there's a note here showing you're 12.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Is this on?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Hi, this is Sarah."
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "I'm reaching out because we pulled up your Medicare profile,"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "and there's a note here showing you're 12."
+    }
+  ],
+  "word_count": 26,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Is this on?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi, this is Sarah"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm reaching out because we pulled up your Medicare profile, and there's a note here showing you're 12"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Is this on? Hi, this is Sarah. I'm reaching out because we pulled up your Medicare profile, and there's a note here showing you're 12.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 26
+}

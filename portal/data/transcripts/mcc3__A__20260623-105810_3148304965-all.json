@@ -1,0 +1,60 @@
+{
+  "id": "mcc3__A__20260623-105810_3148304965-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "10:58:10",
+  "phone": "3148304965",
+  "filename": "20260623-105810_3148304965-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-105810_3148304965-all.mp3",
+  "duration": 12.82,
+  "text": "Hello. Please leave your name and your number and I'll return your calls as soon as possible. Thank you. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 7.0,
+      "text": "Please leave your name and your number and I'll return your calls as soon as possible."
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Thank you."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Have a great day."
+    }
+  ],
+  "word_count": 23,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Please leave your name and your number and I'll return your calls as soon as possible Thank you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello. Please leave your name and your number and I'll return your calls as soon as possible. Thank you. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 23
+}

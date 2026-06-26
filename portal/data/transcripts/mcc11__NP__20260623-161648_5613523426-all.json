@@ -1,0 +1,47 @@
+{
+  "id": "mcc11__NP__20260623-161648_5613523426-all",
+  "campaign": "mcc11",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "16:16:48",
+  "phone": "5613523426",
+  "filename": "20260623-161648_5613523426-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NP/20260623-161648_5613523426-all.mp3",
+  "duration": 15.05,
+  "text": ">> Hello. >> Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": ">> Hello."
+    },
+    {
+      "start": 4.24,
+      "end": 10.24,
+      "text": ">> Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile"
+    },
+    {
+      "start": 10.24,
+      "end": 15.0,
+      "text": "and there's a note here showing your 2026 plan update hasn't been confirmed."
+    }
+  ],
+  "word_count": 31,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": ">> Hello. >> Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 31
+}

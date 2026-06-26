@@ -1,0 +1,52 @@
+{
+  "id": "mcc5__BDNC__20260623-121811_7152352025-all",
+  "campaign": "mcc5",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "12:18:11",
+  "phone": "7152352025",
+  "filename": "20260623-121811_7152352025-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-BNDC/20260623-121811_7152352025-all.mp3",
+  "duration": 28.94,
+  "text": "Hello. Hello. Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So you do You have both part A and part B, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.04,
+      "text": "Hello. Hello. Good morning. My name is Cassie. So I'm calling because your Medicare member profile"
+    },
+    {
+      "start": 11.04,
+      "end": 18.24,
+      "text": "hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is"
+    },
+    {
+      "start": 18.24,
+      "end": 24.88,
+      "text": "missing, it can cause delays in your coverage approvals. I can verify it real quick. So you do"
+    },
+    {
+      "start": 24.88,
+      "end": 26.94,
+      "text": "You have both part A and part B, right?"
+    }
+  ],
+  "word_count": 57,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good morning My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick So you do You have both part A and part B, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So you do You have both part A and part B, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 57
+}

@@ -1,0 +1,82 @@
+{
+  "id": "mcc7__DC__20260623-150705_9544285440-all",
+  "campaign": "mcc7",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "15:07:05",
+  "phone": "9544285440",
+  "filename": "20260623-150705_9544285440-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DC/20260623-150705_9544285440-all.mp3",
+  "duration": 13.25,
+  "text": "Hello? Who? Are you there? No. Hello, good afternoon, this is Alyssa. I'm calling because there are pending growth three.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Who?"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "No."
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Hello, good afternoon, this is Alyssa."
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "I'm calling because there are pending growth three."
+    }
+  ],
+  "word_count": 20,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Who?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello, good afternoon, this is Alyssa"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm calling because there are pending growth three"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Who? Are you there? No. Hello, good afternoon, this is Alyssa. I'm calling because there are pending growth three.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 20
+}

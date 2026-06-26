@@ -1,0 +1,62 @@
+{
+  "id": "mcc11__NI__20260623-162313_7024006077-all",
+  "campaign": "mcc11",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "16:23:13",
+  "phone": "7024006077",
+  "filename": "20260623-162313_7024006077-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NI/20260623-162313_7024006077-all.mp3",
+  "duration": 24.55,
+  "text": "Hello? Are you there? Hello? Hey, this is Sarah. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? So you do have Part A and B of Medicare, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 10.0,
+      "end": 17.0,
+      "text": "Hey, this is Sarah. There's a note on your Medicare profile that your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 20.0,
+      "end": 25.0,
+      "text": "Do you have Part A and Part B? So you do have Part A and B of Medicare, right?"
+    }
+  ],
+  "word_count": 52,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there? Hello? Hey, this is Sarah There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B? So you do have Part A and B of Medicare, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there? Hello? Hey, this is Sarah. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? So you do have Part A and B of Medicare, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 52
+}

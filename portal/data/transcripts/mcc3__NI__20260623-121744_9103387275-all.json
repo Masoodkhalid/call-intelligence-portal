@@ -1,0 +1,57 @@
+{
+  "id": "mcc3__NI__20260623-121744_9103387275-all",
+  "campaign": "mcc3",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "12:17:44",
+  "phone": "9103387275",
+  "filename": "20260623-121744_9103387275-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NI/20260623-121744_9103387275-all.mp3",
+  "duration": 39.1,
+  "text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because their appending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina state release program. So far, have you received any updates or notifications about this yet? Yes, so I was asking if you receive the notification about the pending credits on your Medicare plan?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.52,
+      "text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because their"
+    },
+    {
+      "start": 9.52,
+      "end": 13.92,
+      "text": "appending grocery and cash benefits worth up to $300 available on your"
+    },
+    {
+      "start": 13.92,
+      "end": 18.44,
+      "text": "Medicare account through North Carolina state release program. So far, have you"
+    },
+    {
+      "start": 18.44,
+      "end": 28.44,
+      "text": "received any updates or notifications about this yet? Yes, so I was asking if"
+    },
+    {
+      "start": 28.44,
+      "end": 33.92,
+      "text": "you receive the notification about the pending credits on your Medicare plan?"
+    }
+  ],
+  "word_count": 62,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Rachel So I'm calling because their appending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina state release program So far, have you received any updates or notifications about this yet? Yes, so I was asking if you receive the notification about the pending credits on your Medicare plan?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because their appending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina state release program. So far, have you received any updates or notifications about this yet? Yes, so I was asking if you receive the notification about the pending credits on your Medicare plan?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 62
+}

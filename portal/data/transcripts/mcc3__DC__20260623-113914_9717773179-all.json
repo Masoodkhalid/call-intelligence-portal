@@ -1,0 +1,51 @@
+{
+  "id": "mcc3__DC__20260623-113914_9717773179-all",
+  "campaign": "mcc3",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "11:39:14",
+  "phone": "9717773179",
+  "filename": "20260623-113914_9717773179-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-DC/20260623-113914_9717773179-all.mp3",
+  "duration": 46.37,
+  "text": "Hello. Good morning. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So, you do have both part A and part B, right? I think this is the wrong number. I don't have that. So, I'm calling from Nova Health Care to share some information about the 2026 Medicare updates with new benefits like dental, vision, hearing,",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 19.0,
+      "text": "Hello. Good morning. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 19.0,
+      "end": 29.0,
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So, you do have both part A and part B, right?"
+    },
+    {
+      "start": 29.0,
+      "end": 46.0,
+      "text": "I think this is the wrong number. I don't have that. So, I'm calling from Nova Health Care to share some information about the 2026 Medicare updates with new benefits like dental, vision, hearing,"
+    }
+  ],
+  "word_count": 89,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Good morning My name is Cassie So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick So, you do have both part A and part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I think this is the wrong number I don't have that So, I'm calling from Nova Health Care to share some information about the 2026 Medicare updates with new benefits like dental, vision, hearing,"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Good morning. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So, you do have both part A and part B, right? I think this is the wrong number. I don't have that. So, I'm calling from Nova Health Care to share some information about the 2026 Medicare updates with new benefits like dental, vision, hearing,",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 89
+}

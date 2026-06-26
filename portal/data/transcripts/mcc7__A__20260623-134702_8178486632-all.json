@@ -1,0 +1,115 @@
+{
+  "id": "mcc7__A__20260623-134702_8178486632-all",
+  "campaign": "mcc7",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "13:47:02",
+  "phone": "8178486632",
+  "filename": "20260623-134702_8178486632-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-A/20260623-134702_8178486632-all.mp3",
+  "duration": 61.49,
+  "text": "Hello. I didn't understand. Please say or spell your first and last name. Hello, good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So far, have you received any updates or notifications about this yet? I didn't understand. Please say or spell your first and last name. So, I'm actually reaching out on behalf of your State's Relief Program because these benefits haven't been claimed yet. And I want to help you get them processed. You're enrolled in Part A and Part B, right? I think you said. Is this correct? So you do have both Part A and Part B of Medicare, right? I'm sorry. You need a password to access the gene from a phone. Please see your administrator. Goodbye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 8.0,
+      "text": "I didn't understand. Please say or spell your first and last name."
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "Hello, good afternoon. This is Alyssa."
+    },
+    {
+      "start": 11.0,
+      "end": 20.0,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program."
+    },
+    {
+      "start": 20.0,
+      "end": 25.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 25.0,
+      "end": 30.0,
+      "text": "I didn't understand. Please say or spell your first and last name."
+    },
+    {
+      "start": 30.0,
+      "end": 37.0,
+      "text": "So, I'm actually reaching out on behalf of your State's Relief Program because these benefits haven't been claimed yet."
+    },
+    {
+      "start": 37.0,
+      "end": 44.0,
+      "text": "And I want to help you get them processed. You're enrolled in Part A and Part B, right?"
+    },
+    {
+      "start": 44.0,
+      "end": 46.0,
+      "text": "I think you said."
+    },
+    {
+      "start": 46.0,
+      "end": 54.0,
+      "text": "Is this correct? So you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "start": 54.0,
+      "end": 61.0,
+      "text": "I'm sorry. You need a password to access the gene from a phone. Please see your administrator. Goodbye."
+    }
+  ],
+  "word_count": 142,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I didn't understand Please say or spell your first and last name"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello, good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I didn't understand Please say or spell your first and last name So, I'm actually reaching out on behalf of your State's Relief Program because these benefits haven't been claimed yet And I want to help you get them processed"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're enrolled in Part A and Part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I think you said Is this correct?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm sorry You need a password to access the gene from a phone Please see your administrator Goodbye"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. I didn't understand. Please say or spell your first and last name. Hello, good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So far, have you received any updates or notifications about this yet? I didn't understand. Please say or spell your first and last name. So, I'm actually reaching out on behalf of your State's Relief Program because these benefits haven't been claimed yet. And I want to help you get them processed. You're enrolled in Part A and Part B, right? I think you said. Is this correct? So you do have both Part A and Part B of Medicare, right? I'm sorry. You need a password to access the gene from a phone. Please see your administrator. Goodbye.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 142
+}

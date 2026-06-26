@@ -1,0 +1,42 @@
+{
+  "id": "mcc3__DC__20260623-114442_9123632828-all",
+  "campaign": "mcc3",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "11:44:42",
+  "phone": "9123632828",
+  "filename": "20260623-114442_9123632828-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-DC/20260623-114442_9123632828-all.mp3",
+  "duration": 16.13,
+  "text": "Hello. Hi, good morning. This is Evelyn. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief Program. So, have you been notified about these benefits yet?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.0,
+      "text": "Hello. Hi, good morning. This is Evelyn. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief Program."
+    },
+    {
+      "start": 13.0,
+      "end": 16.0,
+      "text": "So, have you been notified about these benefits yet?"
+    }
+  ],
+  "word_count": 41,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hi, good morning This is Evelyn So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief Program So, have you been notified about these benefits yet?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hi, good morning. This is Evelyn. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief Program. So, have you been notified about these benefits yet?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 41
+}

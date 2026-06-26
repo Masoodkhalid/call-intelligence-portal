@@ -1,0 +1,61 @@
+{
+  "id": "mcc3__NP__20260623-124525_4709555569-all",
+  "campaign": "mcc3",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "12:45:25",
+  "phone": "4709555569",
+  "filename": "20260623-124525_4709555569-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NP/20260623-124525_4709555569-all.mp3",
+  "duration": 20.88,
+  "text": "- Hello. Good afternoon. My name is Cassie. I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. - Unbelievable. - Unbelievable.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.82,
+      "text": "- Hello. Good afternoon. My name is Cassie."
+    },
+    {
+      "start": 7.82,
+      "end": 13.74,
+      "text": "I'm calling because your Medicare member profile is showing it hasn't been transferred into"
+    },
+    {
+      "start": 13.74,
+      "end": 17.84,
+      "text": "Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 17.84,
+      "end": 18.82,
+      "text": "- Unbelievable."
+    },
+    {
+      "start": 18.82,
+      "end": 19.56,
+      "text": "- Unbelievable."
+    }
+  ],
+  "word_count": 32,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Good afternoon My name is Cassie I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Unbelievable Unbelievable"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "- Hello. Good afternoon. My name is Cassie. I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. - Unbelievable. - Unbelievable.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 32
+}

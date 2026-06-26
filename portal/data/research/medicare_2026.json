@@ -1,0 +1,30 @@
+{
+  "updated": "2026-06-24",
+  "summary": "Verified 2026 Medicare facts used to ground generated scripts so they are accurate and compliant.",
+  "facts": [
+    {"topic": "AEP dates", "fact": "The 2026 Annual Enrollment Period runs October 15 to December 7."},
+    {"topic": "Part D out-of-pocket cap", "fact": "In 2026 there is a hard $2,100 annual cap on out-of-pocket prescription costs; after that the plan covers 100% of covered drugs for the rest of the year."},
+    {"topic": "Prescription Payment Plan", "fact": "The Medicare Prescription Payment Plan (M3P) lets members spread out-of-pocket drug costs into smaller monthly payments, and now auto-renews."},
+    {"topic": "Part D deductible", "fact": "The maximum Part D deductible rose to $615 in 2026 (up from $590 in 2025)."},
+    {"topic": "Insulin cap", "fact": "Insulin stays capped at $35/month (or lower) in 2026."},
+    {"topic": "Drug price negotiation", "fact": "Starting Jan 1, 2026, Medicare uses newly negotiated lower prices on the first group of selected high-cost drugs."},
+    {"topic": "MA premiums", "fact": "About 75% of Medicare Advantage drug-plan enrollees pay no premium beyond the Part B premium in 2026; average supplemental premium ~$15/month."},
+    {"topic": "Supplemental benefits", "fact": "Most MA plans still include vision, dental and hearing; OTC, meal, transportation and flex allowances are more limited in 2026 than 2025."},
+    {"topic": "Grocery / flex allowance (IMPORTANT)", "fact": "For 2026 the VBID model ended; grocery/flex allowances are now offered only under SSBCI to enrollees with qualifying chronic conditions. Do NOT promise a grocery/cash card to everyone."},
+    {"topic": "Flex card", "fact": "A flex/spending card is a plan-specific allowance for items like food, OTC or utilities; amounts and rules vary by plan, and many expire monthly."}
+  ],
+  "compliance_rules": [
+    "Never imply you are from Medicare, CMS, or a government agency. State you are a licensed insurance agency / agent.",
+    "Do not claim a benefit is 'pending', 'expiring', or 'will go unclaimed' to create false urgency.",
+    "Do not promise a specific dollar grocery/cash card unless the person qualifies under SSBCI (chronic condition) and a plan in their area offers it.",
+    "Honor Do-Not-Call immediately; identify yourself and the company up front (CMS marketing rules).",
+    "Make only accurate statements; confirm Part A & B to assess eligibility, not as a scare tactic."
+  ],
+  "sources": [
+    "https://www.cms.gov/newsroom/fact-sheets/final-cy-2026-part-d-redesign-program-instructions",
+    "https://www.aarp.org/medicare/whats-new-in-medicare-2026/",
+    "https://www.kff.org/medicare/medicare-advantage-2026-spotlight-a-first-look-at-plan-premiums-and-benefits/",
+    "https://www.kff.org/medicare/medicare-advantage-in-2026-premiums-out-of-pocket-limits-supplemental-benefits-and-prior-authorization/",
+    "https://www.medicare.gov/publications/10050-medicare-and-you.pdf"
+  ]
+}

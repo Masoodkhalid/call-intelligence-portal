@@ -1,0 +1,55 @@
+{
+  "id": "mcc7__NP__20260623-154656_5028217605-all",
+  "campaign": "mcc7",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "15:46:56",
+  "phone": "5028217605",
+  "filename": "20260623-154656_5028217605-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NP/20260623-154656_5028217605-all.mp3",
+  "duration": 28.58,
+  "text": "Hello? Hello? Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Kentucky State Relief Program. So have you received any notification about these benefits yet? No. Oh, that's all right. That's exactly why I'm calling.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 18.0,
+      "text": "Hello? Hello? Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Kentucky State Relief Program."
+    },
+    {
+      "start": 18.0,
+      "end": 23.0,
+      "text": "So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 23.0,
+      "end": 29.0,
+      "text": "No. Oh, that's all right. That's exactly why I'm calling."
+    }
+  ],
+  "word_count": 52,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good afternoon This is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Kentucky State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Oh, that's all right That's exactly why I'm calling"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Kentucky State Relief Program. So have you received any notification about these benefits yet? No. Oh, that's all right. That's exactly why I'm calling.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 52
+}

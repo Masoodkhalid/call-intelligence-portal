@@ -1,0 +1,56 @@
+{
+  "id": "mcc7__A__20260623-142253_3862278025-all",
+  "campaign": "mcc7",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "14:22:53",
+  "phone": "3862278025",
+  "filename": "20260623-142253_3862278025-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-A/20260623-142253_3862278025-all.mp3",
+  "duration": 12.74,
+  "text": "Hello? Uh, are you there? After you have finished your message, your chaos, or to hear more options, please press 1.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Uh, are you there?"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "After you have finished your message,"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "your chaos, or to hear more options, please press 1."
+    }
+  ],
+  "word_count": 21,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Uh, are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "After you have finished your message, your chaos, or to hear more options, please press 1"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Uh, are you there? After you have finished your message, your chaos, or to hear more options, please press 1.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 21
+}

@@ -1,0 +1,186 @@
+{
+  "id": "mcc3__RAXFER__20260623-125021_7654377047-all",
+  "campaign": "mcc3",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "12:50:21",
+  "phone": "7654377047",
+  "filename": "20260623-125021_7654377047-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-raxfer/20260623-125021_7654377047-all.mp3",
+  "duration": 92.23,
+  "text": "Hello? Are you there? What is this? Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approvals. So to get your file updated, do you have both Medicare Part A and Part B? Ma'am, I do not know. I have told you guys I need to talk to my son. No problem. So what's your age? I don't know. 70-something. Got it. Please hold while I connect you to the advisor. You guys are a bunch of shit. Thanks for holding on the line. My name is Veronica. How are you doing today? I'm good. You don't speak English. Okay. Yeah. So I'm Carol Johnson. I'm English. Ms. Carol, this call is in regards to your inquiry about Medicare benefits and savings. I believe you have Medicare Part A and B rights. I do not know, ma'am, because you know what? Can you call me back in 10 minutes?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "What is this?"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "My name is Cassie."
+    },
+    {
+      "start": 17.0,
+      "end": 27.0,
+      "text": "So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 27.0,
+      "end": 29.0,
+      "text": "And that can delay your coverage approvals."
+    },
+    {
+      "start": 29.0,
+      "end": 35.0,
+      "text": "So to get your file updated, do you have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 35.0,
+      "end": 37.0,
+      "text": "Ma'am, I do not know."
+    },
+    {
+      "start": 37.0,
+      "end": 43.0,
+      "text": "I have told you guys I need to talk to my son."
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "text": "No problem."
+    },
+    {
+      "start": 44.0,
+      "end": 46.0,
+      "text": "So what's your age?"
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "text": "I don't know."
+    },
+    {
+      "start": 47.0,
+      "end": 52.0,
+      "text": "70-something."
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "text": "Got it."
+    },
+    {
+      "start": 53.0,
+      "end": 57.0,
+      "text": "Please hold while I connect you to the advisor."
+    },
+    {
+      "start": 57.0,
+      "end": 61.0,
+      "text": "You guys are a bunch of shit."
+    },
+    {
+      "start": 61.0,
+      "end": 63.0,
+      "text": "Thanks for holding on the line."
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "text": "My name is Veronica."
+    },
+    {
+      "start": 64.0,
+      "end": 66.0,
+      "text": "How are you doing today?"
+    },
+    {
+      "start": 66.0,
+      "end": 67.0,
+      "text": "I'm good."
+    },
+    {
+      "start": 67.0,
+      "end": 69.0,
+      "text": "You don't speak English."
+    },
+    {
+      "start": 69.0,
+      "end": 70.0,
+      "text": "Okay."
+    },
+    {
+      "start": 70.0,
+      "end": 71.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 71.0,
+      "end": 73.0,
+      "text": "So I'm Carol Johnson."
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "text": "I'm English."
+    },
+    {
+      "start": 74.0,
+      "end": 80.0,
+      "text": "Ms. Carol, this call is in regards to your inquiry about Medicare benefits and savings."
+    },
+    {
+      "start": 80.0,
+      "end": 84.0,
+      "text": "I believe you have Medicare Part A and B rights."
+    },
+    {
+      "start": 84.0,
+      "end": 88.0,
+      "text": "I do not know, ma'am, because you know what?"
+    },
+    {
+      "start": 88.0,
+      "end": 92.0,
+      "text": "Can you call me back in 10 minutes?"
+    }
+  ],
+  "word_count": 173,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "What is this? Good afternoon My name is Cassie So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage approvals So to get your file updated, do you have both Medicare Part A and Part B? Ma'am, I do not know I have told you guys I need to talk to my son No problem So what's your age? I don't know 70-something Got it Please hold while I connect you to the advisor You guys are a bunch of shit"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there? What is this? Good afternoon My name is Cassie So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage approvals So to get your file updated, do you have both Medicare Part A and Part B? Ma'am, I do not know I have told you guys I need to talk to my son No problem So what's your age? I don't know 70-something Got it Please hold while I connect you to the advisor You guys are a bunch of shit",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 102
+}

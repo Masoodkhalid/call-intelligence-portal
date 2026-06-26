@@ -1,0 +1,80 @@
+{
+  "id": "mcc3__NI__20260623-123158_5129993184-all",
+  "campaign": "mcc3",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "12:31:58",
+  "phone": "5129993184",
+  "filename": "20260623-123158_5129993184-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NI/20260623-123158_5129993184-all.mp3",
+  "duration": 47.66,
+  "text": "Hello? You said what? Good morning. My name is Cassie. So, I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approvals. So, to get your file updated, do you have both Medicare Part A and Part B? Hey, are you still there? I was just asking, you do have both Part A and Part B of Medicare, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "You said what?"
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "Good morning. My name is Cassie."
+    },
+    {
+      "start": 9.0,
+      "end": 18.0,
+      "text": "So, I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 18.0,
+      "end": 21.0,
+      "text": "And that can delay your coverage approvals."
+    },
+    {
+      "start": 21.0,
+      "end": 27.0,
+      "text": "So, to get your file updated, do you have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 30.0,
+      "end": 34.0,
+      "text": "Hey, are you still there?"
+    },
+    {
+      "start": 34.0,
+      "end": 40.0,
+      "text": "I was just asking, you do have both Part A and Part B of Medicare, right?"
+    }
+  ],
+  "word_count": 75,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You said what?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning My name is Cassie So, I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage approvals So, to get your file updated, do you have both Medicare Part A and Part B? Hey, are you still there? I was just asking, you do have both Part A and Part B of Medicare, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? You said what? Good morning. My name is Cassie. So, I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approvals. So, to get your file updated, do you have both Medicare Part A and Part B? Hey, are you still there? I was just asking, you do have both Part A and Part B of Medicare, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 75
+}

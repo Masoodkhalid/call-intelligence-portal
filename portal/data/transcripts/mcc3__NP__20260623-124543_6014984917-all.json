@@ -1,0 +1,74 @@
+{
+  "id": "mcc3__NP__20260623-124543_6014984917-all",
+  "campaign": "mcc3",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "12:45:43",
+  "phone": "6014984917",
+  "filename": "20260623-124543_6014984917-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NP/20260623-124543_6014984917-all.mp3",
+  "duration": 19.01,
+  "text": "Hello? Oh. Good morning. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that's true.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Oh."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Good morning."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "My name is Cassie."
+    },
+    {
+      "start": 8.0,
+      "end": 18.0,
+      "text": "So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "text": "When that's true."
+    }
+  ],
+  "word_count": 29,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning My name is Cassie So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "When that's true"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Oh. Good morning. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that's true.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 29
+}

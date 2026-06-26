@@ -1,0 +1,62 @@
+{
+  "id": "mcc7__A__20260623-144233_7138553328-all",
+  "campaign": "mcc7",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "14:42:33",
+  "phone": "7138553328",
+  "filename": "20260623-144233_7138553328-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-A/20260623-144233_7138553328-all.mp3",
+  "duration": 19.44,
+  "text": "Hello? Are you there? Or add to your message, press 1. To mark your message urgent, press 2. To mark your message private, press 3. To send your message as is, press pound.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Or add to your message, press 1."
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "To mark your message urgent, press 2."
+    },
+    {
+      "start": 13.0,
+      "end": 16.0,
+      "text": "To mark your message private, press 3."
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "To send your message as is, press pound."
+    }
+  ],
+  "word_count": 33,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there? Or add to your message, press 1 To mark your message urgent, press 2 To mark your message private, press 3 To send your message as is, press pound"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there? Or add to your message, press 1. To mark your message urgent, press 2. To mark your message private, press 3. To send your message as is, press pound.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 33
+}

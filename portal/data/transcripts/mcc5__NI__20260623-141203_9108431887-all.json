@@ -1,0 +1,70 @@
+{
+  "id": "mcc5__NI__20260623-141203_9108431887-all",
+  "campaign": "mcc5",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "14:12:03",
+  "phone": "9108431887",
+  "filename": "20260623-141203_9108431887-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NI/20260623-141203_9108431887-all.mp3",
+  "duration": 27.5,
+  "text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program. So have you received any notification about these benefits yet? Yes. So I was asking if you've received the notification about the [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.56,
+      "text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because they're"
+    },
+    {
+      "start": 7.56,
+      "end": 12.36,
+      "text": "appending grocery and cash benefits worth up to $300 available on your Medicare"
+    },
+    {
+      "start": 12.36,
+      "end": 16.56,
+      "text": "account through North Carolina State Relief Program. So have you received any"
+    },
+    {
+      "start": 16.56,
+      "end": 20.24,
+      "text": "notification about these benefits yet?"
+    },
+    {
+      "start": 22.96,
+      "end": 27.32,
+      "text": "Yes. So I was asking if you've received the notification about the"
+    },
+    {
+      "start": 27.32,
+      "end": 37.32,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 55,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Rachel So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So I was asking if you've received the notification about the [BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program. So have you received any notification about these benefits yet? Yes. So I was asking if you've received the notification about the [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 55
+}

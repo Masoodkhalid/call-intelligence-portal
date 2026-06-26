@@ -1,0 +1,84 @@
+{
+  "id": "mcc7__BDNC__20260623-140447_8504823302-all",
+  "campaign": "mcc7",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "14:04:47",
+  "phone": "8504823302",
+  "filename": "20260623-140447_8504823302-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-BDNC/20260623-140447_8504823302-all.mp3",
+  "duration": 30.89,
+  "text": "Hello? Vans, you're in our home. Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So far, have you received any updates or notifications about this yet? You should stay in general home to stay in general.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.02,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.02,
+      "end": 4.34,
+      "text": "Vans, you're in our home."
+    },
+    {
+      "start": 4.34,
+      "end": 5.34,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 5.34,
+      "end": 7.18,
+      "text": "This is Jacob."
+    },
+    {
+      "start": 7.18,
+      "end": 14.26,
+      "text": "So I'm calling because there are pending grocery and cash benefits worth up to $300"
+    },
+    {
+      "start": 14.26,
+      "end": 19.66,
+      "text": "available on your Medicare account through Florida State Relief Program."
+    },
+    {
+      "start": 19.66,
+      "end": 24.72,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 24.72,
+      "end": 29.94,
+      "text": "You should stay in general home to stay in general."
+    }
+  ],
+  "word_count": 58,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Vans, you're in our home"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon This is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You should stay in general home to stay in general"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Vans, you're in our home. Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So far, have you received any updates or notifications about this yet? You should stay in general home to stay in general.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 58
+}

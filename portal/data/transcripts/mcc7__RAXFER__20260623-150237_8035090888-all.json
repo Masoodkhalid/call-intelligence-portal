@@ -1,0 +1,89 @@
+{
+  "id": "mcc7__RAXFER__20260623-150237_8035090888-all",
+  "campaign": "mcc7",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "15:02:37",
+  "phone": "8035090888",
+  "filename": "20260623-150237_8035090888-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-raxfer/20260623-150237_8035090888-all.mp3",
+  "duration": 73.87,
+  "text": "Hello. Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina State Relief Program. So far, have you received any updates or notifications about this yet? No. No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? Yeah. Can you hear me? I was just asking if you have Medicare Part A and Part B. That's it, yes. Perfect. You qualify for the benefit. I'm forwarding you to our supervisor. Please hold on. Ladies, I'm alone. Good job. Thank you so much for holding on and this is Daniel Brown. I really didn't get it. Hello. Do you hear me, kid?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.68,
+      "text": "Hello. Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending"
+    },
+    {
+      "start": 8.68,
+      "end": 14.44,
+      "text": "grocery and cash benefits worth up to $300 available on your Medicare account through"
+    },
+    {
+      "start": 14.44,
+      "end": 20.46,
+      "text": "South Carolina State Relief Program. So far, have you received any updates or notifications"
+    },
+    {
+      "start": 20.46,
+      "end": 29.6,
+      "text": "about this yet? No. No. Oh, that's all right. That's exactly why I'm calling. I want to"
+    },
+    {
+      "start": 29.6,
+      "end": 34.48,
+      "text": "help you get these benefits processed before they go unclaimed. You're covered under both"
+    },
+    {
+      "start": 34.48,
+      "end": 44.94,
+      "text": "Part A and Part B, yes? Yeah. Can you hear me? I was just asking if you have Medicare Part"
+    },
+    {
+      "start": 44.94,
+      "end": 52.84,
+      "text": "A and Part B. That's it, yes. Perfect. You qualify for the benefit. I'm forwarding you"
+    },
+    {
+      "start": 52.84,
+      "end": 62.7,
+      "text": "to our supervisor. Please hold on. Ladies, I'm alone. Good job. Thank you so much for"
+    },
+    {
+      "start": 62.7,
+      "end": 72.66,
+      "text": "holding on and this is Daniel Brown. I really didn't get it. Hello. Do you hear me, kid?"
+    }
+  ],
+  "word_count": 143,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No No Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Yeah Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I was just asking if you have Medicare Part A and Part B That's it, yes Perfect You qualify for the benefit I'm forwarding you to our supervisor Please hold on Ladies, I'm alone"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina State Relief Program So far, have you received any updates or notifications about this yet? No No Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes? Yeah Can you hear me? I was just asking if you have Medicare Part A and Part B That's it, yes Perfect You qualify for the benefit I'm forwarding you to our supervisor Please hold on Ladies, I'm alone",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 118
+}

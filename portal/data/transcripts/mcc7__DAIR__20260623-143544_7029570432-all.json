@@ -1,0 +1,37 @@
+{
+  "id": "mcc7__DAIR__20260623-143544_7029570432-all",
+  "campaign": "mcc7",
+  "dispo": "DAIR",
+  "dispo_label": "Dead Air",
+  "date": "2026-06-23",
+  "time": "14:35:44",
+  "phone": "7029570432",
+  "filename": "20260623-143544_7029570432-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-deadair/20260623-143544_7029570432-all.mp3",
+  "duration": 0.22,
+  "text": "[BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.44,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 1,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "[BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 1
+}

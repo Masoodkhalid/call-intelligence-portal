@@ -1,0 +1,161 @@
+{
+  "id": "mcc11__RAXFER__20260623-165151_6126019370-all",
+  "campaign": "mcc11",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "16:51:51",
+  "phone": "6126019370",
+  "filename": "20260623-165151_6126019370-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-RAXFER/20260623-165151_6126019370-all.mp3",
+  "duration": 128.74,
+  "text": "Hello. Hello. Good afternoon. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Minnesota State Relief Program. So far, have you received any updates or notifications about this yet? No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both part A and part B, yes? Yes. Perfect. You qualify for the benefits. I am forwarding you to our supervisor. Please hold on. Thanks for holding. This is Elijah. How are you doing today? I'm great. Now what does this concern you? Well, this call is regarding about to inquire your Medicare updated benefits. You do have Medicare party and divorce, right, sir? Yes. Perfect, sir. So I have a good news for you because recently, Medicare is announced some new age for benefits in the state of Minnesota. So most of the people getting some cashback benefits or food card and many more benefits. So we are just going to make sure that you are getting your all updated benefits that you are entitled to get. And by the way, you are in Minnesota, right? Yes. Perfect. And then what is your zip code over there? Just for a mailing purpose. Excuse me. What is your zip code? Five, five, one, three, zero. What? Five, five, one, three, zero. I got you here, sir. Perfect. So, well, as you can see here, there is some benefits just available in your radio, okay? And by the way, you do have Medicare and Medicaid both, or you just have Medicare. I have them both. What? Mm-hmm. And have you received your food card, a flex card, and some extra benefits on your or not yet? No. so",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello. Hello. Good afternoon. This is Evelyn."
+    },
+    {
+      "start": 7.0,
+      "end": 16.0,
+      "text": "So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Minnesota State Relief Program."
+    },
+    {
+      "start": 16.0,
+      "end": 21.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 21.0,
+      "end": 31.0,
+      "text": "No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed."
+    },
+    {
+      "start": 31.0,
+      "end": 36.0,
+      "text": "You're covered under both part A and part B, yes?"
+    },
+    {
+      "start": 36.0,
+      "end": 39.0,
+      "text": "Yes."
+    },
+    {
+      "start": 39.0,
+      "end": 49.0,
+      "text": "Perfect. You qualify for the benefits. I am forwarding you to our supervisor. Please hold on."
+    },
+    {
+      "start": 49.0,
+      "end": 54.0,
+      "text": "Thanks for holding. This is Elijah. How are you doing today?"
+    },
+    {
+      "start": 54.0,
+      "end": 57.0,
+      "text": "I'm great. Now what does this concern you?"
+    },
+    {
+      "start": 57.0,
+      "end": 64.0,
+      "text": "Well, this call is regarding about to inquire your Medicare updated benefits. You do have Medicare party and divorce, right, sir?"
+    },
+    {
+      "start": 64.0,
+      "end": 66.0,
+      "text": "Yes."
+    },
+    {
+      "start": 66.0,
+      "end": 74.0,
+      "text": "Perfect, sir. So I have a good news for you because recently, Medicare is announced some new age for benefits in the state of Minnesota."
+    },
+    {
+      "start": 74.0,
+      "end": 79.0,
+      "text": "So most of the people getting some cashback benefits or food card and many more benefits."
+    },
+    {
+      "start": 79.0,
+      "end": 84.0,
+      "text": "So we are just going to make sure that you are getting your all updated benefits that you are entitled to get."
+    },
+    {
+      "start": 84.0,
+      "end": 87.0,
+      "text": "And by the way, you are in Minnesota, right?"
+    },
+    {
+      "start": 87.0,
+      "end": 89.0,
+      "text": "Yes."
+    },
+    {
+      "start": 89.0,
+      "end": 94.0,
+      "text": "Perfect. And then what is your zip code over there? Just for a mailing purpose."
+    },
+    {
+      "start": 94.0,
+      "end": 96.0,
+      "text": "Excuse me."
+    },
+    {
+      "start": 96.0,
+      "end": 99.0,
+      "text": "What is your zip code?"
+    },
+    {
+      "start": 99.0,
+      "end": 106.0,
+      "text": "Five, five, one, three, zero. What? Five, five, one, three, zero. I got you here, sir. Perfect."
+    },
+    {
+      "start": 106.0,
+      "end": 116.0,
+      "text": "So, well, as you can see here, there is some benefits just available in your radio, okay? And by the way, you do have Medicare and Medicaid both, or you just have Medicare."
+    },
+    {
+      "start": 116.0,
+      "end": 119.0,
+      "text": "I have them both. What?"
+    },
+    {
+      "start": 119.0,
+      "end": 126.0,
+      "text": "Mm-hmm. And have you received your food card, a flex card, and some extra benefits on your or not yet?"
+    },
+    {
+      "start": 126.0,
+      "end": 128.0,
+      "text": "No."
+    },
+    {
+      "start": 128.0,
+      "end": 130.0,
+      "text": "so"
+    }
+  ],
+  "word_count": 307,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Evelyn So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Minnesota State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? Yes Perfect You qualify for the benefits I am forwarding you to our supervisor Please hold on Thanks for holding"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Hello Good afternoon This is Evelyn So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Minnesota State Relief Program So far, have you received any updates or notifications about this yet? No Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? Yes Perfect You qualify for the benefits I am forwarding you to our supervisor Please hold on Thanks for holding",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 97
+}

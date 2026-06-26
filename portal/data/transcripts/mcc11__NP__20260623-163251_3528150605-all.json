@@ -1,0 +1,61 @@
+{
+  "id": "mcc11__NP__20260623-163251_3528150605-all",
+  "campaign": "mcc11",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "16:32:51",
+  "phone": "3528150605",
+  "filename": "20260623-163251_3528150605-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NP/20260623-163251_3528150605-all.mp3",
+  "duration": 25.56,
+  "text": "\"Hello.\" \"Hello.\" \"Hey, good evening. My name is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program.\" \"So far, have you received any updates or notifications about this yet?\" \"Hello.\" Yeah. And we actually --",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.0,
+      "text": "\"Hello.\" \"Hello.\" \"Hey, good evening. My name is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program.\""
+    },
+    {
+      "start": 15.0,
+      "end": 21.0,
+      "text": "\"So far, have you received any updates or notifications about this yet?\""
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": "\"Hello.\""
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "text": "And we actually --"
+    }
+  ],
+  "word_count": 51,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "\"Hello.\" \"Hello.\" \"Hey, good evening My name is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program.\" \"So far, have you received any updates or notifications about this yet?\" \"Hello.\" Yeah"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "And we actually"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello.\" \"Hello.\" \"Hey, good evening. My name is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program.\" \"So far, have you received any updates or notifications about this yet?\" \"Hello.\" Yeah. And we actually --",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 51
+}

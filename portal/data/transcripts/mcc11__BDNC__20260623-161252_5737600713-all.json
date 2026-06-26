@@ -1,0 +1,41 @@
+{
+  "id": "mcc11__BDNC__20260623-161252_5737600713-all",
+  "campaign": "mcc11",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "16:12:52",
+  "phone": "5737600713",
+  "filename": "20260623-161252_5737600713-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-BDNC/20260623-161252_5737600713-all.mp3",
+  "duration": 15.12,
+  "text": "Hello? Hello? Yes, St. Francis Manor? How may I help you?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Hello? Hello? Yes, St. Francis Manor? How may I help you?"
+    }
+  ],
+  "word_count": 11,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, St Francis Manor? How may I help you?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Yes, St. Francis Manor? How may I help you?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 11
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mcc3__DNQ__20260623-114746_7347312265-all",
+  "campaign": "mcc3",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "11:47:46",
+  "phone": "7347312265",
+  "filename": "20260623-114746_7347312265-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3DNQ/20260623-114746_7347312265-all.mp3",
+  "duration": 33.34,
+  "text": "I'm not on Medicaid or Medicare, or any aid I'm still working full-time. Sorry, but you did not seem to qualify for the plans that we have.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 27.2,
+      "text": "I'm not on Medicaid or Medicare, or any aid I'm still working full-time."
+    },
+    {
+      "start": 27.2,
+      "end": 33.2,
+      "text": "Sorry, but you did not seem to qualify for the plans that we have."
+    }
+  ],
+  "word_count": 27,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm not on Medicaid or Medicare, or any aid I'm still working full-time"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you did not seem to qualify for the plans that we have"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "I'm not on Medicaid or Medicare, or any aid I'm still working full-time. Sorry, but you did not seem to qualify for the plans that we have.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 27
+}

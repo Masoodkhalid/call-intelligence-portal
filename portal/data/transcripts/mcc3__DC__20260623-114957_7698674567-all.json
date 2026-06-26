@@ -1,0 +1,52 @@
+{
+  "id": "mcc3__DC__20260623-114957_7698674567-all",
+  "campaign": "mcc3",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "11:49:57",
+  "phone": "7698674567",
+  "filename": "20260623-114957_7698674567-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-DC/20260623-114957_7698674567-all.mp3",
+  "duration": 17.93,
+  "text": "Hi, good morning. This is Rachel. So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Mississippi State Relief Program. So have you been notified about these benefits yet?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.52,
+      "text": "Hi, good morning. This is Rachel. So I'm calling because they're"
+    },
+    {
+      "start": 8.52,
+      "end": 12.84,
+      "text": "pending grocery and cash benefits worth up to $300 available on your Medicare"
+    },
+    {
+      "start": 12.84,
+      "end": 16.6,
+      "text": "account through Mississippi State Relief Program. So have you been notified"
+    },
+    {
+      "start": 16.6,
+      "end": 19.68,
+      "text": "about these benefits yet?"
+    }
+  ],
+  "word_count": 39,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hi, good morning This is Rachel So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Mississippi State Relief Program So have you been notified about these benefits yet?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hi, good morning. This is Rachel. So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Mississippi State Relief Program. So have you been notified about these benefits yet?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 39
+}

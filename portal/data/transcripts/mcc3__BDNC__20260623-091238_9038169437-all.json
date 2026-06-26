@@ -1,0 +1,41 @@
+{
+  "id": "mcc3__BDNC__20260623-091238_9038169437-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "09:12:38",
+  "phone": "9038169437",
+  "filename": "20260623-091238_9038169437-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-091238_9038169437-all.mp3",
+  "duration": 11.95,
+  "text": "Hello. Hello, Meredith. Trucking.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": "Hello. Hello, Meredith. Trucking."
+    }
+  ],
+  "word_count": 4,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello, Meredith Trucking"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello, Meredith. Trucking.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 4
+}

@@ -1,0 +1,160 @@
+{
+  "id": "mcc3__A__20260623-090318_3123301375-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "09:03:18",
+  "phone": "3123301375",
+  "filename": "20260623-090318_3123301375-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-090318_3123301375-all.mp3",
+  "duration": 53.78,
+  "text": "Hello? What's good? All of that? Good morning. This is Sophie. You see that number. I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff. All of that. It's a four minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So can you let me know if you have both Medicare Part A and Part B? Sorry, you got cut off. I will ask you to message Part A and B of Medicare- To mark your message urgent, press 2. To mark your message private, press 3. Descend your message as is, press pound. are used to.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "What's good?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "All of that?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Good morning."
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "This is Sophie."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "You see that number."
+    },
+    {
+      "start": 7.0,
+      "end": 12.2,
+      "text": "I'm reaching out because we're doing a quick coverage gap audit for people before the December"
+    },
+    {
+      "start": 12.2,
+      "end": 13.2,
+      "text": "7th cutoff."
+    },
+    {
+      "start": 13.2,
+      "end": 14.2,
+      "text": "All of that."
+    },
+    {
+      "start": 14.2,
+      "end": 17.92,
+      "text": "It's a four minute look at what your plan actually covers versus what comes out of your"
+    },
+    {
+      "start": 17.92,
+      "end": 20.64,
+      "text": "own pocket when you need care."
+    },
+    {
+      "start": 20.64,
+      "end": 23.28,
+      "text": "Most people are genuinely surprised by the difference."
+    },
+    {
+      "start": 23.28,
+      "end": 27.52,
+      "text": "We're just trying to reach everyone on the list before that deadline."
+    },
+    {
+      "start": 27.52,
+      "end": 32.6,
+      "text": "So can you let me know if you have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 32.6,
+      "end": 38.32,
+      "text": "Sorry, you got cut off."
+    },
+    {
+      "start": 38.32,
+      "end": 41.16,
+      "text": "I will ask you to message Part A and B of Medicare-"
+    },
+    {
+      "start": 41.16,
+      "end": 44.24,
+      "text": "To mark your message urgent, press 2."
+    },
+    {
+      "start": 44.24,
+      "end": 46.96,
+      "text": "To mark your message private, press 3."
+    },
+    {
+      "start": 46.96,
+      "end": 53.4,
+      "text": "Descend your message as is, press pound."
+    },
+    {
+      "start": 53.4,
+      "end": 53.9,
+      "text": "are used to."
+    }
+  ],
+  "word_count": 136,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "What's good? All of that?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is Sophie You see that number I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff All of that It's a four minute look at what your plan actually covers versus what comes out of your own pocket when you need care Most people are genuinely surprised by the difference We're just trying to reach everyone on the list before that deadline"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So can you let me know if you have both Medicare Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Sorry, you got cut off I will ask you to message Part A and B of Medicare- To mark your message urgent, press 2"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To mark your message private, press 3 Descend your message as is, press pound"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "are used to"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? What's good? All of that? Good morning. This is Sophie. You see that number. I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff. All of that. It's a four minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So can you let me know if you have both Medicare Part A and Part B? Sorry, you got cut off. I will ask you to message Part A and B of Medicare- To mark your message urgent, press 2. To mark your message private, press 3. Descend your message as is, press pound. are used to.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 136
+}

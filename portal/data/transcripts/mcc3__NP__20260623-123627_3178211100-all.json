@@ -1,0 +1,49 @@
+{
+  "id": "mcc3__NP__20260623-123627_3178211100-all",
+  "campaign": "mcc3",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "12:36:27",
+  "phone": "3178211100",
+  "filename": "20260623-123627_3178211100-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NP/20260623-123627_3178211100-all.mp3",
+  "duration": 10.66,
+  "text": "Hello? May I help you? Good afternoon. My name is Cassie. So I'm calling because you're",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.68,
+      "text": "Hello? May I help you? Good afternoon. My name is Cassie. So I'm calling because you're"
+    }
+  ],
+  "word_count": 16,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "May I help you?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon My name is Cassie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So I'm calling because you're"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? May I help you? Good afternoon. My name is Cassie. So I'm calling because you're",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 16
+}

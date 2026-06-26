@@ -1,0 +1,92 @@
+{
+  "id": "mcc11__RAXFER__20260623-154814_2072729625-all",
+  "campaign": "mcc11",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "15:48:14",
+  "phone": "2072729625",
+  "filename": "20260623-154814_2072729625-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-RAXFER/20260623-154814_2072729625-all.mp3",
+  "duration": 96.19,
+  "text": "Hello Good afternoon, this is Jacob So I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars Available on your Medicare account through main state relief program. So have you been notified about these benefits yet? Okay, so actually a lot of members in your area haven't been notified about these yet And I just want to help you get them sorted out. You're on both part a and part B. Yes Perfect you qualify for the benefit. I'm forwarding you to our supervisor, please hold on Thanks for holding on the line. My name is Christopher. How are you doing? All right While this call is in regards to you and Corey about your Medicare advantage plan with the possible additional benefits and you do have Medicare party and be correct I Can break I can barely hear you can you get close to your phone?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello"
+    },
+    {
+      "start": 4.72,
+      "end": 6.72,
+      "text": "Good afternoon, this is Jacob"
+    },
+    {
+      "start": 7.92,
+      "end": 14.24,
+      "text": "So I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars"
+    },
+    {
+      "start": 14.6,
+      "end": 21.7,
+      "text": "Available on your Medicare account through main state relief program. So have you been notified about these benefits yet?"
+    },
+    {
+      "start": 27.88,
+      "end": 32.6,
+      "text": "Okay, so actually a lot of members in your area haven't been notified about these yet"
+    },
+    {
+      "start": 33.2,
+      "end": 38.2,
+      "text": "And I just want to help you get them sorted out. You're on both part a and part B. Yes"
+    },
+    {
+      "start": 43.92,
+      "end": 49.24,
+      "text": "Perfect you qualify for the benefit. I'm forwarding you to our supervisor, please hold on"
+    },
+    {
+      "start": 54.84,
+      "end": 58.66,
+      "text": "Thanks for holding on the line. My name is Christopher. How are you doing?"
+    },
+    {
+      "start": 63.96,
+      "end": 65.32,
+      "text": "All right"
+    },
+    {
+      "start": 65.32,
+      "end": 71.36,
+      "text": "While this call is in regards to you and Corey about your Medicare advantage plan with the possible additional"
+    },
+    {
+      "start": 71.4,
+      "end": 75.18,
+      "text": "benefits and you do have Medicare party and be correct I"
+    },
+    {
+      "start": 84.16,
+      "end": 89.16,
+      "text": "Can break I can barely hear you can you get close to your phone?"
+    }
+  ],
+  "word_count": 153,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Good afternoon, this is Jacob So I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars Available on your Medicare account through main state relief program So have you been notified about these benefits yet? Okay, so actually a lot of members in your area haven't been notified about these yet And I just want to help you get them sorted out You're on both part a and part B Yes Perfect you qualify for the benefit I'm forwarding you to our supervisor, please hold on Thanks for holding on the line My name is Christopher"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Good afternoon, this is Jacob So I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars Available on your Medicare account through main state relief program So have you been notified about these benefits yet? Okay, so actually a lot of members in your area haven't been notified about these yet And I just want to help you get them sorted out You're on both part a and part B Yes Perfect you qualify for the benefit I'm forwarding you to our supervisor, please hold on Thanks for holding on the line My name is Christopher",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 103
+}

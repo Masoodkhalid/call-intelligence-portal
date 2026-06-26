@@ -1,0 +1,56 @@
+{
+  "id": "mcc11__DC__20260623-162703_4143173539-all",
+  "campaign": "mcc11",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "16:27:03",
+  "phone": "4143173539",
+  "filename": "20260623-162703_4143173539-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DC/20260623-162703_4143173539-all.mp3",
+  "duration": 27.72,
+  "text": "Hello. Hello. Hello. Hello. Good afternoon. This is Evelyn. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Wisconsin State Relief Program. So far, have you received any updates or notifications about this yet? [inaudible]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.32,
+      "text": "Hello. Hello. Hello. Hello. Good afternoon. This is Evelyn. So I'm calling because they're"
+    },
+    {
+      "start": 11.32,
+      "end": 16.84,
+      "text": "appending grocery and cash benefits worth up to $300 available on your Medicare account"
+    },
+    {
+      "start": 16.84,
+      "end": 22.44,
+      "text": "through Wisconsin State Relief Program. So far, have you received any updates or notifications"
+    },
+    {
+      "start": 22.44,
+      "end": 29.44,
+      "text": "about this yet? [inaudible]"
+    }
+  ],
+  "word_count": 46,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hello Hello Good afternoon This is Evelyn So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Wisconsin State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "[inaudible]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Hello. Hello. Good afternoon. This is Evelyn. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Wisconsin State Relief Program. So far, have you received any updates or notifications about this yet? [inaudible]",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 46
+}

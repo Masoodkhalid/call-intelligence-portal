@@ -1,0 +1,84 @@
+{
+  "id": "mcc11__DNQ__20260623-151545_6168241682-all",
+  "campaign": "mcc11",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "15:15:45",
+  "phone": "6168241682",
+  "filename": "20260623-151545_6168241682-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DNQ/20260623-151545_6168241682-all.mp3",
+  "duration": 52.78,
+  "text": "\"Hello.\" \"Are you there?\" \"Yeah.\" \"Hello. Good afternoon. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. So have you been notified about these benefits yet?\" \"No.\" \"Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes?\" \"No.\" \"Sorry, but you do not seem to qualify for the plans that we have. Have a great day!",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.1,
+      "text": "\"Hello.\" \"Are you there?\" \"Yeah.\" \"Hello. Good afternoon. This is Evelyn. So I'm calling"
+    },
+    {
+      "start": 15.1,
+      "end": 20.24,
+      "text": "because there are pending grocery and cash benefits worth up to $300 available on your"
+    },
+    {
+      "start": 20.24,
+      "end": 24.72,
+      "text": "Medicare account through Michigan State Relief Program. So have you been notified about these"
+    },
+    {
+      "start": 24.72,
+      "end": 33.88,
+      "text": "benefits yet?\" \"No.\" \"Oh, that's all right. That's exactly why I'm calling. I want to help"
+    },
+    {
+      "start": 33.88,
+      "end": 39.08,
+      "text": "you get these benefits processed before they go unclaimed. You're covered under both Part"
+    },
+    {
+      "start": 39.08,
+      "end": 47.8,
+      "text": "A and Part B, yes?\" \"No.\" \"Sorry, but you do not seem to qualify"
+    },
+    {
+      "start": 47.8,
+      "end": 49.8,
+      "text": "for the plans that we have."
+    },
+    {
+      "start": 49.8,
+      "end": 51.8,
+      "text": "Have a great day!"
+    }
+  ],
+  "word_count": 97,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello.\" \"Are you there?\" \"Yeah.\" \"Hello"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon This is Evelyn So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program So have you been notified about these benefits yet?\" \"No.\" \"Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You're covered under both Part A and Part B, yes?\" \"No.\" \"Sorry, but you do not seem to qualify for the plans that we have"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a great day!"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "\"Hello.\" \"Are you there?\" \"Yeah.\" \"Hello. Good afternoon. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. So have you been notified about these benefits yet?\" \"No.\" \"Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes?\" \"No.\" \"Sorry, but you do not seem to qualify for the plans that we have. Have a great day!",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 97
+}

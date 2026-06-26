@@ -1,0 +1,65 @@
+{
+  "id": "mcc11__NP__20260623-164557_9042753177-all",
+  "campaign": "mcc11",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "16:45:57",
+  "phone": "9042753177",
+  "filename": "20260623-164557_9042753177-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NP/20260623-164557_9042753177-all.mp3",
+  "duration": 16.7,
+  "text": ">> Hello. >> Hello. >> Hi, this is Chris speaking. I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your coverage approvals.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": ">> Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": ">> Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 6.8,
+      "text": ">> Hi, this is Chris speaking."
+    },
+    {
+      "start": 6.8,
+      "end": 11.12,
+      "text": "I'm calling because your Medicare member profile is showing it hasn't been transferred into"
+    },
+    {
+      "start": 11.12,
+      "end": 16.5,
+      "text": "Medicare's national database for 2026 yet, and that can delay your coverage approvals."
+    }
+  ],
+  "word_count": 37,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, this is Chris speaking"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your coverage approvals"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": ">> Hello. >> Hello. >> Hi, this is Chris speaking. I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your coverage approvals.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 37
+}

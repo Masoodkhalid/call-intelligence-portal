@@ -1,0 +1,78 @@
+{
+  "id": "mcc5__A__20260623-125106_9543834360-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "12:51:06",
+  "phone": "9543834360",
+  "filename": "20260623-125106_9543834360-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-125106_9543834360-all.mp3",
+  "duration": 13.03,
+  "text": "I have a chance to do that. Hello? But if you leave your name and I'm going to brief a message, I'll get back with you as soon as possible. Have a great day. Goodbye. The mailbox is full and cannot accept any messages at this point.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "I have a chance to do that."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "But if you leave your name and I'm going to brief a message, I'll get back with you as soon as possible."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Have a great day."
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Goodbye."
+    },
+    {
+      "start": 9.0,
+      "end": 13.0,
+      "text": "The mailbox is full and cannot accept any messages at this point."
+    }
+  ],
+  "word_count": 47,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "I have a chance to do that"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "But if you leave your name and I'm going to brief a message, I'll get back with you as soon as possible"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a great day"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Goodbye The mailbox is full and cannot accept any messages at this point"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "I have a chance to do that. Hello? But if you leave your name and I'm going to brief a message, I'll get back with you as soon as possible. Have a great day. Goodbye. The mailbox is full and cannot accept any messages at this point.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 47
+}

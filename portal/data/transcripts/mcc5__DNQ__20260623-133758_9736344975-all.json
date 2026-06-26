@@ -1,0 +1,79 @@
+{
+  "id": "mcc5__DNQ__20260623-133758_9736344975-all",
+  "campaign": "mcc5",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "13:37:58",
+  "phone": "9736344975",
+  "filename": "20260623-133758_9736344975-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DNQ/20260623-133758_9736344975-all.mp3",
+  "duration": 41.9,
+  "text": "\"Hello?\" \"Hello?\" \"Good afternoon. My name is Sophie. I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff. It's a four minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So, can you let me know if you have both Medicare Part A and Part B?\" \"No.\" \"I'm sorry. It looks like you don't meet the eligibility criteria for our benefit plans.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.54,
+      "text": "\"Hello?\" \"Hello?\" \"Good afternoon. My name is Sophie. I'm reaching out because we're"
+    },
+    {
+      "start": 9.54,
+      "end": 14.86,
+      "text": "doing a quick coverage gap audit for people before the December 7th cutoff. It's a four"
+    },
+    {
+      "start": 14.86,
+      "end": 19.32,
+      "text": "minute look at what your plan actually covers versus what comes out of your own pocket when"
+    },
+    {
+      "start": 19.32,
+      "end": 25.48,
+      "text": "you need care. Most people are genuinely surprised by the difference. We're just trying to reach"
+    },
+    {
+      "start": 25.48,
+      "end": 30.24,
+      "text": "everyone on the list before that deadline. So, can you let me know if you have both Medicare"
+    },
+    {
+      "start": 30.24,
+      "end": 38.04,
+      "text": "Part A and Part B?\" \"No.\" \"I'm sorry. It looks like you don't meet the eligibility"
+    },
+    {
+      "start": 38.04,
+      "end": 39.88,
+      "text": "criteria for our benefit plans.\""
+    }
+  ],
+  "word_count": 101,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "\"Hello?\" \"Hello?\" \"Good afternoon My name is Sophie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff It's a four minute look at what your plan actually covers versus what comes out of your own pocket when you need care Most people are genuinely surprised by the difference We're just trying to reach everyone on the list before that deadline"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So, can you let me know if you have both Medicare Part A and Part B?\" \"No.\" \"I'm sorry"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "It looks like you don't meet the eligibility criteria for our benefit plans.\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Hello?\" \"Good afternoon. My name is Sophie. I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff. It's a four minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So, can you let me know if you have both Medicare Part A and Part B?\" \"No.\" \"I'm sorry. It looks like you don't meet the eligibility criteria for our benefit plans.\"",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 101
+}

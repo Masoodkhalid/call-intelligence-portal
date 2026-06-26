@@ -1,0 +1,51 @@
+{
+  "id": "mcc7__BDNC__20260623-140819_6092890046-all",
+  "campaign": "mcc7",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "14:08:19",
+  "phone": "6092890046",
+  "filename": "20260623-140819_6092890046-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-BDNC/20260623-140819_6092890046-all.mp3",
+  "duration": 12.82,
+  "text": "Hello? You have reached a one transportation. Leave your name and number and I'll give back to you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "You have reached a one transportation."
+    },
+    {
+      "start": 6.0,
+      "end": 12.0,
+      "text": "Leave your name and number and I'll give back to you."
+    }
+  ],
+  "word_count": 18,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You have reached a one transportation Leave your name and number and I'll give back to you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? You have reached a one transportation. Leave your name and number and I'll give back to you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 18
+}

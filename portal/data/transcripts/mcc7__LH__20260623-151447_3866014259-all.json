@@ -1,0 +1,51 @@
+{
+  "id": "mcc7__LH__20260623-151447_3866014259-all",
+  "campaign": "mcc7",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "15:14:47",
+  "phone": "3866014259",
+  "filename": "20260623-151447_3866014259-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-LH/20260623-151447_3866014259-all.mp3",
+  "duration": 11.66,
+  "text": "Hello? I don't, y'all don't want to call me. Yeah.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "I don't, y'all don't want to call me."
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Yeah."
+    }
+  ],
+  "word_count": 10,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I don't, y'all don't want to call me Yeah"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? I don't, y'all don't want to call me. Yeah.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 10
+}

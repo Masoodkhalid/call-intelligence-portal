@@ -1,0 +1,37 @@
+{
+  "id": "mcc11__A__20260623-150155_9362225319-all",
+  "campaign": "mcc11",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "15:01:55",
+  "phone": "9362225319",
+  "filename": "20260623-150155_9362225319-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-A/20260623-150155_9362225319-all.mp3",
+  "duration": 13.25,
+  "text": "Listen, hello. I take sure where you have reached. Fire on my way from my phone. Please leave your name, number, and a brief message, and I'll get back to you as soon as I can. Thank you. Have a wonderful day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.0,
+      "text": "Listen, hello. I take sure where you have reached. Fire on my way from my phone. Please leave your name, number, and a brief message, and I'll get back to you as soon as I can. Thank you. Have a wonderful day."
+    }
+  ],
+  "word_count": 42,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Listen, hello I take sure where you have reached Fire on my way from my phone Please leave your name, number, and a brief message, and I'll get back to you as soon as I can Thank you Have a wonderful day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Listen, hello. I take sure where you have reached. Fire on my way from my phone. Please leave your name, number, and a brief message, and I'll get back to you as soon as I can. Thank you. Have a wonderful day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 42
+}

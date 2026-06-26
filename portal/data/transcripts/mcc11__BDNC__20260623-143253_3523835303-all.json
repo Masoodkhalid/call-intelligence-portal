@@ -1,0 +1,37 @@
+{
+  "id": "mcc11__BDNC__20260623-143253_3523835303-all",
+  "campaign": "mcc11",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "14:32:53",
+  "phone": "3523835303",
+  "filename": "20260623-143253_3523835303-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-BDNC/20260623-143253_3523835303-all.mp3",
+  "duration": 14.69,
+  "text": "\"Hello?\" \"Hello, Commander Pichon. So, what can we get for you?\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.8,
+      "text": "\"Hello?\" \"Hello, Commander Pichon. So, what can we get for you?\""
+    }
+  ],
+  "word_count": 11,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello?\" \"Hello, Commander Pichon So, what can we get for you?\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Hello, Commander Pichon. So, what can we get for you?\"",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 11
+}

@@ -1,0 +1,104 @@
+{
+  "id": "mcc7__BDNC__20260623-143420_9547401495-all",
+  "campaign": "mcc7",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "14:34:20",
+  "phone": "9547401495",
+  "filename": "20260623-143420_9547401495-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-BDNC/20260623-143420_9547401495-all.mp3",
+  "duration": 86.18,
+  "text": "Hello? Are you there? Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So far, have you received any updates or notifications about this yet? Well, I really want to help you get this taken care of as these benefits are time sensitive. So, you do have Medicare Part A and B, right? Can you hear me? I was just asking if you have Medicare Part A and Part B. So, before I could transfer you, let me check your eligibility for the new benefits that we have. That includes food cards, cash benefits of up to $300, flex cards, and very low premiums. After confirming your status, I'll be able to transfer you to the next step. So, you're currently enrolled in both Part A and Part B, correct?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.5,
+      "end": 9.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "Good afternoon. This is Jacob."
+    },
+    {
+      "start": 12.0,
+      "end": 24.0,
+      "text": "So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program."
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 29.0,
+      "end": 37.0,
+      "text": "Well, I really want to help you get this taken care of as these benefits are time sensitive."
+    },
+    {
+      "start": 37.0,
+      "end": 41.0,
+      "text": "So, you do have Medicare Part A and B, right?"
+    },
+    {
+      "start": 45.0,
+      "end": 51.0,
+      "text": "Can you hear me? I was just asking if you have Medicare Part A and Part B."
+    },
+    {
+      "start": 55.0,
+      "end": 60.0,
+      "text": "So, before I could transfer you, let me check your eligibility for the new benefits that we have."
+    },
+    {
+      "start": 60.0,
+      "end": 67.0,
+      "text": "That includes food cards, cash benefits of up to $300, flex cards, and very low premiums."
+    },
+    {
+      "start": 67.0,
+      "end": 70.0,
+      "text": "After confirming your status, I'll be able to transfer you to the next step."
+    },
+    {
+      "start": 70.0,
+      "end": 75.0,
+      "text": "So, you're currently enrolled in both Part A and Part B, correct?"
+    }
+  ],
+  "word_count": 151,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there? Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Well, I really want to help you get this taken care of as these benefits are time sensitive So, you do have Medicare Part A and B, right?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I was just asking if you have Medicare Part A and Part B So, before I could transfer you, let me check your eligibility for the new benefits that we have That includes food cards, cash benefits of up to $300, flex cards, and very low premiums"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there? Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program So far, have you received any updates or notifications about this yet? Well, I really want to help you get this taken care of as these benefits are time sensitive So, you do have Medicare Part A and B, right? Can you hear me? I was just asking if you have Medicare Part A and Part B So, before I could transfer you, let me check your eligibility for the new benefits that we have That includes food cards, cash benefits of up to $300, flex cards, and very low premiums",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 125
+}

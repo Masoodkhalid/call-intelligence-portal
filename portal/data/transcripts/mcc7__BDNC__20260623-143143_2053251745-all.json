@@ -1,0 +1,61 @@
+{
+  "id": "mcc7__BDNC__20260623-143143_2053251745-all",
+  "campaign": "mcc7",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "14:31:43",
+  "phone": "2053251745",
+  "filename": "20260623-143143_2053251745-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-BDNC/20260623-143143_2053251745-all.mp3",
+  "duration": 28.58,
+  "text": "\"Hello?\" \"Hello?\" \"Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So have you been notified about these benefits yet?\" \"Do not call. This is a business. Remove the number from your call list. Do not call.\" [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.76,
+      "text": "\"Hello?\" \"Hello?\" \"Good afternoon. This is Jacob. So I'm calling because there are pending"
+    },
+    {
+      "start": 7.76,
+      "end": 13.32,
+      "text": "grocery and cash benefits worth up to $300 available on your Medicare account through"
+    },
+    {
+      "start": 13.32,
+      "end": 20.0,
+      "text": "Alabama State Relief Program. So have you been notified about these benefits yet?\" \"Do"
+    },
+    {
+      "start": 20.0,
+      "end": 25.52,
+      "text": "not call. This is a business. Remove the number from your call list. Do not call.\""
+    },
+    {
+      "start": 25.52,
+      "end": 35.52,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 59,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "\"Hello?\" \"Hello?\" \"Good afternoon This is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program So have you been notified about these benefits yet?\" \"Do not call"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is a business Remove the number from your call list Do not call.\" [BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Hello?\" \"Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So have you been notified about these benefits yet?\" \"Do not call. This is a business. Remove the number from your call list. Do not call.\" [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 59
+}

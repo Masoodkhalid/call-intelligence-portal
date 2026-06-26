@@ -1,0 +1,46 @@
+{
+  "id": "mcc7__NI__20260623-154411_7025385626-all",
+  "campaign": "mcc7",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "15:44:11",
+  "phone": "7025385626",
+  "filename": "20260623-154411_7025385626-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NI/20260623-154411_7025385626-all.mp3",
+  "duration": 27.5,
+  "text": "\"Hello?\" \"Hello.\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nevada State Relief Program.\" \"So far, have you received any updates or notifications about this yet?\" \"Yeah, so I was asking if you received the notification about the pending credits on your Medicare plan.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 17.0,
+      "text": "\"Hello?\" \"Hello.\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nevada State Relief Program.\""
+    },
+    {
+      "start": 17.0,
+      "end": 27.0,
+      "text": "\"So far, have you received any updates or notifications about this yet?\" \"Yeah, so I was asking if you received the notification about the pending credits on your Medicare plan.\""
+    }
+  ],
+  "word_count": 62,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "\"Hello?\" \"Hello.\" \"Good afternoon This is Jacob"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nevada State Relief Program.\" \"So far, have you received any updates or notifications about this yet?\" \"Yeah, so I was asking if you received the notification about the pending credits on your Medicare plan.\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Hello.\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nevada State Relief Program.\" \"So far, have you received any updates or notifications about this yet?\" \"Yeah, so I was asking if you received the notification about the pending credits on your Medicare plan.\"",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 62
+}

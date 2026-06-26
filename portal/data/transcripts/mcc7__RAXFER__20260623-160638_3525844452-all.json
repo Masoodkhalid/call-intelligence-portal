@@ -1,0 +1,146 @@
+{
+  "id": "mcc7__RAXFER__20260623-160638_3525844452-all",
+  "campaign": "mcc7",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "16:06:38",
+  "phone": "3525844452",
+  "filename": "20260623-160638_3525844452-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-raxfer/20260623-160638_3525844452-all.mp3",
+  "duration": 87.91,
+  "text": "Hello? Hello? Good evening, my name is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So far, have you received any updates or notifications about this yet? No. Oh, that's all right. That's exactly why I'm calling. And I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? Yes, why are you calling? Since you already have a Medicare plan, these credits can easily be processed on your account. Please hold while I get that done for you. Yes, thank you so much for holding on. This is a share with a healthier solution. How are you doing today? I'm fine. What does this call about? Well, you know, this call is to check your eligibility for enrollment into the few year Medicare Advantage plan options, that the agent, so do you have Medicare funding? No, Medicare already told me I do not qualify for any more benefits than I get.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 8.12,
+      "text": "Good evening, my name is Jacob."
+    },
+    {
+      "start": 8.12,
+      "end": 15.28,
+      "text": "So I'm calling because there are pending grocery and cash benefits worth up to $300"
+    },
+    {
+      "start": 15.28,
+      "end": 20.6,
+      "text": "available on your Medicare account through Florida State Relief Program."
+    },
+    {
+      "start": 20.6,
+      "end": 26.32,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 26.32,
+      "end": 30.32,
+      "text": "No."
+    },
+    {
+      "start": 30.32,
+      "end": 31.32,
+      "text": "Oh, that's all right."
+    },
+    {
+      "start": 31.32,
+      "end": 32.96,
+      "text": "That's exactly why I'm calling."
+    },
+    {
+      "start": 32.96,
+      "end": 37.02,
+      "text": "And I want to help you get these benefits processed before they go unclaimed."
+    },
+    {
+      "start": 37.02,
+      "end": 41.08,
+      "text": "You're covered under both Part A and Part B, yes?"
+    },
+    {
+      "start": 41.08,
+      "end": 44.88,
+      "text": "Yes, why are you calling?"
+    },
+    {
+      "start": 44.88,
+      "end": 49.82,
+      "text": "Since you already have a Medicare plan, these credits can easily be processed on your account."
+    },
+    {
+      "start": 49.82,
+      "end": 59.0,
+      "text": "Please hold while I get that done for you."
+    },
+    {
+      "start": 59.0,
+      "end": 62.0,
+      "text": "Yes, thank you so much for holding on."
+    },
+    {
+      "start": 62.0,
+      "end": 64.0,
+      "text": "This is a share with a healthier solution."
+    },
+    {
+      "start": 64.0,
+      "end": 67.0,
+      "text": "How are you doing today?"
+    },
+    {
+      "start": 67.0,
+      "end": 68.0,
+      "text": "I'm fine."
+    },
+    {
+      "start": 68.0,
+      "end": 69.76,
+      "text": "What does this call about?"
+    },
+    {
+      "start": 69.76,
+      "end": 75.02,
+      "text": "Well, you know, this call is to check your eligibility for enrollment into the few year"
+    },
+    {
+      "start": 75.02,
+      "end": 81.08,
+      "text": "Medicare Advantage plan options, that the agent, so do you have Medicare funding?"
+    },
+    {
+      "start": 81.08,
+      "end": 87.46,
+      "text": "No, Medicare already told me I do not qualify for any more benefits than I get."
+    }
+  ],
+  "word_count": 182,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good evening, my name is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes? Yes, why are you calling? Since you already have a Medicare plan, these credits can easily be processed on your account Please hold while I get that done for you Yes, thank you so much for holding on"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Good evening, my name is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program So far, have you received any updates or notifications about this yet? No Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes? Yes, why are you calling? Since you already have a Medicare plan, these credits can easily be processed on your account Please hold while I get that done for you Yes, thank you so much for holding on",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 117
+}

@@ -1,0 +1,87 @@
+{
+  "id": "mcc3__A__20260623-093841_3047072475-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "09:38:41",
+  "phone": "3047072475",
+  "filename": "20260623-093841_3047072475-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-093841_3047072475-all.mp3",
+  "duration": 50.04,
+  "text": "Your call. Hello. At the tone. Good morning. My name is Cassie. When you finished recording, simply hang up. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So you do have both part A and part B, right? Hey, are you still there? I was asking, you do have both part A and part B is Medicare, right? To mark your message private, press three. To send your message as is, press pound. Are you still there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.4,
+      "text": "Your call. Hello. At the tone. Good morning. My name is Cassie. When you finished recording,"
+    },
+    {
+      "start": 6.4,
+      "end": 12.56,
+      "text": "simply hang up. So I'm calling because your Medicare member profile hasn't been transferred"
+    },
+    {
+      "start": 12.56,
+      "end": 20.24,
+      "text": "into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays"
+    },
+    {
+      "start": 20.24,
+      "end": 27.2,
+      "text": "in your coverage approvals. I can verify it real quick. So you do have both part A and part B, right?"
+    },
+    {
+      "start": 30.0,
+      "end": 40.32,
+      "text": "Hey, are you still there? I was asking, you do have both part A and part B is Medicare, right?"
+    },
+    {
+      "start": 40.32,
+      "end": 46.08,
+      "text": "To mark your message private, press three. To send your message as is, press pound."
+    },
+    {
+      "start": 49.44,
+      "end": 51.44,
+      "text": "Are you still there?"
+    }
+  ],
+  "word_count": 106,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Your call"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "At the tone"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning My name is Cassie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "When you finished recording, simply hang up"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick So you do have both part A and part B, right? Hey, are you still there? I was asking, you do have both part A and part B is Medicare, right? To mark your message private, press three To send your message as is, press pound Are you still there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Your call. Hello. At the tone. Good morning. My name is Cassie. When you finished recording, simply hang up. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So you do have both part A and part B, right? Hey, are you still there? I was asking, you do have both part A and part B is Medicare, right? To mark your message private, press three. To send your message as is, press pound. Are you still there?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 106
+}

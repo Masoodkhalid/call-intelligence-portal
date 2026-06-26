@@ -1,0 +1,55 @@
+{
+  "id": "mcc7__N__20260623-153928_3043005707-all",
+  "campaign": "mcc7",
+  "dispo": "N",
+  "dispo_label": "No Response",
+  "date": "2026-06-23",
+  "time": "15:39:28",
+  "phone": "3043005707",
+  "filename": "20260623-153928_3043005707-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-N/20260623-153928_3043005707-all.mp3",
+  "duration": 11.59,
+  "text": "Hello? Hello, Chris? Uh, are you there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hello, Chris?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Uh, are you there?"
+    }
+  ],
+  "word_count": 7,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello, Chris?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Uh, are you there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello, Chris? Uh, are you there?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 7
+}

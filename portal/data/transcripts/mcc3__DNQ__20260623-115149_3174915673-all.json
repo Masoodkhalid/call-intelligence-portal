@@ -1,0 +1,79 @@
+{
+  "id": "mcc3__DNQ__20260623-115149_3174915673-all",
+  "campaign": "mcc3",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "11:51:49",
+  "phone": "3174915673",
+  "filename": "20260623-115149_3174915673-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3DNQ/20260623-115149_3174915673-all.mp3",
+  "duration": 27.43,
+  "text": "Hello? Who's this? Hi, good morning, this is Rachel. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Indiana State Relief Program. So, have you been notified about these benefits yet? I don't even have Medicaid. Sorry, but you didn't know that.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Who's this?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Hi, good morning, this is Rachel."
+    },
+    {
+      "start": 10.0,
+      "end": 18.0,
+      "text": "So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Indiana State Relief Program."
+    },
+    {
+      "start": 18.0,
+      "end": 22.0,
+      "text": "So, have you been notified about these benefits yet?"
+    },
+    {
+      "start": 22.0,
+      "end": 25.0,
+      "text": "I don't even have Medicaid."
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "Sorry, but you didn't know that."
+    }
+  ],
+  "word_count": 54,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Who's this?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi, good morning, this is Rachel So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Indiana State Relief Program So, have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I don't even have Medicaid Sorry, but you didn't know that"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Who's this? Hi, good morning, this is Rachel. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Indiana State Relief Program. So, have you been notified about these benefits yet? I don't even have Medicaid. Sorry, but you didn't know that.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 54
+}

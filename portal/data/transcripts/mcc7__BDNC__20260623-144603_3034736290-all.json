@@ -1,0 +1,46 @@
+{
+  "id": "mcc7__BDNC__20260623-144603_3034736290-all",
+  "campaign": "mcc7",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "14:46:03",
+  "phone": "3034736290",
+  "filename": "20260623-144603_3034736290-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-BDNC/20260623-144603_3034736290-all.mp3",
+  "duration": 9.43,
+  "text": "Older community health and East MedSurg Department, please press 3 to be transferred to the front desk. Hello.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.28,
+      "text": "Older community health and East MedSurg Department, please press 3 to be transferred to the front desk."
+    },
+    {
+      "start": 8.76,
+      "end": 9.26,
+      "text": "Hello."
+    }
+  ],
+  "word_count": 18,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Older community health and East MedSurg Department, please press 3 to be transferred to the front desk"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Older community health and East MedSurg Department, please press 3 to be transferred to the front desk. Hello.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 18
+}

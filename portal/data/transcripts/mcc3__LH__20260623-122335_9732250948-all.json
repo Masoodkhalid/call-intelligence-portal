@@ -1,0 +1,57 @@
+{
+  "id": "mcc3__LH__20260623-122335_9732250948-all",
+  "campaign": "mcc3",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "12:23:35",
+  "phone": "9732250948",
+  "filename": "20260623-122335_9732250948-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-LH/20260623-122335_9732250948-all.mp3",
+  "duration": 32.54,
+  "text": "Hello? Are you there? Hello, good afternoon. This is Rachel. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program. So, have you received any notification about these benefits yet?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.98,
+      "text": "Hello? Are you there?"
+    },
+    {
+      "start": 7.98,
+      "end": 15.34,
+      "text": "Hello, good afternoon. This is Rachel. So, I'm calling because there are pending"
+    },
+    {
+      "start": 15.34,
+      "end": 20.6,
+      "text": "grocery and cash benefits worth up to $300 available on your Medicare account through"
+    },
+    {
+      "start": 20.6,
+      "end": 24.84,
+      "text": "New Jersey State Relief Program. So, have you received any notification about these"
+    },
+    {
+      "start": 24.84,
+      "end": 30.96,
+      "text": "benefits yet?"
+    }
+  ],
+  "word_count": 46,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there? Hello, good afternoon This is Rachel So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program So, have you received any notification about these benefits yet?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there? Hello, good afternoon. This is Rachel. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program. So, have you received any notification about these benefits yet?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 46
+}

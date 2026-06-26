@@ -1,0 +1,92 @@
+{
+  "id": "mcc11__RAXFER__20260623-163316_2174252158-all",
+  "campaign": "mcc11",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "16:33:16",
+  "phone": "2174252158",
+  "filename": "20260623-163316_2174252158-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-RAXFER/20260623-163316_2174252158-all.mp3",
+  "duration": 71.35,
+  "text": "\"Hello.\" \"Hey.\" \"Are you there?\" \"Yes. We're here.\" \"Hello, good afternoon. This is Rachel.\" \"So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So have you received any notification about these benefits yet?\" \"No, but just been it to me.\" \"Well, I'm just here to make sure you don't miss out and to help you get everything processed. You do have both Part A and B of Medicare, right?\" \"Yes, yes.\" \"Can you hear me?\" \"I was just asking if you have Medicare Part A and Part B.\" \"I said yes, honey.\" \"Perfect. You qualify for the benefits. I am forwarding you to our supervisor. Please hold on.\" \"Thanks for holding, this is Kevin Adams. How are you today?\" \"Hey Kevin Adams, are you the supervisor?\" \"Yes, I am.\" \"Supervised needs nuts.\" \"And my benefits.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.32,
+      "text": "\"Hello.\" \"Hey.\" \"Are you there?\" \"Yes. We're here.\" \"Hello, good afternoon. This is Rachel.\""
+    },
+    {
+      "start": 8.32,
+      "end": 13.12,
+      "text": "\"So I'm calling because there are pending grocery and cash benefits worth up to $300"
+    },
+    {
+      "start": 13.12,
+      "end": 17.36,
+      "text": "available on your Medicare account through Illinois State Relief Program. So have you"
+    },
+    {
+      "start": 17.36,
+      "end": 22.16,
+      "text": "received any notification about these benefits yet?\" \"No, but just been it to me.\""
+    },
+    {
+      "start": 24.32,
+      "end": 28.0,
+      "text": "\"Well, I'm just here to make sure you don't miss out and to help you get everything processed."
+    },
+    {
+      "start": 28.8,
+      "end": 33.36,
+      "text": "You do have both Part A and B of Medicare, right?\" \"Yes, yes.\""
+    },
+    {
+      "start": 37.36,
+      "end": 41.44,
+      "text": "\"Can you hear me?\" \"I was just asking if you have Medicare Part A and Part B.\""
+    },
+    {
+      "start": 42.48,
+      "end": 47.92,
+      "text": "\"I said yes, honey.\" \"Perfect. You qualify for the benefits."
+    },
+    {
+      "start": 48.8,
+      "end": 51.68,
+      "text": "I am forwarding you to our supervisor. Please hold on.\""
+    },
+    {
+      "start": 57.2,
+      "end": 60.4,
+      "text": "\"Thanks for holding, this is Kevin Adams. How are you today?\""
+    },
+    {
+      "start": 61.12,
+      "end": 64.96,
+      "text": "\"Hey Kevin Adams, are you the supervisor?\" \"Yes, I am.\""
+    },
+    {
+      "start": 66.64,
+      "end": 70.64,
+      "text": "\"Supervised needs nuts.\" \"And my benefits.\""
+    }
+  ],
+  "word_count": 151,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello.\" \"Hey.\" \"Are you there?\" \"Yes We're here.\" \"Hello, good afternoon This is Rachel.\" \"So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program So have you received any notification about these benefits yet?\" \"No, but just been it to me.\" \"Well, I'm just here to make sure you don't miss out and to help you get everything processed You do have both Part A and B of Medicare, right?\" \"Yes, yes.\" \"Can you hear me?\" \"I was just asking if you have Medicare Part A and Part B.\" \"I said yes, honey.\" \"Perfect You qualify for the benefits I am forwarding you to our supervisor Please hold on.\" \"Thanks for holding, this is Kevin Adams How are you today?\" \"Hey Kevin Adams, are you the supervisor?\" \"Yes, I am.\" \"Supervised needs nuts.\" \"And my benefits.\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello.\" \"Hey.\" \"Are you there?\" \"Yes We're here.\" \"Hello, good afternoon This is Rachel.\" \"So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program So have you received any notification about these benefits yet?\" \"No, but just been it to me.\" \"Well, I'm just here to make sure you don't miss out and to help you get everything processed You do have both Part A and B of Medicare, right?\" \"Yes, yes.\" \"Can you hear me?\" \"I was just asking if you have Medicare Part A and Part B.\" \"I said yes, honey.\" \"Perfect You qualify for the benefits I am forwarding you to our supervisor Please hold on.\" \"Thanks for holding, this is Kevin Adams How are you today?\" \"Hey Kevin Adams, are you the supervisor?\" \"Yes, I am.\" \"Supervised needs nuts.\" \"And my benefits.\"",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 151
+}

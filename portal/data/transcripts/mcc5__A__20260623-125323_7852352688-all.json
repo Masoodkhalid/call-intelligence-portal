@@ -1,0 +1,46 @@
+{
+  "id": "mcc5__A__20260623-125323_7852352688-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "12:53:23",
+  "phone": "7852352688",
+  "filename": "20260623-125323_7852352688-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-125323_7852352688-all.mp3",
+  "duration": 13.54,
+  "text": "Can't take your call now. At the tone, please record your message. When you have finished recording, simply hang up, or press the pound key for further options.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Can't take your call now. At the tone, please record your message."
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "When you have finished recording, simply hang up, or press the pound key for further options."
+    }
+  ],
+  "word_count": 28,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Can't take your call now At the tone, please record your message"
+    },
+    {
+      "speaker": "BOT",
+      "text": "When you have finished recording, simply hang up, or press the pound key for further options"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Can't take your call now. At the tone, please record your message. When you have finished recording, simply hang up, or press the pound key for further options.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 28
+}

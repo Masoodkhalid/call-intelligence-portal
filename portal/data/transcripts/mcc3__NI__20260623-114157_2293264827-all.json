@@ -1,0 +1,88 @@
+{
+  "id": "mcc3__NI__20260623-114157_2293264827-all",
+  "campaign": "mcc3",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "11:41:57",
+  "phone": "2293264827",
+  "filename": "20260623-114157_2293264827-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NI/20260623-114157_2293264827-all.mp3",
+  "duration": 53.71,
+  "text": "\"Hello?\" \"Good morning. This is-\" \"Good morning.\" \"I'm launching out because we're running a quick coverage gap audit for folks before the December 7th cutoff. It's about a four minute look at what your current plan actually pays versus what you'd owe out of pocket in a real situation. A lot of people assume their plan covers more than it actually does, and the gap only shows up when they need care. We just want to make sure you have the full picture before that deadline hits. So, can you let me know if you have both Medicare Part A and Part B? Sorry, you got cut off. I was asking if you have both Part A and B of Medicare?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.04,
+      "text": "\"Hello?\" \"Good morning. This is-\" \"Good morning.\""
+    },
+    {
+      "start": 7.04,
+      "end": 12.28,
+      "text": "\"I'm launching out because we're running a quick coverage gap audit for folks before"
+    },
+    {
+      "start": 12.28,
+      "end": 17.32,
+      "text": "the December 7th cutoff. It's about a four minute look at what your current plan actually"
+    },
+    {
+      "start": 17.32,
+      "end": 22.88,
+      "text": "pays versus what you'd owe out of pocket in a real situation. A lot of people assume their"
+    },
+    {
+      "start": 22.88,
+      "end": 28.08,
+      "text": "plan covers more than it actually does, and the gap only shows up when they need care."
+    },
+    {
+      "start": 28.08,
+      "end": 32.72,
+      "text": "We just want to make sure you have the full picture before that deadline hits. So, can"
+    },
+    {
+      "start": 32.72,
+      "end": 42.96,
+      "text": "you let me know if you have both Medicare Part A and Part B? Sorry, you got cut off."
+    },
+    {
+      "start": 42.96,
+      "end": 46.76,
+      "text": "I was asking if you have both Part A and B of Medicare?"
+    }
+  ],
+  "word_count": 121,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "\"Hello?\" \"Good morning"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is-\" \"Good morning.\" \"I'm launching out because we're running a quick coverage gap audit for folks before the December 7th cutoff It's about a four minute look at what your current plan actually pays versus what you'd owe out of pocket in a real situation A lot of people assume their plan covers more than it actually does, and the gap only shows up when they need care We just want to make sure you have the full picture before that deadline hits"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So, can you let me know if you have both Medicare Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Sorry, you got cut off"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I was asking if you have both Part A and B of Medicare?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Good morning. This is-\" \"Good morning.\" \"I'm launching out because we're running a quick coverage gap audit for folks before the December 7th cutoff. It's about a four minute look at what your current plan actually pays versus what you'd owe out of pocket in a real situation. A lot of people assume their plan covers more than it actually does, and the gap only shows up when they need care. We just want to make sure you have the full picture before that deadline hits. So, can you let me know if you have both Medicare Part A and Part B? Sorry, you got cut off. I was asking if you have both Part A and B of Medicare?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 121
+}

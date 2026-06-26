@@ -1,0 +1,50 @@
+{
+  "id": "mcc11__BDNC__20260623-153803_6189313706-all",
+  "campaign": "mcc11",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "15:38:03",
+  "phone": "6189313706",
+  "filename": "20260623-153803_6189313706-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-BDNC/20260623-153803_6189313706-all.mp3",
+  "duration": 11.16,
+  "text": "- Hello? - Hello, this is the Ambus. Hello?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "- Hello? - Hello, this is the Ambus."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Hello?"
+    }
+  ],
+  "word_count": 9,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello, this is the Ambus"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "- Hello? - Hello, this is the Ambus. Hello?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 9
+}

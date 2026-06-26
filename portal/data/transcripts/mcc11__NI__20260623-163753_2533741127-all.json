@@ -1,0 +1,79 @@
+{
+  "id": "mcc11__NI__20260623-163753_2533741127-all",
+  "campaign": "mcc11",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "16:37:53",
+  "phone": "2533741127",
+  "filename": "20260623-163753_2533741127-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NI/20260623-163753_2533741127-all.mp3",
+  "duration": 35.64,
+  "text": ">> Hello. Hello. Good afternoon. This is Evelyn. So I'm calling because there are pending grocery and cash benefits with up to $300 available on your Medicare account through your state's release program. So have you been notified about these benefits yet? Yes. So I was asking if you received the notification about the pending credits on your Medicare plan. Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": ">> Hello. Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Good afternoon. This is Evelyn."
+    },
+    {
+      "start": 6.0,
+      "end": 13.0,
+      "text": "So I'm calling because there are pending grocery and cash benefits with up to $300 available"
+    },
+    {
+      "start": 13.0,
+      "end": 16.0,
+      "text": "on your Medicare account through your state's release program."
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "So have you been notified about these benefits yet?"
+    },
+    {
+      "start": 20.0,
+      "end": 29.0,
+      "text": "Yes. So I was asking if you received the notification about the pending credits on your Medicare plan."
+    },
+    {
+      "start": 29.0,
+      "end": 34.0,
+      "text": "Thank you."
+    }
+  ],
+  "word_count": 62,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Evelyn So I'm calling because there are pending grocery and cash benefits with up to $300 available on your Medicare account through your state's release program So have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So I was asking if you received the notification about the pending credits on your Medicare plan"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Thank you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": ">> Hello. Hello. Good afternoon. This is Evelyn. So I'm calling because there are pending grocery and cash benefits with up to $300 available on your Medicare account through your state's release program. So have you been notified about these benefits yet? Yes. So I was asking if you received the notification about the pending credits on your Medicare plan. Thank you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 62
+}

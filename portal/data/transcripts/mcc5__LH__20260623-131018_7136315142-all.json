@@ -1,0 +1,47 @@
+{
+  "id": "mcc5__LH__20260623-131018_7136315142-all",
+  "campaign": "mcc5",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "13:10:18",
+  "phone": "7136315142",
+  "filename": "20260623-131018_7136315142-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-LH/20260623-131018_7136315142-all.mp3",
+  "duration": 25.63,
+  "text": "Hello. Hello. Good afternoon. This is Evelyn. So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So, have you received any notification about these benefits yet?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.32,
+      "text": "Hello. Hello. Good afternoon. This is Evelyn. So, I'm calling because they're appending"
+    },
+    {
+      "start": 13.32,
+      "end": 18.92,
+      "text": "grocery and cash benefits worth up to $300 available on your Medicare account through"
+    },
+    {
+      "start": 18.92,
+      "end": 23.72,
+      "text": "Texas State Relief Program. So, have you received any notification about these benefits yet?"
+    }
+  ],
+  "word_count": 41,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Evelyn So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So, have you received any notification about these benefits yet?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Evelyn. So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So, have you received any notification about these benefits yet?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 41
+}

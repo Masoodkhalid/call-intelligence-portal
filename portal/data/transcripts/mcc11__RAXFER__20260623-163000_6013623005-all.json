@@ -1,0 +1,154 @@
+{
+  "id": "mcc11__RAXFER__20260623-163000_6013623005-all",
+  "campaign": "mcc11",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "16:30:00",
+  "phone": "6013623005",
+  "filename": "20260623-163000_6013623005-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-RAXFER/20260623-163000_6013623005-all.mp3",
+  "duration": 99.72,
+  "text": "Hello? Are you there? I'm here. You called me. Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Mississippi State Relief Program. So, have you been notified about these benefits yet? Yes. Oh, okay, great. So, the notification has all the details and I just want to help you get everything processed. You're enrolled in both Part A and Part B, aren't you? Good. But you do have both Part A and Part B of Medicare, right? Yes, thank you. Perfect. You qualify for the benefits. I'm forwarding you to our supervisor. Please hold on. I thank you so much for holding on the line. My name is Alex Murphy. How are you doing, Trudy? Mm-hmm. Yes, ma'am. She's the Murphy's 10th Street for me. Well, this call is about your Medicare additional benefits and savings. So, do you have Medicare Part A and B? I don't know. How old are you? Mm-hmm. How old are you? I don't know. There you go. The man goes and comes.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "I'm here. You called me."
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "Good afternoon. This is Jacob."
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "So, I'm calling because there are pending grocery and cash benefits"
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": "worth up to $300 available on your Medicare account"
+    },
+    {
+      "start": 24.0,
+      "end": 27.0,
+      "text": "through Mississippi State Relief Program."
+    },
+    {
+      "start": 27.0,
+      "end": 31.0,
+      "text": "So, have you been notified about these benefits yet?"
+    },
+    {
+      "start": 31.0,
+      "end": 35.0,
+      "text": "Yes."
+    },
+    {
+      "start": 35.0,
+      "end": 39.0,
+      "text": "Oh, okay, great. So, the notification has all the details and"
+    },
+    {
+      "start": 39.0,
+      "end": 45.0,
+      "text": "I just want to help you get everything processed. You're enrolled in both Part A and Part B, aren't you?"
+    },
+    {
+      "start": 45.0,
+      "end": 49.0,
+      "text": "Good."
+    },
+    {
+      "start": 49.0,
+      "end": 54.0,
+      "text": "But you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "start": 54.0,
+      "end": 58.0,
+      "text": "Yes, thank you."
+    },
+    {
+      "start": 58.0,
+      "end": 66.0,
+      "text": "Perfect. You qualify for the benefits. I'm forwarding you to our supervisor. Please hold on."
+    },
+    {
+      "start": 66.0,
+      "end": 74.0,
+      "text": "I thank you so much for holding on the line. My name is Alex Murphy. How are you doing, Trudy?"
+    },
+    {
+      "start": 74.0,
+      "end": 80.0,
+      "text": "Mm-hmm. Yes, ma'am. She's the Murphy's 10th Street for me."
+    },
+    {
+      "start": 80.0,
+      "end": 84.0,
+      "text": "Well, this call is about your Medicare additional benefits and savings."
+    },
+    {
+      "start": 84.0,
+      "end": 88.0,
+      "text": "So, do you have Medicare Part A and B?"
+    },
+    {
+      "start": 88.0,
+      "end": 92.0,
+      "text": "I don't know. How old are you?"
+    },
+    {
+      "start": 92.0,
+      "end": 96.0,
+      "text": "Mm-hmm. How old are you?"
+    },
+    {
+      "start": 96.0,
+      "end": 100.0,
+      "text": "I don't know. There you go. The man goes and comes."
+    }
+  ],
+  "word_count": 185,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there? I'm here You called me Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Mississippi State Relief Program So, have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes Oh, okay, great So, the notification has all the details and I just want to help you get everything processed You're enrolled in both Part A and Part B, aren't you?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good But you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, thank you Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on I thank you so much for holding on the line"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there? I'm here You called me Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Mississippi State Relief Program So, have you been notified about these benefits yet? Yes Oh, okay, great So, the notification has all the details and I just want to help you get everything processed You're enrolled in both Part A and Part B, aren't you? Good But you do have both Part A and Part B of Medicare, right? Yes, thank you Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on I thank you so much for holding on the line",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 122
+}

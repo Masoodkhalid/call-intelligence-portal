@@ -1,0 +1,52 @@
+{
+  "id": "mcc11__NI__20260623-164549_9362990795-all",
+  "campaign": "mcc11",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "16:45:49",
+  "phone": "9362990795",
+  "filename": "20260623-164549_9362990795-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NI/20260623-164549_9362990795-all.mp3",
+  "duration": 21.02,
+  "text": "Hi, this is Sarah. We hope your Medicare profile and there has been no showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both Part A and Part B? So you do have Part A and B of Medicare, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.0,
+      "text": "Hi, this is Sarah. We hope your Medicare profile and there has been no showing your 2026 update hasn't been confirmed yet."
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": "We just need a quick confirmation so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": "Do you have both Part A and Part B?"
+    },
+    {
+      "start": 18.0,
+      "end": 21.0,
+      "text": "So you do have Part A and B of Medicare, right?"
+    }
+  ],
+  "word_count": 54,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hi, this is Sarah We hope your Medicare profile and there has been no showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both Part A and Part B? So you do have Part A and B of Medicare, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hi, this is Sarah. We hope your Medicare profile and there has been no showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both Part A and Part B? So you do have Part A and B of Medicare, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 54
+}

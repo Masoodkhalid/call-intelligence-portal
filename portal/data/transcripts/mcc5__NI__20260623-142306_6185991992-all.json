@@ -1,0 +1,51 @@
+{
+  "id": "mcc5__NI__20260623-142306_6185991992-all",
+  "campaign": "mcc5",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "14:23:06",
+  "phone": "6185991992",
+  "filename": "20260623-142306_6185991992-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NI/20260623-142306_6185991992-all.mp3",
+  "duration": 27.0,
+  "text": "Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approval. So you do have both part A and part B, right? Hey,",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.8,
+      "text": "Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member"
+    },
+    {
+      "start": 8.8,
+      "end": 15.3,
+      "text": "profile hasn't been transferred into Medicare's national database for 2026 yet. And that"
+    },
+    {
+      "start": 15.3,
+      "end": 27.0,
+      "text": "can hold up your coverage approval. So you do have both part A and part B, right? Hey,"
+    }
+  ],
+  "word_count": 45,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approval So you do have both part A and part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey,"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approval. So you do have both part A and part B, right? Hey,",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 45
+}

@@ -1,0 +1,64 @@
+{
+  "id": "mcc11__A__20260623-160231_2568743433-all",
+  "campaign": "mcc11",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "16:02:31",
+  "phone": "2568743433",
+  "filename": "20260623-160231_2568743433-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-A/20260623-160231_2568743433-all.mp3",
+  "duration": 13.39,
+  "text": "Hello. At the tell-em, please record your message. When you've finished recording, you may hang up or press 1 for more options. To leave a callback number, press 5.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello."
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "At the tell-em, please record your message."
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": "When you've finished recording, you may hang up or press 1 for more options."
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "To leave a callback number, press 5."
+    }
+  ],
+  "word_count": 29,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "At the tell-em, please record your message"
+    },
+    {
+      "speaker": "BOT",
+      "text": "When you've finished recording, you may hang up or press 1 for more options"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To leave a callback number, press 5"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. At the tell-em, please record your message. When you've finished recording, you may hang up or press 1 for more options. To leave a callback number, press 5.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 29
+}

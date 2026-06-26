@@ -1,0 +1,60 @@
+{
+  "id": "mcc5__NP__20260623-142328_5035761912-all",
+  "campaign": "mcc5",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "14:23:28",
+  "phone": "5035761912",
+  "filename": "20260623-142328_5035761912-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NP/20260623-142328_5035761912-all.mp3",
+  "duration": 22.18,
+  "text": ">> Hello. Are you there? >> Yep. >> Good morning. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicaid.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": ">> Hello. Are you there?"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": ">> Yep."
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": ">> Good morning. My name is Cassie."
+    },
+    {
+      "start": 16.0,
+      "end": 23.0,
+      "text": "So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicaid."
+    }
+  ],
+  "word_count": 30,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yep"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning My name is Cassie So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicaid"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": ">> Hello. Are you there? >> Yep. >> Good morning. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicaid.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 30
+}

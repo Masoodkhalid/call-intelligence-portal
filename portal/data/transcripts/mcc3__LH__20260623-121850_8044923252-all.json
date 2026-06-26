@@ -1,0 +1,65 @@
+{
+  "id": "mcc3__LH__20260623-121850_8044923252-all",
+  "campaign": "mcc3",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "12:18:50",
+  "phone": "8044923252",
+  "filename": "20260623-121850_8044923252-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-LH/20260623-121850_8044923252-all.mp3",
+  "duration": 24.91,
+  "text": "Hello? Yes, ma'am. Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's National Database for 2026 yet. And that can hold up your coverage approvals. So, you do have both Part A and Part B, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "Hello? Yes, ma'am."
+    },
+    {
+      "start": 4.16,
+      "end": 8.6,
+      "text": "Good afternoon. My name is Cassie."
+    },
+    {
+      "start": 8.6,
+      "end": 16.64,
+      "text": "So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's National Database for 2026 yet."
+    },
+    {
+      "start": 16.64,
+      "end": 19.68,
+      "text": "And that can hold up your coverage approvals."
+    },
+    {
+      "start": 19.68,
+      "end": 23.32,
+      "text": "So, you do have both Part A and Part B, right?"
+    }
+  ],
+  "word_count": 46,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, ma'am"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon My name is Cassie So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's National Database for 2026 yet And that can hold up your coverage approvals So, you do have both Part A and Part B, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Yes, ma'am. Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's National Database for 2026 yet. And that can hold up your coverage approvals. So, you do have both Part A and Part B, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 46
+}

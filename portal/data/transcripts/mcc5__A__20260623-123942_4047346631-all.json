@@ -1,0 +1,51 @@
+{
+  "id": "mcc5__A__20260623-123942_4047346631-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "12:39:42",
+  "phone": "4047346631",
+  "filename": "20260623-123942_4047346631-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-123942_4047346631-all.mp3",
+  "duration": 9.65,
+  "text": "Hello? Can't take your call now. At the tone, please record your message. When you've finished recording, simply hang up.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello? Can't take your call now."
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "At the tone, please record your message."
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "When you've finished recording, simply hang up."
+    }
+  ],
+  "word_count": 20,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Can't take your call now At the tone, please record your message When you've finished recording, simply hang up"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Can't take your call now. At the tone, please record your message. When you've finished recording, simply hang up.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 20
+}

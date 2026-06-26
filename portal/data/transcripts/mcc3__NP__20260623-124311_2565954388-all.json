@@ -1,0 +1,41 @@
+{
+  "id": "mcc3__NP__20260623-124311_2565954388-all",
+  "campaign": "mcc3",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "12:43:11",
+  "phone": "2565954388",
+  "filename": "20260623-124311_2565954388-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NP/20260623-124311_2565954388-all.mp3",
+  "duration": 28.15,
+  "text": "\"Hello?\" \"Hello.\" \"Good morning. This is Sophie.\" \"I'm reaching out because we're doing a quick coverage gap audit for people before the December 7 cutoff. It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just going to reach everyone on the list before that deadline.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 28.0,
+      "text": "\"Hello?\" \"Hello.\" \"Good morning. This is Sophie.\" \"I'm reaching out because we're doing a quick coverage gap audit for people before the December 7 cutoff. It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just going to reach everyone on the list before that deadline.\""
+    }
+  ],
+  "word_count": 67,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "\"Hello?\" \"Hello.\" \"Good morning"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is Sophie.\" \"I'm reaching out because we're doing a quick coverage gap audit for people before the December 7 cutoff It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care Most people are genuinely surprised by the difference We're just going to reach everyone on the list before that deadline.\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Hello.\" \"Good morning. This is Sophie.\" \"I'm reaching out because we're doing a quick coverage gap audit for people before the December 7 cutoff. It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just going to reach everyone on the list before that deadline.\"",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 67
+}

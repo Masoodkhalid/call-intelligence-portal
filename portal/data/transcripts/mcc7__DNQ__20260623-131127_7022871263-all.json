@@ -1,0 +1,83 @@
+{
+  "id": "mcc7__DNQ__20260623-131127_7022871263-all",
+  "campaign": "mcc7",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "13:11:27",
+  "phone": "7022871263",
+  "filename": "20260623-131127_7022871263-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DNQ/20260623-131127_7022871263-all.mp3",
+  "duration": 47.09,
+  "text": "Good morning. My name is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars available on your Medicare account through Nevada State Relief Program. So have you received any notification about these benefits yet? Come on. So just so you know a lot of members haven't been notified yet and I just want to help you get these benefits processed. You're on both part A and B, right? No, Medicaid. Not Medicare. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.56,
+      "text": "Good morning. My name is Jacob. So I'm calling because there are pending grocery and cash"
+    },
+    {
+      "start": 9.56,
+      "end": 14.68,
+      "text": "benefits worth up to three hundred dollars available on your Medicare account through"
+    },
+    {
+      "start": 14.68,
+      "end": 20.56,
+      "text": "Nevada State Relief Program. So have you received any notification about these benefits"
+    },
+    {
+      "start": 20.56,
+      "end": 28.36,
+      "text": "yet? Come on. So just so you know a lot of members haven't been notified yet and I just"
+    },
+    {
+      "start": 28.36,
+      "end": 37.6,
+      "text": "want to help you get these benefits processed. You're on both part A and B, right? No, Medicaid."
+    },
+    {
+      "start": 37.6,
+      "end": 44.64,
+      "text": "Not Medicare. Sorry, but you don't seem to qualify for the plans that we have. Have a"
+    },
+    {
+      "start": 44.64,
+      "end": 45.24,
+      "text": "great day."
+    }
+  ],
+  "word_count": 98,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Good morning My name is Jacob So I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars available on your Medicare account through Nevada State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Come on So just so you know a lot of members haven't been notified yet and I just want to help you get these benefits processed"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're on both part A and B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, Medicaid Not Medicare"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you don't seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Good morning. My name is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars available on your Medicare account through Nevada State Relief Program. So have you received any notification about these benefits yet? Come on. So just so you know a lot of members haven't been notified yet and I just want to help you get these benefits processed. You're on both part A and B, right? No, Medicaid. Not Medicare. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 98
+}

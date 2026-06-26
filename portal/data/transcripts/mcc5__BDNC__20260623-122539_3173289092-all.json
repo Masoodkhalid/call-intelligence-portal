@@ -1,0 +1,52 @@
+{
+  "id": "mcc5__BDNC__20260623-122539_3173289092-all",
+  "campaign": "mcc5",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "12:25:39",
+  "phone": "3173289092",
+  "filename": "20260623-122539_3173289092-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-BNDC/20260623-122539_3173289092-all.mp3",
+  "duration": 23.69,
+  "text": "Shoppers world, you have reached our shoppers and the location, located at 3919 Lafayette Road in the Annapolis, Indiana. Please look carefully and make your selection at any time. For sure, hours, please press 2. For any questions or to speak to someone at this location, please press NOT.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.7,
+      "text": "Shoppers world, you have reached our shoppers and the location, located at 3919 Lafayette Road in the Annapolis, Indiana."
+    },
+    {
+      "start": 10.7,
+      "end": 14.7,
+      "text": "Please look carefully and make your selection at any time."
+    },
+    {
+      "start": 14.7,
+      "end": 17.9,
+      "text": "For sure, hours, please press 2."
+    },
+    {
+      "start": 17.9,
+      "end": 23.9,
+      "text": "For any questions or to speak to someone at this location, please press NOT."
+    }
+  ],
+  "word_count": 49,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Shoppers world, you have reached our shoppers and the location, located at 3919 Lafayette Road in the Annapolis, Indiana Please look carefully and make your selection at any time For sure, hours, please press 2 For any questions or to speak to someone at this location, please press NOT"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Shoppers world, you have reached our shoppers and the location, located at 3919 Lafayette Road in the Annapolis, Indiana. Please look carefully and make your selection at any time. For sure, hours, please press 2. For any questions or to speak to someone at this location, please press NOT.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 49
+}

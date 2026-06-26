@@ -1,0 +1,62 @@
+{
+  "id": "mcc5__RAXFER__20260623-140728_5129668130-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:07:28",
+  "phone": "5129668130",
+  "filename": "20260623-140728_5129668130-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-140728_5129668130-all.mp3",
+  "duration": 45.58,
+  "text": "Hello. Hello. Yes. Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So you do have both part A and part B, right? Yes. You do qualify forwarding you to our supervisor now. Please hold. Thanks for holding. Does it have any how are you doing?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 18.0,
+      "text": "Hello. Hello. Yes. Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 18.0,
+      "end": 23.0,
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals."
+    },
+    {
+      "start": 23.0,
+      "end": 29.0,
+      "text": "I can verify it real quick. So you do have both part A and part B, right?"
+    },
+    {
+      "start": 29.0,
+      "end": 31.0,
+      "text": "Yes."
+    },
+    {
+      "start": 31.0,
+      "end": 41.0,
+      "text": "You do qualify forwarding you to our supervisor now. Please hold."
+    },
+    {
+      "start": 41.0,
+      "end": 45.0,
+      "text": "Thanks for holding. Does it have any how are you doing?"
+    }
+  ],
+  "word_count": 81,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Hello Yes Hello Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick So you do have both part A and part B, right? Yes You do qualify forwarding you to our supervisor now Please hold Thanks for holding"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Hello Yes Hello Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick So you do have both part A and part B, right? Yes You do qualify forwarding you to our supervisor now Please hold Thanks for holding",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 73
+}

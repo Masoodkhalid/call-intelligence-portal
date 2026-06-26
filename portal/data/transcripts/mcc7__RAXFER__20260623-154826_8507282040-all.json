@@ -1,0 +1,196 @@
+{
+  "id": "mcc7__RAXFER__20260623-154826_8507282040-all",
+  "campaign": "mcc7",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "15:48:26",
+  "phone": "8507282040",
+  "filename": "20260623-154826_8507282040-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-raxfer/20260623-154826_8507282040-all.mp3",
+  "duration": 174.82,
+  "text": "Hello. Are you there? I am. Hello. Good afternoon. This is Evelyn. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So far, have you received any updates or notifications about this yet? No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. Uh, you're covered under both part A and part B, yes? Yes. Perfect. You qualify for the benefits. I am forwarding you to our supervisor. Please hold on. Thanks for holding. This is Greg. How are you today? Okay. Good to hear that. Pleasure to have you on the call, ma'am. Nice to meet you. This call is in regards to quite about Medicare additional benefits and savings options that you may qualify for. Do you have Medicare A and B both? Yes. Awesome. As you do have Medicare A and B, you may qualify to get some additional benefits like food card, grocery allowances over the counter. And you also have a chance to get a cash back on your social security check every month. Okay. Let's go ahead and start with your age. How old are you right now? Seventy-five. Not sure. At the age of 75, ma'am, do you make your own healthcare decisions? You are the boss? Yes. Awesome. Let's take a look here in your county. What is available for you? May I have your zip code in Florida? Three, two, three, zero, one. Three, two, three, zero, one. Thank you very much for that. So right now you are in Leon County, right? Yes. Mm-hmm. There are some quite options that are available for you. Adjust for the compliance purpose. How do you pronounce your first and last name? I'm not sure this is kind of creepy for me. Do they send us any written material? Of course. Yes, ma'am. We are. Of course. We're going to send you something in writing after check your eligibility. Okay? Can't that be done without? No, ma'am. We cannot. I'm sorry. Oh, well, thank you very much, good bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello."
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "I am."
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Hello. Good afternoon. This is Evelyn."
+    },
+    {
+      "start": 15.0,
+      "end": 24.0,
+      "text": "So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program."
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 29.0,
+      "end": 32.0,
+      "text": "No."
+    },
+    {
+      "start": 32.0,
+      "end": 38.0,
+      "text": "Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed."
+    },
+    {
+      "start": 38.0,
+      "end": 43.0,
+      "text": "Uh, you're covered under both part A and part B, yes?"
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": "Yes."
+    },
+    {
+      "start": 45.0,
+      "end": 52.0,
+      "text": "Perfect. You qualify for the benefits. I am forwarding you to our supervisor. Please hold on."
+    },
+    {
+      "start": 52.0,
+      "end": 59.0,
+      "text": "Thanks for holding. This is Greg. How are you today?"
+    },
+    {
+      "start": 59.0,
+      "end": 61.0,
+      "text": "Okay."
+    },
+    {
+      "start": 61.0,
+      "end": 65.0,
+      "text": "Good to hear that. Pleasure to have you on the call, ma'am. Nice to meet you."
+    },
+    {
+      "start": 65.0,
+      "end": 72.0,
+      "text": "This call is in regards to quite about Medicare additional benefits and savings options that you may qualify for."
+    },
+    {
+      "start": 72.0,
+      "end": 77.0,
+      "text": "Do you have Medicare A and B both?"
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "text": "Yes."
+    },
+    {
+      "start": 78.0,
+      "end": 88.0,
+      "text": "Awesome. As you do have Medicare A and B, you may qualify to get some additional benefits like food card, grocery allowances over the counter."
+    },
+    {
+      "start": 88.0,
+      "end": 96.0,
+      "text": "And you also have a chance to get a cash back on your social security check every month. Okay."
+    },
+    {
+      "start": 96.0,
+      "end": 102.0,
+      "text": "Let's go ahead and start with your age. How old are you right now?"
+    },
+    {
+      "start": 102.0,
+      "end": 111.0,
+      "text": "Seventy-five. Not sure. At the age of 75, ma'am, do you make your own healthcare decisions? You are the boss?"
+    },
+    {
+      "start": 111.0,
+      "end": 113.0,
+      "text": "Yes."
+    },
+    {
+      "start": 113.0,
+      "end": 122.0,
+      "text": "Awesome. Let's take a look here in your county. What is available for you? May I have your zip code in Florida?"
+    },
+    {
+      "start": 122.0,
+      "end": 133.0,
+      "text": "Three, two, three, zero, one. Three, two, three, zero, one. Thank you very much for that. So right now you are in Leon County, right?"
+    },
+    {
+      "start": 133.0,
+      "end": 134.0,
+      "text": "Yes."
+    },
+    {
+      "start": 134.0,
+      "end": 138.0,
+      "text": "Mm-hmm. There are some quite options that are available for you."
+    },
+    {
+      "start": 138.0,
+      "end": 144.0,
+      "text": "Adjust for the compliance purpose. How do you pronounce your first and last name?"
+    },
+    {
+      "start": 144.0,
+      "end": 155.0,
+      "text": "I'm not sure this is kind of creepy for me. Do they send us any written material?"
+    },
+    {
+      "start": 155.0,
+      "end": 165.0,
+      "text": "Of course. Yes, ma'am. We are. Of course. We're going to send you something in writing after check your eligibility. Okay?"
+    },
+    {
+      "start": 165.0,
+      "end": 168.0,
+      "text": "Can't that be done without?"
+    },
+    {
+      "start": 168.0,
+      "end": 171.0,
+      "text": "No, ma'am. We cannot. I'm sorry."
+    },
+    {
+      "start": 171.0,
+      "end": 174.84,
+      "text": "Oh, well, thank you very much, good bye."
+    }
+  ],
+  "word_count": 363,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Are you there? I am Hello Good afternoon This is Evelyn So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed Uh, you're covered under both part A and part B, yes? Yes Perfect You qualify for the benefits I am forwarding you to our supervisor Please hold on Thanks for holding"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Are you there? I am Hello Good afternoon This is Evelyn So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program So far, have you received any updates or notifications about this yet? No Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed Uh, you're covered under both part A and part B, yes? Yes Perfect You qualify for the benefits I am forwarding you to our supervisor Please hold on Thanks for holding",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 102
+}

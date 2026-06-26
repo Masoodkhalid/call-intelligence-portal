@@ -1,0 +1,42 @@
+{
+  "id": "mcc5__NP__20260623-143127_9035767611-all",
+  "campaign": "mcc5",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "14:31:27",
+  "phone": "9035767611",
+  "filename": "20260623-143127_9035767611-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NP/20260623-143127_9035767611-all.mp3",
+  "duration": 18.94,
+  "text": "Hello. Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 17.0,
+      "text": "Hello. Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "And that can delay your coverage."
+    }
+  ],
+  "word_count": 34,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Good afternoon My name is Cassie So, I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 34
+}

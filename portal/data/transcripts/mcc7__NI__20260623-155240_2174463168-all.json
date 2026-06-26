@@ -1,0 +1,57 @@
+{
+  "id": "mcc7__NI__20260623-155240_2174463168-all",
+  "campaign": "mcc7",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "15:52:40",
+  "phone": "2174463168",
+  "filename": "20260623-155240_2174463168-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NI/20260623-155240_2174463168-all.mp3",
+  "duration": 29.3,
+  "text": "\"Hello?\" \"Hello.\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So far, have you received any updates or notifications about this yet?\" \"Yes, so I was asking if you've received the [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.52,
+      "text": "\"Hello?\" \"Hello.\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending"
+    },
+    {
+      "start": 8.52,
+      "end": 14.52,
+      "text": "grocery and cash benefits worth up to $300 available on your Medicare account through"
+    },
+    {
+      "start": 14.52,
+      "end": 20.52,
+      "text": "Illinois State Relief Program. So far, have you received any updates or notifications"
+    },
+    {
+      "start": 20.52,
+      "end": 29.0,
+      "text": "about this yet?\" \"Yes, so I was asking if you've received the"
+    },
+    {
+      "start": 29.0,
+      "end": 39.0,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 54,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "\"Hello?\" \"Hello.\" \"Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program So far, have you received any updates or notifications about this yet?\" \"Yes, so I was asking if you've received the [BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Hello.\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So far, have you received any updates or notifications about this yet?\" \"Yes, so I was asking if you've received the [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 54
+}

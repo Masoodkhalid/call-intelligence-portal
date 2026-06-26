@@ -1,0 +1,72 @@
+{
+  "id": "mcc3__RAXFER__20260623-103859_6098362229-all",
+  "campaign": "mcc3",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "10:38:59",
+  "phone": "6098362229",
+  "filename": "20260623-103859_6098362229-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-raxfer/20260623-103859_6098362229-all.mp3",
+  "duration": 51.26,
+  "text": "Hello. Hello. Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So you do have both part A and part B, right? Yes. You do qualify forwarding you to our supervisor now. Please hold. Please, I've got a company. I'm sorry. Thank you so much for holding on the line. This is Brian that health care solution I do in three. Brian, I cannot talk to you. I have tried to tell the lady but she wouldn't listen to me. I have company now and I cannot talk, okay? I'm sorry. You'll [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.56,
+      "text": "Hello. Hello. Good morning. My name is Cassie. So I'm calling because your Medicare member"
+    },
+    {
+      "start": 11.56,
+      "end": 18.14,
+      "text": "profile hasn't been transferred into Medicare's national database for 2026 yet. And that can"
+    },
+    {
+      "start": 18.14,
+      "end": 26.8,
+      "text": "hold up your coverage approvals. So you do have both part A and part B, right? Yes. You"
+    },
+    {
+      "start": 26.8,
+      "end": 33.32,
+      "text": "do qualify forwarding you to our supervisor now. Please hold. Please, I've got a company."
+    },
+    {
+      "start": 33.32,
+      "end": 38.92,
+      "text": "I'm sorry. Thank you so much for holding on the line. This is Brian that health care"
+    },
+    {
+      "start": 38.92,
+      "end": 44.2,
+      "text": "solution I do in three. Brian, I cannot talk to you. I have tried to tell the lady but"
+    },
+    {
+      "start": 44.2,
+      "end": 50.68,
+      "text": "she wouldn't listen to me. I have company now and I cannot talk, okay? I'm sorry. You'll"
+    },
+    {
+      "start": 50.68,
+      "end": 60.68,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 116,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Hello Good morning My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals So you do have both part A and part B, right? Yes You do qualify forwarding you to our supervisor now Please hold Please, I've got a company"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Hello Good morning My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals So you do have both part A and part B, right? Yes You do qualify forwarding you to our supervisor now Please hold Please, I've got a company",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 62
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mcc3__BDNC__20260623-092947_2394034736-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "09:29:47",
+  "phone": "2394034736",
+  "filename": "20260623-092947_2394034736-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-092947_2394034736-all.mp3",
+  "duration": 11.74,
+  "text": "Hello. Green door nursery.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello. Green door nursery."
+    }
+  ],
+  "word_count": 4,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Green door nursery"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Green door nursery.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 4
+}

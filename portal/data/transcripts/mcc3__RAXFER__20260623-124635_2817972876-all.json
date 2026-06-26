@@ -1,0 +1,61 @@
+{
+  "id": "mcc3__RAXFER__20260623-124635_2817972876-all",
+  "campaign": "mcc3",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "12:46:35",
+  "phone": "2817972876",
+  "filename": "20260623-124635_2817972876-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-raxfer/20260623-124635_2817972876-all.mp3",
+  "duration": 36.94,
+  "text": "Hello? Yes. Good morning. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approvals. So to get your file updated, do you have both Medicare Part A and Part B? Yes. You do qualify forwarding you to our supervisor now. Please hold.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.72,
+      "text": "Hello? Yes. Good morning. My name is Cassie. So I'm calling because your Medicare member"
+    },
+    {
+      "start": 11.72,
+      "end": 17.6,
+      "text": "profile is showing it hasn't been transferred into Medicare's national database for 2026"
+    },
+    {
+      "start": 17.6,
+      "end": 24.34,
+      "text": "yet. And that can delay your coverage approvals. So to get your file updated, do you have both"
+    },
+    {
+      "start": 24.34,
+      "end": 34.14,
+      "text": "Medicare Part A and Part B? Yes. You do qualify forwarding you to our supervisor now. Please"
+    },
+    {
+      "start": 34.14,
+      "end": 36.42,
+      "text": "hold."
+    }
+  ],
+  "word_count": 64,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes Good morning My name is Cassie So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage approvals So to get your file updated, do you have both Medicare Part A and Part B? Yes You do qualify forwarding you to our supervisor now Please hold"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Yes Good morning My name is Cassie So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage approvals So to get your file updated, do you have both Medicare Part A and Part B? Yes You do qualify forwarding you to our supervisor now Please hold",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 64
+}

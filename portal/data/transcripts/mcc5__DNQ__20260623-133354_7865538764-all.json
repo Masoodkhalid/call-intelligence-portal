@@ -1,0 +1,65 @@
+{
+  "id": "mcc5__DNQ__20260623-133354_7865538764-all",
+  "campaign": "mcc5",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "13:33:54",
+  "phone": "7865538764",
+  "filename": "20260623-133354_7865538764-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DNQ/20260623-133354_7865538764-all.mp3",
+  "duration": 31.82,
+  "text": "\"Hello?\" \"Hello?\" \"Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So, you do have both Part A and Part B, right?\" \"I lost Medicare.\" \"Sorry, you don't seem to qualify for the plans we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.76,
+      "text": "\"Hello?\" \"Hello?\" \"Good afternoon. My name is Cassie. So, I'm calling because your Medicare"
+    },
+    {
+      "start": 9.76,
+      "end": 16.56,
+      "text": "member profile hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 16.56,
+      "end": 23.6,
+      "text": "And that can hold up your coverage approvals. So, you do have both Part A and Part B, right?\""
+    },
+    {
+      "start": 23.6,
+      "end": 29.48,
+      "text": "\"I lost Medicare.\" \"Sorry, you don't seem to qualify for the"
+    },
+    {
+      "start": 29.48,
+      "end": 33.68,
+      "text": "plans we have. Have a great day."
+    }
+  ],
+  "word_count": 63,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "\"Hello?\" \"Hello?\" \"Good afternoon My name is Cassie So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So, you do have both Part A and Part B, right?\" \"I lost Medicare.\" \"Sorry, you don't seem to qualify for the plans we have"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "\"Hello?\" \"Hello?\" \"Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So, you do have both Part A and Part B, right?\" \"I lost Medicare.\" \"Sorry, you don't seem to qualify for the plans we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 63
+}

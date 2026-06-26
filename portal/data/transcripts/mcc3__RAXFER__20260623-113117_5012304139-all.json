@@ -1,0 +1,190 @@
+{
+  "id": "mcc3__RAXFER__20260623-113117_5012304139-all",
+  "campaign": "mcc3",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "11:31:17",
+  "phone": "5012304139",
+  "filename": "20260623-113117_5012304139-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-raxfer/20260623-113117_5012304139-all.mp3",
+  "duration": 113.62,
+  "text": ">> Hello. >> Hello. >> Good morning, my name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So, you do have both Part A and Part B, right? >> All right, so. >> Sorry about that, I was asking. You do have both Part A and Part B of Medicare, right? >> I told you, I'm right, so I'm not sure. >> No problem. So, what's your age? >> 90. >> Got it. Please hold while I connect you to the advisor. >> Thank you so much for holding on, my name is Mason, how are you? >> I'm all right. >> God bless you and glad to have you on the phone, you know, this call is in regards to the inquiry about Medicare benefits. You have Medicare Part A and B both, that's correct. >> All right, so. >> Like do you have a red, white, and a blue Medicare health insurance card? >> I'm never saying well. >> Sorry? >> I have a saying word, I don't know. >> All right, and do you know how old are you, what's your age? >> How old are you, what's your age? >> How old are you, what's your age? >> I'm not telling you, you're not giving me any information.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": ">> Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": ">> Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 8.2,
+      "text": ">> Good morning, my name is Cassie."
+    },
+    {
+      "start": 8.2,
+      "end": 13.5,
+      "text": "So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's"
+    },
+    {
+      "start": 13.5,
+      "end": 16.96,
+      "text": "national database for 2026 yet."
+    },
+    {
+      "start": 16.96,
+      "end": 19.28,
+      "text": "And that can hold up your coverage approvals."
+    },
+    {
+      "start": 19.28,
+      "end": 23.6,
+      "text": "So, you do have both Part A and Part B, right?"
+    },
+    {
+      "start": 23.6,
+      "end": 25.88,
+      "text": ">> All right, so."
+    },
+    {
+      "start": 25.88,
+      "end": 30.32,
+      "text": ">> Sorry about that, I was asking."
+    },
+    {
+      "start": 30.32,
+      "end": 34.18,
+      "text": "You do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "start": 34.18,
+      "end": 39.44,
+      "text": ">> I told you, I'm right, so I'm not sure."
+    },
+    {
+      "start": 39.44,
+      "end": 40.44,
+      "text": ">> No problem."
+    },
+    {
+      "start": 40.44,
+      "end": 43.9,
+      "text": "So, what's your age?"
+    },
+    {
+      "start": 43.9,
+      "end": 46.6,
+      "text": ">> 90."
+    },
+    {
+      "start": 46.6,
+      "end": 49.24,
+      "text": ">> Got it."
+    },
+    {
+      "start": 49.24,
+      "end": 53.08,
+      "text": "Please hold while I connect you to the advisor."
+    },
+    {
+      "start": 53.08,
+      "end": 63.44,
+      "text": ">> Thank you so much for holding on, my name is Mason, how are you?"
+    },
+    {
+      "start": 63.44,
+      "end": 66.36,
+      "text": ">> I'm all right."
+    },
+    {
+      "start": 66.36,
+      "end": 70.12,
+      "text": ">> God bless you and glad to have you on the phone, you know, this call is in regards to"
+    },
+    {
+      "start": 70.12,
+      "end": 72.68,
+      "text": "the inquiry about Medicare benefits."
+    },
+    {
+      "start": 72.68,
+      "end": 75.72,
+      "text": "You have Medicare Part A and B both, that's correct."
+    },
+    {
+      "start": 75.72,
+      "end": 77.64,
+      "text": ">> All right, so."
+    },
+    {
+      "start": 77.64,
+      "end": 85.12,
+      "text": ">> Like do you have a red, white, and a blue Medicare health insurance card?"
+    },
+    {
+      "start": 85.12,
+      "end": 87.2,
+      "text": ">> I'm never saying well."
+    },
+    {
+      "start": 87.2,
+      "end": 89.2,
+      "text": ">> Sorry?"
+    },
+    {
+      "start": 89.2,
+      "end": 94.24,
+      "text": ">> I have a saying word, I don't know."
+    },
+    {
+      "start": 94.24,
+      "end": 100.44,
+      "text": ">> All right, and do you know how old are you, what's your age?"
+    },
+    {
+      "start": 100.44,
+      "end": 105.04,
+      "text": ">> How old are you, what's your age?"
+    },
+    {
+      "start": 105.04,
+      "end": 107.36,
+      "text": ">> How old are you, what's your age?"
+    },
+    {
+      "start": 107.36,
+      "end": 113.32,
+      "text": ">> I'm not telling you, you're not giving me any information."
+    }
+  ],
+  "word_count": 232,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Hello Good morning, my name is Cassie So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals So, you do have both Part A and Part B, right?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "All right, so Sorry about that, I was asking You do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I told you, I'm right, so I'm not sure No problem So, what's your age? 90 Got it Please hold while I connect you to the advisor Thank you so much for holding on, my name is Mason, how are you?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Hello Good morning, my name is Cassie So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals So, you do have both Part A and Part B, right? All right, so Sorry about that, I was asking You do have both Part A and Part B of Medicare, right? I told you, I'm right, so I'm not sure No problem So, what's your age? 90 Got it Please hold while I connect you to the advisor Thank you so much for holding on, my name is Mason, how are you?",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 107
+}

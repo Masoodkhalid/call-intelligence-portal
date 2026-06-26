@@ -1,0 +1,167 @@
+{
+  "id": "mcc5__RAXFER__20260623-140333_3198302606-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:03:33",
+  "phone": "3198302606",
+  "filename": "20260623-140333_3198302606-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-140333_3198302606-all.mp3",
+  "duration": 77.11,
+  "text": "- Hello. - Can I help you? - Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? - Yeah. Far as I know I do. - Perfect. Let me connect you with the Medicare specialist from Iowa. - Hi. Thank you so much for holding on. My name is Sam. How are you doing today? - I'm doing fine. What's the true partnership in Medicare? - Well, this call is in regards to inquiry about Medicare new benefits. You do have Medicare Part A and B, right? - I believe so. - How old are you? - 81. - Okay. In the age of 81, are you getting any retirement plan or any health insurance through your previous job? - Well, that's none of your business on that one. - It's great. My business, sir. - No, no, no, no, no. - If there's none of my business, then you can leave the call, sir. - Okay. Goodbye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "- Hello. - Can I help you?"
+    },
+    {
+      "start": 3.42,
+      "end": 6.06,
+      "text": "- Hey, this is Chelsea."
+    },
+    {
+      "start": 6.06,
+      "end": 8.42,
+      "text": "There's a note on your Medicare profile that"
+    },
+    {
+      "start": 8.42,
+      "end": 11.68,
+      "text": "your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 11.68,
+      "end": 14.86,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 14.86,
+      "end": 17.3,
+      "text": "Do you have Part A and Part B?"
+    },
+    {
+      "start": 17.3,
+      "end": 20.42,
+      "text": "- Yeah. Far as I know I do."
+    },
+    {
+      "start": 20.42,
+      "end": 21.66,
+      "text": "- Perfect. Let me connect you with"
+    },
+    {
+      "start": 21.66,
+      "end": 24.42,
+      "text": "the Medicare specialist from Iowa."
+    },
+    {
+      "start": 30.0,
+      "end": 32.28,
+      "text": "- Hi. Thank you so much for holding on."
+    },
+    {
+      "start": 32.28,
+      "end": 35.36,
+      "text": "My name is Sam. How are you doing today?"
+    },
+    {
+      "start": 35.36,
+      "end": 39.28,
+      "text": "- I'm doing fine. What's the true partnership in Medicare?"
+    },
+    {
+      "start": 39.28,
+      "end": 42.14,
+      "text": "- Well, this call is in regards to"
+    },
+    {
+      "start": 42.14,
+      "end": 44.76,
+      "text": "inquiry about Medicare new benefits."
+    },
+    {
+      "start": 44.76,
+      "end": 48.2,
+      "text": "You do have Medicare Part A and B, right?"
+    },
+    {
+      "start": 48.2,
+      "end": 49.94,
+      "text": "- I believe so."
+    },
+    {
+      "start": 49.94,
+      "end": 51.96,
+      "text": "- How old are you?"
+    },
+    {
+      "start": 51.96,
+      "end": 53.86,
+      "text": "- 81."
+    },
+    {
+      "start": 53.86,
+      "end": 56.42,
+      "text": "- Okay. In the age of 81,"
+    },
+    {
+      "start": 56.42,
+      "end": 58.42,
+      "text": "are you getting any retirement plan"
+    },
+    {
+      "start": 58.42,
+      "end": 61.64,
+      "text": "or any health insurance through your previous job?"
+    },
+    {
+      "start": 61.64,
+      "end": 66.1,
+      "text": "- Well, that's none of your business on that one."
+    },
+    {
+      "start": 66.1,
+      "end": 68.16,
+      "text": "- It's great. My business, sir."
+    },
+    {
+      "start": 68.16,
+      "end": 70.4,
+      "text": "- No, no, no, no, no."
+    },
+    {
+      "start": 70.4,
+      "end": 71.84,
+      "text": "- If there's none of my business,"
+    },
+    {
+      "start": 71.84,
+      "end": 73.84,
+      "text": "then you can leave the call, sir."
+    },
+    {
+      "start": 73.84,
+      "end": 76.36,
+      "text": "- Okay. Goodbye."
+    }
+  ],
+  "word_count": 185,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Can I help you? Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B? Yeah Far as I know I do Perfect Let me connect you with the Medicare specialist from Iowa Hi"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Can I help you? Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B? Yeah Far as I know I do Perfect Let me connect you with the Medicare specialist from Iowa Hi",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 60
+}

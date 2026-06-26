@@ -1,0 +1,37 @@
+{
+  "id": "mcc5__A__20260623-125426_8633933062-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "12:54:26",
+  "phone": "8633933062",
+  "filename": "20260623-125426_8633933062-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-125426_8633933062-all.mp3",
+  "duration": 8.78,
+  "text": "Available at the tell and please record your message when you finished recording. You may hang up or press one for more options",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.86,
+      "text": "Available at the tell and please record your message when you finished recording. You may hang up or press one for more options"
+    }
+  ],
+  "word_count": 23,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Available at the tell and please record your message when you finished recording You may hang up or press one for more options"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Available at the tell and please record your message when you finished recording. You may hang up or press one for more options",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 23
+}

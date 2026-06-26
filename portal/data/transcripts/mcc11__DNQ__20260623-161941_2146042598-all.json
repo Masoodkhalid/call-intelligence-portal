@@ -1,0 +1,125 @@
+{
+  "id": "mcc11__DNQ__20260623-161941_2146042598-all",
+  "campaign": "mcc11",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "16:19:41",
+  "phone": "2146042598",
+  "filename": "20260623-161941_2146042598-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DNQ/20260623-161941_2146042598-all.mp3",
+  "duration": 48.17,
+  "text": "Hello. Hey. Hello, good afternoon. This is Evelyn. So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So, have you received any notification about these benefits yet? Oh, no, I'm doing this. Okay, well, it's really important that you know what you're entitled to, and I want to help you get these benefits sorted out. You're on both Part A and Part B, I assume? No, I'm just saying. Sorry, but you do not seem to qualify for the plans that we have. Have a great day. Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hey."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Hello, good afternoon."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "This is Evelyn."
+    },
+    {
+      "start": 8.0,
+      "end": 17.0,
+      "text": "So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program."
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "text": "So, have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 21.0,
+      "end": 26.0,
+      "text": "Oh, no, I'm doing this."
+    },
+    {
+      "start": 26.0,
+      "end": 33.0,
+      "text": "Okay, well, it's really important that you know what you're entitled to, and I want to help you get these benefits sorted out."
+    },
+    {
+      "start": 33.0,
+      "end": 38.0,
+      "text": "You're on both Part A and Part B, I assume?"
+    },
+    {
+      "start": 38.0,
+      "end": 41.0,
+      "text": "No, I'm just saying."
+    },
+    {
+      "start": 41.0,
+      "end": 45.0,
+      "text": "Sorry, but you do not seem to qualify for the plans that we have."
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": "Have a great day."
+    },
+    {
+      "start": 47.0,
+      "end": 49.0,
+      "text": "Thank you."
+    }
+  ],
+  "word_count": 104,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello, good afternoon This is Evelyn So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So, have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, no, I'm doing this Okay, well, it's really important that you know what you're entitled to, and I want to help you get these benefits sorted out"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're on both Part A and Part B, I assume?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, I'm just saying"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you do not seem to qualify for the plans that we have Have a great day"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Thank you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello. Hey. Hello, good afternoon. This is Evelyn. So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So, have you received any notification about these benefits yet? Oh, no, I'm doing this. Okay, well, it's really important that you know what you're entitled to, and I want to help you get these benefits sorted out. You're on both Part A and Part B, I assume? No, I'm just saying. Sorry, but you do not seem to qualify for the plans that we have. Have a great day. Thank you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 104
+}

@@ -1,0 +1,102 @@
+{
+  "id": "mcc11__DC__20260623-163109_7732804157-all",
+  "campaign": "mcc11",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "16:31:09",
+  "phone": "7732804157",
+  "filename": "20260623-163109_7732804157-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DC/20260623-163109_7732804157-all.mp3",
+  "duration": 49.03,
+  "text": "Hello. Thanks, please stay on the line. Hello, good afternoon. This is Evelyn. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So, have you been notified about these benefits yet? No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? Can you hear me? I was just asking if you have Medicare Part A and Part B.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "Hello."
+    },
+    {
+      "start": 3.1,
+      "end": 10.0,
+      "text": "Thanks, please stay on the line."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Hello, good afternoon."
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "This is Evelyn."
+    },
+    {
+      "start": 13.0,
+      "end": 18.0,
+      "text": "So, I'm calling because there are pending grocery and cash benefits worth up to $300"
+    },
+    {
+      "start": 18.0,
+      "end": 22.0,
+      "text": "available on your Medicare account through Illinois State Relief Program."
+    },
+    {
+      "start": 22.0,
+      "end": 26.0,
+      "text": "So, have you been notified about these benefits yet?"
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "No."
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "Oh, that's all right."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "That's exactly why I'm calling."
+    },
+    {
+      "start": 32.0,
+      "end": 36.0,
+      "text": "I want to help you get these benefits processed before they go unclaimed."
+    },
+    {
+      "start": 36.0,
+      "end": 41.0,
+      "text": "You're covered under both Part A and Part B, yes?"
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 42.0,
+      "end": 47.0,
+      "text": "I was just asking if you have Medicare Part A and Part B."
+    }
+  ],
+  "word_count": 97,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Thanks, please stay on the line Hello, good afternoon"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Thanks, please stay on the line Hello, good afternoon",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 10
+}

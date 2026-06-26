@@ -1,0 +1,81 @@
+{
+  "id": "mcc3__RAXFER__20260623-123344_6022534516-all",
+  "campaign": "mcc3",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "12:33:44",
+  "phone": "6022534516",
+  "filename": "20260623-123344_6022534516-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-raxfer/20260623-123344_6022534516-all.mp3",
+  "duration": 69.12,
+  "text": "Hello? Hello? Good morning. My name is Cassie. Okay. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approval. So to get your file updated, do you have both Medicare Part A and Part B? I do. I've only answered a thousand times. Yeah, it's good. You're covered, but 2026 benefits are updated weekly. It's like cards, food cards, dental, vision, hearing, and cash back up to $250 may now be available to you. So what's your age? 82. Got it. Please hold while I connect you to the advice. I'm not eligible. Don't waste time. You're probably wondering all the time, why is this being called? Yes. Hello. Thanks for holding on the why and how are you getting today?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.3,
+      "text": "Hello? Hello? Good morning. My name is Cassie. Okay. So I'm calling because your Medicare"
+    },
+    {
+      "start": 9.3,
+      "end": 15.64,
+      "text": "member profile is showing it hasn't been transferred into Medicare's national database for 2026"
+    },
+    {
+      "start": 15.64,
+      "end": 22.36,
+      "text": "yet. And that can delay your coverage approval. So to get your file updated, do you have both"
+    },
+    {
+      "start": 22.36,
+      "end": 30.02,
+      "text": "Medicare Part A and Part B? I do. I've only answered a thousand times. Yeah, it's good."
+    },
+    {
+      "start": 30.02,
+      "end": 37.04,
+      "text": "You're covered, but 2026 benefits are updated weekly. It's like cards, food cards, dental,"
+    },
+    {
+      "start": 37.04,
+      "end": 43.56,
+      "text": "vision, hearing, and cash back up to $250 may now be available to you. So what's your"
+    },
+    {
+      "start": 43.56,
+      "end": 51.36,
+      "text": "age? 82. Got it. Please hold while I connect you to the advice. I'm not eligible. Don't"
+    },
+    {
+      "start": 51.36,
+      "end": 58.32,
+      "text": "waste time. You're probably wondering all the time, why is this being called? Yes. Hello."
+    },
+    {
+      "start": 58.32,
+      "end": 60.32,
+      "text": "Thanks for holding on the why and how are you getting today?"
+    }
+  ],
+  "word_count": 139,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Good morning My name is Cassie Okay So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage approval So to get your file updated, do you have both Medicare Part A and Part B? I do I've only answered a thousand times Yeah, it's good You're covered, but 2026 benefits are updated weekly It's like cards, food cards, dental, vision, hearing, and cash back up to $250 may now be available to you So what's your age? 82 Got it Please hold while I connect you to the advice I'm not eligible"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Good morning My name is Cassie Okay So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage approval So to get your file updated, do you have both Medicare Part A and Part B? I do I've only answered a thousand times Yeah, it's good You're covered, but 2026 benefits are updated weekly It's like cards, food cards, dental, vision, hearing, and cash back up to $250 may now be available to you So what's your age? 82 Got it Please hold while I connect you to the advice I'm not eligible",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 111
+}

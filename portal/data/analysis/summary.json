@@ -1,0 +1,100 @@
+{
+  "total_calls": 806,
+  "transfers": 81,
+  "transfer_rate": 10.0,
+  "dispo_counts": {
+    "A": 81,
+    "BDNC": 81,
+    "DAIR": 80,
+    "DC": 80,
+    "DNQ": 81,
+    "LH": 80,
+    "NI": 81,
+    "NP": 79,
+    "N": 82,
+    "RAXFER": 81
+  },
+  "dispo_labels": {
+    "A": "Answering Machine",
+    "BDNC": "Bad / Do-Not-Call",
+    "DAIR": "Dead Air",
+    "DC": "Disconnected",
+    "DNQ": "Did Not Qualify",
+    "LH": "Live Hangup",
+    "NI": "Not Interested",
+    "NP": "No Pitch (cut early)",
+    "N": "No Answer",
+    "RAXFER": "Transferred to Agent"
+  },
+  "campaigns": {
+    "mcc11": {
+      "count": 202,
+      "wins": 20,
+      "transfer_rate": 9.9,
+      "dispo_counts": {
+        "A": 21,
+        "BDNC": 20,
+        "DAIR": 20,
+        "DC": 20,
+        "DNQ": 21,
+        "LH": 20,
+        "NI": 20,
+        "NP": 20,
+        "N": 20,
+        "RAXFER": 20
+      }
+    },
+    "mcc3": {
+      "count": 204,
+      "wins": 21,
+      "transfer_rate": 10.3,
+      "dispo_counts": {
+        "A": 21,
+        "BDNC": 22,
+        "DAIR": 20,
+        "DC": 20,
+        "DNQ": 20,
+        "LH": 20,
+        "NI": 20,
+        "NP": 20,
+        "N": 20,
+        "RAXFER": 21
+      }
+    },
+    "mcc5": {
+      "count": 200,
+      "wins": 20,
+      "transfer_rate": 10.0,
+      "dispo_counts": {
+        "A": 20,
+        "BDNC": 20,
+        "DAIR": 20,
+        "DC": 20,
+        "DNQ": 20,
+        "LH": 20,
+        "NI": 20,
+        "NP": 19,
+        "N": 21,
+        "RAXFER": 20
+      }
+    },
+    "mcc7": {
+      "count": 200,
+      "wins": 20,
+      "transfer_rate": 10.0,
+      "dispo_counts": {
+        "A": 19,
+        "BDNC": 19,
+        "DAIR": 20,
+        "DC": 20,
+        "DNQ": 20,
+        "LH": 20,
+        "NI": 21,
+        "NP": 20,
+        "N": 21,
+        "RAXFER": 20
+      }
+    }
+  },
+  "avg_duration": 41.1
+}

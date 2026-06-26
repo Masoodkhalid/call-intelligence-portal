@@ -1,0 +1,78 @@
+{
+  "id": "mcc3__DNQ__20260623-121706_3617248869-all",
+  "campaign": "mcc3",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "12:17:06",
+  "phone": "3617248869",
+  "filename": "20260623-121706_3617248869-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3DNQ/20260623-121706_3617248869-all.mp3",
+  "duration": 31.68,
+  "text": "Hello. Yes. Hi, good morning. This is Evelyn. So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So, have you received any notification about these benefits yet? I can't get Medicare Advantage. My doctor doesn't take it. Sorry, but you do not seem to qualify for the plans that we have have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": "Hello. Yes. Hi, good morning. This is Evelyn. So, I'm calling because they're"
+    },
+    {
+      "start": 9.0,
+      "end": 14.46,
+      "text": "appending grocery and cash benefits worth up to $300 available on your Medicare"
+    },
+    {
+      "start": 14.46,
+      "end": 18.06,
+      "text": "account through Texas State Relief Program. So, have you received any"
+    },
+    {
+      "start": 18.06,
+      "end": 22.86,
+      "text": "notification about these benefits yet? I can't get Medicare Advantage. My doctor"
+    },
+    {
+      "start": 22.86,
+      "end": 28.86,
+      "text": "doesn't take it. Sorry, but you do not seem to qualify for the plans that we"
+    },
+    {
+      "start": 28.86,
+      "end": 32.62,
+      "text": "have have a great day."
+    }
+  ],
+  "word_count": 70,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi, good morning This is Evelyn So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So, have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I can't get Medicare Advantage My doctor doesn't take it"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you do not seem to qualify for the plans that we have have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello. Yes. Hi, good morning. This is Evelyn. So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So, have you received any notification about these benefits yet? I can't get Medicare Advantage. My doctor doesn't take it. Sorry, but you do not seem to qualify for the plans that we have have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 70
+}

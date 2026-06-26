@@ -1,0 +1,76 @@
+{
+  "id": "mcc5__DC__20260623-134253_2016408689-all",
+  "campaign": "mcc5",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "13:42:53",
+  "phone": "2016408689",
+  "filename": "20260623-134253_2016408689-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DC/20260623-134253_2016408689-all.mp3",
+  "duration": 30.31,
+  "text": "Hello. That's so good to hear. Okay, so I'm going to get right into it. You do have both Part A and Part B of Medicare, right? Yeah, we've been to this already. I already tell you. I don't want me. Hey, are you still there? I was just asking. You do have both Part A and Part B of Medicare, right? [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "Hello. That's so good to hear. Okay, so I'm going to get right into it. You do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "text": "Yeah, we've been to this already. I already tell you. I don't want me."
+    },
+    {
+      "start": 18.0,
+      "end": 29.0,
+      "text": "Hey, are you still there? I was just asking. You do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "start": 29.0,
+      "end": 37.0,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 63,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "That's so good to hear Okay, so I'm going to get right into it"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah, we've been to this already I already tell you I don't want me"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hey, are you still there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I was just asking"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You do have both Part A and Part B of Medicare, right? [BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. That's so good to hear. Okay, so I'm going to get right into it. You do have both Part A and Part B of Medicare, right? Yeah, we've been to this already. I already tell you. I don't want me. Hey, are you still there? I was just asking. You do have both Part A and Part B of Medicare, right? [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 63
+}

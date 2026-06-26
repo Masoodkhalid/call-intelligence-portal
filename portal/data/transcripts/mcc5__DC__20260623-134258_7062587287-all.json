@@ -1,0 +1,62 @@
+{
+  "id": "mcc5__DC__20260623-134258_7062587287-all",
+  "campaign": "mcc5",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "13:42:58",
+  "phone": "7062587287",
+  "filename": "20260623-134258_7062587287-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DC/20260623-134258_7062587287-all.mp3",
+  "duration": 26.14,
+  "text": "Hello? Hello? Good afternoon, my name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals. So you do have both part A and part B, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 8.64,
+      "text": "Good afternoon, my name is Cassie."
+    },
+    {
+      "start": 8.64,
+      "end": 13.4,
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's"
+    },
+    {
+      "start": 13.4,
+      "end": 19.8,
+      "text": "national database for 2026 yet, and that can hold up your coverage approvals."
+    },
+    {
+      "start": 19.8,
+      "end": 32.02,
+      "text": "So you do have both part A and part B, right?"
+    }
+  ],
+  "word_count": 45,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good afternoon, my name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals So you do have both part A and part B, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Good afternoon, my name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals. So you do have both part A and part B, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 45
+}

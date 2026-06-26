@@ -1,0 +1,42 @@
+{
+  "id": "mcc7__LH__20260623-144915_3047423337-all",
+  "campaign": "mcc7",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "14:49:15",
+  "phone": "3047423337",
+  "filename": "20260623-144915_3047423337-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-LH/20260623-144915_3047423337-all.mp3",
+  "duration": 25.2,
+  "text": "Good afternoon, this is Jacob, so I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through West Virginia state relief program. So far, have you received any updates or notifications about this yet?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 19.0,
+      "text": "Good afternoon, this is Jacob, so I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through West Virginia state relief program."
+    },
+    {
+      "start": 19.0,
+      "end": 24.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    }
+  ],
+  "word_count": 42,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon, this is Jacob, so I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through West Virginia state relief program So far, have you received any updates or notifications about this yet?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Good afternoon, this is Jacob, so I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through West Virginia state relief program. So far, have you received any updates or notifications about this yet?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 42
+}

@@ -1,0 +1,42 @@
+{
+  "id": "mcc5__LH__20260623-134401_8643660301-all",
+  "campaign": "mcc5",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "13:44:01",
+  "phone": "8643660301",
+  "filename": "20260623-134401_8643660301-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-LH/20260623-134401_8643660301-all.mp3",
+  "duration": 17.78,
+  "text": "Hello. Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.5,
+      "text": "Hello. Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 10.5,
+      "end": 16.0,
+      "text": "Just a quick confirmation from you and we're all set. Do you have Part A and Part B?"
+    }
+  ],
+  "word_count": 37,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 37
+}

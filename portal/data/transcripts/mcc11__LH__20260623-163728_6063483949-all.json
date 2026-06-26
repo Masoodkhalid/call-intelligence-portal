@@ -1,0 +1,50 @@
+{
+  "id": "mcc11__LH__20260623-163728_6063483949-all",
+  "campaign": "mcc11",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "16:37:28",
+  "phone": "6063483949",
+  "filename": "20260623-163728_6063483949-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-LH/20260623-163728_6063483949-all.mp3",
+  "duration": 22.9,
+  "text": "Hello. Hi, this is Chris speaking. I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your coverage approvals. So, to get your file updated, do you have both Medicare Part A and Part B?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 16.0,
+      "text": "Hello. Hi, this is Chris speaking. I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your coverage approvals."
+    },
+    {
+      "start": 16.0,
+      "end": 28.0,
+      "text": "So, to get your file updated, do you have both Medicare Part A and Part B?"
+    }
+  ],
+  "word_count": 49,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, this is Chris speaking"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your coverage approvals So, to get your file updated, do you have both Medicare Part A and Part B?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hi, this is Chris speaking. I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your coverage approvals. So, to get your file updated, do you have both Medicare Part A and Part B?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 49
+}

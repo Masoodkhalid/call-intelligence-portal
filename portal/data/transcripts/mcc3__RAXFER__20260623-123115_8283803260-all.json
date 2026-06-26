@@ -1,0 +1,567 @@
+{
+  "id": "mcc3__RAXFER__20260623-123115_8283803260-all",
+  "campaign": "mcc3",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "12:31:15",
+  "phone": "8283803260",
+  "filename": "20260623-123115_8283803260-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-raxfer/20260623-123115_8283803260-all.mp3",
+  "duration": 358.13,
+  "text": "Hello. Hello. Good afternoon. My name is Sophie. I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff. It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So, can you let me know if you have both Medicare Part A and Part B? Yes, I do. You have qualified for the updates. Give me a second to connect you. [BEEPING] (bell ringing) - Hey, thanks for holding my name, Is there any how you're doing today? - I'm doing fine. - All right, well, just call us about your Medicare benefits. Do you have Medicare Part A and Part B both? - Yes, I do. - And are you receiving a food card or any cashback benefits for your health insurance? - Nothing. - I'm sorry to hear that, ma'am. We'll be happy to assist you. Tell me what's your zip code please. - Two eggs, that's possible. - Two, eight, sorry, two, eight, six, five, seven? - Two, eight, seven, five, three. - Oh, two, eight, seven, five, three. Thank you so much for that, ma'am. And do you get any military benefits, like VA, prior care for life or any health insurance from your workplace? - No. - And do you live in a nursing home or do you live in your own place, ma'am? - I live in my own place. - Great. So since you are not getting a food-alones card, there will definitely work on that. Also, do you have any dental work coming up, like do you need dentures, implants, extractions and irregular cleaning for your teeth? - No. - Okay, no dental work. And do you read glasses or hearing aids, ma'am? - I wear glasses. - All right, you will help you to increase your coverage for your glasses, in case if you need a new pair of glasses, contact lenses or an eye exam, so you will have ample coverage for that. And do you pay anything out of your pocket for your medications or for your specialist, ma'am? - Yes, I did. - All righty. I helped you to get rid of those COBAs per year. And what is the name of your health insurance, like you have Humana, United Health Care Act now any other? - Humana. - Great, perfect. And how old are you, ma'am? What's your age, please? - 86. - And you make your own decisions, right? - Pardon me? - You make your own decisions, right, ma'am? - Yes, I do. - Perfect, all righty. And tell me your last name, please? - Sam, so say your name, ma'am. - Thank you, and got your first name here, as in Sandy, as in S-A-N-D, by all right? - Yes. - Okay, well, you have a very beautiful name, so I have a niece, her name is Sandra, and we call her Sandy. That's a pretty similar name to her. All right, thank you. All righty, ma'am, and one more question that I would like to ask, if you don't mind, do you have any heart conditions, diabetes, kidney problems, or COPD? - Heart conditions, heart conditions, okay? And I think I've all seen this question already, but just to confirm, you said you live in your own place, you don't live in a nursing home, right? - No, I don't. - Okay, I got you, thank you. All righty, ma'am, and just to let you know, people, first of all, you said you have heart conditions, my best reasons that my heart goes to your memory, God bless you with good health. Secondly, I would like you to know that people with heart conditions usually do qualify to get additional help regarding food, dental, eyes, and hearing, and also for medications as well. So we'll make sure you're getting every single penny in every benefit that you're entitled to, okay? So we'll be happy to assist you with that. Give me a second here. And ma'am, all done here from my side, and you're perfectly qualified to get a detailed review of your Medicare coverage, so I'll bring a Medicare advisor on the line for you. And I want you to let them know that you do have Medicare part A and B, along with the heart condition. So you need a food card, also more coverage for your eyes, copane, and anything.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.28,
+      "text": "Hello. Hello. Good afternoon. My name is Sophie. I'm reaching out because we're"
+    },
+    {
+      "start": 10.28,
+      "end": 14.24,
+      "text": "doing a quick coverage gap audit for people before the December 7th cutoff."
+    },
+    {
+      "start": 14.24,
+      "end": 18.84,
+      "text": "It's a four-minute look at what your plan actually covers versus what comes"
+    },
+    {
+      "start": 18.84,
+      "end": 23.58,
+      "text": "out of your own pocket when you need care. Most people are genuinely surprised by"
+    },
+    {
+      "start": 23.58,
+      "end": 27.56,
+      "text": "the difference. We're just trying to reach everyone on the list before that"
+    },
+    {
+      "start": 27.56,
+      "end": 32.24,
+      "text": "deadline. So, can you let me know if you have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 32.24,
+      "end": 40.7,
+      "text": "Yes, I do. You have qualified for the updates. Give me a second to connect you."
+    },
+    {
+      "start": 57.56,
+      "end": 61.56,
+      "text": "[BEEPING]"
+    },
+    {
+      "start": 87.56,
+      "end": 90.14,
+      "text": "(bell ringing)"
+    },
+    {
+      "start": 115.72,
+      "end": 116.96,
+      "text": "- Hey, thanks for holding my name,"
+    },
+    {
+      "start": 116.96,
+      "end": 119.36,
+      "text": "Is there any how you're doing today?"
+    },
+    {
+      "start": 119.36,
+      "end": 121.28,
+      "text": "- I'm doing fine."
+    },
+    {
+      "start": 121.28,
+      "end": 123.8,
+      "text": "- All right, well, just call us about your Medicare benefits."
+    },
+    {
+      "start": 123.8,
+      "end": 126.12,
+      "text": "Do you have Medicare Part A and Part B both?"
+    },
+    {
+      "start": 127.12,
+      "end": 128.16,
+      "text": "- Yes, I do."
+    },
+    {
+      "start": 129.12,
+      "end": 131.04,
+      "text": "- And are you receiving a food card"
+    },
+    {
+      "start": 131.04,
+      "end": 135.04,
+      "text": "or any cashback benefits for your health insurance?"
+    },
+    {
+      "start": 135.04,
+      "end": 135.88,
+      "text": "- Nothing."
+    },
+    {
+      "start": 137.6,
+      "end": 138.84,
+      "text": "- I'm sorry to hear that, ma'am."
+    },
+    {
+      "start": 138.84,
+      "end": 140.52,
+      "text": "We'll be happy to assist you."
+    },
+    {
+      "start": 140.52,
+      "end": 142.24,
+      "text": "Tell me what's your zip code please."
+    },
+    {
+      "start": 143.24,
+      "end": 144.6,
+      "text": "- Two eggs, that's possible."
+    },
+    {
+      "start": 146.4,
+      "end": 150.0,
+      "text": "- Two, eight, sorry, two, eight, six, five, seven?"
+    },
+    {
+      "start": 151.08,
+      "end": 154.28,
+      "text": "- Two, eight, seven, five, three."
+    },
+    {
+      "start": 154.28,
+      "end": 157.04,
+      "text": "- Oh, two, eight, seven, five, three."
+    },
+    {
+      "start": 157.04,
+      "end": 158.88,
+      "text": "Thank you so much for that, ma'am."
+    },
+    {
+      "start": 158.88,
+      "end": 160.84,
+      "text": "And do you get any military benefits,"
+    },
+    {
+      "start": 160.84,
+      "end": 162.92,
+      "text": "like VA, prior care for life"
+    },
+    {
+      "start": 162.92,
+      "end": 166.2,
+      "text": "or any health insurance from your workplace?"
+    },
+    {
+      "start": 166.2,
+      "end": 167.92,
+      "text": "- No."
+    },
+    {
+      "start": 167.92,
+      "end": 169.32,
+      "text": "- And do you live in a nursing home"
+    },
+    {
+      "start": 169.32,
+      "end": 171.84,
+      "text": "or do you live in your own place, ma'am?"
+    },
+    {
+      "start": 171.84,
+      "end": 174.0,
+      "text": "- I live in my own place."
+    },
+    {
+      "start": 174.0,
+      "end": 174.84,
+      "text": "- Great."
+    },
+    {
+      "start": 174.84,
+      "end": 177.16,
+      "text": "So since you are not getting a food-alones card,"
+    },
+    {
+      "start": 177.16,
+      "end": 179.28,
+      "text": "there will definitely work on that."
+    },
+    {
+      "start": 179.28,
+      "end": 181.56,
+      "text": "Also, do you have any dental work coming up,"
+    },
+    {
+      "start": 181.56,
+      "end": 183.68,
+      "text": "like do you need dentures, implants,"
+    },
+    {
+      "start": 183.68,
+      "end": 187.12,
+      "text": "extractions and irregular cleaning for your teeth?"
+    },
+    {
+      "start": 187.12,
+      "end": 187.96,
+      "text": "- No."
+    },
+    {
+      "start": 189.6,
+      "end": 192.24,
+      "text": "- Okay, no dental work."
+    },
+    {
+      "start": 192.24,
+      "end": 194.56,
+      "text": "And do you read glasses or hearing aids, ma'am?"
+    },
+    {
+      "start": 196.12,
+      "end": 198.08,
+      "text": "- I wear glasses."
+    },
+    {
+      "start": 198.08,
+      "end": 199.2,
+      "text": "- All right, you will help you"
+    },
+    {
+      "start": 199.2,
+      "end": 201.36,
+      "text": "to increase your coverage for your glasses,"
+    },
+    {
+      "start": 201.36,
+      "end": 203.72,
+      "text": "in case if you need a new pair of glasses,"
+    },
+    {
+      "start": 203.72,
+      "end": 206.12,
+      "text": "contact lenses or an eye exam,"
+    },
+    {
+      "start": 206.12,
+      "end": 208.48,
+      "text": "so you will have ample coverage for that."
+    },
+    {
+      "start": 208.48,
+      "end": 211.48,
+      "text": "And do you pay anything out of your pocket"
+    },
+    {
+      "start": 211.48,
+      "end": 213.96,
+      "text": "for your medications or for your specialist, ma'am?"
+    },
+    {
+      "start": 215.0,
+      "end": 216.36,
+      "text": "- Yes, I did."
+    },
+    {
+      "start": 216.36,
+      "end": 217.72,
+      "text": "- All righty."
+    },
+    {
+      "start": 217.72,
+      "end": 220.52,
+      "text": "I helped you to get rid of those COBAs per year."
+    },
+    {
+      "start": 220.52,
+      "end": 222.4,
+      "text": "And what is the name of your health insurance,"
+    },
+    {
+      "start": 222.4,
+      "end": 225.84,
+      "text": "like you have Humana, United Health Care Act now any other?"
+    },
+    {
+      "start": 227.04,
+      "end": 228.76,
+      "text": "- Humana."
+    },
+    {
+      "start": 228.76,
+      "end": 230.08,
+      "text": "- Great, perfect."
+    },
+    {
+      "start": 230.08,
+      "end": 231.04,
+      "text": "And how old are you, ma'am?"
+    },
+    {
+      "start": 231.04,
+      "end": 232.76,
+      "text": "What's your age, please?"
+    },
+    {
+      "start": 232.76,
+      "end": 234.8,
+      "text": "- 86."
+    },
+    {
+      "start": 234.8,
+      "end": 236.86,
+      "text": "- And you make your own decisions, right?"
+    },
+    {
+      "start": 238.36,
+      "end": 239.8,
+      "text": "- Pardon me?"
+    },
+    {
+      "start": 239.8,
+      "end": 243.08,
+      "text": "- You make your own decisions, right, ma'am?"
+    },
+    {
+      "start": 243.08,
+      "end": 244.6,
+      "text": "- Yes, I do."
+    },
+    {
+      "start": 244.6,
+      "end": 246.6,
+      "text": "- Perfect, all righty."
+    },
+    {
+      "start": 246.6,
+      "end": 248.92,
+      "text": "And tell me your last name, please?"
+    },
+    {
+      "start": 249.92,
+      "end": 252.4,
+      "text": "- Sam, so say your name, ma'am."
+    },
+    {
+      "start": 252.4,
+      "end": 254.08,
+      "text": "- Thank you, and got your first name here,"
+    },
+    {
+      "start": 254.08,
+      "end": 257.64,
+      "text": "as in Sandy, as in S-A-N-D, by all right?"
+    },
+    {
+      "start": 257.64,
+      "end": 259.16,
+      "text": "- Yes."
+    },
+    {
+      "start": 259.16,
+      "end": 261.88,
+      "text": "- Okay, well, you have a very beautiful name,"
+    },
+    {
+      "start": 261.88,
+      "end": 264.6,
+      "text": "so I have a niece, her name is Sandra,"
+    },
+    {
+      "start": 264.6,
+      "end": 266.0,
+      "text": "and we call her Sandy."
+    },
+    {
+      "start": 267.04,
+      "end": 270.52,
+      "text": "That's a pretty similar name to her."
+    },
+    {
+      "start": 270.52,
+      "end": 272.24,
+      "text": "All right, thank you."
+    },
+    {
+      "start": 272.24,
+      "end": 273.92,
+      "text": "All righty, ma'am, and one more question"
+    },
+    {
+      "start": 273.92,
+      "end": 276.4,
+      "text": "that I would like to ask, if you don't mind,"
+    },
+    {
+      "start": 276.4,
+      "end": 280.28,
+      "text": "do you have any heart conditions, diabetes, kidney problems,"
+    },
+    {
+      "start": 280.28,
+      "end": 281.28,
+      "text": "or COPD?"
+    },
+    {
+      "start": 283.08,
+      "end": 286.96,
+      "text": "- Heart conditions, heart conditions, okay?"
+    },
+    {
+      "start": 286.96,
+      "end": 289.48,
+      "text": "And I think I've all seen this question already,"
+    },
+    {
+      "start": 289.48,
+      "end": 291.08,
+      "text": "but just to confirm,"
+    },
+    {
+      "start": 291.08,
+      "end": 292.6,
+      "text": "you said you live in your own place,"
+    },
+    {
+      "start": 292.6,
+      "end": 295.28,
+      "text": "you don't live in a nursing home, right?"
+    },
+    {
+      "start": 295.28,
+      "end": 296.2,
+      "text": "- No, I don't."
+    },
+    {
+      "start": 297.48,
+      "end": 299.6,
+      "text": "- Okay, I got you, thank you."
+    },
+    {
+      "start": 299.6,
+      "end": 302.24,
+      "text": "All righty, ma'am, and just to let you know,"
+    },
+    {
+      "start": 302.24,
+      "end": 305.96,
+      "text": "people, first of all, you said you have heart conditions,"
+    },
+    {
+      "start": 305.96,
+      "end": 308.2,
+      "text": "my best reasons that my heart goes to your memory,"
+    },
+    {
+      "start": 308.2,
+      "end": 310.32,
+      "text": "God bless you with good health."
+    },
+    {
+      "start": 310.32,
+      "end": 313.24,
+      "text": "Secondly, I would like you to know that"
+    },
+    {
+      "start": 313.24,
+      "end": 316.04,
+      "text": "people with heart conditions usually do qualify"
+    },
+    {
+      "start": 316.04,
+      "end": 318.44,
+      "text": "to get additional help regarding food,"
+    },
+    {
+      "start": 318.44,
+      "end": 322.8,
+      "text": "dental, eyes, and hearing, and also for medications as well."
+    },
+    {
+      "start": 322.8,
+      "end": 325.72,
+      "text": "So we'll make sure you're getting every single penny"
+    },
+    {
+      "start": 325.72,
+      "end": 328.76,
+      "text": "in every benefit that you're entitled to, okay?"
+    },
+    {
+      "start": 328.76,
+      "end": 331.24,
+      "text": "So we'll be happy to assist you with that."
+    },
+    {
+      "start": 332.8,
+      "end": 334.56,
+      "text": "Give me a second here."
+    },
+    {
+      "start": 334.56,
+      "end": 336.68,
+      "text": "And ma'am, all done here from my side,"
+    },
+    {
+      "start": 336.68,
+      "end": 339.36,
+      "text": "and you're perfectly qualified to get a detailed review"
+    },
+    {
+      "start": 339.36,
+      "end": 340.88,
+      "text": "of your Medicare coverage,"
+    },
+    {
+      "start": 340.88,
+      "end": 343.72,
+      "text": "so I'll bring a Medicare advisor on the line for you."
+    },
+    {
+      "start": 343.72,
+      "end": 345.96,
+      "text": "And I want you to let them know"
+    },
+    {
+      "start": 345.96,
+      "end": 348.56,
+      "text": "that you do have Medicare part A and B,"
+    },
+    {
+      "start": 348.56,
+      "end": 350.48,
+      "text": "along with the heart condition."
+    },
+    {
+      "start": 350.48,
+      "end": 355.32,
+      "text": "So you need a food card, also more coverage for your eyes,"
+    },
+    {
+      "start": 355.32,
+      "end": 356.92,
+      "text": "copane, and anything."
+    }
+  ],
+  "word_count": 769,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Hello Good afternoon My name is Sophie I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care Most people are genuinely surprised by the difference We're just trying to reach everyone on the list before that deadline So, can you let me know if you have both Medicare Part A and Part B? Yes, I do You have qualified for the updates Give me a second to connect you [BEEPING] (bell ringing) - Hey, thanks for holding my name, Is there any how you're doing today?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Hello Good afternoon My name is Sophie I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care Most people are genuinely surprised by the difference We're just trying to reach everyone on the list before that deadline So, can you let me know if you have both Medicare Part A and Part B? Yes, I do You have qualified for the updates Give me a second to connect you [BEEPING] (bell ringing) - Hey, thanks for holding my name, Is there any how you're doing today?",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 117
+}

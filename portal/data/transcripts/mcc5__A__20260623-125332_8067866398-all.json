@@ -1,0 +1,70 @@
+{
+  "id": "mcc5__A__20260623-125332_8067866398-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "12:53:32",
+  "phone": "8067866398",
+  "filename": "20260623-125332_8067866398-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-125332_8067866398-all.mp3",
+  "duration": 18.94,
+  "text": ">> Hello? Are you there? >> We record or add to your message, press 1. To mark your message urgent, press 2. To mark your message private, press 3. Descend your message as is.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": ">> Hello?"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": ">> We record or add to your message, press 1."
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "To mark your message urgent, press 2."
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "To mark your message private, press 3."
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "Descend your message as is."
+    }
+  ],
+  "word_count": 34,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "We record or add to your message, press 1"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To mark your message urgent, press 2 To mark your message private, press 3 Descend your message as is"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": ">> Hello? Are you there? >> We record or add to your message, press 1. To mark your message urgent, press 2. To mark your message private, press 3. Descend your message as is.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 34
+}

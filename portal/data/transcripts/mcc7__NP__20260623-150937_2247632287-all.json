@@ -1,0 +1,77 @@
+{
+  "id": "mcc7__NP__20260623-150937_2247632287-all",
+  "campaign": "mcc7",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "15:09:37",
+  "phone": "2247632287",
+  "filename": "20260623-150937_2247632287-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NP/20260623-150937_2247632287-all.mp3",
+  "duration": 31.68,
+  "text": "Oh. Hello. Yes. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So have you received any notification about these benefits yet? No. Oh, that's alright. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.06,
+      "text": "Oh. Hello. Yes. Hello. Good afternoon. This is Alyssa. I'm calling"
+    },
+    {
+      "start": 8.06,
+      "end": 13.2,
+      "text": "because there are pending grocery and cash benefits worth up to $300 available on your"
+    },
+    {
+      "start": 13.2,
+      "end": 18.98,
+      "text": "Medicare account through Illinois State Relief Program. So have you received any notification"
+    },
+    {
+      "start": 18.98,
+      "end": 28.3,
+      "text": "about these benefits yet? No. Oh, that's alright. That's exactly why I'm calling. I want to"
+    },
+    {
+      "start": 28.3,
+      "end": 31.46,
+      "text": "help you get these benefits processed before they go unclaimed."
+    }
+  ],
+  "word_count": 65,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Oh, that's alright That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Oh. Hello. Yes. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So have you received any notification about these benefits yet? No. Oh, that's alright. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 65
+}

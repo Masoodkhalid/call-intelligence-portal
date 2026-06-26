@@ -1,0 +1,88 @@
+{
+  "id": "mcc7__NI__20260623-152833_3525720166-all",
+  "campaign": "mcc7",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "15:28:33",
+  "phone": "3525720166",
+  "filename": "20260623-152833_3525720166-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NI/20260623-152833_3525720166-all.mp3",
+  "duration": 59.9,
+  "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to 300 dollars available on your Medicare account through Florida State Relief Program. So far, have you received any updates or notifications about this yet? I'm sorry, but can you speak English? Yeah, I hope so. That's great. So, you're currently enrolled in both part A and part B, correct? Yeah, but I'll wait until we eat this on that. So, you do have both part A and part B of Medicare, right? Here stands. Let's talk about this some other time. Thanks. Hello?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.36,
+      "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are"
+    },
+    {
+      "start": 9.36,
+      "end": 14.28,
+      "text": "pending grocery and cash benefits worth up to 300 dollars available on your"
+    },
+    {
+      "start": 14.28,
+      "end": 19.52,
+      "text": "Medicare account through Florida State Relief Program. So far, have you received"
+    },
+    {
+      "start": 19.52,
+      "end": 29.04,
+      "text": "any updates or notifications about this yet? I'm sorry, but can you speak"
+    },
+    {
+      "start": 29.04,
+      "end": 36.48,
+      "text": "English? Yeah, I hope so. That's great. So, you're currently enrolled in both part"
+    },
+    {
+      "start": 36.48,
+      "end": 46.64,
+      "text": "A and part B, correct? Yeah, but I'll wait until we eat this on that. So, you do have"
+    },
+    {
+      "start": 46.64,
+      "end": 56.48,
+      "text": "both part A and part B of Medicare, right? Here stands. Let's talk about this some"
+    },
+    {
+      "start": 56.48,
+      "end": 61.16,
+      "text": "other time. Thanks. Hello?"
+    }
+  ],
+  "word_count": 103,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to 300 dollars available on your Medicare account through Florida State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm sorry, but can you speak English? Yeah, I hope so That's great So, you're currently enrolled in both part A and part B, correct? Yeah, but I'll wait until we eat this on that"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So, you do have both part A and part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Here stands Let's talk about this some other time Thanks"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to 300 dollars available on your Medicare account through Florida State Relief Program. So far, have you received any updates or notifications about this yet? I'm sorry, but can you speak English? Yeah, I hope so. That's great. So, you're currently enrolled in both part A and part B, correct? Yeah, but I'll wait until we eat this on that. So, you do have both part A and part B of Medicare, right? Here stands. Let's talk about this some other time. Thanks. Hello?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 103
+}

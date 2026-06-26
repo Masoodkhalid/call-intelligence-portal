@@ -1,0 +1,37 @@
+{
+  "id": "mcc11__A__20260623-161530_4696001199-all",
+  "campaign": "mcc11",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "16:15:30",
+  "phone": "4696001199",
+  "filename": "20260623-161530_4696001199-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-A/20260623-161530_4696001199-all.mp3",
+  "duration": 8.57,
+  "text": "You will reach 469600.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "You will reach 469600."
+    }
+  ],
+  "word_count": 4,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "You will reach 469600"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "You will reach 469600.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 4
+}

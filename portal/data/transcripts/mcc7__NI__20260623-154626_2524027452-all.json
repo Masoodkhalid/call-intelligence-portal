@@ -1,0 +1,139 @@
+{
+  "id": "mcc7__NI__20260623-154626_2524027452-all",
+  "campaign": "mcc7",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "15:46:26",
+  "phone": "2524027452",
+  "filename": "20260623-154626_2524027452-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NI/20260623-154626_2524027452-all.mp3",
+  "duration": 58.97,
+  "text": "Hello. Hello. Hello, good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program. So far, have you received any updates or notifications about this yet? Mmm, mmm. Well, I really want to help you get this taken care of as these benefits are time sensitive. So you do have Medicare Part A and B, right? Mmm-hmm. So you do have both Part A and Part B of Medicare, right? Mmm, let's pick you first. So you do have both Part A and Part B of Medicare, right? Fine. Can you hear me? I was just asking if you have Medicare Part A and Part B.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Hello."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Hello, good afternoon. This is Alyssa."
+    },
+    {
+      "start": 7.0,
+      "end": 17.0,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program."
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "Mmm, mmm."
+    },
+    {
+      "start": 27.0,
+      "end": 32.0,
+      "text": "Well, I really want to help you get this taken care of as these benefits are time sensitive."
+    },
+    {
+      "start": 32.0,
+      "end": 36.0,
+      "text": "So you do have Medicare Part A and B, right?"
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "Mmm-hmm."
+    },
+    {
+      "start": 39.0,
+      "end": 43.0,
+      "text": "So you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "start": 44.0,
+      "end": 46.0,
+      "text": "Mmm, let's pick you first."
+    },
+    {
+      "start": 47.0,
+      "end": 51.0,
+      "text": "So you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "text": "Fine."
+    },
+    {
+      "start": 52.0,
+      "end": 54.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 54.0,
+      "end": 57.88,
+      "text": "I was just asking if you have Medicare Part A and Part B."
+    }
+  ],
+  "word_count": 125,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hello, good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Mmm, mmm Well, I really want to help you get this taken care of as these benefits are time sensitive"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you do have Medicare Part A and B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Mmm-hmm"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Mmm, let's pick you first"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Fine"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you hear me? I was just asking if you have Medicare Part A and Part B"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Hello, good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program. So far, have you received any updates or notifications about this yet? Mmm, mmm. Well, I really want to help you get this taken care of as these benefits are time sensitive. So you do have Medicare Part A and B, right? Mmm-hmm. So you do have both Part A and Part B of Medicare, right? Mmm, let's pick you first. So you do have both Part A and Part B of Medicare, right? Fine. Can you hear me? I was just asking if you have Medicare Part A and Part B.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 125
+}

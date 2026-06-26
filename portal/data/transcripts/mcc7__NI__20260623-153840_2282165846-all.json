@@ -1,0 +1,83 @@
+{
+  "id": "mcc7__NI__20260623-153840_2282165846-all",
+  "campaign": "mcc7",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "15:38:40",
+  "phone": "2282165846",
+  "filename": "20260623-153840_2282165846-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NI/20260623-153840_2282165846-all.mp3",
+  "duration": 42.19,
+  "text": "Hello. Are you there? Yes. Hello. Good afternoon. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Mississippi State Relief Program. So have you received any notification about these benefits yet? Yes. So I was asking if you received the notification about the pending credits on your Medicare plan.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello."
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Yes."
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Hello. Good afternoon. This is Evelyn."
+    },
+    {
+      "start": 13.0,
+      "end": 22.0,
+      "text": "So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Mississippi State Relief Program."
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "text": "So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 27.0,
+      "end": 36.0,
+      "text": "Yes. So I was asking if you received the notification about the pending credits on your Medicare plan."
+    }
+  ],
+  "word_count": 64,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello Good afternoon This is Evelyn So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Mississippi State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So I was asking if you received the notification about the pending credits on your Medicare plan"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Are you there? Yes. Hello. Good afternoon. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Mississippi State Relief Program. So have you received any notification about these benefits yet? Yes. So I was asking if you received the notification about the pending credits on your Medicare plan.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 64
+}

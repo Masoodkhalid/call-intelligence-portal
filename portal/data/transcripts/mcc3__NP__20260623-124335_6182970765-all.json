@@ -1,0 +1,56 @@
+{
+  "id": "mcc3__NP__20260623-124335_6182970765-all",
+  "campaign": "mcc3",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "12:43:35",
+  "phone": "6182970765",
+  "filename": "20260623-124335_6182970765-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NP/20260623-124335_6182970765-all.mp3",
+  "duration": 12.17,
+  "text": "Hello? Hello? Good morning. My name is Cassie. So, I'm calling because your Medicare member profile",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Good morning. My name is Cassie."
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "So, I'm calling because your Medicare member profile"
+    }
+  ],
+  "word_count": 16,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good morning My name is Cassie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So, I'm calling because your Medicare member profile"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Good morning. My name is Cassie. So, I'm calling because your Medicare member profile",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 16
+}

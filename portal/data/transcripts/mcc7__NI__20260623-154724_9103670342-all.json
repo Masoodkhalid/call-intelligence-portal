@@ -1,0 +1,69 @@
+{
+  "id": "mcc7__NI__20260623-154724_9103670342-all",
+  "campaign": "mcc7",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "15:47:24",
+  "phone": "9103670342",
+  "filename": "20260623-154724_9103670342-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NI/20260623-154724_9103670342-all.mp3",
+  "duration": 21.67,
+  "text": "Hello. Good afternoon. My name is Anna. You doing all right? What are you calling about? So I'm calling from Crescent Health Services and with the latest Medicare updates, you may now qualify for some exciting new benefits. Do you happen to have Medicare Part A and B? Can you hear me? I was just asking if you have Medicare Part A and B.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.68,
+      "text": "Hello. Good afternoon. My name is Anna. You doing all right?"
+    },
+    {
+      "start": 5.68,
+      "end": 7.0,
+      "text": "What are you calling about?"
+    },
+    {
+      "start": 7.0,
+      "end": 12.16,
+      "text": "So I'm calling from Crescent Health Services and with the latest Medicare updates, you may"
+    },
+    {
+      "start": 12.16,
+      "end": 17.08,
+      "text": "now qualify for some exciting new benefits. Do you happen to have Medicare Part A and"
+    },
+    {
+      "start": 17.08,
+      "end": 21.56,
+      "text": "B? Can you hear me? I was just asking if you have Medicare Part A and B."
+    }
+  ],
+  "word_count": 64,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Anna You doing all right? What are you calling about? So I'm calling from Crescent Health Services and with the latest Medicare updates, you may now qualify for some exciting new benefits Do you happen to have Medicare Part A and B?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I was just asking if you have Medicare Part A and B"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Good afternoon. My name is Anna. You doing all right? What are you calling about? So I'm calling from Crescent Health Services and with the latest Medicare updates, you may now qualify for some exciting new benefits. Do you happen to have Medicare Part A and B? Can you hear me? I was just asking if you have Medicare Part A and B.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 64
+}

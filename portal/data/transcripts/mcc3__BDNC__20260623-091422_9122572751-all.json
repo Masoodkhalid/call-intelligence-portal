@@ -1,0 +1,56 @@
+{
+  "id": "mcc3__BDNC__20260623-091422_9122572751-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "09:14:22",
+  "phone": "9122572751",
+  "filename": "20260623-091422_9122572751-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-091422_9122572751-all.mp3",
+  "duration": 13.97,
+  "text": "Hello. We live in the eyes of the city's youth with the country matter. I've got cross-down the law to make the government lose. This is the city's land and this is the city's land.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 5.0,
+      "text": "We live in the eyes of the city's youth with the country matter."
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "I've got cross-down the law to make the government lose."
+    },
+    {
+      "start": 9.0,
+      "end": 13.0,
+      "text": "This is the city's land and this is the city's land."
+    }
+  ],
+  "word_count": 35,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "We live in the eyes of the city's youth with the country matter I've got cross-down the law to make the government lose This is the city's land and this is the city's land"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. We live in the eyes of the city's youth with the country matter. I've got cross-down the law to make the government lose. This is the city's land and this is the city's land.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 35
+}

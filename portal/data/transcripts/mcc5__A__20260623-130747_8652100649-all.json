@@ -1,0 +1,109 @@
+{
+  "id": "mcc5__A__20260623-130747_8652100649-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "13:07:47",
+  "phone": "8652100649",
+  "filename": "20260623-130747_8652100649-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-130747_8652100649-all.mp3",
+  "duration": 33.05,
+  "text": "- Hello? - Hello. - Good afternoon. - Good afternoon. My name is Cassie. - How is it? - So, I'm calling because your Medicare number profile hasn't been-- - Oh, really? I don't know. You must move it. - --with your own database for 2026 yet. When that transfer is minty-- - Oh, my God. - --we cause delays in your coverage. - I don't know. - You know, you got my voice there. - I can verify it real quick. So, you do have both Part A and Part B, right? The mailbox is full and cannot accept any messages at this time. Goodbye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "- Hello? - Hello."
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "- Good afternoon. - Good afternoon."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "My name is Cassie."
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "- How is it? - So, I'm calling because your Medicare number profile"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "hasn't been-- - Oh, really?"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "I don't know. You must move it."
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": "- --with your own database for 2026 yet."
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "When that transfer is minty-- - Oh, my God."
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "- --we cause delays in your coverage. - I don't know."
+    },
+    {
+      "start": 22.0,
+      "end": 25.0,
+      "text": "- You know, you got my voice there. - I can verify it real quick."
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "So, you do have both Part A and Part B, right?"
+    },
+    {
+      "start": 28.0,
+      "end": 31.0,
+      "text": "The mailbox is full and cannot accept any messages at this time."
+    },
+    {
+      "start": 31.0,
+      "end": 33.0,
+      "text": "Goodbye."
+    }
+  ],
+  "word_count": 106,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello Good afternoon Good afternoon My name is Cassie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "How is it? So, I'm calling because your Medicare number profile hasn't been-- - Oh, really? I don't know You must move it with your own database for 2026 yet When that transfer is minty-- - Oh, my God we cause delays in your coverage I don't know You know, you got my voice there"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I can verify it real quick So, you do have both Part A and Part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "The mailbox is full and cannot accept any messages at this time Goodbye"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "- Hello? - Hello. - Good afternoon. - Good afternoon. My name is Cassie. - How is it? - So, I'm calling because your Medicare number profile hasn't been-- - Oh, really? I don't know. You must move it. - --with your own database for 2026 yet. When that transfer is minty-- - Oh, my God. - --we cause delays in your coverage. - I don't know. - You know, you got my voice there. - I can verify it real quick. So, you do have both Part A and Part B, right? The mailbox is full and cannot accept any messages at this time. Goodbye.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 106
+}

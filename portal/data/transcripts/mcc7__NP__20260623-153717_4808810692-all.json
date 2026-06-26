@@ -1,0 +1,112 @@
+{
+  "id": "mcc7__NP__20260623-153717_4808810692-all",
+  "campaign": "mcc7",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "15:37:17",
+  "phone": "4808810692",
+  "filename": "20260623-153717_4808810692-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NP/20260623-153717_4808810692-all.mp3",
+  "duration": 20.52,
+  "text": "Hello? Hello? Yes. Hello? Yes. Good afternoon. My name is Anna. How are you doing today? Okay. I'm so glad to hear that. So I'm calling from Crescent Health Services. And with the Medicare updates, you might now qualify for new benefits.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Yes."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Yes."
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "My name is Anna."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "How are you doing today?"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Okay."
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "I'm so glad to hear that."
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "So I'm calling from Crescent Health Services."
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "text": "And with the Medicare updates, you might now qualify for new benefits."
+    }
+  ],
+  "word_count": 42,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Anna How are you doing today? Okay I'm so glad to hear that So I'm calling from Crescent Health Services And with the Medicare updates, you might now qualify for new benefits"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Yes. Hello? Yes. Good afternoon. My name is Anna. How are you doing today? Okay. I'm so glad to hear that. So I'm calling from Crescent Health Services. And with the Medicare updates, you might now qualify for new benefits.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 42
+}

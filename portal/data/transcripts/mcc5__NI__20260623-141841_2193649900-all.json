@@ -1,0 +1,61 @@
+{
+  "id": "mcc5__NI__20260623-141841_2193649900-all",
+  "campaign": "mcc5",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "14:18:41",
+  "phone": "2193649900",
+  "filename": "20260623-141841_2193649900-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NI/20260623-141841_2193649900-all.mp3",
+  "duration": 24.62,
+  "text": "Hello. Hello. Good afternoon. This is Evelyn. So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Indiana State Relief Program. So, have you received any notification about these benefits yet? Yes",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.04,
+      "text": "Hello. Hello. Good afternoon. This is Evelyn. So, I'm calling because they're"
+    },
+    {
+      "start": 8.04,
+      "end": 13.02,
+      "text": "appending grocery and cash benefits worth up to $300 available on your Medicare"
+    },
+    {
+      "start": 13.02,
+      "end": 16.76,
+      "text": "account through Indiana State Relief Program. So, have you received any"
+    },
+    {
+      "start": 16.76,
+      "end": 20.42,
+      "text": "notification about these benefits yet?"
+    },
+    {
+      "start": 23.64,
+      "end": 25.64,
+      "text": "Yes"
+    }
+  ],
+  "word_count": 42,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Evelyn So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Indiana State Relief Program So, have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Evelyn. So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Indiana State Relief Program. So, have you received any notification about these benefits yet? Yes",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 42
+}

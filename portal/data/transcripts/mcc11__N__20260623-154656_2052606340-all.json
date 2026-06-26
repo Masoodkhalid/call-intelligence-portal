@@ -1,0 +1,37 @@
+{
+  "id": "mcc11__N__20260623-154656_2052606340-all",
+  "campaign": "mcc11",
+  "dispo": "N",
+  "dispo_label": "No Response",
+  "date": "2026-06-23",
+  "time": "15:46:56",
+  "phone": "2052606340",
+  "filename": "20260623-154656_2052606340-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-N/20260623-154656_2052606340-all.mp3",
+  "duration": 13.61,
+  "text": "[BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 1,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "[BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 1
+}

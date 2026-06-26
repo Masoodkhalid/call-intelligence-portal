@@ -1,0 +1,105 @@
+{
+  "id": "mcc11__DNQ__20260623-151015_2014941996-all",
+  "campaign": "mcc11",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "15:10:15",
+  "phone": "2014941996",
+  "filename": "20260623-151015_2014941996-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DNQ/20260623-151015_2014941996-all.mp3",
+  "duration": 45.14,
+  "text": "Hello? Hello? Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program. So have you received any notification about these benefits yet? Hello? Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? No. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Hello. Good afternoon. This is Alyssa."
+    },
+    {
+      "start": 6.0,
+      "end": 12.0,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available"
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "on your Medicare account through New Jersey State Relief Program."
+    },
+    {
+      "start": 16.0,
+      "end": 21.0,
+      "text": "So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 21.0,
+      "end": 25.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "Oh, that's all right. That's exactly why I'm calling."
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "I want to help you get these benefits processed before they go unclaimed."
+    },
+    {
+      "start": 32.0,
+      "end": 36.0,
+      "text": "You're covered under both Part A and Part B, yes?"
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "No."
+    },
+    {
+      "start": 38.0,
+      "end": 42.0,
+      "text": "Sorry, but you don't seem to qualify for the plans that we have."
+    },
+    {
+      "start": 42.0,
+      "end": 44.0,
+      "text": "Have a great day."
+    }
+  ],
+  "word_count": 94,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program So have you received any notification about these benefits yet? Hello? Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you don't seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello? Hello? Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program. So have you received any notification about these benefits yet? Hello? Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? No. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 94
+}

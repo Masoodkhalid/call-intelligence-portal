@@ -1,0 +1,94 @@
+{
+  "id": "mcc11__NI__20260623-163836_9899417163-all",
+  "campaign": "mcc11",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "16:38:36",
+  "phone": "9899417163",
+  "filename": "20260623-163836_9899417163-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NI/20260623-163836_9899417163-all.mp3",
+  "duration": 35.28,
+  "text": "Hello? Hello? Hi, this is Chris speaking. Are you doing good? All right. That's so good to hear. So while I have you here real quick, do you have both Part A and Part B of Medicare? Hey, are you still there? I was just asking, you do have both Part A and Part B of Medicare, right? Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Hi, this is Chris speaking."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Are you doing good?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "All right."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "That's so good to hear."
+    },
+    {
+      "start": 12.0,
+      "end": 22.0,
+      "text": "So while I have you here real quick, do you have both Part A and Part B of Medicare?"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "Hey, are you still there?"
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": "I was just asking, you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "start": 29.0,
+      "end": 31.0,
+      "text": "Thank you."
+    }
+  ],
+  "word_count": 60,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, this is Chris speaking Are you doing good? All right That's so good to hear So while I have you here real quick, do you have both Part A and Part B of Medicare?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hey, are you still there? I was just asking, you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Thank you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Hi, this is Chris speaking. Are you doing good? All right. That's so good to hear. So while I have you here real quick, do you have both Part A and Part B of Medicare? Hey, are you still there? I was just asking, you do have both Part A and Part B of Medicare, right? Thank you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 60
+}

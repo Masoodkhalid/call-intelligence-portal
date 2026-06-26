@@ -1,0 +1,45 @@
+{
+  "id": "mcc3__A__20260623-103358_4346373582-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "10:33:58",
+  "phone": "4346373582",
+  "filename": "20260623-103358_4346373582-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-103358_4346373582-all.mp3",
+  "duration": 10.3,
+  "text": "Hello. At the tone, please record your message. When you've finished recording, you may hang up or press 1 for more options.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello. At the tone, please record your message. When you've finished recording, you may hang up or press 1 for more options."
+    }
+  ],
+  "word_count": 22,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "At the tone, please record your message"
+    },
+    {
+      "speaker": "BOT",
+      "text": "When you've finished recording, you may hang up or press 1 for more options"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. At the tone, please record your message. When you've finished recording, you may hang up or press 1 for more options.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 22
+}

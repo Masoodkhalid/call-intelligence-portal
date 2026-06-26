@@ -1,0 +1,46 @@
+{
+  "id": "mcc3__A__20260623-101638_5152380853-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "10:16:38",
+  "phone": "5152380853",
+  "filename": "20260623-101638_5152380853-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-101638_5152380853-all.mp3",
+  "duration": 8.93,
+  "text": "Out available. Hello, at the tell-and-please record your message. When you've finished recording, you may hang up or press one for more options.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "Out available. Hello, at the tell-and-please record your message."
+    },
+    {
+      "start": 3.2,
+      "end": 7.0,
+      "text": "When you've finished recording, you may hang up or press one for more options."
+    }
+  ],
+  "word_count": 23,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Out available Hello, at the tell-and-please record your message"
+    },
+    {
+      "speaker": "BOT",
+      "text": "When you've finished recording, you may hang up or press one for more options"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Out available. Hello, at the tell-and-please record your message. When you've finished recording, you may hang up or press one for more options.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 23
+}

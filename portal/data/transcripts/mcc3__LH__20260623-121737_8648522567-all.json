@@ -1,0 +1,55 @@
+{
+  "id": "mcc3__LH__20260623-121737_8648522567-all",
+  "campaign": "mcc3",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "12:17:37",
+  "phone": "8648522567",
+  "filename": "20260623-121737_8648522567-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-LH/20260623-121737_8648522567-all.mp3",
+  "duration": 28.3,
+  "text": "Good afternoon. My name is Cassie. I'm calling because your Medicare member profile has a nice name. The base for 22. So you do have both part A and part B, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "Good afternoon. My name is Cassie. I'm calling because your Medicare member profile has a nice name."
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "The base for 22."
+    },
+    {
+      "start": 16.0,
+      "end": 22.0,
+      "text": "So you do have both part A and part B, right?"
+    }
+  ],
+  "word_count": 32,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon My name is Cassie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm calling because your Medicare member profile has a nice name The base for 22"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you do have both part A and part B, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Good afternoon. My name is Cassie. I'm calling because your Medicare member profile has a nice name. The base for 22. So you do have both part A and part B, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 32
+}

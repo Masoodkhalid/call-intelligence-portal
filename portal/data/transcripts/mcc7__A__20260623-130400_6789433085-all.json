@@ -1,0 +1,69 @@
+{
+  "id": "mcc7__A__20260623-130400_6789433085-all",
+  "campaign": "mcc7",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "13:04:00",
+  "phone": "6789433085",
+  "filename": "20260623-130400_6789433085-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-A/20260623-130400_6789433085-all.mp3",
+  "duration": 19.22,
+  "text": "Hello? Uh, are you there? At the tell-em, please record your message. When you've finished recording, you may hang up, or press 1 for more options. To leave a callback number, press 5.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "Uh, are you there?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "At the tell-em, please record your message."
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "When you've finished recording, you may hang up, or press 1 for more options."
+    },
+    {
+      "start": 14.0,
+      "end": 18.0,
+      "text": "To leave a callback number, press 5."
+    }
+  ],
+  "word_count": 33,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Uh, are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "At the tell-em, please record your message"
+    },
+    {
+      "speaker": "BOT",
+      "text": "When you've finished recording, you may hang up, or press 1 for more options"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To leave a callback number, press 5"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Uh, are you there? At the tell-em, please record your message. When you've finished recording, you may hang up, or press 1 for more options. To leave a callback number, press 5.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 33
+}

@@ -1,0 +1,75 @@
+{
+  "id": "mcc7__NI__20260623-155753_3342351106-all",
+  "campaign": "mcc7",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "15:57:53",
+  "phone": "3342351106",
+  "filename": "20260623-155753_3342351106-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NI/20260623-155753_3342351106-all.mp3",
+  "duration": 40.82,
+  "text": "Hello? Are you? Good afternoon, this is Jacob. I've got you. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So, have you received any notification about these benefits yet? So, I was asking if you received the notification about the pending credits on your Medicare plan?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Are you?"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Good afternoon, this is Jacob."
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "I've got you."
+    },
+    {
+      "start": 8.0,
+      "end": 19.0,
+      "text": "So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program."
+    },
+    {
+      "start": 19.0,
+      "end": 29.0,
+      "text": "So, have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 29.0,
+      "end": 34.0,
+      "text": "So, I was asking if you received the notification about the pending credits on your Medicare plan?"
+    }
+  ],
+  "word_count": 63,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you? Good afternoon, this is Jacob"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I've got you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program So, have you received any notification about these benefits yet? So, I was asking if you received the notification about the pending credits on your Medicare plan?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you? Good afternoon, this is Jacob. I've got you. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So, have you received any notification about these benefits yet? So, I was asking if you received the notification about the pending credits on your Medicare plan?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 63
+}

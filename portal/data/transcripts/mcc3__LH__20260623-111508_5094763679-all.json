@@ -1,0 +1,42 @@
+{
+  "id": "mcc3__LH__20260623-111508_5094763679-all",
+  "campaign": "mcc3",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "11:15:08",
+  "phone": "5094763679",
+  "filename": "20260623-111508_5094763679-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-LH/20260623-111508_5094763679-all.mp3",
+  "duration": 13.39,
+  "text": "Hello? Uh, are you there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.46,
+      "end": 7.66,
+      "text": "Uh, are you there?"
+    }
+  ],
+  "word_count": 5,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Uh, are you there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Uh, are you there?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 5
+}

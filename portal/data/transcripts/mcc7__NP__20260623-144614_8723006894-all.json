@@ -1,0 +1,51 @@
+{
+  "id": "mcc7__NP__20260623-144614_8723006894-all",
+  "campaign": "mcc7",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "14:46:14",
+  "phone": "8723006894",
+  "filename": "20260623-144614_8723006894-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NP/20260623-144614_8723006894-all.mp3",
+  "duration": 20.09,
+  "text": "Hello. Hello. Good afternoon. My name is Sophie. Are you doing okay? Time may I help you? I'm Sophie and I'm talking to you from Nova Health Care. I'm here to make sure that you secure the best benefits in the special environment.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": "Hello. Hello. Good afternoon. My name is Sophie. Are you doing okay?"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "Time may I help you?"
+    },
+    {
+      "start": 12.0,
+      "end": 21.0,
+      "text": "I'm Sophie and I'm talking to you from Nova Health Care. I'm here to make sure that you secure the best benefits in the special environment."
+    }
+  ],
+  "word_count": 43,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon My name is Sophie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Are you doing okay? Time may I help you? I'm Sophie and I'm talking to you from Nova Health Care I'm here to make sure that you secure the best benefits in the special environment"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. My name is Sophie. Are you doing okay? Time may I help you? I'm Sophie and I'm talking to you from Nova Health Care. I'm here to make sure that you secure the best benefits in the special environment.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 43
+}

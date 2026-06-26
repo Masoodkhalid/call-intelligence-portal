@@ -1,0 +1,42 @@
+{
+  "id": "mcc11__NI__20260623-165036_7067793719-all",
+  "campaign": "mcc11",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "16:50:36",
+  "phone": "7067793719",
+  "filename": "20260623-165036_7067793719-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NI/20260623-165036_7067793719-all.mp3",
+  "duration": 21.82,
+  "text": "\"Hello?\" \"Hello?\" \"Hi, this is Chris speaking.\" \"How are you doing today?\" \"So, how's your day going?\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "\"Hello?\" \"Hello?\" \"Hi, this is Chris speaking.\" \"How are you doing today?\""
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "\"So, how's your day going?\""
+    }
+  ],
+  "word_count": 17,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello?\" \"Hello?\" \"Hi, this is Chris speaking.\" \"How are you doing today?\" \"So, how's your day going?\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Hello?\" \"Hi, this is Chris speaking.\" \"How are you doing today?\" \"So, how's your day going?\"",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 17
+}

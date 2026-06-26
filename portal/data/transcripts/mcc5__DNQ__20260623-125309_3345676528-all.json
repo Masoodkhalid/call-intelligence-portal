@@ -1,0 +1,55 @@
+{
+  "id": "mcc5__DNQ__20260623-125309_3345676528-all",
+  "campaign": "mcc5",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "12:53:09",
+  "phone": "3345676528",
+  "filename": "20260623-125309_3345676528-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DNQ/20260623-125309_3345676528-all.mp3",
+  "duration": 24.91,
+  "text": "\"Hello.\" \"Hello.\" \"Hi. Good morning. This is Evelyn. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So, have you been notified about these benefits yet?\" \"Eld you take the $300, but I don't want it.\" Sorry, but-",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 19.0,
+      "text": "\"Hello.\" \"Hello.\" \"Hi. Good morning. This is Evelyn. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So, have you been notified about these benefits yet?\""
+    },
+    {
+      "start": 19.0,
+      "end": 23.0,
+      "text": "\"Eld you take the $300, but I don't want it.\""
+    },
+    {
+      "start": 23.0,
+      "end": 25.0,
+      "text": "Sorry, but-"
+    }
+  ],
+  "word_count": 54,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello.\" \"Hello.\" \"Hi"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning This is Evelyn So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So, have you been notified about these benefits yet?\" \"Eld you take the $300, but I don't want it.\" Sorry, but"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello.\" \"Hello.\" \"Hi. Good morning. This is Evelyn. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So, have you been notified about these benefits yet?\" \"Eld you take the $300, but I don't want it.\" Sorry, but-",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 54
+}

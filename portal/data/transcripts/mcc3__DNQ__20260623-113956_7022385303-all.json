@@ -1,0 +1,77 @@
+{
+  "id": "mcc3__DNQ__20260623-113956_7022385303-all",
+  "campaign": "mcc3",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "11:39:56",
+  "phone": "7022385303",
+  "filename": "20260623-113956_7022385303-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3DNQ/20260623-113956_7022385303-all.mp3",
+  "duration": 38.95,
+  "text": "Hello. Yes. Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So you do have both part A and part B, right? No, I think I only have part A in Medicare. That's it. Sorry. You don't seem to qualify for the plans we have. I know that. Don't call me no more because I already talked to",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.36,
+      "text": "Hello. Yes. Good morning. My name is Cassie. So I'm calling because your Medicare member"
+    },
+    {
+      "start": 10.36,
+      "end": 17.18,
+      "text": "profile hasn't been transferred into Medicare's national database for 2026 yet. And that can"
+    },
+    {
+      "start": 17.18,
+      "end": 26.22,
+      "text": "hold up your coverage approvals. So you do have both part A and part B, right?"
+    },
+    {
+      "start": 26.22,
+      "end": 34.3,
+      "text": "No, I think I only have part A in Medicare. That's it. Sorry. You don't seem to qualify"
+    },
+    {
+      "start": 34.3,
+      "end": 38.56,
+      "text": "for the plans we have. I know that. Don't call me no more because I already talked to"
+    }
+  ],
+  "word_count": 81,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals So you do have both part A and part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, I think I only have part A in Medicare That's it Sorry"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You don't seem to qualify for the plans we have"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I know that Don't call me no more because I already talked to"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello. Yes. Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So you do have both part A and part B, right? No, I think I only have part A in Medicare. That's it. Sorry. You don't seem to qualify for the plans we have. I know that. Don't call me no more because I already talked to",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 81
+}

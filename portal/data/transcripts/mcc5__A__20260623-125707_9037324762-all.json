@@ -1,0 +1,37 @@
+{
+  "id": "mcc5__A__20260623-125707_9037324762-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "12:57:07",
+  "phone": "9037324762",
+  "filename": "20260623-125707_9037324762-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-125707_9037324762-all.mp3",
+  "duration": 9.86,
+  "text": "Hello 4 7 6 2, Mary 8. If I don't answer, leave a message, please.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Hello 4 7 6 2, Mary 8. If I don't answer, leave a message, please."
+    }
+  ],
+  "word_count": 15,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello 4 7 6 2, Mary 8 If I don't answer, leave a message, please"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello 4 7 6 2, Mary 8. If I don't answer, leave a message, please.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 15
+}

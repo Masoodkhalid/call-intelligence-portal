@@ -1,0 +1,37 @@
+{
+  "id": "mcc11__A__20260623-160629_8504875799-all",
+  "campaign": "mcc11",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "16:06:29",
+  "phone": "8504875799",
+  "filename": "20260623-160629_8504875799-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-A/20260623-160629_8504875799-all.mp3",
+  "duration": 11.74,
+  "text": "Hello, is not available. Record your message at the cone when you are finished, hang up, or press pound for more options.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Hello, is not available. Record your message at the cone when you are finished, hang up, or press pound for more options."
+    }
+  ],
+  "word_count": 22,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello, is not available Record your message at the cone when you are finished, hang up, or press pound for more options"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello, is not available. Record your message at the cone when you are finished, hang up, or press pound for more options.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 22
+}

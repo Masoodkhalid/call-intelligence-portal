@@ -1,0 +1,85 @@
+{
+  "id": "mcc5__NP__20260623-142243_4347138813-all",
+  "campaign": "mcc5",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "14:22:43",
+  "phone": "4347138813",
+  "filename": "20260623-142243_4347138813-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NP/20260623-142243_4347138813-all.mp3",
+  "duration": 34.7,
+  "text": "Hello. Are you there? Hello. Hello. Good afternoon. This is Rachel. So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Virginia State Relief Program. So have you received any notification about these benefits yet? No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello."
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Hello."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Hello. Good afternoon. This is Rachel."
+    },
+    {
+      "start": 12.0,
+      "end": 21.0,
+      "text": "So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Virginia State Relief Program."
+    },
+    {
+      "start": 21.0,
+      "end": 25.0,
+      "text": "So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "No."
+    },
+    {
+      "start": 27.0,
+      "end": 30.0,
+      "text": "Oh, that's all right. That's exactly why I'm calling."
+    },
+    {
+      "start": 30.0,
+      "end": 35.0,
+      "text": "I want to help you get these benefits processed before they go unclaimed."
+    }
+  ],
+  "word_count": 68,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Are you there? Hello Hello Good afternoon This is Rachel So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Virginia State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Are you there? Hello. Hello. Good afternoon. This is Rachel. So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Virginia State Relief Program. So have you received any notification about these benefits yet? No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 68
+}

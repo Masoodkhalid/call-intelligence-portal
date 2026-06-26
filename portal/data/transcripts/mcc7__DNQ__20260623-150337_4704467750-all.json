@@ -1,0 +1,65 @@
+{
+  "id": "mcc7__DNQ__20260623-150337_4704467750-all",
+  "campaign": "mcc7",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "15:03:37",
+  "phone": "4704467750",
+  "filename": "20260623-150337_4704467750-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DNQ/20260623-150337_4704467750-all.mp3",
+  "duration": 36.14,
+  "text": "Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief program. So have you been notified about these benefits yet? I'm not 65. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.52,
+      "text": "Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash"
+    },
+    {
+      "start": 11.52,
+      "end": 17.54,
+      "text": "benefits worth up to $300 available on your Medicare account through Georgia State Relief"
+    },
+    {
+      "start": 17.54,
+      "end": 21.88,
+      "text": "program. So have you been notified about these benefits yet?"
+    },
+    {
+      "start": 21.88,
+      "end": 32.08,
+      "text": "I'm not 65. Sorry, but you don't seem to qualify for the"
+    },
+    {
+      "start": 32.08,
+      "end": 34.08,
+      "text": "plans that we have. Have a great day."
+    }
+  ],
+  "word_count": 59,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon This is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief program So have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm not 65"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you don't seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief program. So have you been notified about these benefits yet? I'm not 65. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 59
+}

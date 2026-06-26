@@ -1,0 +1,71 @@
+{
+  "id": "mcc5__DNQ__20260623-134639_3615948116-all",
+  "campaign": "mcc5",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "13:46:39",
+  "phone": "3615948116",
+  "filename": "20260623-134639_3615948116-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DNQ/20260623-134639_3615948116-all.mp3",
+  "duration": 26.5,
+  "text": "Hello? Hello. Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? Yes, I do, but I also charge care for wife and that disqualifies me, so don't bother me.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Hello."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Hey, this is Chelsea."
+    },
+    {
+      "start": 7.0,
+      "end": 13.0,
+      "text": "There's a note on your Medicare profile that your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 13.0,
+      "end": 16.0,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 16.0,
+      "end": 19.0,
+      "text": "Do you have Part A and Part B?"
+    },
+    {
+      "start": 19.0,
+      "end": 25.0,
+      "text": "Yes, I do, but I also charge care for wife and that disqualifies me, so don't bother me."
+    }
+  ],
+  "word_count": 56,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, I do, but I also charge care for wife and that disqualifies me, so don't bother me"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello. Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? Yes, I do, but I also charge care for wife and that disqualifies me, so don't bother me.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 56
+}

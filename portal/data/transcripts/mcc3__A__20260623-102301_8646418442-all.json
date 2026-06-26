@@ -1,0 +1,37 @@
+{
+  "id": "mcc3__A__20260623-102301_8646418442-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "10:23:01",
+  "phone": "8646418442",
+  "filename": "20260623-102301_8646418442-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-102301_8646418442-all.mp3",
+  "duration": 13.1,
+  "text": "Well, hello Mulsberg, please leave your name number and a brief message and I'll call you back. Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.32,
+      "text": "Well, hello Mulsberg, please leave your name number and a brief message and I'll call you back. Thank you."
+    }
+  ],
+  "word_count": 19,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Well, hello Mulsberg, please leave your name number and a brief message and I'll call you back Thank you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Well, hello Mulsberg, please leave your name number and a brief message and I'll call you back. Thank you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 19
+}

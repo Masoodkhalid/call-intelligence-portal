@@ -1,0 +1,92 @@
+{
+  "id": "mcc5__LH__20260623-104922_9032520808-all",
+  "campaign": "mcc5",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "10:49:22",
+  "phone": "9032520808",
+  "filename": "20260623-104922_9032520808-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-LH/20260623-104922_9032520808-all.mp3",
+  "duration": 33.98,
+  "text": "Hello. Yes. Hi. Good morning. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So have you received any notification about these benefits yet? Yes. Oh, okay. Great. So the notification has all the details and I just want to help you get everything processed. You're enrolled in both Part A and Part B, aren't you? Yes.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Yes."
+    },
+    {
+      "start": 4.0,
+      "end": 15.0,
+      "text": "Hi. Good morning. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program."
+    },
+    {
+      "start": 15.0,
+      "end": 19.0,
+      "text": "So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": "Yes."
+    },
+    {
+      "start": 21.0,
+      "end": 29.0,
+      "text": "Oh, okay. Great. So the notification has all the details and I just want to help you get everything processed."
+    },
+    {
+      "start": 29.0,
+      "end": 33.0,
+      "text": "You're enrolled in both Part A and Part B, aren't you?"
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "text": "Yes."
+    }
+  ],
+  "word_count": 76,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi Good morning This is Rachel So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes Oh, okay Great So the notification has all the details and I just want to help you get everything processed"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're enrolled in both Part A and Part B, aren't you?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Yes. Hi. Good morning. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So have you received any notification about these benefits yet? Yes. Oh, okay. Great. So the notification has all the details and I just want to help you get everything processed. You're enrolled in both Part A and Part B, aren't you? Yes.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 76
+}

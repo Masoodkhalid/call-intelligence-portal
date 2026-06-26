@@ -1,0 +1,47 @@
+{
+  "id": "mcc11__NP__20260623-165558_2693177541-all",
+  "campaign": "mcc11",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "16:55:58",
+  "phone": "2693177541",
+  "filename": "20260623-165558_2693177541-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NP/20260623-165558_2693177541-all.mp3",
+  "duration": 10.66,
+  "text": "-Hello. -Hello. Hey, this is Sarah. There's a note on your Medicare profile that your 2026 update hasn't been confirmed.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "-Hello. -Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Hey, this is Sarah."
+    },
+    {
+      "start": 6.0,
+      "end": 11.0,
+      "text": "There's a note on your Medicare profile that your 2026 update hasn't been confirmed."
+    }
+  ],
+  "word_count": 20,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hey, this is Sarah There's a note on your Medicare profile that your 2026 update hasn't been confirmed"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "-Hello. -Hello. Hey, this is Sarah. There's a note on your Medicare profile that your 2026 update hasn't been confirmed.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 20
+}

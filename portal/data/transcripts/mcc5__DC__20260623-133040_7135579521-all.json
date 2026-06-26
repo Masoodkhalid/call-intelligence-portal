@@ -1,0 +1,46 @@
+{
+  "id": "mcc5__DC__20260623-133040_7135579521-all",
+  "campaign": "mcc5",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "13:30:40",
+  "phone": "7135579521",
+  "filename": "20260623-133040_7135579521-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DC/20260623-133040_7135579521-all.mp3",
+  "duration": 22.39,
+  "text": "Hello. Hello. Hello. Good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas state release program. So have you received any notification about these benefits yet? Yes, we have everything we need. Thank you for calling.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 17.0,
+      "text": "Hello. Hello. Hello. Good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas state release program. So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "text": "Yes, we have everything we need. Thank you for calling."
+    }
+  ],
+  "word_count": 53,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hello Good afternoon This is Rachel So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas state release program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, we have everything we need Thank you for calling"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Hello. Good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas state release program. So have you received any notification about these benefits yet? Yes, we have everything we need. Thank you for calling.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 53
+}

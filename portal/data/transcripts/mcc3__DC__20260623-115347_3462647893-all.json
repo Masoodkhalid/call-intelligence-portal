@@ -1,0 +1,46 @@
+{
+  "id": "mcc3__DC__20260623-115347_3462647893-all",
+  "campaign": "mcc3",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "11:53:47",
+  "phone": "3462647893",
+  "filename": "20260623-115347_3462647893-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-DC/20260623-115347_3462647893-all.mp3",
+  "duration": 8.78,
+  "text": "Hello. Hello. Hi, good morning. This is Rachel. So I'm calling because they're pending grocery",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.56,
+      "text": "Hello. Hello. Hi, good morning. This is Rachel. So I'm calling because they're"
+    },
+    {
+      "start": 7.56,
+      "end": 37.56,
+      "text": "pending grocery"
+    }
+  ],
+  "word_count": 15,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hi, good morning This is Rachel"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So I'm calling because they're pending grocery"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Hi, good morning. This is Rachel. So I'm calling because they're pending grocery",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 15
+}

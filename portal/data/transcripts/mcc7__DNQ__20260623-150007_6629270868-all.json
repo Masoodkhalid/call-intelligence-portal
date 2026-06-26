@@ -1,0 +1,78 @@
+{
+  "id": "mcc7__DNQ__20260623-150007_6629270868-all",
+  "campaign": "mcc7",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "15:00:07",
+  "phone": "6629270868",
+  "filename": "20260623-150007_6629270868-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DNQ/20260623-150007_6629270868-all.mp3",
+  "duration": 41.11,
+  "text": "Hello. Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through a Mississippi State Relief Program. So far, have you received any updates or notifications about this yet? No. No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? No, I'm not. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.0,
+      "text": "Hello. Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through a Mississippi State Relief Program."
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "No. No."
+    },
+    {
+      "start": 23.0,
+      "end": 29.0,
+      "text": "Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed."
+    },
+    {
+      "start": 29.0,
+      "end": 35.0,
+      "text": "You're covered under both Part A and Part B, yes? No, I'm not."
+    },
+    {
+      "start": 35.0,
+      "end": 40.0,
+      "text": "Sorry, but you don't seem to qualify for the plans that we have. Have a great day."
+    }
+  ],
+  "word_count": 99,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through a Mississippi State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, I'm not"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you don't seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello. Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through a Mississippi State Relief Program. So far, have you received any updates or notifications about this yet? No. No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? No, I'm not. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 99
+}

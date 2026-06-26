@@ -1,0 +1,42 @@
+{
+  "id": "mcc3__DC__20260623-113814_8625968872-all",
+  "campaign": "mcc3",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "11:38:14",
+  "phone": "8625968872",
+  "filename": "20260623-113814_8625968872-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-DC/20260623-113814_8625968872-all.mp3",
+  "duration": 18.58,
+  "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State release programs.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.72,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available"
+    },
+    {
+      "start": 15.72,
+      "end": 18.6,
+      "text": "on your Medicare account through New Jersey State release programs."
+    }
+  ],
+  "word_count": 25,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State release programs"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State release programs.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 25
+}

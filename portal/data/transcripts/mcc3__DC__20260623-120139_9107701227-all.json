@@ -1,0 +1,47 @@
+{
+  "id": "mcc3__DC__20260623-120139_9107701227-all",
+  "campaign": "mcc3",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "12:01:39",
+  "phone": "9107701227",
+  "filename": "20260623-120139_9107701227-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-DC/20260623-120139_9107701227-all.mp3",
+  "duration": 14.26,
+  "text": "Hello. Hello. Good afternoon. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello."
+    },
+    {
+      "start": 7.0,
+      "end": 11.74,
+      "text": "Hello. Good afternoon. This is Evelyn. So I'm calling because there are pending grocery"
+    },
+    {
+      "start": 11.74,
+      "end": 14.28,
+      "text": "and cash benefits worth up to $300."
+    }
+  ],
+  "word_count": 22,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Evelyn So I'm calling because there are pending grocery and cash benefits worth up to $300"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 22
+}

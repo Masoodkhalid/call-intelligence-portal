@@ -1,0 +1,46 @@
+{
+  "id": "mcc3__NP__20260623-124344_9417866535-all",
+  "campaign": "mcc3",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "12:43:44",
+  "phone": "9417866535",
+  "filename": "20260623-124344_9417866535-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NP/20260623-124344_9417866535-all.mp3",
+  "duration": 11.09,
+  "text": "Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile Well, hasn't been...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.4,
+      "text": "Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile"
+    },
+    {
+      "start": 10.4,
+      "end": 11.4,
+      "text": "Well, hasn't been..."
+    }
+  ],
+  "word_count": 17,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon My name is Cassie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So, I'm calling because your Medicare member profile Well, hasn't been"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile Well, hasn't been...",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 17
+}

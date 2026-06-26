@@ -1,0 +1,91 @@
+{
+  "id": "mcc3__DNQ__20260623-113530_9402578203-all",
+  "campaign": "mcc3",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "11:35:30",
+  "phone": "9402578203",
+  "filename": "20260623-113530_9402578203-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3DNQ/20260623-113530_9402578203-all.mp3",
+  "duration": 47.02,
+  "text": "Hello. Yes. Hi, good morning. This is Evelyn. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So far, have you received any updates or notifications about this yet? Yes, I have. I don't qualify. So we actually work with the largest network of Medicare providers and I'd love to help you get your eligibility sorted out. You're on part A and part B, I take it. No. Sorry, but you do not seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.56,
+      "text": "Hello. Yes. Hi, good morning. This is Evelyn. So I'm calling because they're"
+    },
+    {
+      "start": 9.56,
+      "end": 15.04,
+      "text": "appending grocery and cash benefits worth up to $300 available on your Medicare"
+    },
+    {
+      "start": 15.04,
+      "end": 19.56,
+      "text": "account through Texas State Relief Program. So far, have you received any"
+    },
+    {
+      "start": 19.56,
+      "end": 27.8,
+      "text": "updates or notifications about this yet? Yes, I have. I don't qualify. So we"
+    },
+    {
+      "start": 27.8,
+      "end": 31.48,
+      "text": "actually work with the largest network of Medicare providers and I'd love to"
+    },
+    {
+      "start": 31.48,
+      "end": 36.64,
+      "text": "help you get your eligibility sorted out. You're on part A and part B, I take it."
+    },
+    {
+      "start": 36.64,
+      "end": 44.84,
+      "text": "No. Sorry, but you do not seem to qualify for the plans that we have. Have a great day."
+    }
+  ],
+  "word_count": 101,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi, good morning This is Evelyn So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, I have I don't qualify So we actually work with the largest network of Medicare providers and I'd love to help you get your eligibility sorted out"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're on part A and part B, I take it"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you do not seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello. Yes. Hi, good morning. This is Evelyn. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So far, have you received any updates or notifications about this yet? Yes, I have. I don't qualify. So we actually work with the largest network of Medicare providers and I'd love to help you get your eligibility sorted out. You're on part A and part B, I take it. No. Sorry, but you do not seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 101
+}

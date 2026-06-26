@@ -1,0 +1,83 @@
+{
+  "id": "mcc7__LH__20260623-151220_4808349557-all",
+  "campaign": "mcc7",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "15:12:20",
+  "phone": "4808349557",
+  "filename": "20260623-151220_4808349557-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-LH/20260623-151220_4808349557-all.mp3",
+  "duration": 51.05,
+  "text": "Hello. Hello. Hi, how can I help you today? Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arizona State Relief Program. So far, have you received any updates or notifications about this yet? Yes, so I was asking if you received the notification about the pending credits on your Medicare plan? Yeah, so we're in the special enrollment period for 2026 and a lot of members haven't been notified yet. So I want to help you get this taken care of. You do have both part A and B, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "Hello. Hello. Hi, how can I help you today?"
+    },
+    {
+      "start": 5.12,
+      "end": 12.08,
+      "text": "Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits"
+    },
+    {
+      "start": 12.08,
+      "end": 18.56,
+      "text": "worth up to $300 available on your Medicare account through Arizona State Relief Program."
+    },
+    {
+      "start": 19.52,
+      "end": 23.6,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 29.04,
+      "end": 34.24,
+      "text": "Yes, so I was asking if you received the notification about the pending credits on your Medicare plan?"
+    },
+    {
+      "start": 36.88,
+      "end": 42.4,
+      "text": "Yeah, so we're in the special enrollment period for 2026 and a lot of members haven't been notified"
+    },
+    {
+      "start": 42.4,
+      "end": 48.96,
+      "text": "yet. So I want to help you get this taken care of. You do have both part A and B, right?"
+    }
+  ],
+  "word_count": 108,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, how can I help you today?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon This is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arizona State Relief Program So far, have you received any updates or notifications about this yet? Yes, so I was asking if you received the notification about the pending credits on your Medicare plan?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah, so we're in the special enrollment period for 2026 and a lot of members haven't been notified yet So I want to help you get this taken care of"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You do have both part A and B, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Hi, how can I help you today? Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arizona State Relief Program. So far, have you received any updates or notifications about this yet? Yes, so I was asking if you received the notification about the pending credits on your Medicare plan? Yeah, so we're in the special enrollment period for 2026 and a lot of members haven't been notified yet. So I want to help you get this taken care of. You do have both part A and B, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 108
+}

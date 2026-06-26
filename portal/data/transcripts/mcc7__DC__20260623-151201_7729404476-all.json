@@ -1,0 +1,74 @@
+{
+  "id": "mcc7__DC__20260623-151201_7729404476-all",
+  "campaign": "mcc7",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "15:12:01",
+  "phone": "7729404476",
+  "filename": "20260623-151201_7729404476-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DC/20260623-151201_7729404476-all.mp3",
+  "duration": 40.1,
+  "text": "Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So far, have you received any updates or notifications about this yet? No, not yet. Oh, that's all right. That's exactly why I'm calling. And I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B. I don't know. I don't know. I don't have it. No, I don't know.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.64,
+      "text": "Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash"
+    },
+    {
+      "start": 10.64,
+      "end": 17.32,
+      "text": "benefits worth up to $300 available on your Medicare account through Florida State Relief"
+    },
+    {
+      "start": 17.32,
+      "end": 23.64,
+      "text": "Program. So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 23.64,
+      "end": 30.76,
+      "text": "No, not yet. Oh, that's all right. That's exactly why I'm calling. And I want to help"
+    },
+    {
+      "start": 30.76,
+      "end": 35.4,
+      "text": "you get these benefits processed before they go unclaimed. You're covered under both Part"
+    },
+    {
+      "start": 35.4,
+      "end": 38.84,
+      "text": "A and Part B. I don't know. I don't know. I don't have it. No, I don't know."
+    }
+  ],
+  "word_count": 91,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon This is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, not yet"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I don't know I don't know I don't have it No, I don't know"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So far, have you received any updates or notifications about this yet? No, not yet. Oh, that's all right. That's exactly why I'm calling. And I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B. I don't know. I don't know. I don't have it. No, I don't know.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 91
+}

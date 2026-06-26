@@ -1,0 +1,42 @@
+{
+  "id": "mcc7__DC__20260623-150601_2525225799-all",
+  "campaign": "mcc7",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "15:06:01",
+  "phone": "2525225799",
+  "filename": "20260623-150601_2525225799-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DC/20260623-150601_2525225799-all.mp3",
+  "duration": 16.34,
+  "text": "Hello. Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Hello. Hello. Hello. Good afternoon. This is Alyssa."
+    },
+    {
+      "start": 6.0,
+      "end": 16.0,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program."
+    }
+  ],
+  "word_count": 33,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 33
+}

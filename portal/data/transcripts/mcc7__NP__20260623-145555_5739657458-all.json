@@ -1,0 +1,51 @@
+{
+  "id": "mcc7__NP__20260623-145555_5739657458-all",
+  "campaign": "mcc7",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "14:55:55",
+  "phone": "5739657458",
+  "filename": "20260623-145555_5739657458-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NP/20260623-145555_5739657458-all.mp3",
+  "duration": 21.38,
+  "text": "Hello. Hello. Good afternoon. My name is Sophie. You doing okay? What do you want? I'm Sophie, and I'm talking to you from Nova HealthCare. I'm here to make sure that you secure the best benefits in the special enrollment period 2026.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.68,
+      "text": "Hello. Hello. Good afternoon. My name is Sophie. You doing okay? What do you want?"
+    },
+    {
+      "start": 9.68,
+      "end": 17.28,
+      "text": "I'm Sophie, and I'm talking to you from Nova HealthCare. I'm here to make sure"
+    },
+    {
+      "start": 17.28,
+      "end": 23.24,
+      "text": "that you secure the best benefits in the special enrollment period 2026."
+    }
+  ],
+  "word_count": 42,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon My name is Sophie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You doing okay? What do you want? I'm Sophie, and I'm talking to you from Nova HealthCare I'm here to make sure that you secure the best benefits in the special enrollment period 2026"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. My name is Sophie. You doing okay? What do you want? I'm Sophie, and I'm talking to you from Nova HealthCare. I'm here to make sure that you secure the best benefits in the special enrollment period 2026.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 42
+}

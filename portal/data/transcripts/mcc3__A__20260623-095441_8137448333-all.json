@@ -1,0 +1,56 @@
+{
+  "id": "mcc3__A__20260623-095441_8137448333-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "09:54:41",
+  "phone": "8137448333",
+  "filename": "20260623-095441_8137448333-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-095441_8137448333-all.mp3",
+  "duration": 13.46,
+  "text": "Hello? If you know your party's extension number, you may dial it at any time during this message. You may press the pound key for our dial by name directory. Press 1 to report your name.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 7.0,
+      "text": "If you know your party's extension number, you may dial it at any time during this message."
+    },
+    {
+      "start": 7.0,
+      "end": 12.0,
+      "text": "You may press the pound key for our dial by name directory."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Press 1 to report your name."
+    }
+  ],
+  "word_count": 36,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "If you know your party's extension number, you may dial it at any time during this message You may press the pound key for our dial by name directory Press 1 to report your name"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? If you know your party's extension number, you may dial it at any time during this message. You may press the pound key for our dial by name directory. Press 1 to report your name.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 36
+}

@@ -1,0 +1,97 @@
+{
+  "id": "mcc3__DNQ__20260623-112030_8432153255-all",
+  "campaign": "mcc3",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "11:20:30",
+  "phone": "8432153255",
+  "filename": "20260623-112030_8432153255-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3DNQ/20260623-112030_8432153255-all.mp3",
+  "duration": 30.67,
+  "text": "- Hello. - Yes. - What are you doing? - Hi. Good morning. This is Rachel. So, I'm calling because their appending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief prep. So, have you been notified about these benefits yet? - No, I'm not going to have Medicare yet. Okay. - I don't have any. - Sorry, but you did not seem to qualify for the plans that we have. Have a great day. I'm okay.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "- Hello. - Yes."
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "- What are you doing? - Hi. Good morning. This is Rachel."
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": "So, I'm calling because their appending grocery and cash benefits"
+    },
+    {
+      "start": 11.0,
+      "end": 16.0,
+      "text": "worth up to $300 available on your Medicare account through South Carolina state relief prep."
+    },
+    {
+      "start": 16.0,
+      "end": 19.0,
+      "text": "So, have you been notified about these benefits yet?"
+    },
+    {
+      "start": 19.0,
+      "end": 22.0,
+      "text": "- No, I'm not going to have Medicare yet. Okay."
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "text": "- I don't have any. - Sorry, but you did not seem to qualify for the plans that we have."
+    },
+    {
+      "start": 27.0,
+      "end": 29.0,
+      "text": "Have a great day."
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "text": "I'm okay."
+    }
+  ],
+  "word_count": 86,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes What are you doing?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi Good morning This is Rachel So, I'm calling because their appending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief prep So, have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, I'm not going to have Medicare yet Okay I don't have any"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you did not seem to qualify for the plans that we have Have a great day"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm okay"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "- Hello. - Yes. - What are you doing? - Hi. Good morning. This is Rachel. So, I'm calling because their appending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief prep. So, have you been notified about these benefits yet? - No, I'm not going to have Medicare yet. Okay. - I don't have any. - Sorry, but you did not seem to qualify for the plans that we have. Have a great day. I'm okay.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 86
+}

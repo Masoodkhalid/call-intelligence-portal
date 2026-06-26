@@ -1,0 +1,180 @@
+{
+  "id": "mcc5__RAXFER__20260623-142743_4703637390-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:27:43",
+  "phone": "4703637390",
+  "filename": "20260623-142743_4703637390-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-142743_4703637390-all.mp3",
+  "duration": 134.14,
+  "text": "- Hello. - Yes. - Good afternoon. My name is Cassie. I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your coverage approvals. To get your file updated, do you have both Medicare Part A and Part B? - Yes. - Hey, are you still there? I was just asking, you do have both Part A and Part B of Medicare, right? - Yes. - You do qualify forwarding you to our supervisor now. Please hold. - For hoarding, I want to line this with Sam. How were you? - Perfect. Thank you. - Sorry? - Nice to meet you. - Well, this call is in regards to inquire about your Medicare benefits. You do have Medicare Part A and Part B? - Yes. - All right, wonderful. Just tell me how old are you? - I'm 86. - Sorry? - I'm 86. - 86. - That you thank you so much. Your age is 86. We are here to help you to maximize your 2026 benefits and get cash back, money for food and groceries and extra monthly savings. So just tell me what's your zip code? - 30135. - 30135. - You thank you so much and do you make your own health decisions and do you decide everything by yourself? - Yes. - And do you happen to- - Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "- Hello. - Yes."
+    },
+    {
+      "start": 3.5,
+      "end": 7.36,
+      "text": "- Good afternoon. My name is Cassie."
+    },
+    {
+      "start": 7.36,
+      "end": 13.44,
+      "text": "I'm calling because your Medicare member profile is showing it hasn't been transferred into"
+    },
+    {
+      "start": 13.44,
+      "end": 19.82,
+      "text": "Medicare's national database for 2026 yet, and that can delay your coverage approvals."
+    },
+    {
+      "start": 19.82,
+      "end": 26.28,
+      "text": "To get your file updated, do you have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 26.28,
+      "end": 28.78,
+      "text": "- Yes."
+    },
+    {
+      "start": 28.78,
+      "end": 31.82,
+      "text": "- Hey, are you still there?"
+    },
+    {
+      "start": 31.82,
+      "end": 37.8,
+      "text": "I was just asking, you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "start": 37.8,
+      "end": 39.4,
+      "text": "- Yes."
+    },
+    {
+      "start": 39.4,
+      "end": 45.52,
+      "text": "- You do qualify forwarding you to our supervisor now. Please hold."
+    },
+    {
+      "start": 45.52,
+      "end": 53.42,
+      "text": "- For hoarding, I want to line this with Sam. How were you?"
+    },
+    {
+      "start": 53.42,
+      "end": 58.56,
+      "text": "- Perfect. Thank you. - Sorry?"
+    },
+    {
+      "start": 58.56,
+      "end": 63.86,
+      "text": "- Nice to meet you. - Well, this call is in regards to"
+    },
+    {
+      "start": 63.86,
+      "end": 68.52,
+      "text": "inquire about your Medicare benefits. You do have Medicare Part A and Part B?"
+    },
+    {
+      "start": 68.52,
+      "end": 70.34,
+      "text": "- Yes."
+    },
+    {
+      "start": 70.34,
+      "end": 74.26,
+      "text": "- All right, wonderful. Just tell me how old are you?"
+    },
+    {
+      "start": 74.26,
+      "end": 78.28,
+      "text": "- I'm 86. - Sorry?"
+    },
+    {
+      "start": 78.28,
+      "end": 81.48,
+      "text": "- I'm 86. - 86."
+    },
+    {
+      "start": 81.48,
+      "end": 87.16,
+      "text": "- That you thank you so much. Your age is 86. We are here to help you to maximize your"
+    },
+    {
+      "start": 87.16,
+      "end": 94.44,
+      "text": "2026 benefits and get cash back, money for food and groceries and extra monthly savings."
+    },
+    {
+      "start": 94.44,
+      "end": 98.0,
+      "text": "So just tell me what's your zip code?"
+    },
+    {
+      "start": 98.0,
+      "end": 102.08,
+      "text": "- 30135."
+    },
+    {
+      "start": 102.08,
+      "end": 105.16,
+      "text": "- 30135."
+    },
+    {
+      "start": 105.16,
+      "end": 114.04,
+      "text": "- You thank you so much and do you make your own health decisions and do you decide everything"
+    },
+    {
+      "start": 114.04,
+      "end": 116.04,
+      "text": "by yourself?"
+    },
+    {
+      "start": 116.04,
+      "end": 117.04,
+      "text": "- Yes."
+    },
+    {
+      "start": 117.04,
+      "end": 119.84,
+      "text": "- And do you happen to-"
+    },
+    {
+      "start": 119.84,
+      "end": 135.76,
+      "text": "- Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you."
+    }
+  ],
+  "word_count": 253,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Yes Good afternoon My name is Cassie I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your coverage approvals To get your file updated, do you have both Medicare Part A and Part B?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Yes Hey, are you still there? I was just asking, you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes You do qualify forwarding you to our supervisor now Please hold For hoarding, I want to line this with Sam"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Yes Good afternoon My name is Cassie I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your coverage approvals To get your file updated, do you have both Medicare Part A and Part B? Yes Hey, are you still there? I was just asking, you do have both Part A and Part B of Medicare, right? Yes You do qualify forwarding you to our supervisor now Please hold For hoarding, I want to line this with Sam",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 93
+}

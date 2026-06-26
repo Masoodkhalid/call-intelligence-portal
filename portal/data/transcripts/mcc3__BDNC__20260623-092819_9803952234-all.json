@@ -1,0 +1,57 @@
+{
+  "id": "mcc3__BDNC__20260623-092819_9803952234-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "09:28:19",
+  "phone": "9803952234",
+  "filename": "20260623-092819_9803952234-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-092819_9803952234-all.mp3",
+  "duration": 20.23,
+  "text": "Hello? Hello? Can you hear me? Can you hear me? Can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 4.0,
+      "end": 18.0,
+      "text": "Can you hear me?"
+    }
+  ],
+  "word_count": 14,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Can you hear me? Can you hear me? Can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Can you hear me? Can you hear me? Can you hear me?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 14
+}

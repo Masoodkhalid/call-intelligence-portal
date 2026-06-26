@@ -1,0 +1,97 @@
+{
+  "id": "mcc3__RAXFER__20260623-122945_9137649491-all",
+  "campaign": "mcc3",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "12:29:45",
+  "phone": "9137649491",
+  "filename": "20260623-122945_9137649491-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-raxfer/20260623-122945_9137649491-all.mp3",
+  "duration": 52.27,
+  "text": "Hello. All right, planers. Are you there? Greg, planers, how can I help you? Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick, so you do have both Part A and Part B, right? I have Medicare? The advisor will take over shortly. Please stay on the line. Thanks for holding. My name is Sam. How are you doing?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "All right, planers."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "Greg, planers, how can I help you?"
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "Good morning."
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "My name is Cassie."
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "text": "So I'm calling because your Medicare member profile hasn't been"
+    },
+    {
+      "start": 20.0,
+      "end": 25.0,
+      "text": "transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 25.0,
+      "end": 30.0,
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals."
+    },
+    {
+      "start": 30.0,
+      "end": 36.0,
+      "text": "I can verify it real quick, so you do have both Part A and Part B, right?"
+    },
+    {
+      "start": 36.0,
+      "end": 39.0,
+      "text": "I have Medicare?"
+    },
+    {
+      "start": 39.0,
+      "end": 43.0,
+      "text": "The advisor will take over shortly. Please stay on the line."
+    },
+    {
+      "start": 47.0,
+      "end": 52.0,
+      "text": "Thanks for holding. My name is Sam. How are you doing?"
+    }
+  ],
+  "word_count": 93,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello All right, planers Are you there? Greg, planers, how can I help you? Good morning My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick, so you do have both Part A and Part B, right? I have Medicare? The advisor will take over shortly Please stay on the line"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello All right, planers Are you there? Greg, planers, how can I help you? Good morning My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick, so you do have both Part A and Part B, right? I have Medicare? The advisor will take over shortly Please stay on the line",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 82
+}

@@ -1,0 +1,51 @@
+{
+  "id": "mcc11__A__20260623-155449_9598674378-all",
+  "campaign": "mcc11",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "15:54:49",
+  "phone": "9598674378",
+  "filename": "20260623-155449_9598674378-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-A/20260623-155449_9598674378-all.mp3",
+  "duration": 13.9,
+  "text": "Hello. I'm not available at this time for you to leave your name, never time before, and I will return your call. I would like to speak, Jessica.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 8.0,
+      "text": "I'm not available at this time for you to leave your name, never time before, and I will return your call."
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "I would like to speak, Jessica."
+    }
+  ],
+  "word_count": 28,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm not available at this time for you to leave your name, never time before, and I will return your call I would like to speak, Jessica"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. I'm not available at this time for you to leave your name, never time before, and I will return your call. I would like to speak, Jessica.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 28
+}

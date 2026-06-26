@@ -1,0 +1,141 @@
+{
+  "id": "mcc5__RAXFER__20260623-142050_4232412440-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:20:50",
+  "phone": "4232412440",
+  "filename": "20260623-142050_4232412440-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-142050_4232412440-all.mp3",
+  "duration": 117.22,
+  "text": "Hello. Are you there? I just talked to you a lot ago. Oh, my apologies. This is actually the first time I've been asked to reach out to you. So, I'm calling because there may be pending grocery and cash benefits worth up to $300 available on your Medicare account through your state's release program, and I'd love to help you get those processed. You do have both Part A and B, right? Yeah. Perfect. I don't want to test out the sound. I am forwarding you to our supervisor. Please hold on. Thank you so much for holding on. This is Mark Wilson with Health Care Solutions. How are you doing today? Good. May God bless you with good health, ma'am. Well, this call is in regard to your inquiry about Medicare benefits. So, you do have Medicare Part A and B, right? I am Medicare and Medicaid. Medicare and Medicaid. Okay. And perfect. Are you getting extra? I don't want the designs of the sound, because I'm pretty much just getting my information if you want to send me a letter. Ma'am, Medicare has announced a lot of benefits and savings after first of June. We are informing you about that. And if you can qualify for some more benefits, the Medicare agent will send the letter at your home as well. Understand? I don't know what you're saying, but I don't like to talk over my phone about anything. Okay. No problem if you are not somebody.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "I just talked to you a lot ago."
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "text": "Oh, my apologies. This is actually the first time I've been asked to reach out to you."
+    },
+    {
+      "start": 18.0,
+      "end": 24.0,
+      "text": "So, I'm calling because there may be pending grocery and cash benefits worth up to $300"
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": "available on your Medicare account through your state's release program, and I'd love to help you get those processed."
+    },
+    {
+      "start": 29.0,
+      "end": 33.0,
+      "text": "You do have both Part A and B, right?"
+    },
+    {
+      "start": 33.0,
+      "end": 37.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 37.0,
+      "end": 44.0,
+      "text": "Perfect. I don't want to test out the sound. I am forwarding you to our supervisor. Please hold on."
+    },
+    {
+      "start": 44.0,
+      "end": 54.0,
+      "text": "Thank you so much for holding on. This is Mark Wilson with Health Care Solutions. How are you doing today?"
+    },
+    {
+      "start": 54.0,
+      "end": 58.0,
+      "text": "Good."
+    },
+    {
+      "start": 58.0,
+      "end": 64.0,
+      "text": "May God bless you with good health, ma'am. Well, this call is in regard to your inquiry about Medicare benefits."
+    },
+    {
+      "start": 64.0,
+      "end": 69.0,
+      "text": "So, you do have Medicare Part A and B, right?"
+    },
+    {
+      "start": 69.0,
+      "end": 72.0,
+      "text": "I am Medicare and Medicaid."
+    },
+    {
+      "start": 72.0,
+      "end": 79.0,
+      "text": "Medicare and Medicaid. Okay. And perfect. Are you getting extra?"
+    },
+    {
+      "start": 79.0,
+      "end": 90.0,
+      "text": "I don't want the designs of the sound, because I'm pretty much just getting my information if you want to send me a letter."
+    },
+    {
+      "start": 90.0,
+      "end": 98.0,
+      "text": "Ma'am, Medicare has announced a lot of benefits and savings after first of June. We are informing you about that."
+    },
+    {
+      "start": 98.0,
+      "end": 106.0,
+      "text": "And if you can qualify for some more benefits, the Medicare agent will send the letter at your home as well."
+    },
+    {
+      "start": 106.0,
+      "end": 109.0,
+      "text": "Understand?"
+    },
+    {
+      "start": 109.0,
+      "end": 115.0,
+      "text": "I don't know what you're saying, but I don't like to talk over my phone about anything."
+    },
+    {
+      "start": 115.0,
+      "end": 117.0,
+      "text": "Okay. No problem if you are not somebody."
+    }
+  ],
+  "word_count": 250,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I just talked to you a lot ago Oh, my apologies This is actually the first time I've been asked to reach out to you So, I'm calling because there may be pending grocery and cash benefits worth up to $300 available on your Medicare account through your state's release program, and I'd love to help you get those processed You do have both Part A and B, right? Yeah Perfect I don't want to test out the sound I am forwarding you to our supervisor Please hold on Thank you so much for holding on"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Are you there? I just talked to you a lot ago Oh, my apologies This is actually the first time I've been asked to reach out to you So, I'm calling because there may be pending grocery and cash benefits worth up to $300 available on your Medicare account through your state's release program, and I'd love to help you get those processed You do have both Part A and B, right? Yeah Perfect I don't want to test out the sound I am forwarding you to our supervisor Please hold on Thank you so much for holding on",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 100
+}

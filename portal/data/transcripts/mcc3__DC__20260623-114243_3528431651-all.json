@@ -1,0 +1,46 @@
+{
+  "id": "mcc3__DC__20260623-114243_3528431651-all",
+  "campaign": "mcc3",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "11:42:43",
+  "phone": "3528431651",
+  "filename": "20260623-114243_3528431651-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-DC/20260623-114243_3528431651-all.mp3",
+  "duration": 9.79,
+  "text": "Hello. Are you there? Are you there? What do you need?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello. Are you there?"
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Are you there? What do you need?"
+    }
+  ],
+  "word_count": 11,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Are you there? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "What do you need?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Are you there? Are you there? What do you need?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 11
+}

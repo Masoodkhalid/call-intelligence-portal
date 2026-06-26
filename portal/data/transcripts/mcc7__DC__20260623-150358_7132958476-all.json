@@ -1,0 +1,70 @@
+{
+  "id": "mcc7__DC__20260623-150358_7132958476-all",
+  "campaign": "mcc7",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "15:03:58",
+  "phone": "7132958476",
+  "filename": "20260623-150358_7132958476-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DC/20260623-150358_7132958476-all.mp3",
+  "duration": 25.42,
+  "text": "Hello. Hi. How going to help? Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas state relief program. So have you been notified about these benefits yet?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello. Hi. How going to help?"
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Hello. Good afternoon. This is Alyssa."
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to"
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "$300 available on your Medicare account through Texas state"
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "relief program. So have you been notified about these"
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": "benefits yet?"
+    }
+  ],
+  "word_count": 45,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hi"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "How going to help?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas state relief program So have you been notified about these benefits yet?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hi. How going to help? Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas state relief program. So have you been notified about these benefits yet?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 45
+}

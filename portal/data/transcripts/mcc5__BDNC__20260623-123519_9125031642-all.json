@@ -1,0 +1,45 @@
+{
+  "id": "mcc5__BDNC__20260623-123519_9125031642-all",
+  "campaign": "mcc5",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "12:35:19",
+  "phone": "9125031642",
+  "filename": "20260623-123519_9125031642-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-BNDC/20260623-123519_9125031642-all.mp3",
+  "duration": 12.67,
+  "text": ">> Hello. Hi. This is Virgil. If you would like to read your message, you may do so at this time. Have a blessed day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.0,
+      "text": ">> Hello. Hi. This is Virgil. If you would like to read your message, you may do so at this time. Have a blessed day."
+    }
+  ],
+  "word_count": 25,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hi"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is Virgil If you would like to read your message, you may do so at this time"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a blessed day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": ">> Hello. Hi. This is Virgil. If you would like to read your message, you may do so at this time. Have a blessed day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 25
+}

@@ -1,0 +1,76 @@
+{
+  "id": "mcc7__NP__20260623-151417_2014882920-all",
+  "campaign": "mcc7",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "15:14:17",
+  "phone": "2014882920",
+  "filename": "20260623-151417_2014882920-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NP/20260623-151417_2014882920-all.mp3",
+  "duration": 35.14,
+  "text": "Hello? Good afternoon, this is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program. So, have you been notified about these benefits yet? Hello. Can you hear me? Well, I really want to help you get this taken care of as these benefits are time sensitive. So, you do have...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Good afternoon, this is Jacob."
+    },
+    {
+      "start": 9.0,
+      "end": 20.0,
+      "text": "So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program."
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": "So, have you been notified about these benefits yet?"
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "text": "Hello."
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 27.0,
+      "end": 34.0,
+      "text": "Well, I really want to help you get this taken care of as these benefits are time sensitive."
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "text": "So, you do have..."
+    }
+  ],
+  "word_count": 68,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Good afternoon, this is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program So, have you been notified about these benefits yet? Hello Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Well, I really want to help you get this taken care of as these benefits are time sensitive So, you do have"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Good afternoon, this is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program. So, have you been notified about these benefits yet? Hello. Can you hear me? Well, I really want to help you get this taken care of as these benefits are time sensitive. So, you do have...",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 68
+}

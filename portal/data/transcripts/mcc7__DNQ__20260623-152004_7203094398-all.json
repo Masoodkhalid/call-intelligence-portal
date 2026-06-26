@@ -1,0 +1,66 @@
+{
+  "id": "mcc7__DNQ__20260623-152004_7203094398-all",
+  "campaign": "mcc7",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "15:20:04",
+  "phone": "7203094398",
+  "filename": "20260623-152004_7203094398-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DNQ/20260623-152004_7203094398-all.mp3",
+  "duration": 45.86,
+  "text": "\"Hello?\" \"Good afternoon, this is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Colorado State Relief Program. So have you been notified about these benefits yet?\" \"Really?\" \"Well, I really want to help you get the shakin' care of as the benefits are time-sensitive. So you do have Medicare Part A and B, right?\" \"No, I don't.\" \"Sorry, but you don't seem to qualify for the plans that we have. Have a great day.\" \"Well, don't call no more.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.72,
+      "text": "\"Hello?\" \"Good afternoon, this is Jacob. So I'm calling because there are pending grocery"
+    },
+    {
+      "start": 11.72,
+      "end": 17.76,
+      "text": "and cash benefits worth up to $300 available on your Medicare account through Colorado"
+    },
+    {
+      "start": 17.76,
+      "end": 27.44,
+      "text": "State Relief Program. So have you been notified about these benefits yet?\" \"Really?\" \"Well,"
+    },
+    {
+      "start": 27.44,
+      "end": 32.3,
+      "text": "I really want to help you get the shakin' care of as the benefits are time-sensitive."
+    },
+    {
+      "start": 32.3,
+      "end": 40.44,
+      "text": "So you do have Medicare Part A and B, right?\" \"No, I don't.\" \"Sorry, but you don't seem"
+    },
+    {
+      "start": 40.44,
+      "end": 45.88,
+      "text": "to qualify for the plans that we have. Have a great day.\" \"Well, don't call no more.\""
+    }
+  ],
+  "word_count": 93,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "\"Hello?\" \"Good afternoon, this is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Colorado State Relief Program"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So have you been notified about these benefits yet?\" \"Really?\" \"Well, I really want to help you get the shakin' care of as the benefits are time-sensitive So you do have Medicare Part A and B, right?\" \"No, I don't.\" \"Sorry, but you don't seem to qualify for the plans that we have Have a great day.\" \"Well, don't call no more.\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "\"Hello?\" \"Good afternoon, this is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Colorado State Relief Program. So have you been notified about these benefits yet?\" \"Really?\" \"Well, I really want to help you get the shakin' care of as the benefits are time-sensitive. So you do have Medicare Part A and B, right?\" \"No, I don't.\" \"Sorry, but you don't seem to qualify for the plans that we have. Have a great day.\" \"Well, don't call no more.\"",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 93
+}

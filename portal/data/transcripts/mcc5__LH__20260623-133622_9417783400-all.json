@@ -1,0 +1,42 @@
+{
+  "id": "mcc5__LH__20260623-133622_9417783400-all",
+  "campaign": "mcc5",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "13:36:22",
+  "phone": "9417783400",
+  "filename": "20260623-133622_9417783400-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-LH/20260623-133622_9417783400-all.mp3",
+  "duration": 14.04,
+  "text": "Hello. Are you there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello."
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Are you there?"
+    }
+  ],
+  "word_count": 4,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Are you there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Are you there?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 4
+}

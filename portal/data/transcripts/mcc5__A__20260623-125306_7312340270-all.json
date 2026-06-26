@@ -1,0 +1,61 @@
+{
+  "id": "mcc5__A__20260623-125306_7312340270-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "12:53:06",
+  "phone": "7312340270",
+  "filename": "20260623-125306_7312340270-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-125306_7312340270-all.mp3",
+  "duration": 13.1,
+  "text": "Hello? This is Scott, a car can't get to the phone right now, but your message is important to me. If you leave your name and number and a brief message, I'll get back to you soon as I can. Thanks. Bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "This is Scott, a car can't get to the phone right now, but your message is important to me."
+    },
+    {
+      "start": 6.0,
+      "end": 11.0,
+      "text": "If you leave your name and number and a brief message, I'll get back to you soon as I can."
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "Thanks."
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "Bye."
+    }
+  ],
+  "word_count": 42,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is Scott, a car can't get to the phone right now, but your message is important to me If you leave your name and number and a brief message, I'll get back to you soon as I can Thanks Bye"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? This is Scott, a car can't get to the phone right now, but your message is important to me. If you leave your name and number and a brief message, I'll get back to you soon as I can. Thanks. Bye.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 42
+}

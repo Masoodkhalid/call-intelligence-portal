@@ -1,0 +1,122 @@
+{
+  "id": "mcc11__RAXFER__20260623-160117_2286972008-all",
+  "campaign": "mcc11",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "16:01:17",
+  "phone": "2286972008",
+  "filename": "20260623-160117_2286972008-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-RAXFER/20260623-160117_2286972008-all.mp3",
+  "duration": 51.48,
+  "text": ">> Hello. >> Yes. >> Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you so your coverage doesn't get interrupted. Just confirm for me. Do you have both part A and part B? >> Yes. >> Uh-huh. >> Perfect. Let me connect you with a Medicare specialist from Mississippi. >> Thanks for holding on the line. This is Clifford with Healthcare Solution. How are you doing today? >> All right. I'm Medicare head over and a couple of men, so everything is the key to the hospital. So I don't need it, right? [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": ">> Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": ">> Yes."
+    },
+    {
+      "start": 2.0,
+      "end": 9.44,
+      "text": ">> Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile"
+    },
+    {
+      "start": 9.44,
+      "end": 15.24,
+      "text": "and there's a note here showing your 2026 plan update hasn't been confirmed yet."
+    },
+    {
+      "start": 15.24,
+      "end": 19.4,
+      "text": "We just need a quick confirmation from you so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 19.4,
+      "end": 20.4,
+      "text": "Just confirm for me."
+    },
+    {
+      "start": 20.4,
+      "end": 23.4,
+      "text": "Do you have both part A and part B?"
+    },
+    {
+      "start": 23.4,
+      "end": 24.4,
+      "text": ">> Yes."
+    },
+    {
+      "start": 24.4,
+      "end": 25.4,
+      "text": ">> Uh-huh."
+    },
+    {
+      "start": 25.4,
+      "end": 26.4,
+      "text": ">> Perfect."
+    },
+    {
+      "start": 26.4,
+      "end": 32.4,
+      "text": "Let me connect you with a Medicare specialist from Mississippi."
+    },
+    {
+      "start": 32.4,
+      "end": 38.2,
+      "text": ">> Thanks for holding on the line."
+    },
+    {
+      "start": 38.2,
+      "end": 40.0,
+      "text": "This is Clifford with Healthcare Solution."
+    },
+    {
+      "start": 40.0,
+      "end": 41.2,
+      "text": "How are you doing today?"
+    },
+    {
+      "start": 41.2,
+      "end": 42.2,
+      "text": ">> All right."
+    },
+    {
+      "start": 42.2,
+      "end": 48.8,
+      "text": "I'm Medicare head over and a couple of men, so everything is the key to the hospital."
+    },
+    {
+      "start": 48.8,
+      "end": 50.8,
+      "text": "So I don't need it, right?"
+    },
+    {
+      "start": 50.8,
+      "end": 59.84,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 122,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Yes Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both part A and part B? Yes Uh-huh Perfect Let me connect you with a Medicare specialist from Mississippi Thanks for holding on the line"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Yes Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both part A and part B? Yes Uh-huh Perfect Let me connect you with a Medicare specialist from Mississippi Thanks for holding on the line",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 77
+}

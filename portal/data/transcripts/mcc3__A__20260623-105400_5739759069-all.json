@@ -1,0 +1,106 @@
+{
+  "id": "mcc3__A__20260623-105400_5739759069-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "10:54:00",
+  "phone": "5739759069",
+  "filename": "20260623-105400_5739759069-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-105400_5739759069-all.mp3",
+  "duration": 50.33,
+  "text": "Hello. Good morning. My name is Cassie. Oh, wait a minute, you guys. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick, so you do have both part A and part B, right? Hey, are you still there or add your message? I was just asking you do have both part A and part B with Medicare, right? To mark your message private, press three to send your message, as is, press pound. Are you still there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.52,
+      "text": "Hello. Good morning. My name is Cassie."
+    },
+    {
+      "start": 4.52,
+      "end": 6.22,
+      "text": "Oh, wait a minute, you guys."
+    },
+    {
+      "start": 6.22,
+      "end": 12.06,
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred"
+    },
+    {
+      "start": 12.06,
+      "end": 15.6,
+      "text": "into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 16.5,
+      "end": 21.1,
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals."
+    },
+    {
+      "start": 22.0,
+      "end": 26.72,
+      "text": "I can verify it real quick, so you do have both part A and part B, right?"
+    },
+    {
+      "start": 30.0,
+      "end": 34.64,
+      "text": "Hey, are you still there or add your message?"
+    },
+    {
+      "start": 34.64,
+      "end": 40.0,
+      "text": "I was just asking you do have both part A and part B with Medicare, right?"
+    },
+    {
+      "start": 40.0,
+      "end": 46.0,
+      "text": "To mark your message private, press three to send your message, as is, press pound."
+    },
+    {
+      "start": 49.0,
+      "end": 51.0,
+      "text": "Are you still there?"
+    }
+  ],
+  "word_count": 105,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Good morning My name is Cassie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, wait a minute, you guys"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick, so you do have both part A and part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey, are you still there or add your message?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I was just asking you do have both part A and part B with Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To mark your message private, press three to send your message, as is, press pound"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you still there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Good morning. My name is Cassie. Oh, wait a minute, you guys. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick, so you do have both part A and part B, right? Hey, are you still there or add your message? I was just asking you do have both part A and part B with Medicare, right? To mark your message private, press three to send your message, as is, press pound. Are you still there?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 105
+}

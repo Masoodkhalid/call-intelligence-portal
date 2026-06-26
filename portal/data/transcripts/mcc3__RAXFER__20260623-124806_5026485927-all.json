@@ -1,0 +1,175 @@
+{
+  "id": "mcc3__RAXFER__20260623-124806_5026485927-all",
+  "campaign": "mcc3",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "12:48:06",
+  "phone": "5026485927",
+  "filename": "20260623-124806_5026485927-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-raxfer/20260623-124806_5026485927-all.mp3",
+  "duration": 75.38,
+  "text": "I said hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for twenty-five years. I am so tired of hearing about, and y'all call me every five minutes about Medicare. So you do have to come in about Medicare. Right? Do I have part A and B? The advice I'm going to take over shortly, please stay on the line. No. I'm not. If I'm available, just put me in for it. Thanks for everyone. Anyone in the line? This is Elena. How are you doing today? I don't know. Sir, this call is in regards to your inquiry about Medicare Advantage plan, so do you have Medicare party in part B? Yes. That sounds good. The reason we are on the phone today, because Medicare has introduced some new benefits in your area, and we have to make sure you're not missing out anything you might be eligible for. Well, that's why I say just put me in for it. Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "I said hello."
+    },
+    {
+      "start": 5.08,
+      "end": 7.24,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 7.24,
+      "end": 10.04,
+      "text": "My name is Cassie."
+    },
+    {
+      "start": 10.04,
+      "end": 14.84,
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's"
+    },
+    {
+      "start": 14.84,
+      "end": 16.48,
+      "text": "national database for twenty-five years."
+    },
+    {
+      "start": 16.48,
+      "end": 21.24,
+      "text": "I am so tired of hearing about, and y'all call me every five minutes about Medicare."
+    },
+    {
+      "start": 21.24,
+      "end": 23.88,
+      "text": "So you do have to come in about Medicare."
+    },
+    {
+      "start": 23.88,
+      "end": 24.88,
+      "text": "Right?"
+    },
+    {
+      "start": 24.88,
+      "end": 32.44,
+      "text": "Do I have part A and B?"
+    },
+    {
+      "start": 32.44,
+      "end": 36.56,
+      "text": "The advice I'm going to take over shortly, please stay on the line."
+    },
+    {
+      "start": 36.56,
+      "end": 37.56,
+      "text": "No."
+    },
+    {
+      "start": 37.56,
+      "end": 38.56,
+      "text": "I'm not."
+    },
+    {
+      "start": 38.56,
+      "end": 42.16,
+      "text": "If I'm available, just put me in for it."
+    },
+    {
+      "start": 42.16,
+      "end": 43.16,
+      "text": "Thanks for everyone."
+    },
+    {
+      "start": 43.16,
+      "end": 44.16,
+      "text": "Anyone in the line?"
+    },
+    {
+      "start": 44.16,
+      "end": 45.16,
+      "text": "This is Elena."
+    },
+    {
+      "start": 45.16,
+      "end": 47.36,
+      "text": "How are you doing today?"
+    },
+    {
+      "start": 47.36,
+      "end": 48.84,
+      "text": "I don't know."
+    },
+    {
+      "start": 48.84,
+      "end": 53.88,
+      "text": "Sir, this call is in regards to your inquiry about Medicare Advantage plan, so do you have"
+    },
+    {
+      "start": 53.88,
+      "end": 57.92,
+      "text": "Medicare party in part B?"
+    },
+    {
+      "start": 57.92,
+      "end": 58.92,
+      "text": "Yes."
+    },
+    {
+      "start": 58.92,
+      "end": 59.92,
+      "text": "That sounds good."
+    },
+    {
+      "start": 59.92,
+      "end": 65.28,
+      "text": "The reason we are on the phone today, because Medicare has introduced some new benefits in"
+    },
+    {
+      "start": 65.28,
+      "end": 70.68,
+      "text": "your area, and we have to make sure you're not missing out anything you might be eligible"
+    },
+    {
+      "start": 70.68,
+      "end": 71.68,
+      "text": "for."
+    },
+    {
+      "start": 71.68,
+      "end": 73.88,
+      "text": "Well, that's why I say just put me in for it."
+    },
+    {
+      "start": 73.88,
+      "end": 74.36,
+      "text": "Thank you."
+    }
+  ],
+  "word_count": 176,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "I said hello Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for twenty-five years I am so tired of hearing about, and y'all call me every five minutes about Medicare So you do have to come in about Medicare Right?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Do I have part A and B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "The advice I'm going to take over shortly, please stay on the line No"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "I said hello Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for twenty-five years I am so tired of hearing about, and y'all call me every five minutes about Medicare So you do have to come in about Medicare Right? Do I have part A and B? The advice I'm going to take over shortly, please stay on the line No",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 74
+}

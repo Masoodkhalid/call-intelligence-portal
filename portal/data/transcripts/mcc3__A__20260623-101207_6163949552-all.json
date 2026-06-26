@@ -1,0 +1,51 @@
+{
+  "id": "mcc3__A__20260623-101207_6163949552-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "10:12:07",
+  "phone": "6163949552",
+  "filename": "20260623-101207_6163949552-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-101207_6163949552-all.mp3",
+  "duration": 12.89,
+  "text": "Hello? Are being screened by smart call walker. We say your name after the tone, then press pound.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "Are being screened by smart call walker."
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "We say your name after the tone, then press pound."
+    }
+  ],
+  "word_count": 18,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Are being screened by smart call walker We say your name after the tone, then press pound"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are being screened by smart call walker. We say your name after the tone, then press pound.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 18
+}

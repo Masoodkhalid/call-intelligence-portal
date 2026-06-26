@@ -1,0 +1,90 @@
+{
+  "id": "mcc11__DNQ__20260623-154806_8653670735-all",
+  "campaign": "mcc11",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "15:48:06",
+  "phone": "8653670735",
+  "filename": "20260623-154806_8653670735-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DNQ/20260623-154806_8653670735-all.mp3",
+  "duration": 30.46,
+  "text": "Hello. Hello. Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B? No. Sorry, it looks like you don't qualify for the plans. Have a great day. [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Hi, this is Chelsea."
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": "We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet."
+    },
+    {
+      "start": 14.0,
+      "end": 18.0,
+      "text": "We just need a quick confirmation so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 18.0,
+      "end": 22.0,
+      "text": "Do you have both part A and part B?"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "No."
+    },
+    {
+      "start": 24.0,
+      "end": 27.0,
+      "text": "Sorry, it looks like you don't qualify for the plans."
+    },
+    {
+      "start": 27.0,
+      "end": 29.0,
+      "text": "Have a great day."
+    },
+    {
+      "start": 29.0,
+      "end": 39.0,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 61,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hi, this is Chelsea We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both part A and part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, it looks like you don't qualify for the plans Have a great day [BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello. Hello. Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B? No. Sorry, it looks like you don't qualify for the plans. Have a great day. [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 61
+}

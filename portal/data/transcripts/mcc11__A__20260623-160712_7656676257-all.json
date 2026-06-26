@@ -1,0 +1,57 @@
+{
+  "id": "mcc11__A__20260623-160712_7656676257-all",
+  "campaign": "mcc11",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "16:07:12",
+  "phone": "7656676257",
+  "filename": "20260623-160712_7656676257-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-A/20260623-160712_7656676257-all.mp3",
+  "duration": 17.57,
+  "text": "Hello? Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. You are part A and heart B. You are part A and heart B. You are part A and heart B.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "Hello? Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "You are part A and heart B."
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "You are part A and heart B."
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "You are part A and heart B."
+    }
+  ],
+  "word_count": 50,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set You are part A and heart B You are part A and heart B You are part A and heart B"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. You are part A and heart B. You are part A and heart B. You are part A and heart B.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 50
+}

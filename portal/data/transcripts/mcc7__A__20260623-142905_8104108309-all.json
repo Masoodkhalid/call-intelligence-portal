@@ -1,0 +1,109 @@
+{
+  "id": "mcc7__A__20260623-142905_8104108309-all",
+  "campaign": "mcc7",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "14:29:05",
+  "phone": "8104108309",
+  "filename": "20260623-142905_8104108309-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-A/20260623-142905_8104108309-all.mp3",
+  "duration": 42.26,
+  "text": ">> Hey, hello. >> Hello, good afternoon. >> Please record your message when you've finished recording. >> I'm calling because there are pending grocery and trash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. So have you been notified about these benefits yet? >> Yes, so I've asked you for the notification about the pending credits on your Medicare plan? >> To mark your message urgent, press 2. To mark your message private, press 3. To send your message as is press pound. Are you still there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": ">> Hey, hello."
+    },
+    {
+      "start": 0.8,
+      "end": 3.48,
+      "text": ">> Hello, good afternoon."
+    },
+    {
+      "start": 3.48,
+      "end": 6.32,
+      "text": ">> Please record your message when you've finished recording."
+    },
+    {
+      "start": 6.32,
+      "end": 8.96,
+      "text": ">> I'm calling because there are pending grocery"
+    },
+    {
+      "start": 8.96,
+      "end": 12.56,
+      "text": "and trash benefits worth up to $300 available"
+    },
+    {
+      "start": 12.56,
+      "end": 16.12,
+      "text": "on your Medicare account through Michigan State Relief Program."
+    },
+    {
+      "start": 16.78,
+      "end": 19.28,
+      "text": "So have you been notified about these benefits yet?"
+    },
+    {
+      "start": 24.8,
+      "end": 27.96,
+      "text": ">> Yes, so I've asked you for the notification"
+    },
+    {
+      "start": 27.96,
+      "end": 30.26,
+      "text": "about the pending credits on your Medicare plan?"
+    },
+    {
+      "start": 30.26,
+      "end": 32.2,
+      "text": ">> To mark your message urgent, press 2."
+    },
+    {
+      "start": 32.2,
+      "end": 35.1,
+      "text": "To mark your message private, press 3."
+    },
+    {
+      "start": 35.1,
+      "end": 38.02,
+      "text": "To send your message as is press pound."
+    },
+    {
+      "start": 41.36,
+      "end": 42.2,
+      "text": "Are you still there?"
+    }
+  ],
+  "word_count": 94,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey, hello"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello, good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Please record your message when you've finished recording"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm calling because there are pending grocery and trash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program So have you been notified about these benefits yet? Yes, so I've asked you for the notification about the pending credits on your Medicare plan? To mark your message urgent, press 2 To mark your message private, press 3 To send your message as is press pound Are you still there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": ">> Hey, hello. >> Hello, good afternoon. >> Please record your message when you've finished recording. >> I'm calling because there are pending grocery and trash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. So have you been notified about these benefits yet? >> Yes, so I've asked you for the notification about the pending credits on your Medicare plan? >> To mark your message urgent, press 2. To mark your message private, press 3. To send your message as is press pound. Are you still there?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 94
+}

@@ -1,0 +1,106 @@
+{
+  "id": "mcc7__RAXFER__20260623-154235_7753970076-all",
+  "campaign": "mcc7",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "15:42:35",
+  "phone": "7753970076",
+  "filename": "20260623-154235_7753970076-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-raxfer/20260623-154235_7753970076-all.mp3",
+  "duration": 69.12,
+  "text": "Hello, good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nevada State Relief Program. So, have you received any notification about these benefits yet? No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both part A and part B, yes? I am, yes. Perfect. You qualify for the benefit. I'm forwarding you to our supervisor. Please hold on. Hi, thanks for holding. This is David. How are you? I'm fine. Thank you. You're welcome. We'll discuss about Medicare. Do you have Medicare A and B? Yes, I don't know what you're talking about, so... Medicare, you don't know about Medicare. Do what?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.02,
+      "text": "Hello, good afternoon. This is Alyssa. I'm calling because there are pending grocery"
+    },
+    {
+      "start": 9.02,
+      "end": 14.48,
+      "text": "and cash benefits worth up to $300 available on your Medicare account through Nevada State"
+    },
+    {
+      "start": 14.48,
+      "end": 20.0,
+      "text": "Relief Program. So, have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "text": "No."
+    },
+    {
+      "start": 21.0,
+      "end": 27.04,
+      "text": "Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits"
+    },
+    {
+      "start": 27.04,
+      "end": 33.04,
+      "text": "processed before they go unclaimed. You're covered under both part A and part B, yes?"
+    },
+    {
+      "start": 33.04,
+      "end": 35.04,
+      "text": "I am, yes."
+    },
+    {
+      "start": 35.04,
+      "end": 45.04,
+      "text": "Perfect. You qualify for the benefit. I'm forwarding you to our supervisor. Please hold on."
+    },
+    {
+      "start": 45.04,
+      "end": 50.04,
+      "text": "Hi, thanks for holding. This is David. How are you?"
+    },
+    {
+      "start": 50.04,
+      "end": 53.04,
+      "text": "I'm fine. Thank you."
+    },
+    {
+      "start": 53.04,
+      "end": 59.04,
+      "text": "You're welcome. We'll discuss about Medicare. Do you have Medicare A and B?"
+    },
+    {
+      "start": 59.04,
+      "end": 63.04,
+      "text": "Yes, I don't know what you're talking about, so..."
+    },
+    {
+      "start": 63.04,
+      "end": 66.04,
+      "text": "Medicare, you don't know about Medicare."
+    },
+    {
+      "start": 66.04,
+      "end": 69.04,
+      "text": "Do what?"
+    }
+  ],
+  "word_count": 135,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nevada State Relief Program So, have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? I am, yes Perfect You qualify for the benefit I'm forwarding you to our supervisor Please hold on Hi, thanks for holding"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello, good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nevada State Relief Program So, have you received any notification about these benefits yet? No Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? I am, yes Perfect You qualify for the benefit I'm forwarding you to our supervisor Please hold on Hi, thanks for holding",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 95
+}

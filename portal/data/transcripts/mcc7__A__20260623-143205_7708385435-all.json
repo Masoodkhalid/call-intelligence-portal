@@ -1,0 +1,37 @@
+{
+  "id": "mcc7__A__20260623-143205_7708385435-all",
+  "campaign": "mcc7",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "14:32:05",
+  "phone": "7708385435",
+  "filename": "20260623-143205_7708385435-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-A/20260623-143205_7708385435-all.mp3",
+  "duration": 25.34,
+  "text": "Please leave a message at the tone when finished you may hang up or press pound for additional options.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 23.0,
+      "text": "Please leave a message at the tone when finished you may hang up or press pound for additional options."
+    }
+  ],
+  "word_count": 19,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Please leave a message at the tone when finished you may hang up or press pound for additional options"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Please leave a message at the tone when finished you may hang up or press pound for additional options.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 19
+}

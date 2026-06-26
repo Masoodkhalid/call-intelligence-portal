@@ -1,0 +1,52 @@
+{
+  "id": "mcc11__NI__20260623-163231_2298907383-all",
+  "campaign": "mcc11",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "16:32:31",
+  "phone": "2298907383",
+  "filename": "20260623-163231_2298907383-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NI/20260623-163231_2298907383-all.mp3",
+  "duration": 39.53,
+  "text": "Good evening. My name is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief Program. So have you been notified about these benefits yet? Yes, so I was asking if you received the notification about the pending credits on your Medicare plan.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.66,
+      "text": "Good evening. My name is Jacob. So I'm calling because there are pending grocery and cash"
+    },
+    {
+      "start": 11.66,
+      "end": 17.66,
+      "text": "benefits worth up to $300 available on your Medicare account through Georgia State Relief"
+    },
+    {
+      "start": 17.66,
+      "end": 23.86,
+      "text": "Program. So have you been notified about these benefits yet?"
+    },
+    {
+      "start": 23.86,
+      "end": 32.6,
+      "text": "Yes, so I was asking if you received the notification about the pending credits on your Medicare plan."
+    }
+  ],
+  "word_count": 58,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Good evening My name is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief Program So have you been notified about these benefits yet? Yes, so I was asking if you received the notification about the pending credits on your Medicare plan"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Good evening. My name is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief Program. So have you been notified about these benefits yet? Yes, so I was asking if you received the notification about the pending credits on your Medicare plan.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 58
+}

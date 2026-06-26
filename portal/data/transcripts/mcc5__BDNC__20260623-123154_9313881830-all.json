@@ -1,0 +1,46 @@
+{
+  "id": "mcc5__BDNC__20260623-123154_9313881830-all",
+  "campaign": "mcc5",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "12:31:54",
+  "phone": "9313881830",
+  "filename": "20260623-123154_9313881830-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-BNDC/20260623-123154_9313881830-all.mp3",
+  "duration": 10.37,
+  "text": "Hello? Thank you for calling Ross. How can I help you today?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Thank you for calling Ross. How can I help you today?"
+    }
+  ],
+  "word_count": 12,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Thank you for calling Ross How can I help you today?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Thank you for calling Ross. How can I help you today?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 12
+}

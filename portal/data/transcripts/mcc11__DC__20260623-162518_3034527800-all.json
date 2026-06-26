@@ -1,0 +1,37 @@
+{
+  "id": "mcc11__DC__20260623-162518_3034527800-all",
+  "campaign": "mcc11",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "16:25:18",
+  "phone": "3034527800",
+  "filename": "20260623-162518_3034527800-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DC/20260623-162518_3034527800-all.mp3",
+  "duration": 10.08,
+  "text": "I'm calling because there are pending grocery and cash benefits worth",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "I'm calling because there are pending grocery and cash benefits worth"
+    }
+  ],
+  "word_count": 11,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm calling because there are pending grocery and cash benefits worth"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "I'm calling because there are pending grocery and cash benefits worth",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 11
+}

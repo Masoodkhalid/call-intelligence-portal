@@ -1,0 +1,37 @@
+{
+  "id": "mcc5__LH__20260623-132156_2604405356-all",
+  "campaign": "mcc5",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "13:21:56",
+  "phone": "2604405356",
+  "filename": "20260623-132156_2604405356-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-LH/20260623-132156_2604405356-all.mp3",
+  "duration": 11.45,
+  "text": "Hello.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello."
+    }
+  ],
+  "word_count": 1,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 1
+}

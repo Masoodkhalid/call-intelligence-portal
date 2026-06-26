@@ -1,0 +1,41 @@
+{
+  "id": "mcc7__BDNC__20260623-135623_4784769186-all",
+  "campaign": "mcc7",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "13:56:23",
+  "phone": "4784769186",
+  "filename": "20260623-135623_4784769186-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-BDNC/20260623-135623_4784769186-all.mp3",
+  "duration": 13.18,
+  "text": "Hello? Fort since cleaning my health care.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.16,
+      "text": "Hello? Fort since cleaning my health care."
+    }
+  ],
+  "word_count": 7,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Fort since cleaning my health care"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Fort since cleaning my health care.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 7
+}

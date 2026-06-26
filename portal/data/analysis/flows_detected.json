@@ -1,0 +1,387 @@
+{
+  "count": 15,
+  "flows": [
+    {
+      "signature": "greeting",
+      "calls": 282,
+      "pct": 35.0,
+      "dispo_breakdown": [
+        [
+          "N",
+          80
+        ],
+        [
+          "DAIR",
+          74
+        ],
+        [
+          "BDNC",
+          55
+        ],
+        [
+          "A",
+          40
+        ],
+        [
+          "LH",
+          23
+        ],
+        [
+          "DC",
+          4
+        ],
+        [
+          "NI",
+          3
+        ],
+        [
+          "NP",
+          3
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "mcc11__A__20260623-150155_9362225319-all",
+        "mcc11__A__20260623-153646_2283271016-all",
+        "mcc11__A__20260623-154202_3468633651-all",
+        "mcc11__A__20260623-154644_3132126964-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 pitch",
+      "calls": 181,
+      "pct": 22.5,
+      "dispo_breakdown": [
+        [
+          "NP",
+          65
+        ],
+        [
+          "DC",
+          40
+        ],
+        [
+          "NI",
+          31
+        ],
+        [
+          "LH",
+          19
+        ],
+        [
+          "A",
+          10
+        ],
+        [
+          "BDNC",
+          10
+        ],
+        [
+          "DNQ",
+          6
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "mcc11__A__20260623-160349_9205728278-all",
+        "mcc11__BDNC__20260623-154700_8645857711-all",
+        "mcc11__DC__20260623-161506_4098320848-all",
+        "mcc11__DC__20260623-161938_5313299305-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 pitch \u2192 qualify",
+      "calls": 153,
+      "pct": 19.0,
+      "dispo_breakdown": [
+        [
+          "NI",
+          46
+        ],
+        [
+          "LH",
+          36
+        ],
+        [
+          "DC",
+          24
+        ],
+        [
+          "A",
+          17
+        ],
+        [
+          "BDNC",
+          11
+        ],
+        [
+          "NP",
+          9
+        ],
+        [
+          "RAXFER",
+          6
+        ],
+        [
+          "DNQ",
+          4
+        ]
+      ],
+      "transfer_rate": 3.9,
+      "examples": [
+        "mcc11__A__20260623-153308_4349814901-all",
+        "mcc11__A__20260623-160539_3128522314-all",
+        "mcc11__A__20260623-160712_7656676257-all",
+        "mcc11__BDNC__20260623-144238_6152985573-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 pitch \u2192 qualify \u2192 transfer",
+      "calls": 75,
+      "pct": 9.3,
+      "dispo_breakdown": [
+        [
+          "RAXFER",
+          72
+        ],
+        [
+          "DC",
+          2
+        ],
+        [
+          "BDNC",
+          1
+        ]
+      ],
+      "transfer_rate": 96.0,
+      "examples": [
+        "mcc11__RAXFER__20260623-153243_8132306976-all",
+        "mcc11__RAXFER__20260623-153924_2526400206-all",
+        "mcc11__RAXFER__20260623-154103_2537199298-all",
+        "mcc11__RAXFER__20260623-154124_8033420340-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 pitch \u2192 qualify \u2192 disqualify",
+      "calls": 69,
+      "pct": 8.6,
+      "dispo_breakdown": [
+        [
+          "DNQ",
+          63
+        ],
+        [
+          "DC",
+          5
+        ],
+        [
+          "RAXFER",
+          1
+        ]
+      ],
+      "transfer_rate": 1.4,
+      "examples": [
+        "mcc11__DNQ__20260623-142559_9568441507-all",
+        "mcc11__DNQ__20260623-151015_2014941996-all",
+        "mcc11__DNQ__20260623-151545_6168241682-all",
+        "mcc11__DNQ__20260623-152223_7322642314-all"
+      ]
+    },
+    {
+      "signature": "(no speech)",
+      "calls": 23,
+      "pct": 2.9,
+      "dispo_breakdown": [
+        [
+          "A",
+          11
+        ],
+        [
+          "DAIR",
+          6
+        ],
+        [
+          "BDNC",
+          3
+        ],
+        [
+          "N",
+          2
+        ],
+        [
+          "LH",
+          1
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "mcc11__A__20260623-155129_5633918990-all",
+        "mcc11__A__20260623-160545_3055224678-all",
+        "mcc11__A__20260623-160606_3134913697-all",
+        "mcc11__A__20260623-161507_2293288853-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 pitch \u2192 qualify \u2192 disqualify \u2192 objection",
+      "calls": 7,
+      "pct": 0.9,
+      "dispo_breakdown": [
+        [
+          "DNQ",
+          7
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "mcc11__DNQ__20260623-160845_8132838523-all",
+        "mcc3__DNQ__20260623-113513_9843822933-all",
+        "mcc3__DNQ__20260623-113956_7022385303-all",
+        "mcc3__DNQ__20260623-120212_8502921336-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 transfer",
+      "calls": 3,
+      "pct": 0.4,
+      "dispo_breakdown": [
+        [
+          "DC",
+          2
+        ],
+        [
+          "BDNC",
+          1
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "mcc11__BDNC__20260623-155840_2707535288-all",
+        "mcc11__DC__20260623-163109_7732804157-all",
+        "mcc5__DC__20260623-134027_2054479241-all"
+      ]
+    },
+    {
+      "signature": "pitch",
+      "calls": 3,
+      "pct": 0.4,
+      "dispo_breakdown": [
+        [
+          "DC",
+          2
+        ],
+        [
+          "NP",
+          1
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "mcc11__DC__20260623-162518_3034527800-all",
+        "mcc3__DC__20260623-113814_8625968872-all",
+        "mcc7__NP__20260623-160035_9192929587-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 pitch \u2192 qualify \u2192 objection",
+      "calls": 3,
+      "pct": 0.4,
+      "dispo_breakdown": [
+        [
+          "NI",
+          1
+        ],
+        [
+          "DC",
+          1
+        ],
+        [
+          "LH",
+          1
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "mcc3__NI__20260623-123345_3526341484-all",
+        "mcc7__DC__20260623-150749_3054095232-all",
+        "mcc7__LH__20260623-143758_4358829334-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 disqualify",
+      "calls": 2,
+      "pct": 0.2,
+      "dispo_breakdown": [
+        [
+          "A",
+          2
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "mcc3__A__20260623-105810_3148304965-all",
+        "mcc5__A__20260623-125106_9543834360-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 pitch \u2192 qualify \u2192 transfer \u2192 objection",
+      "calls": 2,
+      "pct": 0.2,
+      "dispo_breakdown": [
+        [
+          "RAXFER",
+          2
+        ]
+      ],
+      "transfer_rate": 100.0,
+      "examples": [
+        "mcc7__RAXFER__20260623-152352_5616294116-all",
+        "mcc7__RAXFER__20260623-160638_3525844452-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 objection",
+      "calls": 1,
+      "pct": 0.1,
+      "dispo_breakdown": [
+        [
+          "A",
+          1
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "mcc11__A__20260623-153343_2694470209-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 qualify",
+      "calls": 1,
+      "pct": 0.1,
+      "dispo_breakdown": [
+        [
+          "NP",
+          1
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "mcc11__NP__20260623-164814_3056852875-all"
+      ]
+    },
+    {
+      "signature": "pitch \u2192 qualify",
+      "calls": 1,
+      "pct": 0.1,
+      "dispo_breakdown": [
+        [
+          "DNQ",
+          1
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "mcc3__DNQ__20260623-114746_7347312265-all"
+      ]
+    }
+  ]
+}

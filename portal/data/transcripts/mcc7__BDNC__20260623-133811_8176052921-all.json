@@ -1,0 +1,51 @@
+{
+  "id": "mcc7__BDNC__20260623-133811_8176052921-all",
+  "campaign": "mcc7",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "13:38:11",
+  "phone": "8176052921",
+  "filename": "20260623-133811_8176052921-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-BDNC/20260623-133811_8176052921-all.mp3",
+  "duration": 12.17,
+  "text": "- Hello? - Good children, how can I help you? Starbucks, and even a Build-A-Bear workshop. Make sure to explore when I'm...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "- Hello? - Good children, how can I help you?"
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Starbucks, and even a Build-A-Bear workshop."
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "Make sure to explore when I'm..."
+    }
+  ],
+  "word_count": 22,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Good children, how can I help you? Starbucks, and even a Build-A-Bear workshop Make sure to explore when I'm"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "- Hello? - Good children, how can I help you? Starbucks, and even a Build-A-Bear workshop. Make sure to explore when I'm...",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 22
+}

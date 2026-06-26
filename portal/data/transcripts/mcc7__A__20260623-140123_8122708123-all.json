@@ -1,0 +1,124 @@
+{
+  "id": "mcc7__A__20260623-140123_8122708123-all",
+  "campaign": "mcc7",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "14:01:23",
+  "phone": "8122708123",
+  "filename": "20260623-140123_8122708123-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-A/20260623-140123_8122708123-all.mp3",
+  "duration": 43.92,
+  "text": "You're calling out at the top. Good afternoon. This is Jacob. So when you finished recording-- Oh, I'm calling now for a press call. --because there are pending rosary or cash benefits worth up to $300 available on your Medicare account through Indiana State Relief Program. So have you received any notification about these benefits yet? Yes, so I was asking if you received the notification about the pending credit on your Medicare plan? To mark your message urgent, press 2. To mark your message private, press 3. To send your message as is, press pound. Are you still here?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "You're calling out at the top."
+    },
+    {
+      "start": 2.76,
+      "end": 3.44,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 3.44,
+      "end": 4.76,
+      "text": "This is Jacob."
+    },
+    {
+      "start": 4.76,
+      "end": 5.88,
+      "text": "So when you finished recording--"
+    },
+    {
+      "start": 5.88,
+      "end": 7.64,
+      "text": "Oh, I'm calling now for a press call."
+    },
+    {
+      "start": 7.64,
+      "end": 10.76,
+      "text": "--because there are pending rosary or cash benefits worth"
+    },
+    {
+      "start": 10.76,
+      "end": 13.72,
+      "text": "up to $300 available on your Medicare account"
+    },
+    {
+      "start": 13.72,
+      "end": 17.2,
+      "text": "through Indiana State Relief Program."
+    },
+    {
+      "start": 17.2,
+      "end": 19.8,
+      "text": "So have you received any notification"
+    },
+    {
+      "start": 19.8,
+      "end": 21.04,
+      "text": "about these benefits yet?"
+    },
+    {
+      "start": 26.44,
+      "end": 29.52,
+      "text": "Yes, so I was asking if you received the notification"
+    },
+    {
+      "start": 29.52,
+      "end": 31.56,
+      "text": "about the pending credit on your Medicare plan?"
+    },
+    {
+      "start": 31.56,
+      "end": 34.12,
+      "text": "To mark your message urgent, press 2."
+    },
+    {
+      "start": 34.12,
+      "end": 37.04,
+      "text": "To mark your message private, press 3."
+    },
+    {
+      "start": 37.04,
+      "end": 39.68,
+      "text": "To send your message as is, press pound."
+    },
+    {
+      "start": 43.28,
+      "end": 45.4,
+      "text": "Are you still here?"
+    }
+  ],
+  "word_count": 100,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "You're calling out at the top"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon This is Jacob"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So when you finished recording-- Oh, I'm calling now for a press call"
+    },
+    {
+      "speaker": "BOT",
+      "text": "because there are pending rosary or cash benefits worth up to $300 available on your Medicare account through Indiana State Relief Program So have you received any notification about these benefits yet? Yes, so I was asking if you received the notification about the pending credit on your Medicare plan? To mark your message urgent, press 2 To mark your message private, press 3 To send your message as is, press pound Are you still here?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "You're calling out at the top. Good afternoon. This is Jacob. So when you finished recording-- Oh, I'm calling now for a press call. --because there are pending rosary or cash benefits worth up to $300 available on your Medicare account through Indiana State Relief Program. So have you received any notification about these benefits yet? Yes, so I was asking if you received the notification about the pending credit on your Medicare plan? To mark your message urgent, press 2. To mark your message private, press 3. To send your message as is, press pound. Are you still here?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 100
+}

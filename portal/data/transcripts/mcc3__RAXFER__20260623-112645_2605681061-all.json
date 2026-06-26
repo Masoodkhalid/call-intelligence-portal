@@ -1,0 +1,195 @@
+{
+  "id": "mcc3__RAXFER__20260623-112645_2605681061-all",
+  "campaign": "mcc3",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "11:26:45",
+  "phone": "2605681061",
+  "filename": "20260623-112645_2605681061-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-raxfer/20260623-112645_2605681061-all.mp3",
+  "duration": 110.16,
+  "text": ">> Hello. >> Yeah. >> Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick, so you do have both part A and part B, right? >> Sorry about that. I was asking, you do have both part A and part B of Medicare, right? >> Yeah. >> You do qualify forwarding you to our supervisor now. Please hold. >> I thank you for holding on the line. My name is Brian, how are you? >> All right, who did? >> All right, that's good, sir. Well, this call is in regards to your Medicare additional benefits and savings. I understand you have Medicare A and B, right? >> Right. >> Okay, good, and you know, we are in the end of the month, so the Medicare benefits. Recently updated, Medicare allow every person to get all the benefits or maximize your benefits for the rest of the year, okay? That's how you can save some money for the year. And do you pay any copays regarding the doctor and specialist? >> Yeah, but I don't pay, I got an insurance. >> Yeah, you got an insurance. >> Yeah. >> Which insurance do you have, sir? Like, what is that? Great deal.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.24,
+      "text": ">> Hello."
+    },
+    {
+      "start": 1.24,
+      "end": 2.36,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 2.36,
+      "end": 4.52,
+      "text": ">> Good morning."
+    },
+    {
+      "start": 4.52,
+      "end": 7.48,
+      "text": "My name is Cassie."
+    },
+    {
+      "start": 7.48,
+      "end": 12.2,
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred"
+    },
+    {
+      "start": 12.2,
+      "end": 16.76,
+      "text": "into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 16.76,
+      "end": 22.2,
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals."
+    },
+    {
+      "start": 22.2,
+      "end": 27.44,
+      "text": "I can verify it real quick, so you do have both part A and part B, right?"
+    },
+    {
+      "start": 27.44,
+      "end": 31.8,
+      "text": ">> Sorry about that."
+    },
+    {
+      "start": 31.8,
+      "end": 37.24,
+      "text": "I was asking, you do have both part A and part B of Medicare, right?"
+    },
+    {
+      "start": 37.24,
+      "end": 37.96,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 37.96,
+      "end": 43.4,
+      "text": ">> You do qualify forwarding you to our supervisor now."
+    },
+    {
+      "start": 43.4,
+      "end": 44.16,
+      "text": "Please hold."
+    },
+    {
+      "start": 44.16,
+      "end": 53.24,
+      "text": ">> I thank you for holding on the line."
+    },
+    {
+      "start": 53.24,
+      "end": 55.4,
+      "text": "My name is Brian, how are you?"
+    },
+    {
+      "start": 55.4,
+      "end": 58.12,
+      "text": ">> All right, who did?"
+    },
+    {
+      "start": 58.12,
+      "end": 60.12,
+      "text": ">> All right, that's good, sir."
+    },
+    {
+      "start": 60.12,
+      "end": 66.4,
+      "text": "Well, this call is in regards to your Medicare additional benefits and savings."
+    },
+    {
+      "start": 66.4,
+      "end": 69.32,
+      "text": "I understand you have Medicare A and B, right?"
+    },
+    {
+      "start": 69.32,
+      "end": 70.88,
+      "text": ">> Right."
+    },
+    {
+      "start": 70.88,
+      "end": 76.32,
+      "text": ">> Okay, good, and you know, we are in the end of the month, so the Medicare benefits."
+    },
+    {
+      "start": 76.32,
+      "end": 83.4,
+      "text": "Recently updated, Medicare allow every person to get all the benefits or maximize your benefits"
+    },
+    {
+      "start": 83.4,
+      "end": 85.4,
+      "text": "for the rest of the year, okay?"
+    },
+    {
+      "start": 85.4,
+      "end": 89.68,
+      "text": "That's how you can save some money for the year."
+    },
+    {
+      "start": 89.68,
+      "end": 94.8,
+      "text": "And do you pay any copays regarding the doctor and specialist?"
+    },
+    {
+      "start": 94.8,
+      "end": 100.4,
+      "text": ">> Yeah, but I don't pay, I got an insurance."
+    },
+    {
+      "start": 100.4,
+      "end": 102.4,
+      "text": ">> Yeah, you got an insurance."
+    },
+    {
+      "start": 102.4,
+      "end": 103.4,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 103.4,
+      "end": 106.4,
+      "text": ">> Which insurance do you have, sir?"
+    },
+    {
+      "start": 106.4,
+      "end": 108.4,
+      "text": "Like, what is that?"
+    },
+    {
+      "start": 108.4,
+      "end": 110.4,
+      "text": "Great deal."
+    }
+  ],
+  "word_count": 235,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Yeah Good morning My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick, so you do have both part A and part B, right?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry about that I was asking, you do have both part A and part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah You do qualify forwarding you to our supervisor now Please hold I thank you for holding on the line"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Yeah Good morning My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick, so you do have both part A and part B, right? Sorry about that I was asking, you do have both part A and part B of Medicare, right? Yeah You do qualify forwarding you to our supervisor now Please hold I thank you for holding on the line",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 94
+}

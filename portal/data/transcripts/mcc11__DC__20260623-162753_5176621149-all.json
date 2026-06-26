@@ -1,0 +1,79 @@
+{
+  "id": "mcc11__DC__20260623-162753_5176621149-all",
+  "campaign": "mcc11",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "16:27:53",
+  "phone": "5176621149",
+  "filename": "20260623-162753_5176621149-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DC/20260623-162753_5176621149-all.mp3",
+  "duration": 42.12,
+  "text": "Hello? Hello? Yes, hello? Hi, this is Sarah. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both Part A and Part B? Sorry about that. I was asking, do you currently have both Medicare Part A and Part B? I don't think so. I don't know. No worries at all. Let me just confirm your age real quick so I can see what's available for you. So how old are you?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Hello? Hello? Yes, hello?"
+    },
+    {
+      "start": 5.0,
+      "end": 13.0,
+      "text": "Hi, this is Sarah. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet."
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "We just need a quick confirmation so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "text": "Do you have both Part A and Part B?"
+    },
+    {
+      "start": 22.0,
+      "end": 31.0,
+      "text": "Sorry about that. I was asking, do you currently have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "I don't think so. I don't know."
+    },
+    {
+      "start": 35.0,
+      "end": 42.0,
+      "text": "No worries at all. Let me just confirm your age real quick so I can see what's available for you. So how old are you?"
+    }
+  ],
+  "word_count": 96,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, hello?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi, this is Sarah We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Sorry about that I was asking, do you currently have both Medicare Part A and Part B? I don't think so I don't know No worries at all Let me just confirm your age real quick so I can see what's available for you So how old are you?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Yes, hello? Hi, this is Sarah. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both Part A and Part B? Sorry about that. I was asking, do you currently have both Medicare Part A and Part B? I don't think so. I don't know. No worries at all. Let me just confirm your age real quick so I can see what's available for you. So how old are you?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 96
+}

@@ -1,0 +1,83 @@
+{
+  "id": "mcc3__NP__20260623-124837_5026505185-all",
+  "campaign": "mcc3",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "12:48:37",
+  "phone": "5026505185",
+  "filename": "20260623-124837_5026505185-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NP/20260623-124837_5026505185-all.mp3",
+  "duration": 36.22,
+  "text": "Hello? What do you want? Good afternoon. My name is Sophie. I'm reaching out because we're running a quick coverage gap audit for folks before the December 7 cutoff. It's about a four-minute look at what your current plan actually pays versus what you'd owe out of pocket in a real situation. A lot of people assume their plan covers more than it actually does and the gap only shows up when they need care. We just want to make sure you have the full picture before that deadline hits. So can you let me know if you have both Medicare Part A and Part",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.76,
+      "text": "Hello? What do you want? Good afternoon. My name is Sophie. I'm reaching out"
+    },
+    {
+      "start": 9.76,
+      "end": 13.36,
+      "text": "because we're running a quick coverage gap audit for folks before the December"
+    },
+    {
+      "start": 13.36,
+      "end": 18.16,
+      "text": "7 cutoff. It's about a four-minute look at what your current plan actually pays"
+    },
+    {
+      "start": 18.16,
+      "end": 23.28,
+      "text": "versus what you'd owe out of pocket in a real situation. A lot of people assume"
+    },
+    {
+      "start": 23.28,
+      "end": 27.24,
+      "text": "their plan covers more than it actually does and the gap only shows up when they"
+    },
+    {
+      "start": 27.24,
+      "end": 31.2,
+      "text": "need care. We just want to make sure you have the full picture before that"
+    },
+    {
+      "start": 31.2,
+      "end": 36.24,
+      "text": "deadline hits. So can you let me know if you have both Medicare Part A and Part"
+    }
+  ],
+  "word_count": 105,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "What do you want?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon My name is Sophie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm reaching out because we're running a quick coverage gap audit for folks before the December 7 cutoff It's about a four-minute look at what your current plan actually pays versus what you'd owe out of pocket in a real situation A lot of people assume their plan covers more than it actually does and the gap only shows up when they need care We just want to make sure you have the full picture before that deadline hits"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So can you let me know if you have both Medicare Part A and Part"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? What do you want? Good afternoon. My name is Sophie. I'm reaching out because we're running a quick coverage gap audit for folks before the December 7 cutoff. It's about a four-minute look at what your current plan actually pays versus what you'd owe out of pocket in a real situation. A lot of people assume their plan covers more than it actually does and the gap only shows up when they need care. We just want to make sure you have the full picture before that deadline hits. So can you let me know if you have both Medicare Part A and Part",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 105
+}

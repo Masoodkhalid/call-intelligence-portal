@@ -1,0 +1,46 @@
+{
+  "id": "mcc3__BDNC__20260623-104304_2819913937-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "10:43:04",
+  "phone": "2819913937",
+  "filename": "20260623-104304_2819913937-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-104304_2819913937-all.mp3",
+  "duration": 8.86,
+  "text": "Hello. Today's vision, how may I help you?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello."
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "Today's vision, how may I help you?"
+    }
+  ],
+  "word_count": 8,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Today's vision, how may I help you?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Today's vision, how may I help you?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 8
+}

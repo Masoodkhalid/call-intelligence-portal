@@ -1,0 +1,79 @@
+{
+  "id": "mcc5__A__20260623-122052_6623727961-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "12:20:52",
+  "phone": "6623727961",
+  "filename": "20260623-122052_6623727961-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-122052_6623727961-all.mp3",
+  "duration": 49.61,
+  "text": "Hello. Good morning. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet and that can delay your coverage approvals. So to get your file updated, do you have both Medicare Part A and Part B? Hey, are you still there? I was just asking you do have both Part A and Part B of Medicare, right? Have to tell them please record your message. When you finished recording, you may hang up or press 1 for more options. To leave a callback number, press 5.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.76,
+      "text": "Hello. Good morning. My name is Cassie. So I'm calling because your Medicare"
+    },
+    {
+      "start": 8.76,
+      "end": 13.18,
+      "text": "member profile is showing it hasn't been transferred into Medicare's national"
+    },
+    {
+      "start": 13.18,
+      "end": 19.74,
+      "text": "database for 2026 yet and that can delay your coverage approvals. So to get your"
+    },
+    {
+      "start": 19.74,
+      "end": 31.04,
+      "text": "file updated, do you have both Medicare Part A and Part B? Hey, are you still there?"
+    },
+    {
+      "start": 31.04,
+      "end": 37.2,
+      "text": "I was just asking you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "start": 37.2,
+      "end": 40.28,
+      "text": "Have to tell them please record your message. When you finished recording, you"
+    },
+    {
+      "start": 40.28,
+      "end": 47.46,
+      "text": "may hang up or press 1 for more options. To leave a callback number, press 5."
+    }
+  ],
+  "word_count": 101,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Good morning My name is Cassie So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet and that can delay your coverage approvals So to get your file updated, do you have both Medicare Part A and Part B? Hey, are you still there? I was just asking you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Have to tell them please record your message"
+    },
+    {
+      "speaker": "BOT",
+      "text": "When you finished recording, you may hang up or press 1 for more options"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To leave a callback number, press 5"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Good morning. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet and that can delay your coverage approvals. So to get your file updated, do you have both Medicare Part A and Part B? Hey, are you still there? I was just asking you do have both Part A and Part B of Medicare, right? Have to tell them please record your message. When you finished recording, you may hang up or press 1 for more options. To leave a callback number, press 5.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 101
+}

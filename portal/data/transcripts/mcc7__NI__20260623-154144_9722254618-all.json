@@ -1,0 +1,66 @@
+{
+  "id": "mcc7__NI__20260623-154144_9722254618-all",
+  "campaign": "mcc7",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "15:41:44",
+  "phone": "9722254618",
+  "filename": "20260623-154144_9722254618-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NI/20260623-154144_9722254618-all.mp3",
+  "duration": 20.95,
+  "text": "Hello? Hello? Good afternoon. My name is Anna. You doing all right? So how's your day going?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "My name is Anna."
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "You doing all right?"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "So how's your day going?"
+    }
+  ],
+  "word_count": 17,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Anna You doing all right? So how's your day going?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Good afternoon. My name is Anna. You doing all right? So how's your day going?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 17
+}

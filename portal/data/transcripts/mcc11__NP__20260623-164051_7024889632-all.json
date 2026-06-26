@@ -1,0 +1,51 @@
+{
+  "id": "mcc11__NP__20260623-164051_7024889632-all",
+  "campaign": "mcc11",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "16:40:51",
+  "phone": "7024889632",
+  "filename": "20260623-164051_7024889632-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NP/20260623-164051_7024889632-all.mp3",
+  "duration": 19.51,
+  "text": "\"Hello?\" \"Yeah!\" \"Hi, this is Sarah. I'm reaching out because we pulled up your Medicare profile, and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you, so your coverage doesn't get interrupted.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "\"Hello?\" \"Yeah!\""
+    },
+    {
+      "start": 5.0,
+      "end": 14.0,
+      "text": "\"Hi, this is Sarah. I'm reaching out because we pulled up your Medicare profile, and there's a note here showing your 2026 plan update hasn't been confirmed yet."
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": "We just need a quick confirmation from you, so your coverage doesn't get interrupted."
+    }
+  ],
+  "word_count": 44,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello?\" \"Yeah!\" \"Hi, this is Sarah"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm reaching out because we pulled up your Medicare profile, and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you, so your coverage doesn't get interrupted"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Yeah!\" \"Hi, this is Sarah. I'm reaching out because we pulled up your Medicare profile, and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you, so your coverage doesn't get interrupted.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 44
+}

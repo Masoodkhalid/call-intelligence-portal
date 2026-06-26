@@ -1,0 +1,169 @@
+{
+  "id": "mcc5__RAXFER__20260623-131956_6604735247-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "13:19:56",
+  "phone": "6604735247",
+  "filename": "20260623-131956_6604735247-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-131956_6604735247-all.mp3",
+  "duration": 91.51,
+  "text": "Hello. Hello. Good afternoon. My name is Sophie. I'm reaching out because we're running a quick coverage gap audit before the December 7th cut-off. Basically, a four-minute check on what your current plan actually pays versus what you personally owe out of pocket. Most people haven't had anyone walk them through that, and the numbers can be pretty eye-opening. We want to get to you before that window closes. Can you let me know if you have both Medicare Part A and Part B? I do. You have qualified for the updates. Give me a second to connect to you. Okay. Thank you so much for holding on the line. My name is David. I'll read you. Hi. All right. And this call is not a gas. So you're in bad your Medicare benefit and savings that you have Medicare Part A and Part B, right? Thank you. All right. So, ma'am, what is your zip code? Okay. First off, I'm not doing this. And then secondly, we take my name off of the calling list. Because you'll call me every single day. All right. I'll bet your number of the not call list right away. It will take 24 to 48 hours. Please remove the number of more database. Have a great day, ma'am.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello. Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Good afternoon. My name is Sophie."
+    },
+    {
+      "start": 8.0,
+      "end": 13.0,
+      "text": "I'm reaching out because we're running a quick coverage gap audit before the December 7th cut-off."
+    },
+    {
+      "start": 13.0,
+      "end": 20.0,
+      "text": "Basically, a four-minute check on what your current plan actually pays versus what you personally owe out of pocket."
+    },
+    {
+      "start": 20.0,
+      "end": 25.0,
+      "text": "Most people haven't had anyone walk them through that, and the numbers can be pretty eye-opening."
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "We want to get to you before that window closes."
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "Can you let me know if you have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "I do."
+    },
+    {
+      "start": 34.0,
+      "end": 37.0,
+      "text": "You have qualified for the updates."
+    },
+    {
+      "start": 37.0,
+      "end": 40.0,
+      "text": "Give me a second to connect to you."
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "text": "Okay."
+    },
+    {
+      "start": 44.0,
+      "end": 48.0,
+      "text": "Thank you so much for holding on the line. My name is David. I'll read you."
+    },
+    {
+      "start": 48.0,
+      "end": 51.0,
+      "text": "Hi."
+    },
+    {
+      "start": 51.0,
+      "end": 58.0,
+      "text": "All right. And this call is not a gas. So you're in bad your Medicare benefit and savings that you have Medicare Part A and Part B, right?"
+    },
+    {
+      "start": 58.0,
+      "end": 62.0,
+      "text": "Thank you."
+    },
+    {
+      "start": 62.0,
+      "end": 69.0,
+      "text": "All right. So, ma'am, what is your zip code?"
+    },
+    {
+      "start": 69.0,
+      "end": 73.0,
+      "text": "Okay. First off, I'm not doing this."
+    },
+    {
+      "start": 73.0,
+      "end": 79.0,
+      "text": "And then secondly, we take my name off of the calling list."
+    },
+    {
+      "start": 79.0,
+      "end": 82.0,
+      "text": "Because you'll call me every single day."
+    },
+    {
+      "start": 82.0,
+      "end": 88.0,
+      "text": "All right. I'll bet your number of the not call list right away. It will take 24 to 48 hours."
+    },
+    {
+      "start": 88.0,
+      "end": 92.0,
+      "text": "Please remove the number of more database. Have a great day, ma'am."
+    }
+  ],
+  "word_count": 215,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon My name is Sophie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm reaching out because we're running a quick coverage gap audit before the December 7th cut-off Basically, a four-minute check on what your current plan actually pays versus what you personally owe out of pocket Most people haven't had anyone walk them through that, and the numbers can be pretty eye-opening We want to get to you before that window closes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you let me know if you have both Medicare Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I do You have qualified for the updates Give me a second to connect to you Okay Thank you so much for holding on the line"
+    },
+    {
+      "speaker": "BOT",
+      "text": "My name is David"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'll read you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "All right And this call is not a gas So you're in bad your Medicare benefit and savings that you have Medicare Part A and Part B, right? Thank you All right So, ma'am, what is your zip code? Okay First off, I'm not doing this And then secondly, we take my name off of the calling list Because you'll call me every single day All right I'll bet your number of the not call list right away It will take 24 to 48 hours Please remove the number of more database"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a great day, ma'am"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello. Hello. Good afternoon. My name is Sophie. I'm reaching out because we're running a quick coverage gap audit before the December 7th cut-off. Basically, a four-minute check on what your current plan actually pays versus what you personally owe out of pocket. Most people haven't had anyone walk them through that, and the numbers can be pretty eye-opening. We want to get to you before that window closes. Can you let me know if you have both Medicare Part A and Part B? I do. You have qualified for the updates. Give me a second to connect to you. Okay. Thank you so much for holding on the line. My name is David. I'll read you. Hi. All right. And this call is not a gas. So you're in bad your Medicare benefit and savings that you have Medicare Part A and Part B, right? Thank you. All right. So, ma'am, what is your zip code? Okay. First off, I'm not doing this. And then secondly, we take my name off of the calling list. Because you'll call me every single day. All right. I'll bet your number of the not call list right away. It will take 24 to 48 hours. Please remove the number of more database. Have a great day, ma'am.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 215
+}

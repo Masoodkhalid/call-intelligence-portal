@@ -1,0 +1,42 @@
+{
+  "id": "mcc5__A__20260623-130521_2514540897-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "13:05:21",
+  "phone": "2514540897",
+  "filename": "20260623-130521_2514540897-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-130521_2514540897-all.mp3",
+  "duration": 13.03,
+  "text": "Hello, this is Patrick better known as Patrick though, either I'm in a me on business, but leave me something. Go ahead.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello, this is Patrick better known as Patrick though, either I'm in a me on"
+    },
+    {
+      "start": 7.0,
+      "end": 11.94,
+      "text": "business, but leave me something. Go ahead."
+    }
+  ],
+  "word_count": 22,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello, this is Patrick better known as Patrick though, either I'm in a me on business, but leave me something Go ahead"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello, this is Patrick better known as Patrick though, either I'm in a me on business, but leave me something. Go ahead.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 22
+}

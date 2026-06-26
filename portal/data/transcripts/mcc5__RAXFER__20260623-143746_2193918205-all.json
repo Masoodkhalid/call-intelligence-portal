@@ -1,0 +1,161 @@
+{
+  "id": "mcc5__RAXFER__20260623-143746_2193918205-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:37:46",
+  "phone": "2193918205",
+  "filename": "20260623-143746_2193918205-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-143746_2193918205-all.mp3",
+  "duration": 74.09,
+  "text": "Hello? - Hello. - Good afternoon. - Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So you do have both part A and part B, right? - So what do I need to do? - All questions will be covered by our specialist. I'll transfer you after checking your eligibility. The 2026 benefits include vision, dental, hearing, flex and food cards. So you do have both part A and part B of Medicare, right? - I don't know. - No problem. So what's your age? - 67. - Got it. Please hold while I connect you to the advisor. (beeping) - Bye, thanks for holding on. (upbeat music)",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "Hello?"
+    },
+    {
+      "start": 0.84,
+      "end": 2.66,
+      "text": "- Hello."
+    },
+    {
+      "start": 2.66,
+      "end": 4.7,
+      "text": "- Good afternoon."
+    },
+    {
+      "start": 4.7,
+      "end": 5.74,
+      "text": "- Good afternoon."
+    },
+    {
+      "start": 5.74,
+      "end": 6.98,
+      "text": "My name is Cassie."
+    },
+    {
+      "start": 8.5,
+      "end": 11.5,
+      "text": "So I'm calling because your Medicare member profile"
+    },
+    {
+      "start": 11.5,
+      "end": 13.42,
+      "text": "hasn't been transferred into Medicare's"
+    },
+    {
+      "start": 13.42,
+      "end": 16.58,
+      "text": "national database for 2026 yet."
+    },
+    {
+      "start": 16.58,
+      "end": 19.66,
+      "text": "And that can hold up your coverage approvals."
+    },
+    {
+      "start": 19.66,
+      "end": 23.86,
+      "text": "So you do have both part A and part B, right?"
+    },
+    {
+      "start": 23.86,
+      "end": 25.16,
+      "text": "- So what do I need to do?"
+    },
+    {
+      "start": 27.14,
+      "end": 30.42,
+      "text": "- All questions will be covered by our specialist."
+    },
+    {
+      "start": 30.42,
+      "end": 33.26,
+      "text": "I'll transfer you after checking your eligibility."
+    },
+    {
+      "start": 34.16,
+      "end": 39.16,
+      "text": "The 2026 benefits include vision, dental, hearing,"
+    },
+    {
+      "start": 39.62,
+      "end": 41.86,
+      "text": "flex and food cards."
+    },
+    {
+      "start": 41.86,
+      "end": 46.54,
+      "text": "So you do have both part A and part B of Medicare, right?"
+    },
+    {
+      "start": 46.54,
+      "end": 47.36,
+      "text": "- I don't know."
+    },
+    {
+      "start": 49.18,
+      "end": 50.1,
+      "text": "- No problem."
+    },
+    {
+      "start": 50.1,
+      "end": 52.18,
+      "text": "So what's your age?"
+    },
+    {
+      "start": 53.94,
+      "end": 54.78,
+      "text": "- 67."
+    },
+    {
+      "start": 56.86,
+      "end": 57.86,
+      "text": "- Got it."
+    },
+    {
+      "start": 57.86,
+      "end": 60.38,
+      "text": "Please hold while I connect you to the advisor."
+    },
+    {
+      "start": 62.06,
+      "end": 64.3,
+      "text": "(beeping)"
+    },
+    {
+      "start": 67.98,
+      "end": 69.52,
+      "text": "- Bye, thanks for holding on."
+    },
+    {
+      "start": 69.52,
+      "end": 72.1,
+      "text": "(upbeat music)"
+    }
+  ],
+  "word_count": 132,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Good afternoon Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals So you do have both part A and part B, right? So what do I need to do? All questions will be covered by our specialist I'll transfer you after checking your eligibility The 2026 benefits include vision, dental, hearing, flex and food cards"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello Good afternoon Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals So you do have both part A and part B, right? So what do I need to do? All questions will be covered by our specialist I'll transfer you after checking your eligibility The 2026 benefits include vision, dental, hearing, flex and food cards",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 80
+}

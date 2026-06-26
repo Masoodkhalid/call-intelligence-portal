@@ -1,0 +1,109 @@
+{
+  "id": "mcc11__RAXFER__20260623-152232_8153024599-all",
+  "campaign": "mcc11",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "15:22:32",
+  "phone": "8153024599",
+  "filename": "20260623-152232_8153024599-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-RAXFER/20260623-152232_8153024599-all.mp3",
+  "duration": 96.05,
+  "text": "Hello. Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So have you received any notification about these benefits yet? No, not yet. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go on planes. You're covered under both Part A and Part B. Yes. Part B. Yes. Yes. You're getting connected to our agent in a minute. Thank you so much for holding on. This is my cell B. How are you doing today? I'm doing fabulous, man. I'm going to help you. Well, this goal isn't quite about genetic error benefits and savings per year to any credit state like this, Medicare offer you some extra money for the group and groceries and the also grazing all of your benefits. So you have Medicare body. Yes, sir, I do. How old are you? I'm 48. What's your date of birth? $11.29.79. And it's in the 48. Are you on a disability? No, not yet. So how did you get Medicare, then? Huh? My dad. How do you go? Yeah, my dad was for the government.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.12,
+      "text": "Hello. Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending"
+    },
+    {
+      "start": 9.12,
+      "end": 14.64,
+      "text": "grocery and cash benefits worth up to $300 available on your Medicare account through"
+    },
+    {
+      "start": 14.64,
+      "end": 19.8,
+      "text": "Illinois State Relief Program. So have you received any notification about these benefits"
+    },
+    {
+      "start": 19.8,
+      "end": 27.36,
+      "text": "yet? No, not yet. Oh, that's all right. That's exactly why I'm calling. I want to help you"
+    },
+    {
+      "start": 27.36,
+      "end": 32.28,
+      "text": "get these benefits processed before they go on planes. You're covered under both Part"
+    },
+    {
+      "start": 32.28,
+      "end": 40.64,
+      "text": "A and Part B. Yes. Part B. Yes. Yes. You're getting connected to our agent in a minute."
+    },
+    {
+      "start": 40.64,
+      "end": 49.48,
+      "text": "Thank you so much for holding on. This is my cell B. How are you doing today? I'm doing"
+    },
+    {
+      "start": 49.48,
+      "end": 54.36,
+      "text": "fabulous, man. I'm going to help you. Well, this goal isn't quite about genetic error"
+    },
+    {
+      "start": 54.36,
+      "end": 59.24,
+      "text": "benefits and savings per year to any credit state like this, Medicare offer you some extra"
+    },
+    {
+      "start": 59.24,
+      "end": 65.4,
+      "text": "money for the group and groceries and the also grazing all of your benefits. So you have"
+    },
+    {
+      "start": 65.4,
+      "end": 76.46,
+      "text": "Medicare body. Yes, sir, I do. How old are you? I'm 48. What's your date of birth?"
+    },
+    {
+      "start": 76.46,
+      "end": 87.56,
+      "text": "$11.29.79. And it's in the 48. Are you on a disability? No, not yet. So how did you get"
+    },
+    {
+      "start": 87.56,
+      "end": 95.0,
+      "text": "Medicare, then? Huh? My dad. How do you go? Yeah, my dad was for the government."
+    }
+  ],
+  "word_count": 210,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, not yet"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go on planes You're covered under both Part A and Part B"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes Part B Yes Yes You're getting connected to our agent in a minute Thank you so much for holding on This is my cell B How are you doing today? I'm doing fabulous, man I'm going to help you Well, this goal isn't quite about genetic error benefits and savings per year to any credit state like this, Medicare offer you some extra money for the group and groceries and the also grazing all of your benefits So you have Medicare body Yes, sir, I do How old are you? I'm 48 What's your date of birth? $11.29.79 And it's in the 48 Are you on a disability? No, not yet So how did you get Medicare, then? Huh? My dad How do you go? Yeah, my dad was for the government"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So have you received any notification about these benefits yet? No, not yet. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go on planes. You're covered under both Part A and Part B. Yes. Part B. Yes. Yes. You're getting connected to our agent in a minute. Thank you so much for holding on. This is my cell B. How are you doing today? I'm doing fabulous, man. I'm going to help you. Well, this goal isn't quite about genetic error benefits and savings per year to any credit state like this, Medicare offer you some extra money for the group and groceries and the also grazing all of your benefits. So you have Medicare body. Yes, sir, I do. How old are you? I'm 48. What's your date of birth? $11.29.79. And it's in the 48. Are you on a disability? No, not yet. So how did you get Medicare, then? Huh? My dad. How do you go? Yeah, my dad was for the government.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 210
+}

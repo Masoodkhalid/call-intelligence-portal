@@ -1,0 +1,56 @@
+{
+  "id": "mcc5__NI__20260623-141612_3042571652-all",
+  "campaign": "mcc5",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "14:16:12",
+  "phone": "3042571652",
+  "filename": "20260623-141612_3042571652-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NI/20260623-141612_3042571652-all.mp3",
+  "duration": 26.93,
+  "text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through West Virginia State Relief Program. So have you received any notification about these benefits yet? Yes, so I was asking if you've received the notification.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello. Hello. Good afternoon. This is Rachel."
+    },
+    {
+      "start": 7.0,
+      "end": 16.0,
+      "text": "So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through West Virginia State Relief Program."
+    },
+    {
+      "start": 16.0,
+      "end": 24.0,
+      "text": "So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 24.0,
+      "end": 26.92,
+      "text": "Yes, so I was asking if you've received the notification."
+    }
+  ],
+  "word_count": 52,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Rachel So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through West Virginia State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, so I was asking if you've received the notification"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through West Virginia State Relief Program. So have you received any notification about these benefits yet? Yes, so I was asking if you've received the notification.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 52
+}

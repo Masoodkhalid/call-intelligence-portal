@@ -1,0 +1,55 @@
+{
+  "id": "mcc3__BDNC__20260623-094357_7068721812-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "09:43:57",
+  "phone": "7068721812",
+  "filename": "20260623-094357_7068721812-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-094357_7068721812-all.mp3",
+  "duration": 10.15,
+  "text": "Hello? Ms. last but speaking, how can I help you? Hello?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 8.0,
+      "text": "Ms. last but speaking, how can I help you?"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Hello?"
+    }
+  ],
+  "word_count": 11,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Ms last but speaking, how can I help you?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Ms. last but speaking, how can I help you? Hello?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 11
+}

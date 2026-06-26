@@ -1,0 +1,49 @@
+{
+  "id": "mcc5__DC__20260623-133045_5742760008-all",
+  "campaign": "mcc5",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "13:30:45",
+  "phone": "5742760008",
+  "filename": "20260623-133045_5742760008-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DC/20260623-133045_5742760008-all.mp3",
+  "duration": 11.81,
+  "text": "Hello. Hi. Are you there? Yeah. Hello. Good afternoon. This is Rachel. So I'm calling because there are",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.5,
+      "text": "Hello. Hi. Are you there? Yeah. Hello. Good afternoon. This is Rachel. So I'm calling because there are"
+    }
+  ],
+  "word_count": 18,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hi Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello Good afternoon This is Rachel"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So I'm calling because there are"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hi. Are you there? Yeah. Hello. Good afternoon. This is Rachel. So I'm calling because there are",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 18
+}

@@ -1,0 +1,92 @@
+{
+  "id": "mcc3__RAXFER__20260623-121952_5613070172-all",
+  "campaign": "mcc3",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "12:19:52",
+  "phone": "5613070172",
+  "filename": "20260623-121952_5613070172-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-raxfer/20260623-121952_5613070172-all.mp3",
+  "duration": 48.24,
+  "text": "Hello? Oh. Good afternoon. My name is Sophie. I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff. It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So can you let me know if you have both Medicare Part A and Part B? Yes. You have qualified for the updates. Give me a second to connect to you. Thanks for all the line. This is Mike Wilson. How are you doing today?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.34,
+      "text": "Hello? Oh. Good afternoon. My name is Sophie. I'm reaching out because we're"
+    },
+    {
+      "start": 8.34,
+      "end": 12.3,
+      "text": "doing a quick coverage gap audit for people before the December 7th cutoff."
+    },
+    {
+      "start": 12.3,
+      "end": 16.92,
+      "text": "It's a four-minute look at what your plan actually covers versus what comes"
+    },
+    {
+      "start": 16.92,
+      "end": 21.66,
+      "text": "out of your own pocket when you need care. Most people are genuinely surprised by"
+    },
+    {
+      "start": 21.66,
+      "end": 25.6,
+      "text": "the difference. We're just trying to reach everyone on the list before that"
+    },
+    {
+      "start": 25.6,
+      "end": 29.78,
+      "text": "deadline. So can you let me know if you have both Medicare Part A and"
+    },
+    {
+      "start": 29.78,
+      "end": 37.56,
+      "text": "Part B? Yes. You have qualified for the updates. Give me a second to connect to you."
+    },
+    {
+      "start": 37.56,
+      "end": 50.16,
+      "text": "Thanks for all the line. This is Mike Wilson. How are you doing today?"
+    }
+  ],
+  "word_count": 113,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon My name is Sophie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care Most people are genuinely surprised by the difference We're just trying to reach everyone on the list before that deadline"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So can you let me know if you have both Medicare Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes You have qualified for the updates Give me a second to connect to you Thanks for all the line This is Mike Wilson How are you doing today?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Oh. Good afternoon. My name is Sophie. I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff. It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So can you let me know if you have both Medicare Part A and Part B? Yes. You have qualified for the updates. Give me a second to connect to you. Thanks for all the line. This is Mike Wilson. How are you doing today?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 113
+}

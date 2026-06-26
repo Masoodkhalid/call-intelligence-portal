@@ -1,0 +1,71 @@
+{
+  "id": "mcc3__NI__20260623-123425_9015057216-all",
+  "campaign": "mcc3",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "12:34:25",
+  "phone": "9015057216",
+  "filename": "20260623-123425_9015057216-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NI/20260623-123425_9015057216-all.mp3",
+  "duration": 42.12,
+  "text": "She's my phone, but not me. Good morning. My name is Cassie, so I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals. So you do have both part A and part B, right? Hey, are you still there? I was just asking, you do have both part A and part B of Medicare, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.38,
+      "text": "She's my phone, but not me."
+    },
+    {
+      "start": 3.38,
+      "end": 4.38,
+      "text": "Good morning."
+    },
+    {
+      "start": 4.38,
+      "end": 11.38,
+      "text": "My name is Cassie, so I'm calling because your Medicare member profile hasn't been transferred"
+    },
+    {
+      "start": 11.38,
+      "end": 18.58,
+      "text": "into Medicare's national database for 2026 yet, and that can hold up your coverage approvals."
+    },
+    {
+      "start": 18.58,
+      "end": 27.34,
+      "text": "So you do have both part A and part B, right?"
+    },
+    {
+      "start": 27.34,
+      "end": 29.58,
+      "text": "Hey, are you still there?"
+    },
+    {
+      "start": 29.58,
+      "end": 35.0,
+      "text": "I was just asking, you do have both part A and part B of Medicare, right?"
+    }
+  ],
+  "word_count": 70,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "She's my phone, but not me"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning My name is Cassie, so I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals So you do have both part A and part B, right? Hey, are you still there? I was just asking, you do have both part A and part B of Medicare, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "She's my phone, but not me. Good morning. My name is Cassie, so I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals. So you do have both part A and part B, right? Hey, are you still there? I was just asking, you do have both part A and part B of Medicare, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 70
+}

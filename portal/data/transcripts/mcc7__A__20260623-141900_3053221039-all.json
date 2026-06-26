@@ -1,0 +1,70 @@
+{
+  "id": "mcc7__A__20260623-141900_3053221039-all",
+  "campaign": "mcc7",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "14:19:00",
+  "phone": "3053221039",
+  "filename": "20260623-141900_3053221039-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-A/20260623-141900_3053221039-all.mp3",
+  "duration": 40.68,
+  "text": "Hello. Hello. Good afternoon. This is Evelyn. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So have you been notified about these benefits yet? Yes. So I was asking you to receive the notification about the pending credits on your Medicare plan. To mark your message urgent, press 2. To mark your message private, press 3. To send your message as is pressed pound. Are you still there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Hello. Hello. Good afternoon. This is Evelyn."
+    },
+    {
+      "start": 5.0,
+      "end": 15.0,
+      "text": "So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program."
+    },
+    {
+      "start": 15.0,
+      "end": 22.0,
+      "text": "So have you been notified about these benefits yet?"
+    },
+    {
+      "start": 22.0,
+      "end": 28.0,
+      "text": "Yes. So I was asking you to receive the notification about the pending credits on your Medicare plan."
+    },
+    {
+      "start": 28.0,
+      "end": 40.0,
+      "text": "To mark your message urgent, press 2. To mark your message private, press 3. To send your message as is pressed pound."
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "text": "Are you still there?"
+    }
+  ],
+  "word_count": 84,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Evelyn So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program So have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So I was asking you to receive the notification about the pending credits on your Medicare plan To mark your message urgent, press 2 To mark your message private, press 3 To send your message as is pressed pound Are you still there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Evelyn. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So have you been notified about these benefits yet? Yes. So I was asking you to receive the notification about the pending credits on your Medicare plan. To mark your message urgent, press 2. To mark your message private, press 3. To send your message as is pressed pound. Are you still there?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 84
+}

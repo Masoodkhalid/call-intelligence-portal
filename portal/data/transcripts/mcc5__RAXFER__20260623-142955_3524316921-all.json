@@ -1,0 +1,72 @@
+{
+  "id": "mcc5__RAXFER__20260623-142955_3524316921-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:29:55",
+  "phone": "3524316921",
+  "filename": "20260623-142955_3524316921-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-142955_3524316921-all.mp3",
+  "duration": 72.14,
+  "text": "Hello, hello, good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals. So you do have both part A and part B, right? Yes. You do qualify forwarding you to our supervisor now. Please hold. Thank you for holding on the line. My name is Don Matthew. How are you doing today? Fine. Well, call is in regards to inquiry about your missing Medicare benefits. You do have Medicare part A and B. Okay. I said do you have Medicare part A and B? Yes. What is your zip code? I don't know what my zip code is. But do you know the screen name and numbers so I can pull it up for you? No, my sister.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 19.0,
+      "text": "Hello, hello, good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals."
+    },
+    {
+      "start": 19.0,
+      "end": 36.0,
+      "text": "So you do have both part A and part B, right? Yes. You do qualify forwarding you to our supervisor now. Please hold."
+    },
+    {
+      "start": 36.0,
+      "end": 42.0,
+      "text": "Thank you for holding on the line. My name is Don Matthew. How are you doing today?"
+    },
+    {
+      "start": 42.0,
+      "end": 53.0,
+      "text": "Fine. Well, call is in regards to inquiry about your missing Medicare benefits. You do have Medicare part A and B."
+    },
+    {
+      "start": 53.0,
+      "end": 59.0,
+      "text": "Okay. I said do you have Medicare part A and B? Yes."
+    },
+    {
+      "start": 59.0,
+      "end": 62.0,
+      "text": "What is your zip code?"
+    },
+    {
+      "start": 62.0,
+      "end": 65.0,
+      "text": "I don't know what my zip code is."
+    },
+    {
+      "start": 65.0,
+      "end": 73.0,
+      "text": "But do you know the screen name and numbers so I can pull it up for you? No, my sister."
+    }
+  ],
+  "word_count": 140,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello, hello, good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals So you do have both part A and part B, right? Yes You do qualify forwarding you to our supervisor now Please hold Thank you for holding on the line"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello, hello, good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals So you do have both part A and part B, right? Yes You do qualify forwarding you to our supervisor now Please hold Thank you for holding on the line",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 64
+}

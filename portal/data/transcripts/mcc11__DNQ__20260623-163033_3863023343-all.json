@@ -1,0 +1,106 @@
+{
+  "id": "mcc11__DNQ__20260623-163033_3863023343-all",
+  "campaign": "mcc11",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "16:30:33",
+  "phone": "3863023343",
+  "filename": "20260623-163033_3863023343-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DNQ/20260623-163033_3863023343-all.mp3",
+  "duration": 29.81,
+  "text": "Hello. Hello. Hello. Hi. This is Sarah. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both Part A and Part B? I do and I have it through my employer. Sorry. It looks like you don't qualify for the plans. - I could have a date with you. - I could have a date with you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Hello."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Hi."
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "This is Sarah."
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": "We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "confirmed yet."
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": "We just need a quick confirmation so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 15.0,
+      "end": 19.0,
+      "text": "Do you have both Part A and Part B?"
+    },
+    {
+      "start": 19.0,
+      "end": 22.0,
+      "text": "I do and I have it through my employer."
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "text": "Sorry."
+    },
+    {
+      "start": 23.0,
+      "end": 27.0,
+      "text": "It looks like you don't qualify for the plans."
+    },
+    {
+      "start": 27.0,
+      "end": 28.58,
+      "text": "- I could have a date with you."
+    },
+    {
+      "start": 28.58,
+      "end": 29.98,
+      "text": "- I could have a date with you."
+    }
+  ],
+  "word_count": 81,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hello Hi This is Sarah We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I do and I have it through my employer Sorry It looks like you don't qualify for the plans I could have a date with you I could have a date with you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Hello. Hi. This is Sarah. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both Part A and Part B? I do and I have it through my employer. Sorry. It looks like you don't qualify for the plans. - I could have a date with you. - I could have a date with you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 81
+}

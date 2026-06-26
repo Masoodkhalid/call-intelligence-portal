@@ -1,0 +1,92 @@
+{
+  "id": "mcc5__DNQ__20260623-133138_2546518374-all",
+  "campaign": "mcc5",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "13:31:38",
+  "phone": "2546518374",
+  "filename": "20260623-133138_2546518374-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DNQ/20260623-133138_2546518374-all.mp3",
+  "duration": 41.76,
+  "text": "Hello? Yes. Good afternoon. My name is Sophie. I'm reaching out because we're running a quick coverage gap audit before the December 7th cutoff. Basically a four-minute check on what your current plan actually pays versus what you'd personally owe out of pocket. Most people haven't had anyone walk them through that and the numbers can be pretty eye-opening. We want to get to you before that window closes. Can you let me know if you have both Medicare Part A and Part B? Nope. And please take off. You look like you don't meet the eligibility criteria for our ballot plans. Thank you. Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.24,
+      "text": "Hello? Yes. Good afternoon. My name is Sophie. I'm reaching out because we're"
+    },
+    {
+      "start": 9.24,
+      "end": 13.8,
+      "text": "running a quick coverage gap audit before the December 7th cutoff. Basically a"
+    },
+    {
+      "start": 13.8,
+      "end": 17.8,
+      "text": "four-minute check on what your current plan actually pays versus what you'd"
+    },
+    {
+      "start": 17.8,
+      "end": 21.84,
+      "text": "personally owe out of pocket. Most people haven't had anyone walk them"
+    },
+    {
+      "start": 21.84,
+      "end": 25.96,
+      "text": "through that and the numbers can be pretty eye-opening. We want to get to you"
+    },
+    {
+      "start": 25.96,
+      "end": 30.32,
+      "text": "before that window closes. Can you let me know if you have both Medicare Part"
+    },
+    {
+      "start": 30.32,
+      "end": 37.32,
+      "text": "A and Part B? Nope. And please take off. You look like you don't meet the"
+    },
+    {
+      "start": 37.32,
+      "end": 41.56,
+      "text": "eligibility criteria for our ballot plans. Thank you. Thank you."
+    }
+  ],
+  "word_count": 106,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon My name is Sophie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm reaching out because we're running a quick coverage gap audit before the December 7th cutoff Basically a four-minute check on what your current plan actually pays versus what you'd personally owe out of pocket Most people haven't had anyone walk them through that and the numbers can be pretty eye-opening We want to get to you before that window closes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you let me know if you have both Medicare Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Nope And please take off You look like you don't meet the eligibility criteria for our ballot plans Thank you Thank you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Yes. Good afternoon. My name is Sophie. I'm reaching out because we're running a quick coverage gap audit before the December 7th cutoff. Basically a four-minute check on what your current plan actually pays versus what you'd personally owe out of pocket. Most people haven't had anyone walk them through that and the numbers can be pretty eye-opening. We want to get to you before that window closes. Can you let me know if you have both Medicare Part A and Part B? Nope. And please take off. You look like you don't meet the eligibility criteria for our ballot plans. Thank you. Thank you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 106
+}

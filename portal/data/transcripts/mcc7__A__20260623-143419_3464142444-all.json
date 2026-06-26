@@ -1,0 +1,64 @@
+{
+  "id": "mcc7__A__20260623-143419_3464142444-all",
+  "campaign": "mcc7",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "14:34:19",
+  "phone": "3464142444",
+  "filename": "20260623-143419_3464142444-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-A/20260623-143419_3464142444-all.mp3",
+  "duration": 32.62,
+  "text": "Hello, good afternoon. This is Elizabeth. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account. So have you been notified about these benefits yet? To listen to your message, press 1. To rerecord your message, press 2. To continue recording your message, press 3. Accept the recording and send us normal.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Hello, good afternoon. This is Elizabeth."
+    },
+    {
+      "start": 6.0,
+      "end": 14.0,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account."
+    },
+    {
+      "start": 14.0,
+      "end": 28.0,
+      "text": "So have you been notified about these benefits yet?"
+    },
+    {
+      "start": 28.0,
+      "end": 33.0,
+      "text": "To listen to your message, press 1. To rerecord your message, press 2. To continue recording your message, press 3. Accept the recording and send us normal."
+    }
+  ],
+  "word_count": 61,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is Elizabeth"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account So have you been notified about these benefits yet? To listen to your message, press 1 To rerecord your message, press 2"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To continue recording your message, press 3 Accept the recording and send us normal"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello, good afternoon. This is Elizabeth. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account. So have you been notified about these benefits yet? To listen to your message, press 1. To rerecord your message, press 2. To continue recording your message, press 3. Accept the recording and send us normal.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 61
+}

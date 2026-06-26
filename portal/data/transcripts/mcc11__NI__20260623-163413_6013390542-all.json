@@ -1,0 +1,120 @@
+{
+  "id": "mcc11__NI__20260623-163413_6013390542-all",
+  "campaign": "mcc11",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "16:34:13",
+  "phone": "6013390542",
+  "filename": "20260623-163413_6013390542-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NI/20260623-163413_6013390542-all.mp3",
+  "duration": 52.42,
+  "text": "Hello? Are you there? Hey, Chris here. Good morning. I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So you do have both part A and part B, right? Chris. Sorry about that. I was asking. You do have both part A and part B of Medicare, right? Chris. Sorry about that. I was asking. You do have both part A and part B of Medicare, right? Chris. Well, let's talk about this some other time. Thanks.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Hey, Chris here. Good morning."
+    },
+    {
+      "start": 12.0,
+      "end": 19.0,
+      "text": "I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 19.0,
+      "end": 22.0,
+      "text": "And that can hold up your coverage approvals."
+    },
+    {
+      "start": 22.0,
+      "end": 26.0,
+      "text": "So you do have both part A and part B, right?"
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": "Chris."
+    },
+    {
+      "start": 29.0,
+      "end": 35.0,
+      "text": "Sorry about that. I was asking. You do have both part A and part B of Medicare, right?"
+    },
+    {
+      "start": 35.0,
+      "end": 37.0,
+      "text": "Chris."
+    },
+    {
+      "start": 37.0,
+      "end": 44.0,
+      "text": "Sorry about that. I was asking. You do have both part A and part B of Medicare, right?"
+    },
+    {
+      "start": 44.0,
+      "end": 46.0,
+      "text": "Chris."
+    },
+    {
+      "start": 46.0,
+      "end": 49.0,
+      "text": "Well, let's talk about this some other time. Thanks."
+    }
+  ],
+  "word_count": 93,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey, Chris here"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals So you do have both part A and part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Chris Sorry about that I was asking"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You do have both part A and part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Chris Sorry about that I was asking"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You do have both part A and part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Chris Well, let's talk about this some other time Thanks"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there? Hey, Chris here. Good morning. I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So you do have both part A and part B, right? Chris. Sorry about that. I was asking. You do have both part A and part B of Medicare, right? Chris. Sorry about that. I was asking. You do have both part A and part B of Medicare, right? Chris. Well, let's talk about this some other time. Thanks.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 93
+}

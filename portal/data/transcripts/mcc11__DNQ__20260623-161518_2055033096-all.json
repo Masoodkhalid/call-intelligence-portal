@@ -1,0 +1,108 @@
+{
+  "id": "mcc11__DNQ__20260623-161518_2055033096-all",
+  "campaign": "mcc11",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "16:15:18",
+  "phone": "2055033096",
+  "filename": "20260623-161518_2055033096-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DNQ/20260623-161518_2055033096-all.mp3",
+  "duration": 49.61,
+  "text": "Hello. Are you there? Hello. Hello. Good afternoon. This is Rachel. So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So have you been notified about these benefits yet? No, I haven't. What benefits? Well, I really want to help you get this taken care of as these benefits are time sensitive. So you do have Medicare Part A and B, right? No, I don't. Sorry, but you did not seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Hello."
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Hello."
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "Hello. Good afternoon. This is Rachel."
+    },
+    {
+      "start": 13.0,
+      "end": 21.0,
+      "text": "So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program."
+    },
+    {
+      "start": 21.0,
+      "end": 25.0,
+      "text": "So have you been notified about these benefits yet?"
+    },
+    {
+      "start": 25.0,
+      "end": 29.0,
+      "text": "No, I haven't. What benefits?"
+    },
+    {
+      "start": 29.0,
+      "end": 35.0,
+      "text": "Well, I really want to help you get this taken care of as these benefits are time sensitive."
+    },
+    {
+      "start": 35.0,
+      "end": 39.0,
+      "text": "So you do have Medicare Part A and B, right?"
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": "No, I don't."
+    },
+    {
+      "start": 42.0,
+      "end": 47.0,
+      "text": "Sorry, but you did not seem to qualify for the plans that we have."
+    },
+    {
+      "start": 47.0,
+      "end": 49.0,
+      "text": "Have a great day."
+    }
+  ],
+  "word_count": 98,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Are you there? Hello Hello Good afternoon This is Rachel So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program So have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, I haven't What benefits? Well, I really want to help you get this taken care of as these benefits are time sensitive"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you do have Medicare Part A and B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, I don't"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you did not seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello. Are you there? Hello. Hello. Good afternoon. This is Rachel. So I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So have you been notified about these benefits yet? No, I haven't. What benefits? Well, I really want to help you get this taken care of as these benefits are time sensitive. So you do have Medicare Part A and B, right? No, I don't. Sorry, but you did not seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 98
+}

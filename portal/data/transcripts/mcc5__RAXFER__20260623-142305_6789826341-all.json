@@ -1,0 +1,117 @@
+{
+  "id": "mcc5__RAXFER__20260623-142305_6789826341-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:23:05",
+  "phone": "6789826341",
+  "filename": "20260623-142305_6789826341-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-142305_6789826341-all.mp3",
+  "duration": 68.54,
+  "text": "Hello. Yes, can I help you? Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. So you do have both part A and part B, right? Yes. You do qualify forwarding you to our supervisor now. Please hold. Thank you so much for holding on. This is Mark Wilson with Health Care Solutions. How are you doing today? Good. Perfect. Well, this call is in regards to your inquiry about Medicare benefits. So you do have Medicare part A and B, right? Let me tell you, this is colonial petroleum pipeline. So if I plan can have a mid-care.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello. Yes, can I help you?"
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Good afternoon. My name is Cassie."
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "So I'm calling because your Medicare"
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "member profile hasn't been transferred into Medicare's national database"
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "for 2026 yet. When that transfer"
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": "is missing, it can cause delays in your coverage approvals."
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": "I can verify it real quick. So you do have both part A and part B, right?"
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "Yes."
+    },
+    {
+      "start": 32.0,
+      "end": 36.0,
+      "text": "You do qualify forwarding you to our supervisor now."
+    },
+    {
+      "start": 36.0,
+      "end": 40.0,
+      "text": "Please hold."
+    },
+    {
+      "start": 40.0,
+      "end": 44.0,
+      "text": "Thank you so much for holding on."
+    },
+    {
+      "start": 44.0,
+      "end": 48.0,
+      "text": "This is Mark Wilson with Health Care Solutions. How are you doing today?"
+    },
+    {
+      "start": 48.0,
+      "end": 52.0,
+      "text": "Good. Perfect."
+    },
+    {
+      "start": 52.0,
+      "end": 56.0,
+      "text": "Well, this call is in regards to your inquiry about Medicare benefits. So you do have"
+    },
+    {
+      "start": 56.0,
+      "end": 60.0,
+      "text": "Medicare part A and B, right?"
+    },
+    {
+      "start": 60.0,
+      "end": 66.0,
+      "text": "Let me tell you, this is colonial petroleum pipeline."
+    },
+    {
+      "start": 66.0,
+      "end": 68.16,
+      "text": "So if I plan can have a mid-care."
+    }
+  ],
+  "word_count": 133,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Yes, can I help you? Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick So you do have both part A and part B, right? Yes You do qualify forwarding you to our supervisor now Please hold Thank you so much for holding on"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Yes, can I help you? Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick So you do have both part A and part B, right? Yes You do qualify forwarding you to our supervisor now Please hold Thank you so much for holding on",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 79
+}

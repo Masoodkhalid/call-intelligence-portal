@@ -1,0 +1,57 @@
+{
+  "id": "mcc11__DC__20260623-162801_2102154005-all",
+  "campaign": "mcc11",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "16:28:01",
+  "phone": "2102154005",
+  "filename": "20260623-162801_2102154005-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DC/20260623-162801_2102154005-all.mp3",
+  "duration": 16.42,
+  "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Hello."
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "This is Alyssa."
+    },
+    {
+      "start": 8.0,
+      "end": 17.0,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief."
+    }
+  ],
+  "word_count": 30,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 30
+}

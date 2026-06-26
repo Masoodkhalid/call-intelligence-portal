@@ -1,0 +1,121 @@
+{
+  "id": "mcc11__RAXFER__20260623-161640_4693347390-all",
+  "campaign": "mcc11",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "16:16:40",
+  "phone": "4693347390",
+  "filename": "20260623-161640_4693347390-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-RAXFER/20260623-161640_4693347390-all.mp3",
+  "duration": 74.02,
+  "text": ">> Hello? >> Are you there? >> Are you there? >> We do want to speak too. >> Hi, this is Chelsea, and I'm reaching out because we pulled up your Medicare profile, and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you, so your coverage doesn't get interrupted. Just confirm for me, do you have both Part A and Part B? >> Yes, why? >> Perfect. Let me connect you with the Medicare specialist from Texas. >> Oh, my God. >> 'Cause James Kennedy, how are you doing today? >> I'm okay. >> This is concerning about your Medicare benefits, your healthy food called cross-reliance, dental, vision-hearing, transportation, cash back, okay? >> I have all of that already.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": ">> Hello?"
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": ">> Are you there?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": ">> Are you there?"
+    },
+    {
+      "start": 8.0,
+      "end": 13.0,
+      "text": ">> We do want to speak too."
+    },
+    {
+      "start": 13.0,
+      "end": 19.0,
+      "text": ">> Hi, this is Chelsea, and I'm reaching out because we pulled up your Medicare profile,"
+    },
+    {
+      "start": 19.0,
+      "end": 24.0,
+      "text": "and there's a note here showing your 2026 plan update hasn't been confirmed yet."
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": "We just need a quick confirmation from you, so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 28.0,
+      "end": 33.0,
+      "text": "Just confirm for me, do you have both Part A and Part B?"
+    },
+    {
+      "start": 33.0,
+      "end": 36.0,
+      "text": ">> Yes, why?"
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": ">> Perfect."
+    },
+    {
+      "start": 38.0,
+      "end": 41.0,
+      "text": "Let me connect you with the Medicare specialist from Texas."
+    },
+    {
+      "start": 41.0,
+      "end": 43.0,
+      "text": ">> Oh, my God."
+    },
+    {
+      "start": 49.0,
+      "end": 52.0,
+      "text": ">> 'Cause James Kennedy, how are you doing today?"
+    },
+    {
+      "start": 52.0,
+      "end": 59.0,
+      "text": ">> I'm okay."
+    },
+    {
+      "start": 59.0,
+      "end": 68.0,
+      "text": ">> This is concerning about your Medicare benefits, your healthy food called cross-reliance, dental,"
+    },
+    {
+      "start": 68.0,
+      "end": 72.0,
+      "text": "vision-hearing, transportation, cash back, okay?"
+    },
+    {
+      "start": 72.0,
+      "end": 74.0,
+      "text": ">> I have all of that already."
+    }
+  ],
+  "word_count": 131,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "We do want to speak too Hi, this is Chelsea, and I'm reaching out because we pulled up your Medicare profile, and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you, so your coverage doesn't get interrupted Just confirm for me, do you have both Part A and Part B? Yes, why? Perfect Let me connect you with the Medicare specialist from Texas Oh, my God"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there? Are you there? We do want to speak too Hi, this is Chelsea, and I'm reaching out because we pulled up your Medicare profile, and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you, so your coverage doesn't get interrupted Just confirm for me, do you have both Part A and Part B? Yes, why? Perfect Let me connect you with the Medicare specialist from Texas Oh, my God",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 85
+}

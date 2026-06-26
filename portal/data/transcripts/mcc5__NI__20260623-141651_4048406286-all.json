@@ -1,0 +1,96 @@
+{
+  "id": "mcc5__NI__20260623-141651_4048406286-all",
+  "campaign": "mcc5",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "14:16:51",
+  "phone": "4048406286",
+  "filename": "20260623-141651_4048406286-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NI/20260623-141651_4048406286-all.mp3",
+  "duration": 51.62,
+  "text": "Hello. Let me call you back. Good afternoon. My name is Sophie. I'm reaching out because we're running a quick coverage gap audit before the December 7th cut off. Basically a four-minute check on what your current plan actually pays versus what you'd personally owe out of pocket. Most people haven't had anyone walk them through that and the numbers can be pretty eye-opening. We want to get to you before that window closes. Can you let me know if you have both Medicare Part A and Part B? Sorry, you got cut off. I was asking if you have both Part A and B of Medicare?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.8,
+      "text": "Hello. Let me call you back. Good afternoon. My name is Sophie. I'm reaching out"
+    },
+    {
+      "start": 10.8,
+      "end": 14.76,
+      "text": "because we're running a quick coverage gap audit before the December 7th cut"
+    },
+    {
+      "start": 14.76,
+      "end": 19.04,
+      "text": "off. Basically a four-minute check on what your current plan actually pays"
+    },
+    {
+      "start": 19.04,
+      "end": 23.64,
+      "text": "versus what you'd personally owe out of pocket. Most people haven't had anyone"
+    },
+    {
+      "start": 23.64,
+      "end": 28.08,
+      "text": "walk them through that and the numbers can be pretty eye-opening. We want to get"
+    },
+    {
+      "start": 28.08,
+      "end": 32.64,
+      "text": "to you before that window closes. Can you let me know if you have both Medicare Part"
+    },
+    {
+      "start": 32.64,
+      "end": 35.84,
+      "text": "A and Part B?"
+    },
+    {
+      "start": 38.64,
+      "end": 46.54,
+      "text": "Sorry, you got cut off. I was asking if you have both Part A and B of Medicare?"
+    }
+  ],
+  "word_count": 107,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Let me call you back"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon My name is Sophie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm reaching out because we're running a quick coverage gap audit before the December 7th cut off Basically a four-minute check on what your current plan actually pays versus what you'd personally owe out of pocket Most people haven't had anyone walk them through that and the numbers can be pretty eye-opening We want to get to you before that window closes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you let me know if you have both Medicare Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Sorry, you got cut off"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I was asking if you have both Part A and B of Medicare?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Let me call you back. Good afternoon. My name is Sophie. I'm reaching out because we're running a quick coverage gap audit before the December 7th cut off. Basically a four-minute check on what your current plan actually pays versus what you'd personally owe out of pocket. Most people haven't had anyone walk them through that and the numbers can be pretty eye-opening. We want to get to you before that window closes. Can you let me know if you have both Medicare Part A and Part B? Sorry, you got cut off. I was asking if you have both Part A and B of Medicare?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 107
+}

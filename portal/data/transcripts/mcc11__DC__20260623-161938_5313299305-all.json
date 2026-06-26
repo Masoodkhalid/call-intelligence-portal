@@ -1,0 +1,79 @@
+{
+  "id": "mcc11__DC__20260623-161938_5313299305-all",
+  "campaign": "mcc11",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "16:19:38",
+  "phone": "5313299305",
+  "filename": "20260623-161938_5313299305-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DC/20260623-161938_5313299305-all.mp3",
+  "duration": 16.27,
+  "text": "Hello. Hello. Hi. This is Chelsea. We pulled up your Medicare profile. And there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Hi."
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "This is Chelsea."
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "We pulled up your Medicare profile."
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "And there's a note showing your 2026 update hasn't been confirmed yet."
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "We just need a quick confirmation."
+    }
+  ],
+  "word_count": 30,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hi This is Chelsea"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "We pulled up your Medicare profile"
+    },
+    {
+      "speaker": "BOT",
+      "text": "And there's a note showing your 2026 update hasn't been confirmed yet"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "We just need a quick confirmation"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Hi. This is Chelsea. We pulled up your Medicare profile. And there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 30
+}

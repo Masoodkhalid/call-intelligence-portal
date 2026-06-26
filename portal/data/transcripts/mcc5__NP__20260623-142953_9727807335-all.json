@@ -1,0 +1,46 @@
+{
+  "id": "mcc5__NP__20260623-142953_9727807335-all",
+  "campaign": "mcc5",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "14:29:53",
+  "phone": "9727807335",
+  "filename": "20260623-142953_9727807335-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NP/20260623-142953_9727807335-all.mp3",
+  "duration": 12.89,
+  "text": "Hello. Good afternoon, my name is Sophie. I'm reaching out because we're running a quick coverage gap audit for folks before the December 7 cutoff.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.28,
+      "text": "Hello. Good afternoon, my name is Sophie. I'm reaching out because we're running a"
+    },
+    {
+      "start": 9.28,
+      "end": 14.72,
+      "text": "quick coverage gap audit for folks before the December 7 cutoff."
+    }
+  ],
+  "word_count": 25,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Good afternoon, my name is Sophie I'm reaching out because we're running a quick coverage gap audit for folks before the December 7 cutoff"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Good afternoon, my name is Sophie. I'm reaching out because we're running a quick coverage gap audit for folks before the December 7 cutoff.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 25
+}

@@ -1,0 +1,77 @@
+{
+  "id": "mcc5__NP__20260623-142525_3134657112-all",
+  "campaign": "mcc5",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "14:25:25",
+  "phone": "3134657112",
+  "filename": "20260623-142525_3134657112-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NP/20260623-142525_3134657112-all.mp3",
+  "duration": 23.83,
+  "text": "Hello. Yes, hi. Hello, good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. So have you received any notification about these benefits yet? No, you have the wrong number. Thank you. Oh, that's all right. That's exactly",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.68,
+      "text": "Hello. Yes, hi. Hello, good afternoon. This is Rachel. So I'm calling because"
+    },
+    {
+      "start": 7.68,
+      "end": 11.56,
+      "text": "there are pending grocery and cash benefits worth up to $300 available on"
+    },
+    {
+      "start": 11.56,
+      "end": 14.88,
+      "text": "your Medicare account through Michigan State Relief Program. So have you"
+    },
+    {
+      "start": 14.88,
+      "end": 19.64,
+      "text": "received any notification about these benefits yet? No, you have the wrong"
+    },
+    {
+      "start": 19.64,
+      "end": 24.36,
+      "text": "number. Thank you. Oh, that's all right. That's exactly"
+    }
+  ],
+  "word_count": 58,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, hi"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello, good afternoon This is Rachel So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, you have the wrong number Thank you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Oh, that's all right"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "That's exactly"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Yes, hi. Hello, good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. So have you received any notification about these benefits yet? No, you have the wrong number. Thank you. Oh, that's all right. That's exactly",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 58
+}

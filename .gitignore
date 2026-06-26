@@ -1,0 +1,16 @@
+# Audio recordings (large, stay local)
+mcc/
+
+# Generated model weights
+portal/models/
+
+# Runtime / logs
+portal/data/server.log
+portal/data/daily.log
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+nohup.out
+
+# Keep data outputs (transcripts, analysis, scripts) but not the log files

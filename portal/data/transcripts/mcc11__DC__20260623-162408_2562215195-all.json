@@ -1,0 +1,81 @@
+{
+  "id": "mcc11__DC__20260623-162408_2562215195-all",
+  "campaign": "mcc11",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "16:24:08",
+  "phone": "2562215195",
+  "filename": "20260623-162408_2562215195-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DC/20260623-162408_2562215195-all.mp3",
+  "duration": 25.85,
+  "text": "Hello. Hi. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So have you received any notification about these benefits yet? - Yeah.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hi."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Hello."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "This is Alyssa."
+    },
+    {
+      "start": 5.0,
+      "end": 13.76,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available"
+    },
+    {
+      "start": 13.76,
+      "end": 17.84,
+      "text": "on your Medicare account through Alabama State Relief Program."
+    },
+    {
+      "start": 17.84,
+      "end": 22.76,
+      "text": "So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 22.76,
+      "end": 23.6,
+      "text": "- Yeah."
+    }
+  ],
+  "word_count": 44,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hi Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hi. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So have you received any notification about these benefits yet? - Yeah.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 44
+}

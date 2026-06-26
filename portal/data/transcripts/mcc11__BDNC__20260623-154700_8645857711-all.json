@@ -1,0 +1,90 @@
+{
+  "id": "mcc11__BDNC__20260623-154700_8645857711-all",
+  "campaign": "mcc11",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "15:47:00",
+  "phone": "8645857711",
+  "filename": "20260623-154700_8645857711-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-BDNC/20260623-154700_8645857711-all.mp3",
+  "duration": 26.64,
+  "text": "Hello? Hello? Good afternoon. This is Jacob. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief program. So have you received any notification about these benefits yet? Not possible. This is a business. [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.4,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 4.4,
+      "end": 5.6,
+      "text": "This is Jacob."
+    },
+    {
+      "start": 5.6,
+      "end": 11.6,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available"
+    },
+    {
+      "start": 11.6,
+      "end": 16.44,
+      "text": "on your Medicare account through South Carolina state relief program."
+    },
+    {
+      "start": 16.44,
+      "end": 21.36,
+      "text": "So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 21.36,
+      "end": 22.36,
+      "text": "Not possible."
+    },
+    {
+      "start": 22.36,
+      "end": 23.32,
+      "text": "This is a business."
+    },
+    {
+      "start": 23.32,
+      "end": 33.32,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 49,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good afternoon This is Jacob I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Not possible This is a business"
+    },
+    {
+      "speaker": "BOT",
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Good afternoon. This is Jacob. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief program. So have you received any notification about these benefits yet? Not possible. This is a business. [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 49
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mcc3__LH__20260623-120819_9088796900-all",
+  "campaign": "mcc3",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "12:08:19",
+  "phone": "9088796900",
+  "filename": "20260623-120819_9088796900-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-LH/20260623-120819_9088796900-all.mp3",
+  "duration": 24.26,
+  "text": "Hello. Hello. Yeah. Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals. So, you do have both part A and part B, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.44,
+      "text": "Hello. Hello. Yeah. Good afternoon. My name is Cassie. So, I'm calling because your Medicare"
+    },
+    {
+      "start": 9.44,
+      "end": 14.96,
+      "text": "member profile hasn't been transferred into Medicare's national database for 2026 yet,"
+    },
+    {
+      "start": 15.52,
+      "end": 21.68,
+      "text": "and that can hold up your coverage approvals. So, you do have both part A and part B, right?"
+    }
+  ],
+  "word_count": 46,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon My name is Cassie So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals So, you do have both part A and part B, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Yeah. Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals. So, you do have both part A and part B, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 46
+}

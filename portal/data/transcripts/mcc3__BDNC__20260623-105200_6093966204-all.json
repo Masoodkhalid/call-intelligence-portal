@@ -1,0 +1,60 @@
+{
+  "id": "mcc3__BDNC__20260623-105200_6093966204-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "10:52:00",
+  "phone": "6093966204",
+  "filename": "20260623-105200_6093966204-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-105200_6093966204-all.mp3",
+  "duration": 8.21,
+  "text": ">> Hello? >> Yeah, Mike's place. How come I help you? [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": ">> Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": ">> Yeah, Mike's place."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "How come I help you?"
+    },
+    {
+      "start": 4.0,
+      "end": 10.0,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 12,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah, Mike's place How come I help you?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": ">> Hello? >> Yeah, Mike's place. How come I help you? [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 12
+}

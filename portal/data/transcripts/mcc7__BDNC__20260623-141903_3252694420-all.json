@@ -1,0 +1,47 @@
+{
+  "id": "mcc7__BDNC__20260623-141903_3252694420-all",
+  "campaign": "mcc7",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "14:19:03",
+  "phone": "3252694420",
+  "filename": "20260623-141903_3252694420-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-BDNC/20260623-141903_3252694420-all.mp3",
+  "duration": 13.75,
+  "text": "Hello and not Husky construction. If you're trying to reach me, please leave your name, phone number, and the reason you were calling. And I will get back with you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Hello and not Husky construction."
+    },
+    {
+      "start": 5.0,
+      "end": 12.0,
+      "text": "If you're trying to reach me, please leave your name, phone number, and the reason you were calling."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "And I will get back with you."
+    }
+  ],
+  "word_count": 30,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello and not Husky construction If you're trying to reach me, please leave your name, phone number, and the reason you were calling And I will get back with you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello and not Husky construction. If you're trying to reach me, please leave your name, phone number, and the reason you were calling. And I will get back with you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 30
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mcc5__DAIR__20260623-122032_7066649654-all",
+  "campaign": "mcc5",
+  "dispo": "DAIR",
+  "dispo_label": "Dead Air",
+  "date": "2026-06-23",
+  "time": "12:20:32",
+  "phone": "7066649654",
+  "filename": "20260623-122032_7066649654-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-deadair/20260623-122032_7066649654-all.mp3",
+  "duration": 13.97,
+  "text": "Hello? Can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.66,
+      "text": "Hello? Can you hear me?"
+    }
+  ],
+  "word_count": 5,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Can you hear me?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 5
+}

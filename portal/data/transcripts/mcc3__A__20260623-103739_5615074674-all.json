@@ -1,0 +1,60 @@
+{
+  "id": "mcc3__A__20260623-103739_5615074674-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "10:37:39",
+  "phone": "5615074674",
+  "filename": "20260623-103739_5615074674-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-103739_5615074674-all.mp3",
+  "duration": 42.7,
+  "text": "Hello. Can you hear me? Hi, good morning. This is Rachel. So, I'm calling because they're putting grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So far, have you received any updates or notifications about this yet? Yes, so I was asking if you were asking for any notification about the phone to mark your message urgent, press 2. To mark your message private, press 3. To send your message as is pressed pound. - Are you?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 16.0,
+      "text": "Hello. Can you hear me? Hi, good morning. This is Rachel. So, I'm calling because they're putting grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program."
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 25.0,
+      "end": 39.0,
+      "text": "Yes, so I was asking if you were asking for any notification about the phone to mark your message urgent, press 2. To mark your message private, press 3. To send your message as is pressed pound."
+    },
+    {
+      "start": 42.0,
+      "end": 42.84,
+      "text": "- Are you?"
+    }
+  ],
+  "word_count": 87,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Can you hear me? Hi, good morning This is Rachel So, I'm calling because they're putting grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, so I was asking if you were asking for any notification about the phone to mark your message urgent, press 2"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To mark your message private, press 3 To send your message as is pressed pound Are you?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Can you hear me? Hi, good morning. This is Rachel. So, I'm calling because they're putting grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So far, have you received any updates or notifications about this yet? Yes, so I was asking if you were asking for any notification about the phone to mark your message urgent, press 2. To mark your message private, press 3. To send your message as is pressed pound. - Are you?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 87
+}

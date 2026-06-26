@@ -1,0 +1,45 @@
+{
+  "id": "mcc3__DC__20260623-115443_4076403882-all",
+  "campaign": "mcc3",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "11:54:43",
+  "phone": "4076403882",
+  "filename": "20260623-115443_4076403882-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-DC/20260623-115443_4076403882-all.mp3",
+  "duration": 14.04,
+  "text": "Hello. Hello. Are you there? Yeah. Hi, good morning. This is Rachel. So I'm calling because they're appending grocery and cash benefits worth up to $300.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.0,
+      "text": "Hello. Hello. Are you there? Yeah. Hi, good morning. This is Rachel. So I'm calling because they're appending grocery and cash benefits worth up to $300."
+    }
+  ],
+  "word_count": 26,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi, good morning This is Rachel So I'm calling because they're appending grocery and cash benefits worth up to $300"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Are you there? Yeah. Hi, good morning. This is Rachel. So I'm calling because they're appending grocery and cash benefits worth up to $300.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 26
+}

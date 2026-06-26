@@ -1,0 +1,46 @@
+{
+  "id": "mcc5__BDNC__20260623-121937_9565819778-all",
+  "campaign": "mcc5",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "12:19:37",
+  "phone": "9565819778",
+  "filename": "20260623-121937_9565819778-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-BNDC/20260623-121937_9565819778-all.mp3",
+  "duration": 11.23,
+  "text": "Hello? Bailey Bakery?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Bailey Bakery?"
+    }
+  ],
+  "word_count": 3,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Bailey Bakery?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Bailey Bakery?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 3
+}

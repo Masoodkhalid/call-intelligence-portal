@@ -1,0 +1,66 @@
+{
+  "id": "mcc7__NP__20260623-155532_8508906587-all",
+  "campaign": "mcc7",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "15:55:32",
+  "phone": "8508906587",
+  "filename": "20260623-155532_8508906587-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NP/20260623-155532_8508906587-all.mp3",
+  "duration": 42.98,
+  "text": "Hello. Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida state relief program. So far, have you received any updates or notifications about this yet? Yes, so I was asking if you've received the notification about the pending credits on your Medicare plan. Oh, okay, great. So the notification has all the details and I just want to help you get everything processed.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.52,
+      "text": "Hello. Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending"
+    },
+    {
+      "start": 9.52,
+      "end": 15.48,
+      "text": "grocery and cash benefits worth up to $300 available on your Medicare account through"
+    },
+    {
+      "start": 15.48,
+      "end": 21.02,
+      "text": "Florida state relief program. So far, have you received any updates or notifications"
+    },
+    {
+      "start": 21.02,
+      "end": 30.12,
+      "text": "about this yet? Yes, so I was asking if you've received the notification about"
+    },
+    {
+      "start": 30.12,
+      "end": 38.72,
+      "text": "the pending credits on your Medicare plan. Oh, okay, great. So the notification has"
+    },
+    {
+      "start": 38.72,
+      "end": 42.12,
+      "text": "all the details and I just want to help you get everything processed."
+    }
+  ],
+  "word_count": 82,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida state relief program So far, have you received any updates or notifications about this yet? Yes, so I was asking if you've received the notification about the pending credits on your Medicare plan"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, okay, great So the notification has all the details and I just want to help you get everything processed"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida state relief program. So far, have you received any updates or notifications about this yet? Yes, so I was asking if you've received the notification about the pending credits on your Medicare plan. Oh, okay, great. So the notification has all the details and I just want to help you get everything processed.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 82
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mcc3__BDNC__20260623-094636_9897543611-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "09:46:36",
+  "phone": "9897543611",
+  "filename": "20260623-094636_9897543611-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-094636_9897543611-all.mp3",
+  "duration": 18.0,
+  "text": "You can see Enginely building equipment, professional grade precision, built tough, engineered for accuracy, trusted by machinist worldwide, innovation starts here, for sales press 1, for parks and service press 2.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.0,
+      "text": "You can see Enginely building equipment, professional grade precision, built tough, engineered for accuracy, trusted by machinist worldwide, innovation starts here, for sales press 1, for parks and service press 2."
+    }
+  ],
+  "word_count": 31,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "You can see Enginely building equipment, professional grade precision, built tough, engineered for accuracy, trusted by machinist worldwide, innovation starts here, for sales press 1, for parks and service press 2"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "You can see Enginely building equipment, professional grade precision, built tough, engineered for accuracy, trusted by machinist worldwide, innovation starts here, for sales press 1, for parks and service press 2.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 31
+}

@@ -1,0 +1,77 @@
+{
+  "id": "mcc5__NI__20260623-141524_5414014238-all",
+  "campaign": "mcc5",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "14:15:24",
+  "phone": "5414014238",
+  "filename": "20260623-141524_5414014238-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NI/20260623-141524_5414014238-all.mp3",
+  "duration": 38.88,
+  "text": "Hello. Are you there? Hello. Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? So you do have Part A and B of Medicare, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.48,
+      "text": "Hello."
+    },
+    {
+      "start": 6.48,
+      "end": 7.24,
+      "text": "Are you there?"
+    },
+    {
+      "start": 7.24,
+      "end": 9.68,
+      "text": "Hello."
+    },
+    {
+      "start": 9.68,
+      "end": 12.0,
+      "text": "Hey, this is Chelsea."
+    },
+    {
+      "start": 12.0,
+      "end": 14.16,
+      "text": "There's a note on your Medicare profile"
+    },
+    {
+      "start": 14.16,
+      "end": 18.0,
+      "text": "that your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 18.0,
+      "end": 21.0,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 21.0,
+      "end": 28.12,
+      "text": "Do you have Part A and Part B?"
+    },
+    {
+      "start": 28.12,
+      "end": 31.48,
+      "text": "So you do have Part A and B of Medicare, right?"
+    }
+  ],
+  "word_count": 52,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Are you there? Hello Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B? So you do have Part A and B of Medicare, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Are you there? Hello. Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? So you do have Part A and B of Medicare, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 52
+}

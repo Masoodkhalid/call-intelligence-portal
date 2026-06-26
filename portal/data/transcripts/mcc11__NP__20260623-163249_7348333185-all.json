@@ -1,0 +1,112 @@
+{
+  "id": "mcc11__NP__20260623-163249_7348333185-all",
+  "campaign": "mcc11",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "16:32:49",
+  "phone": "7348333185",
+  "filename": "20260623-163249_7348333185-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NP/20260623-163249_7348333185-all.mp3",
+  "duration": 33.62,
+  "text": "Hello? Yeah, I can help you. Hey, good evening. My name is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. I have Medicaid. So far, have you received any updates or notifications about this yet? I have Medicaid. Oh, that's okay. You can still qualify, and I just want to help you get this sorted out. You do have both--",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 4.46,
+      "text": "Yeah, I can help you."
+    },
+    {
+      "start": 4.46,
+      "end": 6.74,
+      "text": "Hey, good evening."
+    },
+    {
+      "start": 6.74,
+      "end": 8.44,
+      "text": "My name is Alyssa."
+    },
+    {
+      "start": 8.44,
+      "end": 14.6,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available"
+    },
+    {
+      "start": 14.6,
+      "end": 17.8,
+      "text": "on your Medicare account through Michigan State Relief Program."
+    },
+    {
+      "start": 17.8,
+      "end": 18.8,
+      "text": "I have Medicaid."
+    },
+    {
+      "start": 18.8,
+      "end": 23.32,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 23.32,
+      "end": 25.68,
+      "text": "I have Medicaid."
+    },
+    {
+      "start": 25.68,
+      "end": 28.6,
+      "text": "Oh, that's okay."
+    },
+    {
+      "start": 28.6,
+      "end": 32.62,
+      "text": "You can still qualify, and I just want to help you get this sorted out."
+    },
+    {
+      "start": 32.62,
+      "end": 33.44,
+      "text": "You do have both--"
+    }
+  ],
+  "word_count": 77,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah, I can help you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hey, good evening My name is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I have Medicaid"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I have Medicaid Oh, that's okay You can still qualify, and I just want to help you get this sorted out You do have both"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Yeah, I can help you. Hey, good evening. My name is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. I have Medicaid. So far, have you received any updates or notifications about this yet? I have Medicaid. Oh, that's okay. You can still qualify, and I just want to help you get this sorted out. You do have both--",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 77
+}

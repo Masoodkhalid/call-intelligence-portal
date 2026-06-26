@@ -1,0 +1,46 @@
+{
+  "id": "mcc5__A__20260623-123714_9084034079-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "12:37:14",
+  "phone": "9084034079",
+  "filename": "20260623-123714_9084034079-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-123714_9084034079-all.mp3",
+  "duration": 12.02,
+  "text": "Right now, leave your name and tell them to record your message. When you've finished recording, you may hang up or press 1 for more options.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.06,
+      "text": "Right now, leave your name and tell them to record your message."
+    },
+    {
+      "start": 7.06,
+      "end": 11.26,
+      "text": "When you've finished recording, you may hang up or press 1 for more options."
+    }
+  ],
+  "word_count": 26,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Right now, leave your name and tell them to record your message"
+    },
+    {
+      "speaker": "BOT",
+      "text": "When you've finished recording, you may hang up or press 1 for more options"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Right now, leave your name and tell them to record your message. When you've finished recording, you may hang up or press 1 for more options.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 26
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mcc11__NP__20260623-164538_7038202600-all",
+  "campaign": "mcc11",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "16:45:38",
+  "phone": "7038202600",
+  "filename": "20260623-164538_7038202600-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NP/20260623-164538_7038202600-all.mp3",
+  "duration": 10.01,
+  "text": "Hello. Hi. Yeah. Hi, this is Chelsea and I'm reaching out because we pulled up your.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello. Hi. Yeah."
+    },
+    {
+      "start": 4.0,
+      "end": 10.0,
+      "text": "Hi, this is Chelsea and I'm reaching out because we pulled up your."
+    }
+  ],
+  "word_count": 16,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hi"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah Hi, this is Chelsea and I'm reaching out because we pulled up your"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hi. Yeah. Hi, this is Chelsea and I'm reaching out because we pulled up your.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 16
+}

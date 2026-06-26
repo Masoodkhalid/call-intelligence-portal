@@ -1,0 +1,37 @@
+{
+  "id": "mcc5__N__20260623-140244_7132924670-all",
+  "campaign": "mcc5",
+  "dispo": "N",
+  "dispo_label": "No Response",
+  "date": "2026-06-23",
+  "time": "14:02:44",
+  "phone": "7132924670",
+  "filename": "20260623-140244_7132924670-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-N/20260623-140244_7132924670-all.mp3",
+  "duration": 20.81,
+  "text": "Hello?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    }
+  ],
+  "word_count": 1,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 1
+}

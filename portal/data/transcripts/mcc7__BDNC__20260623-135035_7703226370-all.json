@@ -1,0 +1,56 @@
+{
+  "id": "mcc7__BDNC__20260623-135035_7703226370-all",
+  "campaign": "mcc7",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "13:50:35",
+  "phone": "7703226370",
+  "filename": "20260623-135035_7703226370-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-BDNC/20260623-135035_7703226370-all.mp3",
+  "duration": 12.96,
+  "text": ">> Hello. >> Academy and they care. If you know your party's extension, you may dial it at any time during this message. If you're calling for the Academy, press 6.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.64,
+      "text": ">> Hello."
+    },
+    {
+      "start": 0.64,
+      "end": 2.6,
+      "text": ">> Academy and they care."
+    },
+    {
+      "start": 2.6,
+      "end": 8.72,
+      "text": "If you know your party's extension, you may dial it at any time during this message."
+    },
+    {
+      "start": 8.72,
+      "end": 12.64,
+      "text": "If you're calling for the Academy, press 6."
+    }
+  ],
+  "word_count": 31,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Academy and they care If you know your party's extension, you may dial it at any time during this message If you're calling for the Academy, press 6"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": ">> Hello. >> Academy and they care. If you know your party's extension, you may dial it at any time during this message. If you're calling for the Academy, press 6.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 31
+}

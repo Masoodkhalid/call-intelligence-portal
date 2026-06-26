@@ -1,0 +1,47 @@
+{
+  "id": "mcc3__BDNC__20260623-111520_2512715020-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "11:15:20",
+  "phone": "2512715020",
+  "filename": "20260623-111520_2512715020-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-111520_2512715020-all.mp3",
+  "duration": 14.9,
+  "text": "You're real hello and real it or this real Israeli and RPM rentals here on the beautiful Alabama Gulf Coast I'm either another line with a client or maybe even on the volleyball court So if you can leave me your name so number and what you're looking for",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.14,
+      "text": "You're real hello and real it or this real Israeli and RPM rentals here on the beautiful Alabama Gulf Coast"
+    },
+    {
+      "start": 7.44,
+      "end": 11.16,
+      "text": "I'm either another line with a client or maybe even on the volleyball court"
+    },
+    {
+      "start": 11.16,
+      "end": 14.76,
+      "text": "So if you can leave me your name so number and what you're looking for"
+    }
+  ],
+  "word_count": 49,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "You're real hello and real it or this real Israeli and RPM rentals here on the beautiful Alabama Gulf Coast I'm either another line with a client or maybe even on the volleyball court So if you can leave me your name so number and what you're looking for"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "You're real hello and real it or this real Israeli and RPM rentals here on the beautiful Alabama Gulf Coast I'm either another line with a client or maybe even on the volleyball court So if you can leave me your name so number and what you're looking for",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 49
+}

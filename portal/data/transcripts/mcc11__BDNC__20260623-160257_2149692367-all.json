@@ -1,0 +1,46 @@
+{
+  "id": "mcc11__BDNC__20260623-160257_2149692367-all",
+  "campaign": "mcc11",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "16:02:57",
+  "phone": "2149692367",
+  "filename": "20260623-160257_2149692367-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-BDNC/20260623-160257_2149692367-all.mp3",
+  "duration": 10.58,
+  "text": "- Hello. - Merrill Lynch, this is Kevin. - Merrill Lynch, this is Kevin.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "- Hello. - Merrill Lynch, this is Kevin."
+    },
+    {
+      "start": 8.96,
+      "end": 10.96,
+      "text": "- Merrill Lynch, this is Kevin."
+    }
+  ],
+  "word_count": 14,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Merrill Lynch, this is Kevin Merrill Lynch, this is Kevin"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "- Hello. - Merrill Lynch, this is Kevin. - Merrill Lynch, this is Kevin.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 14
+}

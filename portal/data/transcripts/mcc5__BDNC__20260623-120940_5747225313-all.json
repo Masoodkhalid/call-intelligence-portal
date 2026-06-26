@@ -1,0 +1,61 @@
+{
+  "id": "mcc5__BDNC__20260623-120940_5747225313-all",
+  "campaign": "mcc5",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "12:09:40",
+  "phone": "5747225313",
+  "filename": "20260623-120940_5747225313-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-BNDC/20260623-120940_5747225313-all.mp3",
+  "duration": 13.32,
+  "text": "Hello. As ours are Mondays and Wednesdays 8 to 5 with lunch from 1 to 2. If you have reached this message during normal business hours, we're currently assisting in other patients or stepped away from the desk. Please leave your name, your telephone number,",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 5.0,
+      "text": "As ours are Mondays and Wednesdays 8 to 5 with lunch from 1 to 2."
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "If you have reached this message during normal business hours,"
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "we're currently assisting in other patients or stepped away from the desk."
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Please leave your name, your telephone number,"
+    }
+  ],
+  "word_count": 45,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "As ours are Mondays and Wednesdays 8 to 5 with lunch from 1 to 2 If you have reached this message during normal business hours, we're currently assisting in other patients or stepped away from the desk Please leave your name, your telephone number,"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. As ours are Mondays and Wednesdays 8 to 5 with lunch from 1 to 2. If you have reached this message during normal business hours, we're currently assisting in other patients or stepped away from the desk. Please leave your name, your telephone number,",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 45
+}

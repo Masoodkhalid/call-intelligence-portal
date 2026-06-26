@@ -1,0 +1,64 @@
+{
+  "id": "mcc11__NI__20260623-161952_2104001133-all",
+  "campaign": "mcc11",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "16:19:52",
+  "phone": "2104001133",
+  "filename": "20260623-161952_2104001133-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NI/20260623-161952_2104001133-all.mp3",
+  "duration": 37.3,
+  "text": "Hello. Hello. Yes. Hi. This is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B? So you do have part A and B of Medicare, right? So, speak your time. Please.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 16.0,
+      "text": "Hello. Hello. Yes. Hi. This is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 16.0,
+      "end": 21.0,
+      "text": "Do you have both part A and part B?"
+    },
+    {
+      "start": 21.0,
+      "end": 30.0,
+      "text": "So you do have part A and B of Medicare, right?"
+    },
+    {
+      "start": 30.0,
+      "end": 51.0,
+      "text": "So, speak your time. Please."
+    }
+  ],
+  "word_count": 62,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi This is Chelsea We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both part A and part B? So you do have part A and B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So, speak your time Please"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Yes. Hi. This is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B? So you do have part A and B of Medicare, right? So, speak your time. Please.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 62
+}

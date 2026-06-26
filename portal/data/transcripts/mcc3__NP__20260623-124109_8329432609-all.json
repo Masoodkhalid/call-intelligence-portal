@@ -1,0 +1,83 @@
+{
+  "id": "mcc3__NP__20260623-124109_8329432609-all",
+  "campaign": "mcc3",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "12:41:09",
+  "phone": "8329432609",
+  "filename": "20260623-124109_8329432609-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NP/20260623-124109_8329432609-all.mp3",
+  "duration": 21.02,
+  "text": "- Hello. - Hello. - Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026. - Yes. - Yes. - Yes. - And that can hold up your coverage. - Yes. - Yes. - So you do have both part A and B.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "- Hello. - Hello."
+    },
+    {
+      "start": 3.0,
+      "end": 6.5,
+      "text": "- Good morning. My name is Cassie."
+    },
+    {
+      "start": 6.5,
+      "end": 15.0,
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026."
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "- Yes. - Yes."
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "- Yes. - And that can hold up your coverage."
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "text": "- Yes. - Yes."
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": "- So you do have both part A and B."
+    }
+  ],
+  "word_count": 56,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good morning My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes Yes Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "And that can hold up your coverage"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you do have both part A and B"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "- Hello. - Hello. - Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026. - Yes. - Yes. - Yes. - And that can hold up your coverage. - Yes. - Yes. - So you do have both part A and B.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 56
+}

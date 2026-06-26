@@ -1,0 +1,65 @@
+{
+  "id": "mcc11__NP__20260623-165305_4322325764-all",
+  "campaign": "mcc11",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "16:53:05",
+  "phone": "4322325764",
+  "filename": "20260623-165305_4322325764-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NP/20260623-165305_4322325764-all.mp3",
+  "duration": 12.38,
+  "text": "- Hello? - Oh, well. Hi, this is Sarah. We pulled up your Medicare profile, and there's a note showing your 2026 update hasn't been confirmed yet.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "- Hello? - Oh, well."
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Hi, this is Sarah."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "We pulled up your Medicare profile,"
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "and there's a note showing your 2026 update"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "hasn't been confirmed yet."
+    }
+  ],
+  "word_count": 27,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, well"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi, this is Sarah We pulled up your Medicare profile, and there's a note showing your 2026 update hasn't been confirmed yet"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "- Hello? - Oh, well. Hi, this is Sarah. We pulled up your Medicare profile, and there's a note showing your 2026 update hasn't been confirmed yet.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 27
+}

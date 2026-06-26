@@ -1,0 +1,42 @@
+{
+  "id": "mcc11__DC__20260623-163121_8322508395-all",
+  "campaign": "mcc11",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "16:31:21",
+  "phone": "8322508395",
+  "filename": "20260623-163121_8322508395-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DC/20260623-163121_8322508395-all.mp3",
+  "duration": 14.47,
+  "text": "Hello? Hello? Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars available on your",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.16,
+      "text": "Hello? Hello? Good afternoon. This is Jacob. So, I'm calling because there are pending"
+    },
+    {
+      "start": 9.16,
+      "end": 14.36,
+      "text": "grocery and cash benefits worth up to three hundred dollars available on your"
+    }
+  ],
+  "word_count": 27,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars available on your"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars available on your",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 27
+}

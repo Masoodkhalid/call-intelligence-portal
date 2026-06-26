@@ -1,0 +1,42 @@
+{
+  "id": "mcc11__N__20260623-164317_3095011238-all",
+  "campaign": "mcc11",
+  "dispo": "N",
+  "dispo_label": "No Response",
+  "date": "2026-06-23",
+  "time": "16:43:17",
+  "phone": "3095011238",
+  "filename": "20260623-164317_3095011238-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-N/20260623-164317_3095011238-all.mp3",
+  "duration": 10.73,
+  "text": "Hello? Are you there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Are you there?"
+    }
+  ],
+  "word_count": 4,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 4
+}

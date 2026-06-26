@@ -1,0 +1,37 @@
+{
+  "id": "mcc3__BDNC__20260623-111133_8327283367-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "11:11:33",
+  "phone": "8327283367",
+  "filename": "20260623-111133_8327283367-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-111133_8327283367-all.mp3",
+  "duration": 13.25,
+  "text": "I'm just here giving a courtesy call, trying to reach out to you from our campaign for the police officers that you helped out last year, just calling today out of respect.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.0,
+      "text": "I'm just here giving a courtesy call, trying to reach out to you from our campaign for the police officers that you helped out last year, just calling today out of respect."
+    }
+  ],
+  "word_count": 32,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm just here giving a courtesy call, trying to reach out to you from our campaign for the police officers that you helped out last year, just calling today out of respect"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "I'm just here giving a courtesy call, trying to reach out to you from our campaign for the police officers that you helped out last year, just calling today out of respect.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 32
+}

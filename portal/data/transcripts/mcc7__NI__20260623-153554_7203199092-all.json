@@ -1,0 +1,60 @@
+{
+  "id": "mcc7__NI__20260623-153554_7203199092-all",
+  "campaign": "mcc7",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "15:35:54",
+  "phone": "7203199092",
+  "filename": "20260623-153554_7203199092-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NI/20260623-153554_7203199092-all.mp3",
+  "duration": 25.78,
+  "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Colorado State Relief Program. So have you been notified about these benefits yet? Yes. So I was asking if you've received the notification about the pending credits on your Medicare plan.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending"
+    },
+    {
+      "start": 8.0,
+      "end": 14.8,
+      "text": "grocery and cash benefits worth up to $300 available on your Medicare account through Colorado State"
+    },
+    {
+      "start": 14.8,
+      "end": 20.88,
+      "text": "Relief Program. So have you been notified about these benefits yet? Yes. So I was asking if you've"
+    },
+    {
+      "start": 20.88,
+      "end": 24.56,
+      "text": "received the notification about the pending credits on your Medicare plan."
+    }
+  ],
+  "word_count": 58,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Colorado State Relief Program So have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So I was asking if you've received the notification about the pending credits on your Medicare plan"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Colorado State Relief Program. So have you been notified about these benefits yet? Yes. So I was asking if you've received the notification about the pending credits on your Medicare plan.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 58
+}

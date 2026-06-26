@@ -1,0 +1,127 @@
+{
+  "id": "mcc7__LH__20260623-143758_4358829334-all",
+  "campaign": "mcc7",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "14:37:58",
+  "phone": "4358829334",
+  "filename": "20260623-143758_4358829334-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-LH/20260623-143758_4358829334-all.mp3",
+  "duration": 35.93,
+  "text": "Hello. Who is this? Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Utah State Relief Program. So, have you been notified about these benefits yet? No. Thank you. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? No, thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": "Who is this?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "This is Alyssa."
+    },
+    {
+      "start": 7.0,
+      "end": 12.42,
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available"
+    },
+    {
+      "start": 12.42,
+      "end": 16.18,
+      "text": "on your Medicare account through Utah State Relief Program."
+    },
+    {
+      "start": 16.18,
+      "end": 20.12,
+      "text": "So, have you been notified about these benefits yet?"
+    },
+    {
+      "start": 20.12,
+      "end": 21.12,
+      "text": "No."
+    },
+    {
+      "start": 21.12,
+      "end": 22.6,
+      "text": "Thank you."
+    },
+    {
+      "start": 22.6,
+      "end": 25.04,
+      "text": "Oh, that's all right."
+    },
+    {
+      "start": 25.04,
+      "end": 26.6,
+      "text": "That's exactly why I'm calling."
+    },
+    {
+      "start": 26.6,
+      "end": 30.92,
+      "text": "I want to help you get these benefits processed before they go unclaimed."
+    },
+    {
+      "start": 30.92,
+      "end": 34.64,
+      "text": "You're covered under both Part A and Part B, yes?"
+    },
+    {
+      "start": 34.64,
+      "end": 35.84,
+      "text": "No, thank you."
+    }
+  ],
+  "word_count": 81,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Who is this?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Utah State Relief Program So, have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No Thank you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, thank you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Who is this? Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Utah State Relief Program. So, have you been notified about these benefits yet? No. Thank you. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? No, thank you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 81
+}

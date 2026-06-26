@@ -1,0 +1,154 @@
+{
+  "id": "mcc5__RAXFER__20260623-140633_2052291944-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:06:33",
+  "phone": "2052291944",
+  "filename": "20260623-140633_2052291944-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-140633_2052291944-all.mp3",
+  "duration": 131.18,
+  "text": "Hello. Hello. Good afternoon. My name is Sophie. I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff. It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So can you let me know if you have both Medicare Part A and Part B? Yes. You have qualified for the updates. Give me a second to connect to you. Thank you so much for holding. This is Sean Murphy. How were you? Good. God bless you. This call is in regards to about Medicare benefits. You do have Part A and B of Medicare. Yes. Perfect, ma'am. So this is a special enrollment period 2026. All the Medicare benefits are just updated now where you will be qualified to get more help on the dental vision, healthy food allowance, and money back as well. Are you just on Medicare A and B or you also have Medicaid? Medicare. And God forbid you have any chronic illness like diabetes or heart issues and COPD. And do you have a flex card for the healthy food groceries and utilities or you don't have that? Yes. You don't have it, okay? So these are amazing benefits ma'am that you will be qualified for now at $0 cost and we can help you to get help on the dental vision, hearing, co-pays. Do you pay a co-pays right now on the prescriptions and your doctor visits? No. And what's the injury insurance are you with? United Healthcare, Humana, Enna? My daughter takes care about there. Your daughter is your legal power of attorney? Yes, and I don't know. You really thought, you know,",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.88,
+      "text": "Hello. Hello. Good afternoon. My name is Sophie. I'm reaching out because we're"
+    },
+    {
+      "start": 9.88,
+      "end": 13.84,
+      "text": "doing a quick coverage gap audit for people before the December 7th cutoff."
+    },
+    {
+      "start": 13.84,
+      "end": 18.44,
+      "text": "It's a four-minute look at what your plan actually covers versus what comes"
+    },
+    {
+      "start": 18.44,
+      "end": 23.2,
+      "text": "out of your own pocket when you need care. Most people are genuinely surprised by"
+    },
+    {
+      "start": 23.2,
+      "end": 27.12,
+      "text": "the difference. We're just trying to reach everyone on the list before that"
+    },
+    {
+      "start": 27.12,
+      "end": 31.88,
+      "text": "deadline. So can you let me know if you have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 31.88,
+      "end": 39.12,
+      "text": "Yes. You have qualified for the updates. Give me a second to connect to you."
+    },
+    {
+      "start": 39.12,
+      "end": 50.38,
+      "text": "Thank you so much for holding. This is Sean Murphy. How were you? Good."
+    },
+    {
+      "start": 50.38,
+      "end": 55.2,
+      "text": "God bless you. This call is in regards to about Medicare benefits. You do have"
+    },
+    {
+      "start": 55.2,
+      "end": 60.8,
+      "text": "Part A and B of Medicare. Yes. Perfect, ma'am. So this is a special"
+    },
+    {
+      "start": 60.8,
+      "end": 65.28,
+      "text": "enrollment period 2026. All the Medicare benefits are just updated now"
+    },
+    {
+      "start": 65.28,
+      "end": 69.96,
+      "text": "where you will be qualified to get more help on the dental vision, healthy food"
+    },
+    {
+      "start": 69.96,
+      "end": 75.08,
+      "text": "allowance, and money back as well. Are you just on Medicare A and B or you also"
+    },
+    {
+      "start": 75.08,
+      "end": 83.84,
+      "text": "have Medicaid? Medicare. And God forbid you have any chronic illness like diabetes"
+    },
+    {
+      "start": 83.84,
+      "end": 90.64,
+      "text": "or heart issues and COPD. And do you have a flex card for the healthy food"
+    },
+    {
+      "start": 90.64,
+      "end": 97.16,
+      "text": "groceries and utilities or you don't have that? Yes. You don't have it, okay? So these"
+    },
+    {
+      "start": 97.16,
+      "end": 102.56,
+      "text": "are amazing benefits ma'am that you will be qualified for now at $0 cost and we"
+    },
+    {
+      "start": 102.56,
+      "end": 107.84,
+      "text": "can help you to get help on the dental vision, hearing, co-pays. Do you pay a"
+    },
+    {
+      "start": 107.84,
+      "end": 114.2,
+      "text": "co-pays right now on the prescriptions and your doctor visits? No. And what's the"
+    },
+    {
+      "start": 114.2,
+      "end": 122.48,
+      "text": "injury insurance are you with? United Healthcare, Humana, Enna? My daughter"
+    },
+    {
+      "start": 122.48,
+      "end": 128.6,
+      "text": "takes care about there. Your daughter is your legal power of attorney? Yes, and I"
+    },
+    {
+      "start": 128.6,
+      "end": 133.04,
+      "text": "don't know. You really thought, you know,"
+    }
+  ],
+  "word_count": 309,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon My name is Sophie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care Most people are genuinely surprised by the difference We're just trying to reach everyone on the list before that deadline"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So can you let me know if you have both Medicare Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes You have qualified for the updates Give me a second to connect to you Thank you so much for holding This is Sean Murphy How were you? Good God bless you This call is in regards to about Medicare benefits You do have Part A and B of Medicare Yes Perfect, ma'am So this is a special enrollment period 2026 All the Medicare benefits are just updated now where you will be qualified to get more help on the dental vision, healthy food allowance, and money back as well Are you just on Medicare A and B or you also have Medicaid? Medicare And God forbid you have any chronic illness like diabetes or heart issues and COPD And do you have a flex card for the healthy food groceries and utilities or you don't have that? Yes You don't have it, okay? So these are amazing benefits ma'am that you will be qualified for now at $0 cost and we can help you to get help on the dental vision, hearing, co-pays Do you pay a co-pays right now on the prescriptions and your doctor visits? No And what's the injury insurance are you with? United Healthcare, Humana, Enna? My daughter takes care about there Your daughter is your legal power of attorney? Yes, and I don't know You really thought, you know,"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. My name is Sophie. I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff. It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So can you let me know if you have both Medicare Part A and Part B? Yes. You have qualified for the updates. Give me a second to connect to you. Thank you so much for holding. This is Sean Murphy. How were you? Good. God bless you. This call is in regards to about Medicare benefits. You do have Part A and B of Medicare. Yes. Perfect, ma'am. So this is a special enrollment period 2026. All the Medicare benefits are just updated now where you will be qualified to get more help on the dental vision, healthy food allowance, and money back as well. Are you just on Medicare A and B or you also have Medicaid? Medicare. And God forbid you have any chronic illness like diabetes or heart issues and COPD. And do you have a flex card for the healthy food groceries and utilities or you don't have that? Yes. You don't have it, okay? So these are amazing benefits ma'am that you will be qualified for now at $0 cost and we can help you to get help on the dental vision, hearing, co-pays. Do you pay a co-pays right now on the prescriptions and your doctor visits? No. And what's the injury insurance are you with? United Healthcare, Humana, Enna? My daughter takes care about there. Your daughter is your legal power of attorney? Yes, and I don't know. You really thought, you know,",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 309
+}

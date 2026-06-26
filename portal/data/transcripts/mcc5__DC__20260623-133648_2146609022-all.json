@@ -1,0 +1,42 @@
+{
+  "id": "mcc5__DC__20260623-133648_2146609022-all",
+  "campaign": "mcc5",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "13:36:48",
+  "phone": "2146609022",
+  "filename": "20260623-133648_2146609022-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DC/20260623-133648_2146609022-all.mp3",
+  "duration": 10.94,
+  "text": "Hello? Can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 7.0,
+      "end": 7.0,
+      "text": "Can you hear me?"
+    }
+  ],
+  "word_count": 5,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Can you hear me?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 5
+}

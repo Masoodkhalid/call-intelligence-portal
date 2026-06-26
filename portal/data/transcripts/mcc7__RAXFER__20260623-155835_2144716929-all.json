@@ -1,0 +1,77 @@
+{
+  "id": "mcc7__RAXFER__20260623-155835_2144716929-all",
+  "campaign": "mcc7",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "15:58:35",
+  "phone": "2144716929",
+  "filename": "20260623-155835_2144716929-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-raxfer/20260623-155835_2144716929-all.mp3",
+  "duration": 65.16,
+  "text": "\"Hello?\" \"Hello?\" \"Yes.\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So, have you received any notification about these benefits yet?\" \"No, I am, but...\" \"Oh, that's all right. That's exactly why I'm calling. And I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes?\" \"Yeah, but they don't ask me all of that on the phone.\" \"Since you already have a Medicare plan, these credits can easily be processed on your account, please hold while I get that done for you.\" Thanks for going to think this is Adam. How are you doing today? \"Okay, have a good day. Thank you for calling. Thank you.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.88,
+      "text": "\"Hello?\" \"Hello?\" \"Yes.\" \"Good afternoon. This is Jacob. So, I'm calling because there are"
+    },
+    {
+      "start": 6.88,
+      "end": 14.56,
+      "text": "pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas"
+    },
+    {
+      "start": 14.56,
+      "end": 20.4,
+      "text": "State Relief Program. So, have you received any notification about these benefits yet?\""
+    },
+    {
+      "start": 20.4,
+      "end": 27.52,
+      "text": "\"No, I am, but...\" \"Oh, that's all right. That's exactly why I'm calling. And I want to help you"
+    },
+    {
+      "start": 27.52,
+      "end": 33.28,
+      "text": "get these benefits processed before they go unclaimed. You're covered under both Part A and Part B,"
+    },
+    {
+      "start": 33.28,
+      "end": 43.44,
+      "text": "yes?\" \"Yeah, but they don't ask me all of that on the phone.\" \"Since you already have a Medicare"
+    },
+    {
+      "start": 43.44,
+      "end": 48.4,
+      "text": "plan, these credits can easily be processed on your account, please hold while I get that done for"
+    },
+    {
+      "start": 48.4,
+      "end": 60.0,
+      "text": "you.\" Thanks for going to think this is Adam. How are you doing today? \"Okay, have a good day."
+    },
+    {
+      "start": 60.0,
+      "end": 66.16,
+      "text": "Thank you for calling. Thank you.\""
+    }
+  ],
+  "word_count": 141,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello?\" \"Hello?\" \"Yes.\" \"Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So, have you received any notification about these benefits yet?\" \"No, I am, but...\" \"Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes?\" \"Yeah, but they don't ask me all of that on the phone.\" \"Since you already have a Medicare plan, these credits can easily be processed on your account, please hold while I get that done for you.\" Thanks for going to think this is Adam How are you doing today?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Hello?\" \"Yes.\" \"Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So, have you received any notification about these benefits yet?\" \"No, I am, but...\" \"Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes?\" \"Yeah, but they don't ask me all of that on the phone.\" \"Since you already have a Medicare plan, these credits can easily be processed on your account, please hold while I get that done for you.\" Thanks for going to think this is Adam How are you doing today?",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 130
+}

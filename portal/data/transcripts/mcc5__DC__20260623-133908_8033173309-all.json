@@ -1,0 +1,62 @@
+{
+  "id": "mcc5__DC__20260623-133908_8033173309-all",
+  "campaign": "mcc5",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "13:39:08",
+  "phone": "8033173309",
+  "filename": "20260623-133908_8033173309-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DC/20260623-133908_8033173309-all.mp3",
+  "duration": 25.92,
+  "text": ">> Hello. >> Hello. >> Good afternoon, my name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals. So you do have both part A and part B, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": ">> Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": ">> Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 6.72,
+      "text": ">> Good afternoon, my name is Cassie."
+    },
+    {
+      "start": 6.72,
+      "end": 13.02,
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's"
+    },
+    {
+      "start": 13.02,
+      "end": 19.38,
+      "text": "national database for 2026 yet, and that can hold up your coverage approvals."
+    },
+    {
+      "start": 19.38,
+      "end": 22.42,
+      "text": "So you do have both part A and part B, right?"
+    }
+  ],
+  "word_count": 48,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon, my name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals So you do have both part A and part B, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": ">> Hello. >> Hello. >> Good afternoon, my name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals. So you do have both part A and part B, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 48
+}

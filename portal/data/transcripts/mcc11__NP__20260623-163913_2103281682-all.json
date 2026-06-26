@@ -1,0 +1,65 @@
+{
+  "id": "mcc11__NP__20260623-163913_2103281682-all",
+  "campaign": "mcc11",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "16:39:13",
+  "phone": "2103281682",
+  "filename": "20260623-163913_2103281682-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NP/20260623-163913_2103281682-all.mp3",
+  "duration": 14.9,
+  "text": "Hello. Thank you. I'm happy to have. Hey, this is Sarah. There's a note on your Medicare profile that your 2026 update has.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Thank you."
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "I'm happy to have."
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "Hey, this is Sarah."
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "text": "There's a note on your Medicare profile that your 2026 update has."
+    }
+  ],
+  "word_count": 23,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Thank you I'm happy to have"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hey, this is Sarah There's a note on your Medicare profile that your 2026 update has"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Thank you. I'm happy to have. Hey, this is Sarah. There's a note on your Medicare profile that your 2026 update has.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 23
+}

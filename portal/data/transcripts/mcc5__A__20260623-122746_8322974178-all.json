@@ -1,0 +1,56 @@
+{
+  "id": "mcc5__A__20260623-122746_8322974178-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "12:27:46",
+  "phone": "8322974178",
+  "filename": "20260623-122746_8322974178-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-122746_8322974178-all.mp3",
+  "duration": 14.11,
+  "text": "Hello. You've reached Miss Decent, please leave a brief message up to the beat. And have a blessed day. Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello."
+    },
+    {
+      "start": 3.0,
+      "end": 8.0,
+      "text": "You've reached Miss Decent, please leave a brief message up to the beat."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "And have a blessed day."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Thank you."
+    }
+  ],
+  "word_count": 21,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You've reached Miss Decent, please leave a brief message up to the beat And have a blessed day Thank you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. You've reached Miss Decent, please leave a brief message up to the beat. And have a blessed day. Thank you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 21
+}

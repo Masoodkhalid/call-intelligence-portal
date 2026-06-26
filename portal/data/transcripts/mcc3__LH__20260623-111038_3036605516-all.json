@@ -1,0 +1,52 @@
+{
+  "id": "mcc3__LH__20260623-111038_3036605516-all",
+  "campaign": "mcc3",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "11:10:38",
+  "phone": "3036605516",
+  "filename": "20260623-111038_3036605516-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-LH/20260623-111038_3036605516-all.mp3",
+  "duration": 27.65,
+  "text": "Hello. Hello. Good morning. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet and that can delay your coverage approvals. So to get your file updated, do you have both Medicare Part A and Part B?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.7,
+      "text": "Hello. Hello. Good morning. My name is Cassie. So I'm calling because your"
+    },
+    {
+      "start": 9.7,
+      "end": 13.98,
+      "text": "Medicare member profile is showing it hasn't been transferred into Medicare's"
+    },
+    {
+      "start": 13.98,
+      "end": 20.54,
+      "text": "national database for 2026 yet and that can delay your coverage approvals. So"
+    },
+    {
+      "start": 20.54,
+      "end": 27.46,
+      "text": "to get your file updated, do you have both Medicare Part A and Part B?"
+    }
+  ],
+  "word_count": 52,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good morning My name is Cassie So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet and that can delay your coverage approvals So to get your file updated, do you have both Medicare Part A and Part B?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good morning. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet and that can delay your coverage approvals. So to get your file updated, do you have both Medicare Part A and Part B?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 52
+}

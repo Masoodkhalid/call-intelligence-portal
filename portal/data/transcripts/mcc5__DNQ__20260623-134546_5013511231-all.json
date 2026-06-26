@@ -1,0 +1,51 @@
+{
+  "id": "mcc5__DNQ__20260623-134546_5013511231-all",
+  "campaign": "mcc5",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "13:45:46",
+  "phone": "5013511231",
+  "filename": "20260623-134546_5013511231-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DNQ/20260623-134546_5013511231-all.mp3",
+  "duration": 11.95,
+  "text": ">> What was this? >> Hello, good afternoon, this is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": ">> What was this?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": ">> Hello, good afternoon, this is Evelyn."
+    },
+    {
+      "start": 7.0,
+      "end": 12.0,
+      "text": "So I'm calling because there are pending grocery and cash benefits worth up to $300."
+    }
+  ],
+  "word_count": 26,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "What was this?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello, good afternoon, this is Evelyn So I'm calling because there are pending grocery and cash benefits worth up to $300"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": ">> What was this? >> Hello, good afternoon, this is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 26
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mcc3__BDNC__20260623-105145_3528746209-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "10:51:45",
+  "phone": "3528746209",
+  "filename": "20260623-105145_3528746209-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-105145_3528746209-all.mp3",
+  "duration": 12.89,
+  "text": "Hello. Where are we supply, place of business?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Where are we supply, place of business?"
+    }
+  ],
+  "word_count": 8,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Where are we supply, place of business?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Where are we supply, place of business?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 8
+}

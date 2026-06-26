@@ -1,0 +1,61 @@
+{
+  "id": "mcc7__BDNC__20260623-145026_2073647225-all",
+  "campaign": "mcc7",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "14:50:26",
+  "phone": "2073647225",
+  "filename": "20260623-145026_2073647225-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-BDNC/20260623-145026_2073647225-all.mp3",
+  "duration": 32.11,
+  "text": "\"Hello?\" \"Hi.\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through main state relief program. So, have you been notified about these benefits yet?\" \"Listen, this is a municipal wastewater treatment plan. We treat people's storage here. I don't know who you think you're calling, but I'm not an individual, I'm a business utility company.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.48,
+      "text": "\"Hello?\" \"Hi.\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending"
+    },
+    {
+      "start": 8.48,
+      "end": 14.04,
+      "text": "grocery and cash benefits worth up to $300 available on your Medicare account through"
+    },
+    {
+      "start": 14.04,
+      "end": 19.72,
+      "text": "main state relief program. So, have you been notified about these benefits yet?\""
+    },
+    {
+      "start": 19.72,
+      "end": 25.96,
+      "text": "\"Listen, this is a municipal wastewater treatment plan. We treat people's storage here. I don't"
+    },
+    {
+      "start": 25.96,
+      "end": 30.4,
+      "text": "know who you think you're calling, but I'm not an individual, I'm a business utility company.\""
+    }
+  ],
+  "word_count": 72,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "\"Hello?\" \"Hi.\" \"Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through main state relief program"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So, have you been notified about these benefits yet?\" \"Listen, this is a municipal wastewater treatment plan We treat people's storage here I don't know who you think you're calling, but I'm not an individual, I'm a business utility company.\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "\"Hello?\" \"Hi.\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through main state relief program. So, have you been notified about these benefits yet?\" \"Listen, this is a municipal wastewater treatment plan. We treat people's storage here. I don't know who you think you're calling, but I'm not an individual, I'm a business utility company.\"",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 72
+}

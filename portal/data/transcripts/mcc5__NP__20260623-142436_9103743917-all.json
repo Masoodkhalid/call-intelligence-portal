@@ -1,0 +1,71 @@
+{
+  "id": "mcc5__NP__20260623-142436_9103743917-all",
+  "campaign": "mcc5",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "14:24:36",
+  "phone": "9103743917",
+  "filename": "20260623-142436_9103743917-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NP/20260623-142436_9103743917-all.mp3",
+  "duration": 26.71,
+  "text": "Hello? Can I help you? Good afternoon, my name is Sophie. I'm reaching out because we're running a quick coverage gap audit for folks before the December 7 cutoff. It's about a four-minute look at what your current plan actually pays versus what you'd owe out of pocket in a real situation. A lot of people assume their plan covers more than it actually does, And the gap only shows up when...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Can I help you?"
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Good afternoon, my name is Sophie."
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": "I'm reaching out because we're running a quick coverage gap audit for folks before the December 7 cutoff."
+    },
+    {
+      "start": 14.0,
+      "end": 21.0,
+      "text": "It's about a four-minute look at what your current plan actually pays versus what you'd owe out of pocket in a real situation."
+    },
+    {
+      "start": 21.0,
+      "end": 25.0,
+      "text": "A lot of people assume their plan covers more than it actually does,"
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "And the gap only shows up when..."
+    }
+  ],
+  "word_count": 72,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Can I help you? Good afternoon, my name is Sophie I'm reaching out because we're running a quick coverage gap audit for folks before the December 7 cutoff It's about a four-minute look at what your current plan actually pays versus what you'd owe out of pocket in a real situation A lot of people assume their plan covers more than it actually does, And the gap only shows up when"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Can I help you? Good afternoon, my name is Sophie. I'm reaching out because we're running a quick coverage gap audit for folks before the December 7 cutoff. It's about a four-minute look at what your current plan actually pays versus what you'd owe out of pocket in a real situation. A lot of people assume their plan covers more than it actually does, And the gap only shows up when...",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 72
+}

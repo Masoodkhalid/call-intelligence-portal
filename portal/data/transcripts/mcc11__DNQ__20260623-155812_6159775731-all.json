@@ -1,0 +1,60 @@
+{
+  "id": "mcc11__DNQ__20260623-155812_6159775731-all",
+  "campaign": "mcc11",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "15:58:12",
+  "phone": "6159775731",
+  "filename": "20260623-155812_6159775731-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DNQ/20260623-155812_6159775731-all.mp3",
+  "duration": 25.63,
+  "text": "Hey, this is Sarah. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? No, I do not. Sorry, it looks like you don't qualify for the plans. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "Hey, this is Sarah. There's a note on your Medicare profile that your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "text": "Just a quick confirmation from you and we're all set. Do you have Part A and Part B?"
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "No, I do not."
+    },
+    {
+      "start": 17.0,
+      "end": 24.0,
+      "text": "Sorry, it looks like you don't qualify for the plans. Have a great day."
+    }
+  ],
+  "word_count": 54,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, this is Sarah There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, I do not"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, it looks like you don't qualify for the plans Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hey, this is Sarah. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? No, I do not. Sorry, it looks like you don't qualify for the plans. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 54
+}

@@ -1,0 +1,71 @@
+{
+  "id": "mcc5__RAXFER__20260623-143605_3253742533-all",
+  "campaign": "mcc5",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "14:36:05",
+  "phone": "3253742533",
+  "filename": "20260623-143605_3253742533-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-raxfer/20260623-143605_3253742533-all.mp3",
+  "duration": 47.52,
+  "text": "Hello. Hello. Good afternoon. This is Evelyn. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So far, have you received any updates or notifications about this yet? No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both part A and part B, yes? Yes. Perfect. You qualify for the benefits. I am forwarding you to our supervisor. Please hold on.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.76,
+      "text": "Hello. Hello. Good afternoon. This is Evelyn. So I'm calling because they're"
+    },
+    {
+      "start": 10.76,
+      "end": 16.2,
+      "text": "appending grocery and cash benefits worth up to $300 available on your Medicare"
+    },
+    {
+      "start": 16.2,
+      "end": 20.52,
+      "text": "account through Texas State Relief Program. So far, have you received any"
+    },
+    {
+      "start": 20.52,
+      "end": 27.84,
+      "text": "updates or notifications about this yet? No. Oh, that's all right. That's exactly"
+    },
+    {
+      "start": 27.84,
+      "end": 31.6,
+      "text": "why I'm calling. I want to help you get these benefits processed before they go"
+    },
+    {
+      "start": 31.6,
+      "end": 40.84,
+      "text": "unclaimed. You're covered under both part A and part B, yes? Yes. Perfect. You"
+    },
+    {
+      "start": 40.84,
+      "end": 47.04,
+      "text": "qualify for the benefits. I am forwarding you to our supervisor. Please hold on."
+    }
+  ],
+  "word_count": 93,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Evelyn So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? Yes Perfect You qualify for the benefits I am forwarding you to our supervisor Please hold on"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello Hello Good afternoon This is Evelyn So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So far, have you received any updates or notifications about this yet? No Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? Yes Perfect You qualify for the benefits I am forwarding you to our supervisor Please hold on",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 93
+}

@@ -1,0 +1,74 @@
+{
+  "id": "mcc5__A__20260623-124411_6014158347-all",
+  "campaign": "mcc5",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "12:44:11",
+  "phone": "6014158347",
+  "filename": "20260623-124411_6014158347-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-A/20260623-124411_6014158347-all.mp3",
+  "duration": 19.15,
+  "text": "Hello? Do you review your record or add to your message? Press 1 to mark your message urgent. Press 2 to mark your message private. Press 3 to send your message as is. Press.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.4,
+      "end": 9.6,
+      "text": "Do you review your record or add to your message?"
+    },
+    {
+      "start": 9.6,
+      "end": 12.6,
+      "text": "Press 1 to mark your message urgent."
+    },
+    {
+      "start": 12.6,
+      "end": 15.5,
+      "text": "Press 2 to mark your message private."
+    },
+    {
+      "start": 15.5,
+      "end": 18.8,
+      "text": "Press 3 to send your message as is."
+    },
+    {
+      "start": 18.8,
+      "end": 19.2,
+      "text": "Press."
+    }
+  ],
+  "word_count": 34,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Do you review your record or add to your message? Press 1 to mark your message urgent"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Press 2 to mark your message private"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Press 3 to send your message as is Press"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Do you review your record or add to your message? Press 1 to mark your message urgent. Press 2 to mark your message private. Press 3 to send your message as is. Press.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 34
+}

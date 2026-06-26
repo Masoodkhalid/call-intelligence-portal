@@ -1,0 +1,74 @@
+{
+  "id": "mcc7__A__20260623-144106_7024980445-all",
+  "campaign": "mcc7",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "14:41:06",
+  "phone": "7024980445",
+  "filename": "20260623-144106_7024980445-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-A/20260623-144106_7024980445-all.mp3",
+  "duration": 44.86,
+  "text": "Hello at the tone. Good morning. My name is Jacob when you finished recording. So I'm calling because there are pending rotary and cash benefits worth up to three hundred dollars available on your Medicare account through Nevada State Relief Program. So have you received any notification about these benefits yet? Yes, so I was asking if you received the notification about your menu credits on your Medicare plan? To mark your message urgent press 2. To mark your message private press 3. To send your message as is press pound. Are you",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.6,
+      "text": "Hello at the tone. Good morning. My name is Jacob when you finished recording. So I'm calling"
+    },
+    {
+      "start": 7.6,
+      "end": 12.96,
+      "text": "because there are pending rotary and cash benefits worth up to three hundred dollars"
+    },
+    {
+      "start": 12.96,
+      "end": 19.12,
+      "text": "available on your Medicare account through Nevada State Relief Program. So have you received"
+    },
+    {
+      "start": 19.12,
+      "end": 29.92,
+      "text": "any notification about these benefits yet? Yes, so I was asking if you received the notification"
+    },
+    {
+      "start": 29.92,
+      "end": 35.6,
+      "text": "about your menu credits on your Medicare plan? To mark your message urgent press 2. To mark"
+    },
+    {
+      "start": 35.6,
+      "end": 44.72,
+      "text": "your message private press 3. To send your message as is press pound. Are you"
+    }
+  ],
+  "word_count": 93,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello at the tone"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Jacob when you finished recording"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So I'm calling because there are pending rotary and cash benefits worth up to three hundred dollars available on your Medicare account through Nevada State Relief Program So have you received any notification about these benefits yet? Yes, so I was asking if you received the notification about your menu credits on your Medicare plan? To mark your message urgent press 2 To mark your message private press 3 To send your message as is press pound Are you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello at the tone. Good morning. My name is Jacob when you finished recording. So I'm calling because there are pending rotary and cash benefits worth up to three hundred dollars available on your Medicare account through Nevada State Relief Program. So have you received any notification about these benefits yet? Yes, so I was asking if you received the notification about your menu credits on your Medicare plan? To mark your message urgent press 2. To mark your message private press 3. To send your message as is press pound. Are you",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 93
+}

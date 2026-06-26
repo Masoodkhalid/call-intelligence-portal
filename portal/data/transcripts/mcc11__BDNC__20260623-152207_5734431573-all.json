@@ -1,0 +1,41 @@
+{
+  "id": "mcc11__BDNC__20260623-152207_5734431573-all",
+  "campaign": "mcc11",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "15:22:07",
+  "phone": "5734431573",
+  "filename": "20260623-152207_5734431573-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-BDNC/20260623-152207_5734431573-all.mp3",
+  "duration": 8.06,
+  "text": "Hello? This is Rina. Can we help you?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.64,
+      "text": "Hello? This is Rina. Can we help you?"
+    }
+  ],
+  "word_count": 8,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is Rina Can we help you?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? This is Rina. Can we help you?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 8
+}

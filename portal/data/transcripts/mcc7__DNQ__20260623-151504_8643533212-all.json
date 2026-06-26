@@ -1,0 +1,75 @@
+{
+  "id": "mcc7__DNQ__20260623-151504_8643533212-all",
+  "campaign": "mcc7",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "15:15:04",
+  "phone": "8643533212",
+  "filename": "20260623-151504_8643533212-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-DNQ/20260623-151504_8643533212-all.mp3",
+  "duration": 44.06,
+  "text": "\"Hello?\" \"Hello?\" \"Hello?\" \"Good afternoon. This is Jacob. I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina State Relief Program. So have you been notified about these benefits yet?\" \"Yes.\" \"Oh, okay, great. So the notification has all the details and I just want to help you get everything processed. You're enrolled in both part A and part B, aren't you?\" \"No.\" \"Sorry, but you don't seem to qualify for the plans that we have. Have a great day.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.6,
+      "text": "\"Hello?\" \"Hello?\" \"Hello?\" \"Good afternoon. This is Jacob. I'm calling because they're"
+    },
+    {
+      "start": 8.6,
+      "end": 15.02,
+      "text": "appending grocery and cash benefits worth up to $300 available on your Medicare account"
+    },
+    {
+      "start": 15.02,
+      "end": 20.52,
+      "text": "through South Carolina State Relief Program. So have you been notified about these benefits"
+    },
+    {
+      "start": 20.52,
+      "end": 26.72,
+      "text": "yet?\" \"Yes.\" \"Oh, okay, great. So the notification has"
+    },
+    {
+      "start": 26.72,
+      "end": 31.44,
+      "text": "all the details and I just want to help you get everything processed. You're enrolled"
+    },
+    {
+      "start": 31.44,
+      "end": 39.64,
+      "text": "in both part A and part B, aren't you?\" \"No.\" \"Sorry, but you don't seem to qualify"
+    },
+    {
+      "start": 39.64,
+      "end": 42.2,
+      "text": "for the plans that we have. Have a great day.\""
+    }
+  ],
+  "word_count": 91,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "\"Hello?\" \"Hello?\" \"Hello?\" \"Good afternoon This is Jacob I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina State Relief Program So have you been notified about these benefits yet?\" \"Yes.\" \"Oh, okay, great"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So the notification has all the details and I just want to help you get everything processed You're enrolled in both part A and part B, aren't you?\" \"No.\" \"Sorry, but you don't seem to qualify for the plans that we have"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a great day.\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "\"Hello?\" \"Hello?\" \"Hello?\" \"Good afternoon. This is Jacob. I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina State Relief Program. So have you been notified about these benefits yet?\" \"Yes.\" \"Oh, okay, great. So the notification has all the details and I just want to help you get everything processed. You're enrolled in both part A and part B, aren't you?\" \"No.\" \"Sorry, but you don't seem to qualify for the plans that we have. Have a great day.\"",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 91
+}

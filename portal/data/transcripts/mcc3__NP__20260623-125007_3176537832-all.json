@@ -1,0 +1,70 @@
+{
+  "id": "mcc3__NP__20260623-125007_3176537832-all",
+  "campaign": "mcc3",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "12:50:07",
+  "phone": "3176537832",
+  "filename": "20260623-125007_3176537832-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NP/20260623-125007_3176537832-all.mp3",
+  "duration": 14.76,
+  "text": "Hello? Yeah. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's National Database for today.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "My name is Cassie."
+    },
+    {
+      "start": 7.0,
+      "end": 13.32,
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's"
+    },
+    {
+      "start": 13.32,
+      "end": 14.72,
+      "text": "National Database for today."
+    }
+  ],
+  "word_count": 25,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's National Database for today"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Yeah. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's National Database for today.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 25
+}

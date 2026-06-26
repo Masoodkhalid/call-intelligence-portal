@@ -1,0 +1,50 @@
+{
+  "id": "mcc5__BDNC__20260623-123000_9705654449-all (1)",
+  "campaign": "mcc5",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "12:30:00",
+  "phone": "9705654449",
+  "filename": "20260623-123000_9705654449-all (1).mp3",
+  "rel_path": "mcc/mcc5/mcc5-BNDC/20260623-123000_9705654449-all (1).mp3",
+  "duration": 9.43,
+  "text": "Hello. Good morning, Dr. Nastafa. Hello.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello. Good morning, Dr. Nastafa."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Hello."
+    }
+  ],
+  "word_count": 6,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Good morning, Dr"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Nastafa"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Good morning, Dr. Nastafa. Hello.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 6
+}

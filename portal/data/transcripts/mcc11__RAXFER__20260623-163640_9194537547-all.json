@@ -1,0 +1,116 @@
+{
+  "id": "mcc11__RAXFER__20260623-163640_9194537547-all",
+  "campaign": "mcc11",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-23",
+  "time": "16:36:40",
+  "phone": "9194537547",
+  "filename": "20260623-163640_9194537547-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-RAXFER/20260623-163640_9194537547-all.mp3",
+  "duration": 148.39,
+  "text": "Hello? Hello. Good evening. My name is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina state relief program. So far, have you received any updates or notifications about this yet? No, I haven't. That's all right. That's exactly why I'm calling. And I want to help you get these benefits processed before they go unclaimed. You're covered under both part A and part B, yes? That is correct. Perfect. You qualify for the benefits. I'm forwarding you to our supervisor. Please hold on. Thank you so much for holding on. This is Cody Eskins with the health care benefits. How are you today? I'm doing well. Well, this call isn't a got to inquiry about the Medicare. To get you the additional benefits off the. Do you get your additional benefits off the. Do you get your additional benefits off the. Do you get the additional benefits off the. Do you get your additional benefits off the.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello? Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 20.0,
+      "text": "Good evening. My name is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina state relief program."
+    },
+    {
+      "start": 20.0,
+      "end": 25.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "No, I haven't."
+    },
+    {
+      "start": 28.0,
+      "end": 34.0,
+      "text": "That's all right. That's exactly why I'm calling. And I want to help you get these benefits processed before they go unclaimed."
+    },
+    {
+      "start": 34.0,
+      "end": 38.0,
+      "text": "You're covered under both part A and part B, yes?"
+    },
+    {
+      "start": 38.0,
+      "end": 41.0,
+      "text": "That is correct."
+    },
+    {
+      "start": 41.0,
+      "end": 48.0,
+      "text": "Perfect. You qualify for the benefits. I'm forwarding you to our supervisor. Please hold on."
+    },
+    {
+      "start": 48.0,
+      "end": 59.0,
+      "text": "Thank you so much for holding on. This is Cody Eskins with the health care benefits. How are you today?"
+    },
+    {
+      "start": 59.0,
+      "end": 62.0,
+      "text": "I'm doing well."
+    },
+    {
+      "start": 78.0,
+      "end": 88.0,
+      "text": "Well, this call isn't a got to inquiry about the Medicare."
+    },
+    {
+      "start": 88.0,
+      "end": 92.0,
+      "text": "To get you the additional benefits off the."
+    },
+    {
+      "start": 92.0,
+      "end": 106.0,
+      "text": "Do you get your additional benefits off the."
+    },
+    {
+      "start": 106.0,
+      "end": 127.0,
+      "text": "Do you get your additional benefits off the."
+    },
+    {
+      "start": 127.0,
+      "end": 141.0,
+      "text": "Do you get the additional benefits off the."
+    },
+    {
+      "start": 141.0,
+      "end": 148.0,
+      "text": "Do you get your additional benefits off the."
+    }
+  ],
+  "word_count": 173,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello Good evening My name is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina state relief program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, I haven't That's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? That is correct Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on Thank you so much for holding on"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello Good evening My name is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina state relief program So far, have you received any updates or notifications about this yet? No, I haven't That's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? That is correct Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on Thank you so much for holding on",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 106
+}

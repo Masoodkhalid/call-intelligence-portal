@@ -1,0 +1,109 @@
+{
+  "id": "mcc7__NP__20260623-151645_2562636952-all",
+  "campaign": "mcc7",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-23",
+  "time": "15:16:45",
+  "phone": "2562636952",
+  "filename": "20260623-151645_2562636952-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-NP/20260623-151645_2562636952-all.mp3",
+  "duration": 49.75,
+  "text": "Hello? Hello? Are you there? Hello? Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So far, have you received any updates or notifications about this yet? Is this a tailor? Is this a tailor? Am I getting a real person here? Hello? Hello? I think it's my mic acting up. Thanks for the heads up. So, yeah, a lot of people in your area haven't been notified yet. I've got something to say. I really just want to help you get the big care. You do have both parts",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello? Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "Hello? Good afternoon. This is Jacob."
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "So, I'm calling because there are pending"
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "grocery and cash benefits worth up to $300"
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": "available on your Medicare account through Alabama State Relief Program."
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": "So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "Is this a tailor? Is this a tailor?"
+    },
+    {
+      "start": 32.0,
+      "end": 36.0,
+      "text": "Am I getting a real person here?"
+    },
+    {
+      "start": 36.0,
+      "end": 40.0,
+      "text": "Hello? Hello? I think it's my mic acting up. Thanks for the heads up."
+    },
+    {
+      "start": 40.0,
+      "end": 44.0,
+      "text": "So, yeah, a lot of people in your area haven't been notified yet."
+    },
+    {
+      "start": 44.0,
+      "end": 48.0,
+      "text": "I've got something to say. I really just want to help you get the big care."
+    },
+    {
+      "start": 48.0,
+      "end": 50.0,
+      "text": "You do have both parts"
+    }
+  ],
+  "word_count": 111,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Are you there? Hello? Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Is this a tailor? Is this a tailor? Am I getting a real person here?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I think it's my mic acting up Thanks for the heads up So, yeah, a lot of people in your area haven't been notified yet I've got something to say I really just want to help you get the big care You do have both parts"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello? Are you there? Hello? Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So far, have you received any updates or notifications about this yet? Is this a tailor? Is this a tailor? Am I getting a real person here? Hello? Hello? I think it's my mic acting up. Thanks for the heads up. So, yeah, a lot of people in your area haven't been notified yet. I've got something to say. I really just want to help you get the big care. You do have both parts",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 111
+}

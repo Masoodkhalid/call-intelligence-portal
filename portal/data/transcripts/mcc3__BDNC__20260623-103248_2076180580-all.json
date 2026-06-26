@@ -1,0 +1,46 @@
+{
+  "id": "mcc3__BDNC__20260623-103248_2076180580-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "10:32:48",
+  "phone": "2076180580",
+  "filename": "20260623-103248_2076180580-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-103248_2076180580-all.mp3",
+  "duration": 8.71,
+  "text": "Hello? Your call is very important to us.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "Your call is very important to us."
+    }
+  ],
+  "word_count": 8,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Your call is very important to us"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Your call is very important to us.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 8
+}

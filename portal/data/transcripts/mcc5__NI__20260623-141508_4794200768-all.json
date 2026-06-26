@@ -1,0 +1,70 @@
+{
+  "id": "mcc5__NI__20260623-141508_4794200768-all",
+  "campaign": "mcc5",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "14:15:08",
+  "phone": "4794200768",
+  "filename": "20260623-141508_4794200768-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-NI/20260623-141508_4794200768-all.mp3",
+  "duration": 35.06,
+  "text": ">> Hello. Hello. Good afternoon. This is Evelyn. >> So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arkansas State Relief Program. So have you received any notification about these benefits yet? >> Yes. So I was asking if you received the notification about the pending credits on your Medicare plan?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.28,
+      "text": ">> Hello. Hello. Good afternoon. This is Evelyn."
+    },
+    {
+      "start": 5.28,
+      "end": 10.2,
+      "text": ">> So I'm calling because there are pending grocery and cash benefits worth up to $300"
+    },
+    {
+      "start": 10.2,
+      "end": 14.04,
+      "text": "available on your Medicare account through Arkansas State Relief Program."
+    },
+    {
+      "start": 14.04,
+      "end": 18.64,
+      "text": "So have you received any notification about these benefits yet?"
+    },
+    {
+      "start": 18.64,
+      "end": 26.56,
+      "text": ">> Yes. So I was asking if you received the notification about the pending credits"
+    },
+    {
+      "start": 26.56,
+      "end": 31.1,
+      "text": "on your Medicare plan?"
+    }
+  ],
+  "word_count": 63,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Evelyn So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arkansas State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So I was asking if you received the notification about the pending credits on your Medicare plan?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": ">> Hello. Hello. Good afternoon. This is Evelyn. >> So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arkansas State Relief Program. So have you received any notification about these benefits yet? >> Yes. So I was asking if you received the notification about the pending credits on your Medicare plan?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 63
+}

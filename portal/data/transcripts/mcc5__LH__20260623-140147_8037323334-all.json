@@ -1,0 +1,52 @@
+{
+  "id": "mcc5__LH__20260623-140147_8037323334-all",
+  "campaign": "mcc5",
+  "dispo": "LH",
+  "dispo_label": "Live Hangup",
+  "date": "2026-06-23",
+  "time": "14:01:47",
+  "phone": "8037323334",
+  "filename": "20260623-140147_8037323334-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-LH/20260623-140147_8037323334-all.mp3",
+  "duration": 27.0,
+  "text": "Hello? Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick, so you do have both Part A and Part B, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Hello? Good afternoon. My name is Cassie."
+    },
+    {
+      "start": 5.0,
+      "end": 15.0,
+      "text": "So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals."
+    },
+    {
+      "start": 20.0,
+      "end": 26.0,
+      "text": "I can verify it real quick, so you do have both Part A and Part B, right?"
+    }
+  ],
+  "word_count": 55,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Good afternoon My name is Cassie So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals I can verify it real quick, so you do have both Part A and Part B, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick, so you do have both Part A and Part B, right?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 55
+}

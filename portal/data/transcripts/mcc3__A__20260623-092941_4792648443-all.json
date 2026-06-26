@@ -1,0 +1,70 @@
+{
+  "id": "mcc3__A__20260623-092941_4792648443-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "09:29:41",
+  "phone": "4792648443",
+  "filename": "20260623-092941_4792648443-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-092941_4792648443-all.mp3",
+  "duration": 20.59,
+  "text": "Hello? Are you there? I couldn't hear you. Please try again. At the tone, please record your message. When you've finished recording, simply hang up or press pound for further options.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "I couldn't hear you."
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Please try again."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "At the tone, please record your message."
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "text": "When you've finished recording, simply hang up or press pound for further options."
+    }
+  ],
+  "word_count": 31,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I couldn't hear you Please try again At the tone, please record your message"
+    },
+    {
+      "speaker": "BOT",
+      "text": "When you've finished recording, simply hang up or press pound for further options"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there? I couldn't hear you. Please try again. At the tone, please record your message. When you've finished recording, simply hang up or press pound for further options.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 31
+}

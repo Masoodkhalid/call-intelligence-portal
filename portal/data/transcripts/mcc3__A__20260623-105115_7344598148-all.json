@@ -1,0 +1,112 @@
+{
+  "id": "mcc3__A__20260623-105115_7344598148-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "10:51:15",
+  "phone": "7344598148",
+  "filename": "20260623-105115_7344598148-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-105115_7344598148-all.mp3",
+  "duration": 42.77,
+  "text": "Oh, no. Hello. At the tone. Good morning. My name is Cassie. When you had finished recording, simply hang up. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So you do have both part A and part B, right? T. Are you still there? Or as I was just asking one, you do have both part A and part B of Medicare. To mark your right, it's private. Press three. To send your message as is, press pound. To review.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.92,
+      "text": "Oh, no. Hello. At the tone. Good morning. My name is Cassie. When you had finished recording,"
+    },
+    {
+      "start": 5.92,
+      "end": 10.48,
+      "text": "simply hang up. So I'm calling because your Medicare member profile hasn't been transferred"
+    },
+    {
+      "start": 10.48,
+      "end": 16.72,
+      "text": "into Medicare's national database for 2026 yet. And that can hold up your coverage approvals."
+    },
+    {
+      "start": 17.52,
+      "end": 20.64,
+      "text": "So you do have both part A and part B, right?"
+    },
+    {
+      "start": 26.4,
+      "end": 33.68,
+      "text": "T. Are you still there? Or as I was just asking one, you do have both part A and part B of Medicare."
+    },
+    {
+      "start": 33.68,
+      "end": 35.76,
+      "text": "To mark your right, it's private. Press three."
+    },
+    {
+      "start": 35.76,
+      "end": 38.4,
+      "text": "To send your message as is, press pound."
+    },
+    {
+      "start": 41.68,
+      "end": 42.64,
+      "text": "To review."
+    }
+  ],
+  "word_count": 98,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, no"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "At the tone"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning My name is Cassie"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "When you had finished recording, simply hang up"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals So you do have both part A and part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "T"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you still there? Or as I was just asking one, you do have both part A and part B of Medicare"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To mark your right, it's private Press three"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To send your message as is, press pound"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To review"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Oh, no. Hello. At the tone. Good morning. My name is Cassie. When you had finished recording, simply hang up. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So you do have both part A and part B, right? T. Are you still there? Or as I was just asking one, you do have both part A and part B of Medicare. To mark your right, it's private. Press three. To send your message as is, press pound. To review.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 98
+}

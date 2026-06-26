@@ -1,0 +1,37 @@
+{
+  "id": "mcc3__BDNC__20260623-101651_6206627990-all",
+  "campaign": "mcc3",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "10:16:51",
+  "phone": "6206627990",
+  "filename": "20260623-101651_6206627990-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-BDNC/20260623-101651_6206627990-all.mp3",
+  "duration": 5.76,
+  "text": "Hello.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    }
+  ],
+  "word_count": 1,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 1
+}

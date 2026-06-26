@@ -1,0 +1,37 @@
+{
+  "id": "mcc3__DAIR__20260623-092435_7157142763-all",
+  "campaign": "mcc3",
+  "dispo": "DAIR",
+  "dispo_label": "Dead Air",
+  "date": "2026-06-23",
+  "time": "09:24:35",
+  "phone": "7157142763",
+  "filename": "20260623-092435_7157142763-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-deadair/20260623-092435_7157142763-all.mp3",
+  "duration": 6.98,
+  "text": "Hello? Uh, are you there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.96,
+      "text": "Hello? Uh, are you there?"
+    }
+  ],
+  "word_count": 5,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Uh, are you there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Uh, are you there?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 5
+}

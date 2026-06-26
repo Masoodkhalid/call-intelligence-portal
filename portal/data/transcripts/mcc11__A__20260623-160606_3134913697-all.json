@@ -1,0 +1,51 @@
+{
+  "id": "mcc11__A__20260623-160606_3134913697-all",
+  "campaign": "mcc11",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "16:06:06",
+  "phone": "3134913697",
+  "filename": "20260623-160606_3134913697-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-A/20260623-160606_3134913697-all.mp3",
+  "duration": 9.94,
+  "text": "Take your phone now. At the tone, please record your message. When you've finished recording, simply hang up or press pound for further options.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "Take your phone now."
+    },
+    {
+      "start": 2.48,
+      "end": 5.04,
+      "text": "At the tone, please record your message."
+    },
+    {
+      "start": 5.04,
+      "end": 9.92,
+      "text": "When you've finished recording, simply hang up or press pound for further options."
+    }
+  ],
+  "word_count": 24,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Take your phone now At the tone, please record your message"
+    },
+    {
+      "speaker": "BOT",
+      "text": "When you've finished recording, simply hang up or press pound for further options"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Take your phone now. At the tone, please record your message. When you've finished recording, simply hang up or press pound for further options.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 24
+}

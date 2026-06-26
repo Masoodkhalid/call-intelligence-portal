@@ -1,0 +1,104 @@
+{
+  "id": "mcc3__A__20260623-103050_9723025474-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "10:30:50",
+  "phone": "9723025474",
+  "filename": "20260623-103050_9723025474-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-103050_9723025474-all.mp3",
+  "duration": 49.18,
+  "text": "Oh, now hello, at the tone, please. Good morning. My name is Kathy. When you've finished recording, simply hang up or press so I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approvals. So to get your file updated, do you have both Medicare Part A and Part B? Hey, are you still there? I was just asking you do have both Part A and Part B of Medicare, right? To mark your message private, press 3, to send your message as is, press pound. Are you still there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.06,
+      "text": "Oh, now hello, at the tone, please."
+    },
+    {
+      "start": 3.06,
+      "end": 4.06,
+      "text": "Good morning."
+    },
+    {
+      "start": 4.06,
+      "end": 5.06,
+      "text": "My name is Kathy."
+    },
+    {
+      "start": 5.06,
+      "end": 9.88,
+      "text": "When you've finished recording, simply hang up or press so I'm calling because your Medicare"
+    },
+    {
+      "start": 9.88,
+      "end": 14.96,
+      "text": "member profile is showing it hasn't been transferred into Medicare's national database"
+    },
+    {
+      "start": 14.96,
+      "end": 17.62,
+      "text": "for 2026 yet."
+    },
+    {
+      "start": 17.62,
+      "end": 20.56,
+      "text": "And that can delay your coverage approvals."
+    },
+    {
+      "start": 20.56,
+      "end": 25.72,
+      "text": "So to get your file updated, do you have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 31.0,
+      "end": 33.44,
+      "text": "Hey, are you still there?"
+    },
+    {
+      "start": 33.44,
+      "end": 39.08,
+      "text": "I was just asking you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "start": 39.08,
+      "end": 48.16,
+      "text": "To mark your message private, press 3, to send your message as is, press pound."
+    },
+    {
+      "start": 48.16,
+      "end": 49.16,
+      "text": "Are you still there?"
+    }
+  ],
+  "word_count": 106,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, now hello, at the tone, please"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning My name is Kathy When you've finished recording, simply hang up or press so I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage approvals So to get your file updated, do you have both Medicare Part A and Part B? Hey, are you still there? I was just asking you do have both Part A and Part B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To mark your message private, press 3, to send your message as is, press pound"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you still there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Oh, now hello, at the tone, please. Good morning. My name is Kathy. When you've finished recording, simply hang up or press so I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approvals. So to get your file updated, do you have both Medicare Part A and Part B? Hey, are you still there? I was just asking you do have both Part A and Part B of Medicare, right? To mark your message private, press 3, to send your message as is, press pound. Are you still there?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 106
+}

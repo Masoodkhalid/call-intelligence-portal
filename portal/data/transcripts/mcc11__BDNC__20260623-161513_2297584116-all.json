@@ -1,0 +1,46 @@
+{
+  "id": "mcc11__BDNC__20260623-161513_2297584116-all",
+  "campaign": "mcc11",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "16:15:13",
+  "phone": "2297584116",
+  "filename": "20260623-161513_2297584116-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-BDNC/20260623-161513_2297584116-all.mp3",
+  "duration": 8.06,
+  "text": "Hello? Hello, this is Villarbeque and I want to help you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Hello, this is Villarbeque and I want to help you."
+    }
+  ],
+  "word_count": 11,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello, this is Villarbeque and I want to help you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Hello, this is Villarbeque and I want to help you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 11
+}

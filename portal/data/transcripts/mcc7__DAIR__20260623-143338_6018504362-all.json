@@ -1,0 +1,42 @@
+{
+  "id": "mcc7__DAIR__20260623-143338_6018504362-all",
+  "campaign": "mcc7",
+  "dispo": "DAIR",
+  "dispo_label": "Dead Air",
+  "date": "2026-06-23",
+  "time": "14:33:38",
+  "phone": "6018504362",
+  "filename": "20260623-143338_6018504362-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-deadair/20260623-143338_6018504362-all.mp3",
+  "duration": 13.97,
+  "text": "Hello? Are there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Are there?"
+    }
+  ],
+  "word_count": 3,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are there?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 3
+}

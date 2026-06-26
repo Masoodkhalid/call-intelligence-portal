@@ -1,0 +1,46 @@
+{
+  "id": "mcc7__BDNC__20260623-145027_7153694744-all",
+  "campaign": "mcc7",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "14:50:27",
+  "phone": "7153694744",
+  "filename": "20260623-145027_7153694744-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-BDNC/20260623-145027_7153694744-all.mp3",
+  "duration": 12.02,
+  "text": "Hello? Tom's a poultry shop may help you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 4.0,
+      "text": "Tom's a poultry shop may help you."
+    }
+  ],
+  "word_count": 8,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Tom's a poultry shop may help you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Tom's a poultry shop may help you.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 8
+}

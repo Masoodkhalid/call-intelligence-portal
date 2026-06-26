@@ -1,0 +1,74 @@
+{
+  "id": "mcc11__NI__20260623-161710_8158831059-all",
+  "campaign": "mcc11",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "16:17:10",
+  "phone": "8158831059",
+  "filename": "20260623-161710_8158831059-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-NI/20260623-161710_8158831059-all.mp3",
+  "duration": 55.01,
+  "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So far, have you received any updates or notifications about this yet? I'm sorry, but can you speak English? Well, I really want to help you get this taken care of as these benefits are time sensitive. So you do have Medicare Part A and B, right? Let's talk about this some other time. Thanks.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.48,
+      "text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending"
+    },
+    {
+      "start": 9.48,
+      "end": 15.04,
+      "text": "grocery and cash benefits worth up to $300 available on your Medicare account through"
+    },
+    {
+      "start": 15.04,
+      "end": 20.56,
+      "text": "Illinois State Relief Program. So far, have you received any updates or notifications"
+    },
+    {
+      "start": 20.56,
+      "end": 36.4,
+      "text": "about this yet? I'm sorry, but can you speak English? Well, I really want to help you get"
+    },
+    {
+      "start": 36.4,
+      "end": 42.04,
+      "text": "this taken care of as these benefits are time sensitive. So you do have Medicare Part A"
+    },
+    {
+      "start": 42.04,
+      "end": 52.44,
+      "text": "and B, right? Let's talk about this some other time. Thanks."
+    }
+  ],
+  "word_count": 86,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm sorry, but can you speak English? Well, I really want to help you get this taken care of as these benefits are time sensitive"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you do have Medicare Part A and B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Let's talk about this some other time Thanks"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So far, have you received any updates or notifications about this yet? I'm sorry, but can you speak English? Well, I really want to help you get this taken care of as these benefits are time sensitive. So you do have Medicare Part A and B, right? Let's talk about this some other time. Thanks.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 86
+}

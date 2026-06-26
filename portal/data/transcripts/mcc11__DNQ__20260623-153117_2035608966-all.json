@@ -1,0 +1,65 @@
+{
+  "id": "mcc11__DNQ__20260623-153117_2035608966-all",
+  "campaign": "mcc11",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-23",
+  "time": "15:31:17",
+  "phone": "2035608966",
+  "filename": "20260623-153117_2035608966-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DNQ/20260623-153117_2035608966-all.mp3",
+  "duration": 32.69,
+  "text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Connecticut State Relief Program. So far have you received any updates or notifications about this yet? I don't have Medicare policies to say. Sorry, but you did not seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.32,
+      "text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because they're"
+    },
+    {
+      "start": 7.32,
+      "end": 12.48,
+      "text": "appending grocery and cash benefits worth up to $300 available on your Medicare"
+    },
+    {
+      "start": 12.48,
+      "end": 16.64,
+      "text": "account through Connecticut State Relief Program. So far have you received any"
+    },
+    {
+      "start": 16.64,
+      "end": 24.44,
+      "text": "updates or notifications about this yet? I don't have Medicare policies to say."
+    },
+    {
+      "start": 24.44,
+      "end": 32.48,
+      "text": "Sorry, but you did not seem to qualify for the plans that we have. Have a great day."
+    }
+  ],
+  "word_count": 68,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon This is Rachel So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Connecticut State Relief Program So far have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I don't have Medicare policies to say"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you did not seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Connecticut State Relief Program. So far have you received any updates or notifications about this yet? I don't have Medicare policies to say. Sorry, but you did not seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 68
+}

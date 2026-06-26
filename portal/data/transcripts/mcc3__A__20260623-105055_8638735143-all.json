@@ -1,0 +1,56 @@
+{
+  "id": "mcc3__A__20260623-105055_8638735143-all",
+  "campaign": "mcc3",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-23",
+  "time": "10:50:55",
+  "phone": "8638735143",
+  "filename": "20260623-105055_8638735143-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-A/20260623-105055_8638735143-all.mp3",
+  "duration": 11.59,
+  "text": "Hello? Is not available. Please leave your message after the tone. After you have finished your message, just hang up, or to hear more options, please press 1.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 5.0,
+      "text": "Is not available. Please leave your message after the tone."
+    },
+    {
+      "start": 5.0,
+      "end": 11.0,
+      "text": "After you have finished your message, just hang up, or to hear more options, please press"
+    },
+    {
+      "start": 11.0,
+      "end": 11.0,
+      "text": "1."
+    }
+  ],
+  "word_count": 28,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Is not available Please leave your message after the tone After you have finished your message, just hang up, or to hear more options, please press 1"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Is not available. Please leave your message after the tone. After you have finished your message, just hang up, or to hear more options, please press 1.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 28
+}

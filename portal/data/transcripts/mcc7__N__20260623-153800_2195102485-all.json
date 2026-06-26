@@ -1,0 +1,42 @@
+{
+  "id": "mcc7__N__20260623-153800_2195102485-all",
+  "campaign": "mcc7",
+  "dispo": "N",
+  "dispo_label": "No Response",
+  "date": "2026-06-23",
+  "time": "15:38:00",
+  "phone": "2195102485",
+  "filename": "20260623-153800_2195102485-all.mp3",
+  "rel_path": "mcc/mcc7/mcc7-N/20260623-153800_2195102485-all.mp3",
+  "duration": 14.11,
+  "text": "Hello? Can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 7.0,
+      "end": 7.0,
+      "text": "Can you hear me?"
+    }
+  ],
+  "word_count": 5,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Can you hear me?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 5
+}

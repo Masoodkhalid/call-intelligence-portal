@@ -1,0 +1,91 @@
+{
+  "id": "mcc3__NI__20260623-123230_6627691687-all",
+  "campaign": "mcc3",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-23",
+  "time": "12:32:30",
+  "phone": "6627691687",
+  "filename": "20260623-123230_6627691687-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-NI/20260623-123230_6627691687-all.mp3",
+  "duration": 49.39,
+  "text": "Hello? Oh, you. Good morning. This is Sophie. I'm reaching out because we're doing a quick cover here for people before the December 7th cut-off. It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So, can you let me know if you have both Medicare Part A and Part B? Sorry, you got cut-off. I was asking if you have both Part A and B of Medicare.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.48,
+      "text": "Hello? Oh, you. Good morning. This is Sophie. I'm reaching out because we're"
+    },
+    {
+      "start": 9.48,
+      "end": 14.52,
+      "text": "doing a quick cover here for people before the December 7th cut-off. It's a"
+    },
+    {
+      "start": 14.52,
+      "end": 18.24,
+      "text": "four-minute look at what your plan actually covers versus what comes out of"
+    },
+    {
+      "start": 18.24,
+      "end": 22.88,
+      "text": "your own pocket when you need care. Most people are genuinely surprised by the"
+    },
+    {
+      "start": 22.88,
+      "end": 27.24,
+      "text": "difference. We're just trying to reach everyone on the list before that deadline."
+    },
+    {
+      "start": 27.24,
+      "end": 37.68,
+      "text": "So, can you let me know if you have both Medicare Part A and Part B? Sorry, you got"
+    },
+    {
+      "start": 37.68,
+      "end": 44.16,
+      "text": "cut-off. I was asking if you have both Part A and B of Medicare."
+    }
+  ],
+  "word_count": 100,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is Sophie I'm reaching out because we're doing a quick cover here for people before the December 7th cut-off It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care Most people are genuinely surprised by the difference We're just trying to reach everyone on the list before that deadline"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So, can you let me know if you have both Medicare Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Sorry, you got cut-off"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I was asking if you have both Part A and B of Medicare"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Oh, you. Good morning. This is Sophie. I'm reaching out because we're doing a quick cover here for people before the December 7th cut-off. It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So, can you let me know if you have both Medicare Part A and Part B? Sorry, you got cut-off. I was asking if you have both Part A and B of Medicare.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 100
+}

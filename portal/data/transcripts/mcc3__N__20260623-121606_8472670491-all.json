@@ -1,0 +1,51 @@
+{
+  "id": "mcc3__N__20260623-121606_8472670491-all",
+  "campaign": "mcc3",
+  "dispo": "N",
+  "dispo_label": "No Response",
+  "date": "2026-06-23",
+  "time": "12:16:06",
+  "phone": "8472670491",
+  "filename": "20260623-121606_8472670491-all.mp3",
+  "rel_path": "mcc/mcc3/mcc3-N/20260623-121606_8472670491-all.mp3",
+  "duration": 13.61,
+  "text": "(phone ringing) Hello? Uh, are you there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "(phone ringing)"
+    },
+    {
+      "start": 0.84,
+      "end": 1.68,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.68,
+      "end": 7.78,
+      "text": "Uh, are you there?"
+    }
+  ],
+  "word_count": 7,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "(phone ringing) Hello?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Uh, are you there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "(phone ringing) Hello? Uh, are you there?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 7
+}

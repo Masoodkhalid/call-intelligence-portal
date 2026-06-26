@@ -1,0 +1,46 @@
+{
+  "id": "mcc5__N__20260623-140509_4145094585-all",
+  "campaign": "mcc5",
+  "dispo": "N",
+  "dispo_label": "No Response",
+  "date": "2026-06-23",
+  "time": "14:05:09",
+  "phone": "4145094585",
+  "filename": "20260623-140509_4145094585-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-N/20260623-140509_4145094585-all.mp3",
+  "duration": 16.85,
+  "text": "At the telling, please record your message. When you've finished recording you may hang up or press 1 for more options. Can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "At the telling, please record your message. When you've finished recording you may hang up or press 1 for more options."
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Can you hear me?"
+    }
+  ],
+  "word_count": 25,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "At the telling, please record your message"
+    },
+    {
+      "speaker": "BOT",
+      "text": "When you've finished recording you may hang up or press 1 for more options Can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "At the telling, please record your message. When you've finished recording you may hang up or press 1 for more options. Can you hear me?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 25
+}

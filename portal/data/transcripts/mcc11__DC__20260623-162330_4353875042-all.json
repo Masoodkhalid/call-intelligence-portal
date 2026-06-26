@@ -1,0 +1,70 @@
+{
+  "id": "mcc11__DC__20260623-162330_4353875042-all",
+  "campaign": "mcc11",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "16:23:30",
+  "phone": "4353875042",
+  "filename": "20260623-162330_4353875042-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DC/20260623-162330_4353875042-all.mp3",
+  "duration": 19.94,
+  "text": "Hello. What are they speckles? Hey, this is Sarah. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": "What are they speckles?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Hey, this is Sarah."
+    },
+    {
+      "start": 6.0,
+      "end": 11.0,
+      "text": "There's a note on your Medicare profile that your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "Do you have Part A and Part B?"
+    }
+  ],
+  "word_count": 41,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "What are they speckles?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hey, this is Sarah There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello. What are they speckles? Hey, this is Sarah. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 41
+}

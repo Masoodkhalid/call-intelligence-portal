@@ -1,0 +1,51 @@
+{
+  "id": "mcc11__BDNC__20260623-145735_2815136073-all",
+  "campaign": "mcc11",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "14:57:35",
+  "phone": "2815136073",
+  "filename": "20260623-145735_2815136073-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-BDNC/20260623-145735_2815136073-all.mp3",
+  "duration": 12.17,
+  "text": "Hello? Are you there? Nicole is very important to us.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Nicole is very important to us."
+    }
+  ],
+  "word_count": 10,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Nicole is very important to us"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there? Nicole is very important to us.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 10
+}

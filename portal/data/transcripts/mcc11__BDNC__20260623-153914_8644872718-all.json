@@ -1,0 +1,51 @@
+{
+  "id": "mcc11__BDNC__20260623-153914_8644872718-all",
+  "campaign": "mcc11",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-23",
+  "time": "15:39:14",
+  "phone": "8644872718",
+  "filename": "20260623-153914_8644872718-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-BDNC/20260623-153914_8644872718-all.mp3",
+  "duration": 9.5,
+  "text": "Hello? 9-1-1 addressing. How can I help you? 9-1-1 addressing.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.1,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.1,
+      "end": 6.0,
+      "text": "9-1-1 addressing. How can I help you?"
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "9-1-1 addressing."
+    }
+  ],
+  "word_count": 10,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "9-1-1 addressing How can I help you? 9-1-1 addressing"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? 9-1-1 addressing. How can I help you? 9-1-1 addressing.",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 10
+}

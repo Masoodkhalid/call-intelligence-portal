@@ -1,0 +1,71 @@
+{
+  "id": "mcc5__DC__20260623-134027_2054479241-all",
+  "campaign": "mcc5",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-23",
+  "time": "13:40:27",
+  "phone": "2054479241",
+  "filename": "20260623-134027_2054479241-all.mp3",
+  "rel_path": "mcc/mcc5/mcc5-DC/20260623-134027_2054479241-all.mp3",
+  "duration": 25.42,
+  "text": "Hello? Thanks. Please stay on the line. Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Thanks."
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Please stay on the line."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Hey, this is Chelsea."
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "text": "There's a note on your Medicare profile that your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 18.0,
+      "end": 21.0,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": "Do you have Part A and Part B?"
+    }
+  ],
+  "word_count": 43,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Thanks Please stay on the line Hey, this is Chelsea"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Thanks Please stay on the line Hey, this is Chelsea",
+  "post_transfer_trimmed": true,
+  "bot_word_count": 11
+}

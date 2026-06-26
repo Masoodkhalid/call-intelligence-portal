@@ -1,0 +1,42 @@
+{
+  "id": "mcc11__DAIR__20260623-151926_7576962301-all",
+  "campaign": "mcc11",
+  "dispo": "DAIR",
+  "dispo_label": "Dead Air",
+  "date": "2026-06-23",
+  "time": "15:19:26",
+  "phone": "7576962301",
+  "filename": "20260623-151926_7576962301-all.mp3",
+  "rel_path": "mcc/mcc11/mcc11-DAIR/20260623-151926_7576962301-all.mp3",
+  "duration": 8.57,
+  "text": "Hello? Are you there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 5.92,
+      "end": 7.92,
+      "text": "Are you there?"
+    }
+  ],
+  "word_count": 4,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_text": "Hello? Are you there?",
+  "post_transfer_trimmed": false,
+  "bot_word_count": 4
+}
