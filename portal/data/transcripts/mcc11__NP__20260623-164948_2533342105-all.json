@@ -93,5 +93,7 @@
   },
   "bot_text": "Hello? Yes, hello. Hello. Hey, Chris here. Good morning. You doing good? Okay. I hear you. But before I go, I just want to ask you real quick.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 28
+  "bot_word_count": 28,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

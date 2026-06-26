@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BN__20260624-151812_8157444404-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-BN",
-  "dispo_label": "AICONTACT_MEDICARE-BN",
+  "dispo": "BN",
+  "dispo_label": "Business Number",
   "date": "2026-06-24",
   "time": "15:18:12",
   "phone": "8157444404",
@@ -82,5 +82,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 62
+  "bot_word_count": 62,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

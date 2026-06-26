@@ -2,7 +2,7 @@
   "id": "mcc7__N__20260623-151439_2293479759-all",
   "campaign": "mcc7",
   "dispo": "N",
-  "dispo_label": "No Response",
+  "dispo_label": "No Answer",
   "date": "2026-06-23",
   "time": "15:14:39",
   "phone": "2293479759",
@@ -47,5 +47,7 @@
   },
   "bot_text": "Hello? Are you there? Here we go.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 7
+  "bot_word_count": 7,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

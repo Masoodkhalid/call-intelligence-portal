@@ -67,5 +67,7 @@
   },
   "bot_text": "Hello? Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars available on your Medicare account through Texas state relief program. So have you received any notification about these benefits yet? I'm sorry but can you speak English? Oh I just want to make sure you're aware because a lot of people in your area haven't heard about these yet and I want to help you get them processed in time. You're covered under part A and part B aren't you?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 93
+  "bot_word_count": 93,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

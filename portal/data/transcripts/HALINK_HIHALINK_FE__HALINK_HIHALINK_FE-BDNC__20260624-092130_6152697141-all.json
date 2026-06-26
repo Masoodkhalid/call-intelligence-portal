@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BDNC__20260624-092130_6152697141-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-BDNC",
-  "dispo_label": "HALINK_HIHALINK_FE-BDNC",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
   "date": "2026-06-24",
   "time": "09:21:30",
   "phone": "6152697141",
@@ -33,5 +33,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 5
+  "bot_word_count": 5,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

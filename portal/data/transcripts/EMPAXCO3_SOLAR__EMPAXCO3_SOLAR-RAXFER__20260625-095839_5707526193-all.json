@@ -1,8 +1,8 @@
 {
   "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RAXFER__20260625-095839_5707526193-all",
   "campaign": "EMPAXCO3_SOLAR",
-  "dispo": "EMPAXCO3_SOLAR-RAXFER",
-  "dispo_label": "EMPAXCO3_SOLAR-RAXFER",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
   "date": "2026-06-25",
   "time": "09:58:39",
   "phone": "5707526193",
@@ -58,5 +58,7 @@
     "transfer": true,
     "disqualify": false
   },
-  "bot_word_count": 86
+  "bot_word_count": 86,
+  "company": "Empaxco3",
+  "campaign_name": "Solar"
 }

@@ -2,7 +2,7 @@
   "id": "mcc3__N__20260623-122931_4696236400-all",
   "campaign": "mcc3",
   "dispo": "N",
-  "dispo_label": "No Response",
+  "dispo_label": "No Answer",
   "date": "2026-06-23",
   "time": "12:29:31",
   "phone": "4696236400",
@@ -47,5 +47,7 @@
   },
   "bot_text": "(phone beeps) Hello? Can you hear me?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 7
+  "bot_word_count": 7,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

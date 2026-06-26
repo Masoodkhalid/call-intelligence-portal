@@ -171,5 +171,7 @@
   },
   "bot_text": "I said hello Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for twenty-five years I am so tired of hearing about, and y'all call me every five minutes about Medicare So you do have to come in about Medicare Right? Do I have part A and B? The advice I'm going to take over shortly, please stay on the line No",
   "post_transfer_trimmed": true,
-  "bot_word_count": 74
+  "bot_word_count": 74,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

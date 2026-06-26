@@ -165,5 +165,7 @@
   },
   "bot_text": "Hello? Yeah Who's this? Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey state relief program So have you been notified about these benefits yet? No Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? Oh, yes Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on Thanks for holding on the line",
   "post_transfer_trimmed": true,
-  "bot_word_count": 100
+  "bot_word_count": 100,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

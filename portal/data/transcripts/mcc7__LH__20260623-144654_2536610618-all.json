@@ -66,5 +66,7 @@
   },
   "bot_text": "\"Hello?\" \"Hello?\" \"Good morning. My name is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Washington State Relief Program. So, have you been notified about these benefits yet? \"Yeah, and we actually sent you a notification about the pending credits on your Medicare account. I just want to help you get these benefits processed. You're on both part A and part B, right?\"",
   "post_transfer_trimmed": false,
-  "bot_word_count": 77
+  "bot_word_count": 77,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

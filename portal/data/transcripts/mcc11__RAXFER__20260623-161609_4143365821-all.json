@@ -757,5 +757,7 @@
   },
   "bot_text": "Hello? Hello Hi, this is Chelsea, and I'm reaching out because we pulled up your Medicare profile, and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both Part A and Part B? Yes, I do Y'all call me every day and ask me that Yeah, I understand, but benefits are updated every week You may now qualify for drug cost caps, dental, vision, and hearing So, let me connect you with the specialist, okay? Okay, miss",
   "post_transfer_trimmed": true,
-  "bot_word_count": 102
+  "bot_word_count": 102,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

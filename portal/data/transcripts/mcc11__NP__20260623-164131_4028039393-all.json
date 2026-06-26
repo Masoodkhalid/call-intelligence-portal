@@ -113,5 +113,7 @@
   },
   "bot_text": "Hello. Good bye. Hello. Hello. Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nebraska State Relief Program. So have you been notified about these benefits yet? No, would you just send them to me? Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 74
+  "bot_word_count": 74,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

@@ -33,5 +33,7 @@
   },
   "bot_text": "Hey, good evening. This is Rachel. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So have you been notified about these benefits yet?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 39
+  "bot_word_count": 39,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

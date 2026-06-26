@@ -52,5 +52,7 @@
   },
   "bot_text": "Hello. To schedule, a dial-a-ride paratransit ride or information about dial-a-ride paratransit service, press 1. For paratransit eligibility information, press 2.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 21
+  "bot_word_count": 21,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

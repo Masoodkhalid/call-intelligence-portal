@@ -67,5 +67,7 @@
   },
   "bot_text": "Hello Hello Good afternoon This is Evelyn So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So far, have you received any updates or notifications about this yet? No Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? Yes Perfect You qualify for the benefits I am forwarding you to our supervisor Please hold on",
   "post_transfer_trimmed": true,
-  "bot_word_count": 93
+  "bot_word_count": 93,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

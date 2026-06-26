@@ -96,5 +96,7 @@
   },
   "bot_text": "Hello? Can you hear me? Can you hear me? Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2020 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B? No. Sorry. It looks like you don't qualify for the plans. Have a great day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 67
+  "bot_word_count": 67,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

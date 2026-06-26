@@ -42,5 +42,7 @@
   },
   "bot_text": "Hello. Where are we supply, place of business?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 8
+  "bot_word_count": 8,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

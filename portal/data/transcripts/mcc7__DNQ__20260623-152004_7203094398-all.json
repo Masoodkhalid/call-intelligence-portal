@@ -66,5 +66,7 @@
   },
   "bot_text": "\"Hello?\" \"Good afternoon, this is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Colorado State Relief Program. So have you been notified about these benefits yet?\" \"Really?\" \"Well, I really want to help you get the shakin' care of as the benefits are time-sensitive. So you do have Medicare Part A and B, right?\" \"No, I don't.\" \"Sorry, but you don't seem to qualify for the plans that we have. Have a great day.\" \"Well, don't call no more.\"",
   "post_transfer_trimmed": false,
-  "bot_word_count": 93
+  "bot_word_count": 93,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

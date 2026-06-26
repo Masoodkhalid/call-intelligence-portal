@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BDNC__20260624-154119_4044862355-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-BDNC",
-  "dispo_label": "AICONTACT_MEDICARE-BDNC",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
   "date": "2026-06-24",
   "time": "15:41:19",
   "phone": "4044862355",
@@ -42,5 +42,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 15
+  "bot_word_count": 15,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

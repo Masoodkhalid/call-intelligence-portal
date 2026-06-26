@@ -42,5 +42,7 @@
   },
   "bot_text": "- Hello. - Merrill Lynch, this is Kevin. - Merrill Lynch, this is Kevin.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 14
+  "bot_word_count": 14,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

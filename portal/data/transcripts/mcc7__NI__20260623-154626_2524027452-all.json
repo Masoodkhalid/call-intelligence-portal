@@ -135,5 +135,7 @@
   },
   "bot_text": "Hello. Hello. Hello, good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina State Relief Program. So far, have you received any updates or notifications about this yet? Mmm, mmm. Well, I really want to help you get this taken care of as these benefits are time sensitive. So you do have Medicare Part A and B, right? Mmm-hmm. So you do have both Part A and Part B of Medicare, right? Mmm, let's pick you first. So you do have both Part A and Part B of Medicare, right? Fine. Can you hear me? I was just asking if you have Medicare Part A and Part B.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 125
+  "bot_word_count": 125,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

@@ -80,5 +80,7 @@
   },
   "bot_text": "Hello, yep, good afternoon, my name is Cassie so I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick, so you do have both Part A and Part B, right? Oh, who you want to speak with? Sorry about that, I was asking. You do have both Part A and Part B of Medicare, right? Who you want to speak with? So I'm calling from NOVA Healthcare to share some information about the 2026 Medicare updates.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 102
+  "bot_word_count": 102,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

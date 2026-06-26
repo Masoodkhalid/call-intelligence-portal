@@ -43,5 +43,7 @@
   },
   "bot_text": "I'm Sophie, and I'm talking to you from Nova Health Care. I'm here to make sure that you secure the best benefits in the special enrollment period 20.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 28
+  "bot_word_count": 28,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

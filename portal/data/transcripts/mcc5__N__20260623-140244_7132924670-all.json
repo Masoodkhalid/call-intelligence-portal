@@ -2,7 +2,7 @@
   "id": "mcc5__N__20260623-140244_7132924670-all",
   "campaign": "mcc5",
   "dispo": "N",
-  "dispo_label": "No Response",
+  "dispo_label": "No Answer",
   "date": "2026-06-23",
   "time": "14:02:44",
   "phone": "7132924670",
@@ -33,5 +33,7 @@
   },
   "bot_text": "Hello?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 1
+  "bot_word_count": 1,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

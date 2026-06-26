@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-154619_6183187546-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-A",
-  "dispo_label": "AICONTACT_MEDICARE-A",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
   "date": "2026-06-24",
   "time": "15:46:19",
   "phone": "6183187546",
@@ -56,5 +56,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 31
+  "bot_word_count": 31,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

@@ -1,8 +1,8 @@
 {
   "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NI__20260625-113830_3043690298-all",
   "campaign": "EMPAXCO3_SOLAR",
-  "dispo": "EMPAXCO3_SOLAR-NI",
-  "dispo_label": "EMPAXCO3_SOLAR-NI",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
   "date": "2026-06-25",
   "time": "11:38:30",
   "phone": "3043690298",
@@ -65,5 +65,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 77
+  "bot_word_count": 77,
+  "company": "Empaxco3",
+  "campaign_name": "Solar"
 }

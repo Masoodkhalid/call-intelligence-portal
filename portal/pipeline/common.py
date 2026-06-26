@@ -95,14 +95,43 @@ def call_id(campaign, dispo, filename):
     return f"{campaign}__{dispo}__{stem}"
 
 
+# ---- Company / Campaign inference ------------------------------------------
+# Campaigns we recognise as the suffix of a folder name
+_KNOWN_CAMPAIGNS = {"FE", "MEDICARE", "SOLAR"}
+
+
+def parse_company_campaign(folder_name):
+    """Return (company, campaign) from a top-level recordings folder name.
+
+    mcc3              -> ("mcc3",          "Medicare")
+    AICONTACT_MEDICARE -> ("aicontact",    "Medicare")
+    HALINK_HIHALINK_FE -> ("Halink",       "FE")
+    EMPAXCO3_SOLAR     -> ("empaxco3",     "Solar")
+    """
+    if re.match(r"^mcc\d+$", folder_name, re.I):
+        return folder_name, "Medicare"
+
+    up = folder_name.upper()
+    for camp in sorted(_KNOWN_CAMPAIGNS, key=len, reverse=True):
+        if up.endswith("_" + camp):
+            company_raw = folder_name[:-(len(camp) + 1)]
+            # prettify: HALINK_HIHALINK -> Halink, AICONTACT -> aicontact
+            company = company_raw.split("_")[0].capitalize()
+            return company, camp.title()
+
+    # fallback — use the whole folder as company, unknown campaign
+    return folder_name, "Unknown"
+
+
 def iter_recordings():
-    """Yield (mp3_path, campaign, dispo_code, meta) for every recording."""
+    """Yield (mp3_path, campaign_folder, dispo_code, meta) for every recording."""
     if not os.path.isdir(RECORDINGS_DIR):
         return
-    for campaign in sorted(os.listdir(RECORDINGS_DIR)):
-        cdir = os.path.join(RECORDINGS_DIR, campaign)
+    for folder in sorted(os.listdir(RECORDINGS_DIR)):
+        cdir = os.path.join(RECORDINGS_DIR, folder)
         if not os.path.isdir(cdir):
             continue
+        company, campaign_name = parse_company_campaign(folder)
         for dfolder in sorted(os.listdir(cdir)):
             ddir = os.path.join(cdir, dfolder)
             if not os.path.isdir(ddir):
@@ -113,12 +142,14 @@ def iter_recordings():
                     continue
                 path = os.path.join(ddir, fn)
                 meta = parse_filename(path)
-                meta["campaign"] = campaign
-                meta["dispo"] = dispo
-                meta["dispo_label"] = dispo_label(dispo)
-                meta["path"] = path
-                meta["rel_path"] = os.path.relpath(path, ROOT)
-                yield path, campaign, dispo, meta
+                meta["campaign"]      = folder          # raw folder key
+                meta["company"]       = company         # human company name
+                meta["campaign_name"] = campaign_name   # human campaign name
+                meta["dispo"]         = dispo
+                meta["dispo_label"]   = dispo_label(dispo)
+                meta["path"]          = path
+                meta["rel_path"]      = os.path.relpath(path, ROOT)
+                yield path, folder, dispo, meta
 
 
 def load_json(path, default=None):

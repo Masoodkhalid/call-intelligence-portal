@@ -109,5 +109,7 @@
   },
   "bot_text": "Hello. Hello. Good afternoon. Good afternoon. When you finished recording, simply head up. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Mississippi State Relief Programs. So have you received any notification about these benefits yet? Yes, so I was asking you to receive an audio message on your Medicare plan to mark your message urgent, press 2. To mark your message private, press 3. To send your message as is, press pound. Are you still?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 87
+  "bot_word_count": 87,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

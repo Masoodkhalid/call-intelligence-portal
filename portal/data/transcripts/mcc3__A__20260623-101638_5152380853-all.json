@@ -38,5 +38,7 @@
   },
   "bot_text": "Out available. Hello, at the tell-and-please record your message. When you've finished recording, you may hang up or press one for more options.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 23
+  "bot_word_count": 23,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

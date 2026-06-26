@@ -104,5 +104,7 @@
   },
   "bot_text": "Hello. Hello. Yes. Hello. Good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. So far, have you received any updates or notifications about this yet? No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both part A and part B, yes? No. Sorry, but you did not seem to qualify for the plans that we have. Have a great day. Oh, you too.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 101
+  "bot_word_count": 101,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

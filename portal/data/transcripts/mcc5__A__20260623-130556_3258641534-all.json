@@ -127,5 +127,7 @@
   },
   "bot_text": ">> Wait, hello. >> Hello. >> Hello. >> Hello. >> Good afternoon. My name is Cassie. >> So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare. >> Okay. >> For 2020-26. >> Yeah. >> And that can delay your coverage approval. >> Well, this is a voicemail. >> So to get your file updated, do you have both Medicare Part A and Part B? >> Well, leave a message because, yeah, by not by, but have a lovely day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 86
+  "bot_word_count": 86,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

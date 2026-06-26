@@ -66,5 +66,7 @@
   },
   "bot_text": "Hello? Hello? Yes, now I have to. Hey, this is Chelsea, there's a note on your Medicare profile that your 2026 update hasn't been confirmed. This is a good confirmation from you and we're all set.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 36
+  "bot_word_count": 36,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

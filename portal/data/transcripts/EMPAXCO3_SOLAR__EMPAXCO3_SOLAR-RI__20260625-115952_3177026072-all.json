@@ -1,8 +1,8 @@
 {
   "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RI__20260625-115952_3177026072-all",
   "campaign": "EMPAXCO3_SOLAR",
-  "dispo": "EMPAXCO3_SOLAR-RI",
-  "dispo_label": "EMPAXCO3_SOLAR-RI",
+  "dispo": "RI",
+  "dispo_label": "Re-Inquiry",
   "date": "2026-06-25",
   "time": "11:59:52",
   "phone": "3177026072",
@@ -52,5 +52,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 7
+  "bot_word_count": 7,
+  "company": "Empaxco3",
+  "campaign_name": "Solar"
 }

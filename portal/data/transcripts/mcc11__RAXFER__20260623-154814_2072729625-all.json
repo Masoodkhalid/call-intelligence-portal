@@ -88,5 +88,7 @@
   },
   "bot_text": "Hello Good afternoon, this is Jacob So I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars Available on your Medicare account through main state relief program So have you been notified about these benefits yet? Okay, so actually a lot of members in your area haven't been notified about these yet And I just want to help you get them sorted out You're on both part a and part B Yes Perfect you qualify for the benefit I'm forwarding you to our supervisor, please hold on Thanks for holding on the line My name is Christopher",
   "post_transfer_trimmed": true,
-  "bot_word_count": 103
+  "bot_word_count": 103,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

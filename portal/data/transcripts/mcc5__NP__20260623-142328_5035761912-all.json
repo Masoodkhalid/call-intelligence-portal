@@ -56,5 +56,7 @@
   },
   "bot_text": ">> Hello. Are you there? >> Yep. >> Good morning. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicaid.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 30
+  "bot_word_count": 30,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

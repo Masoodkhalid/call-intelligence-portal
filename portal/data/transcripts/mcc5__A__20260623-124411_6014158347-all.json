@@ -70,5 +70,7 @@
   },
   "bot_text": "Hello? Do you review your record or add to your message? Press 1 to mark your message urgent. Press 2 to mark your message private. Press 3 to send your message as is. Press.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 34
+  "bot_word_count": 34,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

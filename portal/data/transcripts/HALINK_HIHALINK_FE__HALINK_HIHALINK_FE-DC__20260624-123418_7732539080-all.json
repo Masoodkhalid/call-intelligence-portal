@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DC__20260624-123418_7732539080-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-DC",
-  "dispo_label": "HALINK_HIHALINK_FE-DC",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
   "date": "2026-06-24",
   "time": "12:34:18",
   "phone": "7732539080",
@@ -69,5 +69,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 61
+  "bot_word_count": 61,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

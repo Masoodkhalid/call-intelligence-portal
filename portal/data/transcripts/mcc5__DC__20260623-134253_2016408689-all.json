@@ -72,5 +72,7 @@
   },
   "bot_text": "Hello. That's so good to hear. Okay, so I'm going to get right into it. You do have both Part A and Part B of Medicare, right? Yeah, we've been to this already. I already tell you. I don't want me. Hey, are you still there? I was just asking. You do have both Part A and Part B of Medicare, right? [BLANK_AUDIO]",
   "post_transfer_trimmed": false,
-  "bot_word_count": 63
+  "bot_word_count": 63,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

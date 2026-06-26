@@ -98,5 +98,7 @@
   },
   "bot_text": "Hello Thanks, please stay on the line Hello, good afternoon",
   "post_transfer_trimmed": true,
-  "bot_word_count": 10
+  "bot_word_count": 10,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

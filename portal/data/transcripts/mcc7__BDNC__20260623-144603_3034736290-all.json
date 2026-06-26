@@ -42,5 +42,7 @@
   },
   "bot_text": "Older community health and East MedSurg Department, please press 3 to be transferred to the front desk. Hello.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 18
+  "bot_word_count": 18,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

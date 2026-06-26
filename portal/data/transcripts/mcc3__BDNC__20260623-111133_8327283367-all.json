@@ -33,5 +33,7 @@
   },
   "bot_text": "I'm just here giving a courtesy call, trying to reach out to you from our campaign for the police officers that you helped out last year, just calling today out of respect.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 32
+  "bot_word_count": 32,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

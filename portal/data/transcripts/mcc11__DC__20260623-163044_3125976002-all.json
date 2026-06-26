@@ -50,5 +50,7 @@
   },
   "bot_text": "Hello. Yes? Hello, good afternoon. This is Alyssa. I'm calling because there are pending grocery and...",
   "post_transfer_trimmed": false,
-  "bot_word_count": 16
+  "bot_word_count": 16,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

@@ -2,7 +2,7 @@
   "id": "mcc11__N__20260623-160421_2607684165-all",
   "campaign": "mcc11",
   "dispo": "N",
-  "dispo_label": "No Response",
+  "dispo_label": "No Answer",
   "date": "2026-06-23",
   "time": "16:04:21",
   "phone": "2607684165",
@@ -38,5 +38,7 @@
   },
   "bot_text": "Hello? Are you there?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 4
+  "bot_word_count": 4,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

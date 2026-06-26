@@ -163,5 +163,7 @@
   },
   "bot_text": "Hello Can I help you? Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B? Yeah Far as I know I do Perfect Let me connect you with the Medicare specialist from Iowa Hi",
   "post_transfer_trimmed": true,
-  "bot_word_count": 60
+  "bot_word_count": 60,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

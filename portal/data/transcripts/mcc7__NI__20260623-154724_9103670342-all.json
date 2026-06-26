@@ -65,5 +65,7 @@
   },
   "bot_text": "Hello. Good afternoon. My name is Anna. You doing all right? What are you calling about? So I'm calling from Crescent Health Services and with the latest Medicare updates, you may now qualify for some exciting new benefits. Do you happen to have Medicare Part A and B? Can you hear me? I was just asking if you have Medicare Part A and B.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 64
+  "bot_word_count": 64,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

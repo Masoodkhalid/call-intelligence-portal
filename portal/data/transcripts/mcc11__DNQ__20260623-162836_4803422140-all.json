@@ -52,5 +52,7 @@
   },
   "bot_text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arizona State Relief Program. So have you been notified about these benefits yet? No, I don't have Medicare. I'm not old enough. Thank you.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 51
+  "bot_word_count": 51,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

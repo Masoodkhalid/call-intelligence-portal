@@ -52,5 +52,7 @@
   },
   "bot_text": "Hello. You've reached Miss Decent, please leave a brief message up to the beat. And have a blessed day. Thank you.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 21
+  "bot_word_count": 21,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

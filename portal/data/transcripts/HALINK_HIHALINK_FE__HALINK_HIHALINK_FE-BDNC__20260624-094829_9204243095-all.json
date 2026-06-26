@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BDNC__20260624-094829_9204243095-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-BDNC",
-  "dispo_label": "HALINK_HIHALINK_FE-BDNC",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
   "date": "2026-06-24",
   "time": "09:48:29",
   "phone": "9204243095",
@@ -43,5 +43,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 13
+  "bot_word_count": 13,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

@@ -75,5 +75,7 @@
   },
   "bot_text": "Hello? Hi, good evening, my name is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina State Relief Program. So have you received any notification about these benefits yet? Yes, so I was asking if you've received the notification about the pending credits on your Medicare plan.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 61
+  "bot_word_count": 61,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

@@ -33,5 +33,7 @@
   },
   "bot_text": "Hello? Are you there?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 4
+  "bot_word_count": 4,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

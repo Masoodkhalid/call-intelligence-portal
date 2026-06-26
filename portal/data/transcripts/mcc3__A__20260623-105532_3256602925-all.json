@@ -47,5 +47,7 @@
   },
   "bot_text": "Hello? Sorry, I missed your call. If you need immediate assistance, you can dial 325-725-7036.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 15
+  "bot_word_count": 15,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

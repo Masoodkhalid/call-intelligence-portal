@@ -1,8 +1,8 @@
 {
   "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NP__20260625-110636_2154915477-all",
   "campaign": "EMPAXCO3_SOLAR",
-  "dispo": "EMPAXCO3_SOLAR-NP",
-  "dispo_label": "EMPAXCO3_SOLAR-NP",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
   "date": "2026-06-25",
   "time": "11:06:36",
   "phone": "2154915477",
@@ -81,5 +81,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 47
+  "bot_word_count": 47,
+  "company": "Empaxco3",
+  "campaign_name": "Solar"
 }

@@ -85,5 +85,7 @@
   },
   "bot_text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas state relief program. So have you received any notification about these benefits yet? Well, I really want to help you get this taken care of as these benefits are time sensitive. So you do have Medicare Part A and B, right? Can you hear me? I was just asking if you have Medicare Part A and Part B. So if you could give me a few minutes of yours, I want to tell you about the new benefits that have been introduced with the special enrollment 2026. You can get benefits like food cards and cash back rewards up to $300. It will only take a minute if you'll talk to me.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 141
+  "bot_word_count": 141,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

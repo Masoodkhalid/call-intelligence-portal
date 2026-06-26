@@ -77,5 +77,7 @@
   },
   "bot_text": "Hello? Hello? Good morning My name is Cassie Okay So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage approval So to get your file updated, do you have both Medicare Part A and Part B? I do I've only answered a thousand times Yeah, it's good You're covered, but 2026 benefits are updated weekly It's like cards, food cards, dental, vision, hearing, and cash back up to $250 may now be available to you So what's your age? 82 Got it Please hold while I connect you to the advice I'm not eligible",
   "post_transfer_trimmed": true,
-  "bot_word_count": 111
+  "bot_word_count": 111,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

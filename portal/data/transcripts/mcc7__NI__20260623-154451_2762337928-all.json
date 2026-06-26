@@ -71,5 +71,7 @@
   },
   "bot_text": "\"Hello?\" \"Hello?\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Virginia State Relief Program. So, have you been notified about these benefits yet?\" \"Okay, what is it now?\" Well, we're now offering improved dental, vision, hearing, food card, and cash back up to $300. And I just want to help you get them processed before anything lapsed. You're covered under both Part A and Part B, aren't you? Can you hear me? I was just asking if you have Medicare Part A and Part B.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 103
+  "bot_word_count": 103,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

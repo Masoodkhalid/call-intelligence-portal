@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DAIR__20260624-151634_2172048424-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-DAIR",
-  "dispo_label": "AICONTACT_MEDICARE-DAIR",
+  "dispo": "DAIR",
+  "dispo_label": "Dead Air",
   "date": "2026-06-24",
   "time": "15:16:34",
   "phone": "2172048424",
@@ -38,5 +38,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 4
+  "bot_word_count": 4,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

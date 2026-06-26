@@ -42,5 +42,7 @@
   },
   "bot_text": "\"Hello?\" \"Hello.\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nevada State Relief Program.\" \"So far, have you received any updates or notifications about this yet?\" \"Yeah, so I was asking if you received the notification about the pending credits on your Medicare plan.\"",
   "post_transfer_trimmed": false,
-  "bot_word_count": 62
+  "bot_word_count": 62,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

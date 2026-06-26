@@ -67,5 +67,7 @@
   },
   "bot_text": "Hello? Thanks Please stay on the line Hey, this is Chelsea",
   "post_transfer_trimmed": true,
-  "bot_word_count": 11
+  "bot_word_count": 11,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

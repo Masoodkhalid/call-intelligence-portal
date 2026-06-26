@@ -86,5 +86,7 @@
   },
   "bot_text": "Hello. Are you there? Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approvals. So to get your file updated, do you have both Medicare Part A and Part B? Who are you? So I'm calling from Nova Health Care to share some information about the 2026 Medicare update with new benefits like dental, vision, hearing, cashback up to $250, food and flex cards, all in one plan. We work with leading companies and qualifying is easy. So you're enrolled in both Part A and Part B of Medicare, right?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 115
+  "bot_word_count": 115,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

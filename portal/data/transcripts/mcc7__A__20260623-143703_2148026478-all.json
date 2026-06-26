@@ -57,5 +57,7 @@
   },
   "bot_text": "Hello? Uh, are you there? I couldn't hear you. Please try again. At the tone, please record your message. When you've finished recording, simply hang up or press pound for further options.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 32
+  "bot_word_count": 32,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

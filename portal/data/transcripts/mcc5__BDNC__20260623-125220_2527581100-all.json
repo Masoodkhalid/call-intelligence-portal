@@ -56,5 +56,7 @@
   },
   "bot_text": "Hello? Hi, thank you for coming to San Francisco. I was just saying about how it may help you. Hello?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 20
+  "bot_word_count": 20,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

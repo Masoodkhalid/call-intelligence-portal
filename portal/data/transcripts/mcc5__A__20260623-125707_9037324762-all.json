@@ -33,5 +33,7 @@
   },
   "bot_text": "Hello 4 7 6 2, Mary 8. If I don't answer, leave a message, please.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 15
+  "bot_word_count": 15,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

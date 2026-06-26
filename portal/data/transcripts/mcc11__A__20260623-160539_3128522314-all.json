@@ -137,5 +137,7 @@
   },
   "bot_text": "Hello? Speaker. Hello. Good afternoon. This is Elizabeth. I'm not available. I'm following because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Illinois State Relief Program. Have you been notified about these benefits yet? Well, I really want to help you get this taken care of as these benefits are time sensitive. So you do have Medicare Part A and B, right? Can you hear me? I would suggest you have Medicare Part A and Part B. To mark your message urgent, press 2. To mark your message private, press 3. To send your message as is, press pound. Are you?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 110
+  "bot_word_count": 110,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

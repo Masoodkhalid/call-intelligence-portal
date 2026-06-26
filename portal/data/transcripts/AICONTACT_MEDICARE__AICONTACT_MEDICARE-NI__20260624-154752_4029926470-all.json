@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NI__20260624-154752_4029926470-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-NI",
-  "dispo_label": "AICONTACT_MEDICARE-NI",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
   "date": "2026-06-24",
   "time": "15:47:52",
   "phone": "4029926470",
@@ -86,5 +86,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 61
+  "bot_word_count": 61,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

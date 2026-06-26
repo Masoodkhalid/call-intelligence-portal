@@ -153,5 +153,7 @@
   },
   "bot_text": "\"Hello?\" \"Hello?\" \"Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina state relief program So far, have you received any updates or notifications about this yet?\" \"No, I haven't.\" \"Oh, that's alright That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes?\" \"Yes.\" \"Perfect.\" \"You qualified for the benefit.\" \"I'm boarding you to our supervisor Please hold on.\" \"Hi, thank you.\" \"No, don't watch both of your line My name is Eric Wilson",
   "post_transfer_trimmed": true,
-  "bot_word_count": 111
+  "bot_word_count": 111,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

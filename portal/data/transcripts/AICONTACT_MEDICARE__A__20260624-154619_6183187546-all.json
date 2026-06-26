@@ -56,5 +56,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 31
+  "bot_word_count": 31,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

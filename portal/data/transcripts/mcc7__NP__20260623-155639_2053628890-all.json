@@ -50,5 +50,7 @@
   },
   "bot_text": "Hello. Hello. Good afternoon. My name is Anna. How are you doing today? I'm good. How are you? So how's your day going? I'm doing great. Thanks. I'm calling about the updated Medicare plans. You may now qualify.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 38
+  "bot_word_count": 38,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

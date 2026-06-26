@@ -43,5 +43,7 @@
   },
   "bot_text": "Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through",
   "post_transfer_trimmed": false,
-  "bot_word_count": 27
+  "bot_word_count": 27,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

@@ -90,5 +90,7 @@
   },
   "bot_text": "Hello? Hello? Hi, this is Chris speaking. Are you doing good? All right. That's so good to hear. So while I have you here real quick, do you have both Part A and Part B of Medicare? Hey, are you still there? I was just asking, you do have both Part A and Part B of Medicare, right? Thank you.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 60
+  "bot_word_count": 60,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

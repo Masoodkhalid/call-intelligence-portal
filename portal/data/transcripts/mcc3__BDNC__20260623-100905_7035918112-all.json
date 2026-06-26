@@ -62,5 +62,7 @@
   },
   "bot_text": "Hello. Good morning. My name is Cassie. I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. I can verify it real quick. You do have both Part A and Part B, so let's make an appointment. We are a business, and we like to work with people with cars, which is really amazing because we like to give out informative stuff. So...",
   "post_transfer_trimmed": false,
-  "bot_word_count": 83
+  "bot_word_count": 83,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

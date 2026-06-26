@@ -79,5 +79,7 @@
   },
   "bot_text": "Hello? Hello? Good afternoon, this is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Arkansas State Relief Program. So, have you received any notification about these benefits yet? I don't have medicine. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 63
+  "bot_word_count": 63,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

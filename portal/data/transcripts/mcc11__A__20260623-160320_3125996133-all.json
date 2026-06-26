@@ -65,5 +65,7 @@
   },
   "bot_text": "Hello? Is not available. Are you there? Your message after the tone. After you have finished your message.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 18
+  "bot_word_count": 18,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

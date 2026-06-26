@@ -47,5 +47,7 @@
   },
   "bot_text": "Hello? You have reached a one transportation. Leave your name and number and I'll give back to you.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 18
+  "bot_word_count": 18,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

@@ -52,5 +52,7 @@
   },
   "bot_text": "Hello? Hello? And I'm not able to pick up the sign with this comment. If you leave a message, and a telephone number, and a detailed message, I will call you back at my...",
   "post_transfer_trimmed": false,
-  "bot_word_count": 34
+  "bot_word_count": 34,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

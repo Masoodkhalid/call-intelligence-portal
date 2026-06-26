@@ -165,5 +165,7 @@
   },
   "bot_text": "Hello. Hello. Good afternoon. My name is Sophie. I'm reaching out because we're running a quick coverage gap audit before the December 7th cut-off. Basically, a four-minute check on what your current plan actually pays versus what you personally owe out of pocket. Most people haven't had anyone walk them through that, and the numbers can be pretty eye-opening. We want to get to you before that window closes. Can you let me know if you have both Medicare Part A and Part B? I do. You have qualified for the updates. Give me a second to connect to you. Okay. Thank you so much for holding on the line. My name is David. I'll read you. Hi. All right. And this call is not a gas. So you're in bad your Medicare benefit and savings that you have Medicare Part A and Part B, right? Thank you. All right. So, ma'am, what is your zip code? Okay. First off, I'm not doing this. And then secondly, we take my name off of the calling list. Because you'll call me every single day. All right. I'll bet your number of the not call list right away. It will take 24 to 48 hours. Please remove the number of more database. Have a great day, ma'am.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 215
+  "bot_word_count": 215,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

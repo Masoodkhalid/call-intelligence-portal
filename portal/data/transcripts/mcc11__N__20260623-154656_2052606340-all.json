@@ -2,7 +2,7 @@
   "id": "mcc11__N__20260623-154656_2052606340-all",
   "campaign": "mcc11",
   "dispo": "N",
-  "dispo_label": "No Response",
+  "dispo_label": "No Answer",
   "date": "2026-06-23",
   "time": "15:46:56",
   "phone": "2052606340",
@@ -33,5 +33,7 @@
   },
   "bot_text": "[BLANK_AUDIO]",
   "post_transfer_trimmed": false,
-  "bot_word_count": 1
+  "bot_word_count": 1,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

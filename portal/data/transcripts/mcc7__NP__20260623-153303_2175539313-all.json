@@ -37,5 +37,7 @@
   },
   "bot_text": "Hello. Good afternoon. My name is Anna. So new Medicare benefits have just been released, including record low prescription caps and expanded care.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 23
+  "bot_word_count": 23,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

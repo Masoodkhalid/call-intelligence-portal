@@ -47,5 +47,7 @@
   },
   "bot_text": "- Hello? - Good children, how can I help you? Starbucks, and even a Build-A-Bear workshop. Make sure to explore when I'm...",
   "post_transfer_trimmed": false,
-  "bot_word_count": 22
+  "bot_word_count": 22,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

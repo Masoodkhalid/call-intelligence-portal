@@ -43,5 +43,7 @@
   },
   "bot_text": "Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Colorado's state relief program.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 30
+  "bot_word_count": 30,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

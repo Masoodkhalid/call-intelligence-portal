@@ -37,5 +37,7 @@
   },
   "bot_text": "Hello? Hello? Yes, St. Francis Manor? How may I help you?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 11
+  "bot_word_count": 11,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

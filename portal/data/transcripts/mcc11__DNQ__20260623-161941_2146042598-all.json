@@ -121,5 +121,7 @@
   },
   "bot_text": "Hello. Hey. Hello, good afternoon. This is Evelyn. So, I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program. So, have you received any notification about these benefits yet? Oh, no, I'm doing this. Okay, well, it's really important that you know what you're entitled to, and I want to help you get these benefits sorted out. You're on both Part A and Part B, I assume? No, I'm just saying. Sorry, but you do not seem to qualify for the plans that we have. Have a great day. Thank you.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 104
+  "bot_word_count": 104,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

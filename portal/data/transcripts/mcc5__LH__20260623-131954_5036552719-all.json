@@ -132,5 +132,7 @@
   },
   "bot_text": ">> Hello. >> Who's calling? >> Are you there? >> Yes. >> Who's calling? >> Hi, good morning. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Oregon State Relief Program. So have you received any notification about these benefits yet? >> I don't need any help and I wouldn't qualify. So we actually work with the largest network of Medicare providers and I'd love to help you get your eligibility sorted out. You're on part A and part B, I take it.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 98
+  "bot_word_count": 98,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

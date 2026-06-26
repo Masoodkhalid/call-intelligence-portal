@@ -131,5 +131,7 @@
   },
   "bot_text": "Hello. Who is this? Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Utah State Relief Program. So, have you been notified about these benefits yet? No. Thank you. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part B, yes? No, thank you.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 81
+  "bot_word_count": 81,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-RAXFER__20260624-103743_9107590629-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-RAXFER",
-  "dispo_label": "HALINK_HIHALINK_FE-RAXFER",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
   "date": "2026-06-24",
   "time": "10:37:43",
   "phone": "9107590629",
@@ -57,5 +57,7 @@
     "transfer": true,
     "disqualify": false
   },
-  "bot_word_count": 78
+  "bot_word_count": 78,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

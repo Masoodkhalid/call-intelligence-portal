@@ -157,5 +157,7 @@
   },
   "bot_text": "Hello? Hello Good afternoon Good afternoon My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals So you do have both part A and part B, right? So what do I need to do? All questions will be covered by our specialist I'll transfer you after checking your eligibility The 2026 benefits include vision, dental, hearing, flex and food cards",
   "post_transfer_trimmed": true,
-  "bot_word_count": 80
+  "bot_word_count": 80,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

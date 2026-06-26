@@ -62,5 +62,7 @@
   },
   "bot_text": "Hello. Sorry we missed your call, but if you leave your name and number, the message will try to get back to you just as soon as possible. We hope you're having a great day. Thanks again. Bye bye now.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 40
+  "bot_word_count": 40,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

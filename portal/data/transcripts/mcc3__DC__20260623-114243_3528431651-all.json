@@ -42,5 +42,7 @@
   },
   "bot_text": "Hello. Are you there? Are you there? What do you need?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 11
+  "bot_word_count": 11,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

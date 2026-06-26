@@ -42,5 +42,7 @@
   },
   "bot_text": "\"Hello.\" \"Hello.\" \"Hey, good evening. This is Evelyn. So, I'm calling because they're pending grocery and cash benefits worth up to $300 available.\"",
   "post_transfer_trimmed": false,
-  "bot_word_count": 23
+  "bot_word_count": 23,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

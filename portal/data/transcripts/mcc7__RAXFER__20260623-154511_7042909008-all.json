@@ -152,5 +152,7 @@
   },
   "bot_text": "Hello? Hello? Good afternoon My name is Anna Are you doing all right? Yeah, Anna I'm doing great Glad to hear that So I'm calling from Crescent Health Services and with the Medicare updates, you might now qualify for new benefits Can you confirm if you have Medicare Part A and B? I sure do That's perfect You're eligible for our plans Let me forward you to the benefit specialist Please hold Hi",
   "post_transfer_trimmed": true,
-  "bot_word_count": 73
+  "bot_word_count": 73,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

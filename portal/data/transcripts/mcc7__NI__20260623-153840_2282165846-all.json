@@ -75,5 +75,7 @@
   },
   "bot_text": "Hello. Are you there? Yes. Hello. Good afternoon. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Mississippi State Relief Program. So have you received any notification about these benefits yet? Yes. So I was asking if you received the notification about the pending credits on your Medicare plan.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 64
+  "bot_word_count": 64,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

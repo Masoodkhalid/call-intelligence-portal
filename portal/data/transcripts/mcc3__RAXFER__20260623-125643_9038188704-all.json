@@ -88,5 +88,7 @@
   },
   "bot_text": "Hello. Good morning. This is Sophie. I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff. It's a four-minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So can you let me know if you have both Medicare Part A and Part B? Yes. You have qualified for the updates. Give me a second to connect to you. Thank you for holding. My name is Sophie. How are you?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 108
+  "bot_word_count": 108,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

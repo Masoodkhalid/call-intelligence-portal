@@ -42,5 +42,7 @@
   },
   "bot_text": ">> Hello. >> Especially when you park next year, I hope it can help you.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 15
+  "bot_word_count": 15,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

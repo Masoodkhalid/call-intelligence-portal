@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BN__20260624-120040_5802228194-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-BN",
-  "dispo_label": "HALINK_HIHALINK_FE-BN",
+  "dispo": "BN",
+  "dispo_label": "Business Number",
   "date": "2026-06-24",
   "time": "12:00:40",
   "phone": "5802228194",
@@ -97,5 +97,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 172
+  "bot_word_count": 172,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

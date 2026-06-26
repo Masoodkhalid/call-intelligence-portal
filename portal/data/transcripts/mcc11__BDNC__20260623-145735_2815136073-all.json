@@ -47,5 +47,7 @@
   },
   "bot_text": "Hello? Are you there? Nicole is very important to us.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 10
+  "bot_word_count": 10,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

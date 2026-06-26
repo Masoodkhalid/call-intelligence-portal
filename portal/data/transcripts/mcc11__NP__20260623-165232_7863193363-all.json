@@ -65,5 +65,7 @@
   },
   "bot_text": "Hello? Is this on? Hi, this is Sarah. I'm reaching out because we pulled up your Medicare profile, and there's a note here showing you're 12.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 26
+  "bot_word_count": 26,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

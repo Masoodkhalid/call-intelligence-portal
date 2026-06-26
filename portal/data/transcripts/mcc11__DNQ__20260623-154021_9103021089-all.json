@@ -60,5 +60,7 @@
   },
   "bot_text": "Hello, hello, good afternoon, this is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars available on your Medicare account through North Carolina state relief program. So have you received any notification about these benefits yet? No, I'm not on Medicare. Goodbye. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 67
+  "bot_word_count": 67,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

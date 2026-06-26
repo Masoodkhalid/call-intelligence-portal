@@ -65,5 +65,7 @@
   },
   "bot_text": "Hello? Check the road out. How can I help you? Hello? Check the road out.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 15
+  "bot_word_count": 15,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

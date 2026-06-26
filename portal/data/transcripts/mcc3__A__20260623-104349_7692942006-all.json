@@ -67,5 +67,7 @@
   },
   "bot_text": "Hello? Hello. I'm a fan. Sorry I'm unable to take your call at this time. But if you would, please leave a name, a number, and a short brief message. And I'll be sure to return your call and my earliest convene. Gain.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 43
+  "bot_word_count": 43,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

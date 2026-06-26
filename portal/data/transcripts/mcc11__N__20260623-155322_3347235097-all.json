@@ -2,7 +2,7 @@
   "id": "mcc11__N__20260623-155322_3347235097-all",
   "campaign": "mcc11",
   "dispo": "N",
-  "dispo_label": "No Response",
+  "dispo_label": "No Answer",
   "date": "2026-06-23",
   "time": "15:53:22",
   "phone": "3347235097",
@@ -47,5 +47,7 @@
   },
   "bot_text": "Hello? Are you there? I am.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 6
+  "bot_word_count": 6,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

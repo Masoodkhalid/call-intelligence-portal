@@ -51,5 +51,7 @@
   },
   "bot_text": "Hello? Ms. last but speaking, how can I help you? Hello?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 11
+  "bot_word_count": 11,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

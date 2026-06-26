@@ -118,5 +118,7 @@
   },
   "bot_text": "Hello? Who is this? Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through the Florida State Relief Program. So have you been notified about these benefits yet? You never know what they're planning. Well, I'm just here to make sure you don't move out and to help you get everything processed. You do have both Part A and B of Medicare, right? No. Good. Sorry.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 82
+  "bot_word_count": 82,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

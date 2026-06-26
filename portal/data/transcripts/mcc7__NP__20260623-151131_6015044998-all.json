@@ -109,5 +109,7 @@
   },
   "bot_text": "Hello? Hello. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare new through Mississippi state relief programs. Have you been notified about these benefits yet? No. Oh, that's all right. That's exactly why I'm calling. I want to help you get these benefits processed before they go unclaimed. You're covered under both Part A and Part A.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 72
+  "bot_word_count": 72,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

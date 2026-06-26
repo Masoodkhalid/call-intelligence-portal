@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BN__20260624-090504_8326879741-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-BN",
-  "dispo_label": "HALINK_HIHALINK_FE-BN",
+  "dispo": "BN",
+  "dispo_label": "Business Number",
   "date": "2026-06-24",
   "time": "09:05:04",
   "phone": "8326879741",
@@ -138,5 +138,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 121
+  "bot_word_count": 121,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

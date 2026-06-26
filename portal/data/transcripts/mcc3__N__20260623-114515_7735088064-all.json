@@ -2,7 +2,7 @@
   "id": "mcc3__N__20260623-114515_7735088064-all",
   "campaign": "mcc3",
   "dispo": "N",
-  "dispo_label": "No Response",
+  "dispo_label": "No Answer",
   "date": "2026-06-23",
   "time": "11:45:15",
   "phone": "7735088064",
@@ -38,5 +38,7 @@
   },
   "bot_text": "Hello? Uh, are you there?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 5
+  "bot_word_count": 5,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

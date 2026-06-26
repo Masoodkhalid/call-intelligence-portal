@@ -113,5 +113,7 @@
   },
   "bot_text": "Hello. How can I help you? Hi, good morning. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. So have you received any notification about these benefits yet? Scam. Oh, no, no. This is not a scam. We actually sent you a notification about it as well. I just want to help you get these benefits processed. You're covered under both Part A and Part B, right? Scam. Oh, no, that's certainly not true. Yeah, you are on Part A and Part B of Medicare, aren't you? This is a business.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 110
+  "bot_word_count": 110,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

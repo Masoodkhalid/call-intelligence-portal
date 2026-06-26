@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BN__20260624-102000_8168945659-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-BN",
-  "dispo_label": "AICONTACT_MEDICARE-BN",
+  "dispo": "BN",
+  "dispo_label": "Business Number",
   "date": "2026-06-24",
   "time": "10:20:00",
   "phone": "8168945659",
@@ -72,5 +72,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 50
+  "bot_word_count": 50,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

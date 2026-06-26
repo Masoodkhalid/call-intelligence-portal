@@ -47,5 +47,7 @@
   },
   "bot_text": "Hello. I'll call you back as soon as we can. Thank you.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 12
+  "bot_word_count": 12,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

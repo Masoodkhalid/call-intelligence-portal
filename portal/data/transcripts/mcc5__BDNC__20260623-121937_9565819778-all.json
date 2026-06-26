@@ -42,5 +42,7 @@
   },
   "bot_text": "Hello? Bailey Bakery?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 3
+  "bot_word_count": 3,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

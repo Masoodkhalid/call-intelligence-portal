@@ -107,5 +107,7 @@
   },
   "bot_text": "- Hello. - Yes. - Good afternoon. My name is Anna. You doing all right? - Yeah. - So, I'm calling to inform you about the new Medicare benefits just released, like capped drug costs, doctor visits, and more. Could you let me know if you have Medicare Part A and B? - No. - Can you hear me? I was just asking if you have Medicare Part A and B. - No. - Unfortunately, you don't seem to qualify for the plans we're offering. Have a wonderful day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 89
+  "bot_word_count": 89,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

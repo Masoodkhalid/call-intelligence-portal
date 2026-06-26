@@ -57,5 +57,7 @@
   },
   "bot_text": "Hello? This is Scott, a car can't get to the phone right now, but your message is important to me. If you leave your name and number and a brief message, I'll get back to you soon as I can. Thanks. Bye.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 42
+  "bot_word_count": 42,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

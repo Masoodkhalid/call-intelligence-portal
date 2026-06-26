@@ -118,5 +118,7 @@
   },
   "bot_text": "Hello? Hello. Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State release program. So have you been notified about these benefits yet? Yes, about 100 times a day. I don't have Medicare. Sorry, but you don't seem to qualify for the plans that we have. - I know, I don't call him. - Have a great day. - Will you please put me in? Do not call it!",
   "post_transfer_trimmed": false,
-  "bot_word_count": 87
+  "bot_word_count": 87,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

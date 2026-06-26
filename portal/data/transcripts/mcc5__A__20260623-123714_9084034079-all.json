@@ -38,5 +38,7 @@
   },
   "bot_text": "Right now, leave your name and tell them to record your message. When you've finished recording, you may hang up or press 1 for more options.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 26
+  "bot_word_count": 26,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-152820_8172514572-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-A",
-  "dispo_label": "AICONTACT_MEDICARE-A",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
   "date": "2026-06-24",
   "time": "15:28:20",
   "phone": "8172514572",
@@ -75,5 +75,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 43
+  "bot_word_count": 43,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

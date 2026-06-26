@@ -137,5 +137,7 @@
   },
   "bot_text": "Hello Are you there? I just talked to you a lot ago Oh, my apologies This is actually the first time I've been asked to reach out to you So, I'm calling because there may be pending grocery and cash benefits worth up to $300 available on your Medicare account through your state's release program, and I'd love to help you get those processed You do have both Part A and B, right? Yeah Perfect I don't want to test out the sound I am forwarding you to our supervisor Please hold on Thank you so much for holding on",
   "post_transfer_trimmed": true,
-  "bot_word_count": 100
+  "bot_word_count": 100,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

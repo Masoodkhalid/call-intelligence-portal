@@ -60,5 +60,7 @@
   },
   "bot_text": "Hey. Hello. What's going on? Good afternoon. This is Jacob. Oh, so I'm calling because there are pending grocery and cash benefits up to 300 dollars available on your Medicare account through.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 32
+  "bot_word_count": 32,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

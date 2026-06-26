@@ -1,8 +1,8 @@
 {
   "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-LB__20260625-114158_7039353482-all",
   "campaign": "EMPAXCO3_SOLAR",
-  "dispo": "EMPAXCO3_SOLAR-LB",
-  "dispo_label": "EMPAXCO3_SOLAR-LB",
+  "dispo": "LB",
+  "dispo_label": "Left Blank / No Response",
   "date": "2026-06-25",
   "time": "11:41:58",
   "phone": "7039353482",
@@ -33,5 +33,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 1
+  "bot_word_count": 1,
+  "company": "Empaxco3",
+  "campaign_name": "Solar"
 }

@@ -51,5 +51,7 @@
   },
   "bot_text": "Good afternoon. My name is Cassie. I'm calling because your Medicare member profile has a nice name. The base for 22. So you do have both part A and part B, right?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 32
+  "bot_word_count": 32,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

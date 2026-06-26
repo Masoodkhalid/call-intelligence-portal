@@ -51,5 +51,7 @@
   },
   "bot_text": "Hello? Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you, and we're all set. Do you have Part A and Part B? Sorry, it looks like you don't qualify for the plan. Have a great day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 51
+  "bot_word_count": 51,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

@@ -817,5 +817,7 @@
   },
   "bot_text": "Hello? Hello? Good afternoon This is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program So have you been notified about these benefits yet? I had you about 15 calls a day about different stuff that I'm supposed to be eligible for because I'm on- I'm really sorry about that I'm just here to make sure you're aware of your rights and to help you get these benefits processed You're on both Part A and Part B, right? Yes And I'm on those stamps Since you already have the Advantage Plan, these credits can easily be processed on your account Please hold while I get that done for you Okay",
   "post_transfer_trimmed": true,
-  "bot_word_count": 127
+  "bot_word_count": 127,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

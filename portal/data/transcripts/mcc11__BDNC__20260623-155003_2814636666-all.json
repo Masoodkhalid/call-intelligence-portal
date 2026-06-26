@@ -37,5 +37,7 @@
   },
   "bot_text": "Hello. Hi, this is Claudia here, it's getting preaching fine.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 10
+  "bot_word_count": 10,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

@@ -57,5 +57,7 @@
   },
   "bot_text": "\"Hello?\" \"Hi.\" \"Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through main state relief program. So, have you been notified about these benefits yet?\" \"Listen, this is a municipal wastewater treatment plan. We treat people's storage here. I don't know who you think you're calling, but I'm not an individual, I'm a business utility company.\"",
   "post_transfer_trimmed": false,
-  "bot_word_count": 72
+  "bot_word_count": 72,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

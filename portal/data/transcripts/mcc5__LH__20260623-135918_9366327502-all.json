@@ -71,5 +71,7 @@
   },
   "bot_text": "Hello? Yes. Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. You have both part A and part B.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 44
+  "bot_word_count": 44,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

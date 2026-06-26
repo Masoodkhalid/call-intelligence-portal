@@ -94,5 +94,7 @@
   },
   "bot_text": "Hello? Hey, how are you doing? I'm doing well. Thank you. The reason I'm calling is because there may be pending grocery and cash benefits worth up to 300 dollars available on your Medicare account through your state's relief program. And I just want to help you get those processed. You're on Medicare Part A and Part B, yes? Can you hear me? I was just asking if you have Medicare Part A and Part B.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 76
+  "bot_word_count": 76,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

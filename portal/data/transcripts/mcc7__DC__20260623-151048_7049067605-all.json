@@ -80,5 +80,7 @@
   },
   "bot_text": "Hello. Hello. Are you there? No. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 26
+  "bot_word_count": 26,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

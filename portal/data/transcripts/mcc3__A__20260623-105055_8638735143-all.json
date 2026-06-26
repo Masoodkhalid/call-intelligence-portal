@@ -52,5 +52,7 @@
   },
   "bot_text": "Hello? Is not available. Please leave your message after the tone. After you have finished your message, just hang up, or to hear more options, please press 1.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 28
+  "bot_word_count": 28,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

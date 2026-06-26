@@ -47,5 +47,7 @@
   },
   "bot_text": "Hello? Can't take your call now. At the tone, please record your message. When you've finished recording, simply hang up.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 20
+  "bot_word_count": 20,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

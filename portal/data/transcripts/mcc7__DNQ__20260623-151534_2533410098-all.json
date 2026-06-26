@@ -71,5 +71,7 @@
   },
   "bot_text": "Hello? Hello? Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through your state's relief program. So far, have you received any updates or notifications about this yet? No, I'm Mexican. I don't get Medicare. Sorry, but you don't seem to qualify for the plans that we have. Have a great",
   "post_transfer_trimmed": false,
-  "bot_word_count": 67
+  "bot_word_count": 67,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

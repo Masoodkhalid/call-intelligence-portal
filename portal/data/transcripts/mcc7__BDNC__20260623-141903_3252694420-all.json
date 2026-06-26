@@ -43,5 +43,7 @@
   },
   "bot_text": "Hello and not Husky construction. If you're trying to reach me, please leave your name, phone number, and the reason you were calling. And I will get back with you.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 30
+  "bot_word_count": 30,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

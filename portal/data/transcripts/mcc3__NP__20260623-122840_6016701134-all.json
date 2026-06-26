@@ -58,5 +58,7 @@
   },
   "bot_text": "Hello? Hello? Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's Medicare's.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 22
+  "bot_word_count": 22,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

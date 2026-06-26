@@ -62,5 +62,7 @@
   },
   "bot_text": "Hello? Hello? Good afternoon. My name is Anna. You doing all right? So how's your day going?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 17
+  "bot_word_count": 17,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

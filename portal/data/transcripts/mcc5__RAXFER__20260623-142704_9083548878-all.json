@@ -328,5 +328,7 @@
   },
   "bot_text": "Oh, hello? Hello There was no car in the garage, but we probably lost Hello Good afternoon My name is Cassie So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals So, you do have both part A and part B, right? Yes, you keep calling me the same question That might have been someone else This is my first time calling I know it's frustrating, and I'm sorry, I'm calling about 2026 Medicare benefits, including food, flex cards, and cash back up to $250 So, you do have both part A and part B of Medicare, right? Yes, because of whom you are you calling? So, being covered is one thing Staying up to date is another The new 2026 benefits are here, and I'm here to help you get the best plan So, how old are you? I'm 91, and I'm not qualified For your age, you're eligible for the benefits we have for multiple providers Our supervisors on the line connecting you now, okay? All right, the age assistance test You're almost there Let me connect you with our supervisor, okay? Okay",
   "post_transfer_trimmed": true,
-  "bot_word_count": 201
+  "bot_word_count": 201,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

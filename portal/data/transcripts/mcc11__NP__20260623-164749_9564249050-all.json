@@ -58,5 +58,7 @@
   },
   "bot_text": "Hello? Hello? Hi, this is Chelsea and I'm reaching out because we've pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you so your coverage doesn't get interrupted. [BLANK_AUDIO]",
   "post_transfer_trimmed": false,
-  "bot_word_count": 46
+  "bot_word_count": 46,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

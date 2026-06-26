@@ -84,5 +84,7 @@
   },
   "bot_text": "\"Hello?\" \"Good morning. This is-\" \"Good morning.\" \"I'm launching out because we're running a quick coverage gap audit for folks before the December 7th cutoff. It's about a four minute look at what your current plan actually pays versus what you'd owe out of pocket in a real situation. A lot of people assume their plan covers more than it actually does, and the gap only shows up when they need care. We just want to make sure you have the full picture before that deadline hits. So, can you let me know if you have both Medicare Part A and Part B? Sorry, you got cut off. I was asking if you have both Part A and B of Medicare?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 121
+  "bot_word_count": 121,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

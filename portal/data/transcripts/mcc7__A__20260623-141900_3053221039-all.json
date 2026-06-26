@@ -66,5 +66,7 @@
   },
   "bot_text": "Hello. Hello. Good afternoon. This is Evelyn. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So have you been notified about these benefits yet? Yes. So I was asking you to receive the notification about the pending credits on your Medicare plan. To mark your message urgent, press 2. To mark your message private, press 3. To send your message as is pressed pound. Are you still there?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 84
+  "bot_word_count": 84,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

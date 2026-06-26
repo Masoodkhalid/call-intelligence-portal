@@ -57,5 +57,7 @@
   },
   "bot_text": "Hello. As ours are Mondays and Wednesdays 8 to 5 with lunch from 1 to 2. If you have reached this message during normal business hours, we're currently assisting in other patients or stepped away from the desk. Please leave your name, your telephone number,",
   "post_transfer_trimmed": false,
-  "bot_word_count": 45
+  "bot_word_count": 45,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

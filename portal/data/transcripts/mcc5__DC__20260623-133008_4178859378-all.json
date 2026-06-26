@@ -64,5 +64,7 @@
   },
   "bot_text": "Hello. Hi. Can I help you? Hello. Good afternoon. This is Rachel, so I'm calling because they're pending grocery and cash benefits worth up to $300 available on your Medicare account through Missouri State Relief Program. So have you received any notification about these benefits yet? This is a business and I thank you for your call. Have a lovely day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 61
+  "bot_word_count": 61,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

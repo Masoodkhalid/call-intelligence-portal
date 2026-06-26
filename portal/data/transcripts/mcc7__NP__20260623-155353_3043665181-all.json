@@ -38,5 +38,7 @@
   },
   "bot_text": "\"Hello?\" \"What?\" \"My apology.\" \"What?\" \"This is actually the first time I've been asked to reach out to you.\" \"So I'm calling because there may be pending grocery and cash benefits worth up to $300 available on your Medicare account through your state's relief program.\"",
   "post_transfer_trimmed": false,
-  "bot_word_count": 45
+  "bot_word_count": 45,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

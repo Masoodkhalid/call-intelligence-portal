@@ -33,5 +33,7 @@
   },
   "bot_text": "I can't come to the plane right now, but leave your name and message and I'll get back to you as soon as possible, I think.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 26
+  "bot_word_count": 26,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

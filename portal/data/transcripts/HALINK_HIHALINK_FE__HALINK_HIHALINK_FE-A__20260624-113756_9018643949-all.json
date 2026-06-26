@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-A__20260624-113756_9018643949-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-A",
-  "dispo_label": "HALINK_HIHALINK_FE-A",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
   "date": "2026-06-24",
   "time": "11:37:56",
   "phone": "9018643949",
@@ -167,5 +167,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 176
+  "bot_word_count": 176,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

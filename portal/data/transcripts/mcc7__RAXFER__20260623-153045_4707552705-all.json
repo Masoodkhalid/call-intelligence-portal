@@ -1012,5 +1012,7 @@
   },
   "bot_text": "Hello Hello Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief Program So, have you received any notification about these benefits yet? No, I have It's a scam Oh, no This isn't a scam We actually sent you a notification about it as well I just want to help you get these benefits processed You're covered under both Part A and Part B, right? Yes, I am Perfect You qualify for the benefit I'm forwarding you to our supervisor Please hold on (inaudible) Hello",
   "post_transfer_trimmed": true,
-  "bot_word_count": 105
+  "bot_word_count": 105,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

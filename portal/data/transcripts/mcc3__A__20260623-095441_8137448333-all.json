@@ -52,5 +52,7 @@
   },
   "bot_text": "Hello? If you know your party's extension number, you may dial it at any time during this message. You may press the pound key for our dial by name directory. Press 1 to report your name.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 36
+  "bot_word_count": 36,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

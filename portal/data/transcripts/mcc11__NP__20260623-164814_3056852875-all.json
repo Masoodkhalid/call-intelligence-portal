@@ -47,5 +47,7 @@
   },
   "bot_text": "\"Hello?\" \"Viga?\" \"Hi, this is Chris speaking. How are you doing today?\" \"No, no speaking.\" \"Okay, I hear you, but before I go, I just want to ask you real quick. Do you have both part A and B?\"",
   "post_transfer_trimmed": false,
-  "bot_word_count": 39
+  "bot_word_count": 39,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BDNC__20260624-104534_7069980504-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-BDNC",
-  "dispo_label": "HALINK_HIHALINK_FE-BDNC",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
   "date": "2026-06-24",
   "time": "10:45:34",
   "phone": "7069980504",
@@ -90,5 +90,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 94
+  "bot_word_count": 94,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

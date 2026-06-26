@@ -61,5 +61,7 @@
   },
   "bot_text": "\"Hello?\" \"Hello?\" \"Good afternoon. My name is Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So, you do have both Part A and Part B, right?\" \"I lost Medicare.\" \"Sorry, you don't seem to qualify for the plans we have. Have a great day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 63
+  "bot_word_count": 63,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

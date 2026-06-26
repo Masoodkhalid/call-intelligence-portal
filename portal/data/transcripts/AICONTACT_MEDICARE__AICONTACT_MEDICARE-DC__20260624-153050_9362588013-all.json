@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DC__20260624-153050_9362588013-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-DC",
-  "dispo_label": "AICONTACT_MEDICARE-DC",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
   "date": "2026-06-24",
   "time": "15:30:50",
   "phone": "9362588013",
@@ -71,5 +71,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 60
+  "bot_word_count": 60,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

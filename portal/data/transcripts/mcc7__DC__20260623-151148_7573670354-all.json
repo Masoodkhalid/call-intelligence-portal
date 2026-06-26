@@ -72,5 +72,7 @@
   },
   "bot_text": "Hello? Hello? Good afternoon. This is Jacob. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Virginia State Relief Program. So far, have you received any updates or notifications about this yet? Yes. So, I was asking if you received the notification about the pending credits on your Medicare plan. Oh, okay, great. So, the notification has all the details, and I just want to help you get everything processed. You're enrolled in both Part A and Part B, aren't you?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 93
+  "bot_word_count": 93,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

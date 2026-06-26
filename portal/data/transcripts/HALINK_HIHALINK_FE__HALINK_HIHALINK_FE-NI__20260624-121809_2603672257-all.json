@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-NI__20260624-121809_2603672257-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-NI",
-  "dispo_label": "HALINK_HIHALINK_FE-NI",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
   "date": "2026-06-24",
   "time": "12:18:09",
   "phone": "2603672257",
@@ -94,5 +94,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 71
+  "bot_word_count": 71,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

@@ -113,5 +113,7 @@
   },
   "bot_text": ">> Hey, hello. >> Hello, good afternoon. >> Please record your message when you've finished recording. >> I'm calling because there are pending grocery and trash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. So have you been notified about these benefits yet? >> Yes, so I've asked you for the notification about the pending credits on your Medicare plan? >> To mark your message urgent, press 2. To mark your message private, press 3. To send your message as is press pound. Are you still there?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 94
+  "bot_word_count": 94,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

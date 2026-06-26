@@ -73,5 +73,7 @@
   },
   "bot_text": "\"Hello?\" \"Hello?\" \"Yes.\" \"Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So, have you received any notification about these benefits yet?\" \"No, I am, but...\" \"Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes?\" \"Yeah, but they don't ask me all of that on the phone.\" \"Since you already have a Medicare plan, these credits can easily be processed on your account, please hold while I get that done for you.\" Thanks for going to think this is Adam How are you doing today?",
   "post_transfer_trimmed": true,
-  "bot_word_count": 130
+  "bot_word_count": 130,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

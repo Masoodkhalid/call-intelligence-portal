@@ -42,5 +42,7 @@
   },
   "bot_text": "Hello. Hello. Hi, good morning. This is Rachel. So I'm calling because they're pending grocery",
   "post_transfer_trimmed": false,
-  "bot_word_count": 15
+  "bot_word_count": 15,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

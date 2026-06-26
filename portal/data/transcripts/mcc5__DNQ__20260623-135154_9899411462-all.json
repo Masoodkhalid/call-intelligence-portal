@@ -69,5 +69,7 @@
   },
   "bot_text": "Hello. Yes. Hello. Good afternoon. This is Rachel. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program. So have you received any notification about these benefits yet? Well, first of all, I'm not on Medicare. Sorry, but you did not seem to qualify for the plans that we have. Have a great day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 69
+  "bot_word_count": 69,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

@@ -117,5 +117,7 @@
   },
   "bot_text": "Hello. At the tone. Hello. Good afternoon. When you finished recording. I'm calling these as they're off heading grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief Program. So, have you received any notification about these benefits yet? Yes, so I was asking you to receive the notification about the funding credits on your Medicare plan. March your message urgent press 2 to mark your message private press 3 to send your message as is press pound. Are you?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 87
+  "bot_word_count": 87,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

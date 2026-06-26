@@ -75,5 +75,7 @@
   },
   "bot_text": "\"Hello?\" \"Hello?\" \"Good afternoon. My name is Sophie. I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff. It's a four minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So, can you let me know if you have both Medicare Part A and Part B?\" \"No.\" \"I'm sorry. It looks like you don't meet the eligibility criteria for our benefit plans.\"",
   "post_transfer_trimmed": false,
-  "bot_word_count": 101
+  "bot_word_count": 101,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-LB__20260624-130125_2056652691-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-LB",
-  "dispo_label": "AICONTACT_MEDICARE-LB",
+  "dispo": "LB",
+  "dispo_label": "Left Blank / No Response",
   "date": "2026-06-24",
   "time": "13:01:25",
   "phone": "2056652691",
@@ -38,5 +38,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 4
+  "bot_word_count": 4,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

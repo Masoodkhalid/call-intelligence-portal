@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DC__20260624-154329_6812058252-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-DC",
-  "dispo_label": "AICONTACT_MEDICARE-DC",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
   "date": "2026-06-24",
   "time": "15:43:29",
   "phone": "6812058252",
@@ -128,5 +128,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 122
+  "bot_word_count": 122,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

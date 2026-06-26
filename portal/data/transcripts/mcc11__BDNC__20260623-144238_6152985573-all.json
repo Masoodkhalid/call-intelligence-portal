@@ -116,5 +116,7 @@
   },
   "bot_text": ">> Go the name of the person or department you would like. >> I think you said hello. Good afternoon. This is Alyssa. I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Tennessee state relief program. So have you been notified about these benefits yet? >> Okay. >> The Ciletto just so you know, a lot of members haven't been notified yet and I just want to help you get these benefits processed. >> I think you said Part A and B, right? >> The selection was not valid. Please tell me the option you want to choose again. I think you said help. Is that correct? Say yes or no, or press one for yes or two for no.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 130
+  "bot_word_count": 130,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

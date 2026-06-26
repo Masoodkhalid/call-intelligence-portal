@@ -75,5 +75,7 @@
   },
   "bot_text": "Hello? Are you? Good afternoon, this is Jacob. I've got you. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program. So, have you received any notification about these benefits yet? So, I was asking if you received the notification about the pending credits on your Medicare plan?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 63
+  "bot_word_count": 63,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

@@ -48,5 +48,7 @@
   },
   "bot_text": "Shoppers world, you have reached our shoppers and the location, located at 3919 Lafayette Road in the Annapolis, Indiana. Please look carefully and make your selection at any time. For sure, hours, please press 2. For any questions or to speak to someone at this location, please press NOT.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 49
+  "bot_word_count": 49,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

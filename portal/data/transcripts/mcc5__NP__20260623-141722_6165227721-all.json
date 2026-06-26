@@ -47,5 +47,7 @@
   },
   "bot_text": "Hello. Hello. Good afternoon. My name is Sophie. I'm reaching out because we're running a quick coverage gap audit for folks before the December 7 cutoff. It's about a four-minute look at what your",
   "post_transfer_trimmed": false,
-  "bot_word_count": 34
+  "bot_word_count": 34,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

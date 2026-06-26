@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NP__20260624-144221_8644922399-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-NP",
-  "dispo_label": "AICONTACT_MEDICARE-NP",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
   "date": "2026-06-24",
   "time": "14:42:21",
   "phone": "8644922399",
@@ -56,5 +56,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 28
+  "bot_word_count": 28,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

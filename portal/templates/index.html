@@ -126,9 +126,11 @@ function renderDashboard(){
   const dc=s.dispo_counts||{}, dl=s.dispo_labels||{};
   const sorted=Object.entries(dc).sort((a,b)=>b[1]-a[1]);
   const max=Math.max(1,...sorted.map(x=>x[1]));
-  let camps='';
-  for(const [c,st] of Object.entries(s.campaigns||{})){
-    camps+=`<tr><td><b>${c}</b></td><td>${st.count}</td><td>${st.wins}</td>
+  // Use companies (mcc3, mcc5, Halink, aicontact, …)
+  let comps='';
+  for(const [c,st] of Object.entries(s.companies||{})){
+    const camps=(st.campaigns||[]).join(', ')||'—';
+    comps+=`<tr><td><b>${c}</b></td><td class="muted">${camps}</td><td>${st.count}</td><td>${st.wins}</td>
       <td><span class="tag win">${pct(st.transfer_rate)}</span></td></tr>`;
   }
   let rows='';
@@ -146,8 +148,8 @@ function renderDashboard(){
     </div>
     <h2>Dispositions</h2>
     <div class="card"><table><thead><tr><th>Disposition</th><th>Calls</th><th></th></tr></thead><tbody>${rows}</tbody></table></div>
-    <h2>By Campaign</h2>
-    <div class="card"><table><thead><tr><th>Campaign</th><th>Calls</th><th>Transfers</th><th>Rate</th></tr></thead><tbody>${camps}</tbody></table></div>`;
+    <h2>By Company</h2>
+    <div class="card"><table><thead><tr><th>Company</th><th>Campaign</th><th>Calls</th><th>Transfers</th><th>Rate</th></tr></thead><tbody>${comps}</tbody></table></div>`;
 }
 
 // ---- Transcripts -----------------------------------------------------------
@@ -155,32 +157,47 @@ function dispoOptions(){
   return Object.keys(SUMMARY.dispo_labels||{}).sort()
     .map(d=>`<option value="${d}">${d} — ${SUMMARY.dispo_labels[d]}</option>`).join('');
 }
-function campOptions(){
-  return Object.keys(SUMMARY.campaigns||{}).sort()
+function companyOptions(){
+  return (SUMMARY.all_companies||[])
+    .map(c=>`<option value="${c}">${c}</option>`).join('');
+}
+function campaignOptions(){
+  return (SUMMARY.all_campaigns||[])
     .map(c=>`<option value="${c}">${c}</option>`).join('');
 }
 async function loadTranscripts(){
   if(!$('#tx-controls')){
     $('#transcripts').innerHTML=`
       <div class="row" id="tx-controls">
-        <select id="f-camp"><option value="">All campaigns</option>${campOptions()}</select>
+        <select id="f-company"><option value="">All companies</option>${companyOptions()}</select>
+        <select id="f-campaign"><option value="">All campaigns</option>${campaignOptions()}</select>
         <select id="f-dispo"><option value="">All dispositions</option>${dispoOptions()}</select>
-        <input id="f-q" placeholder="search transcript text…" style="flex:1;min-width:200px">
+        <input id="f-q" placeholder="search transcript text…" style="flex:1;min-width:180px">
         <button onclick="loadTranscripts()" class="chip">Search</button>
       </div>
       <div class="card" id="tx-list">loading…</div>`;
     $('#f-q').addEventListener('keydown',e=>{if(e.key==='Enter')loadTranscripts();});
   }
-  const camp=$('#f-camp').value, dispo=$('#f-dispo').value, q=$('#f-q').value;
-  const d=await api(`/api/calls?campaign=${camp}&dispo=${dispo}&q=${encodeURIComponent(q)}`);
+  const company=$('#f-company').value;
+  const campaign=$('#f-campaign').value;
+  const dispo=$('#f-dispo').value;
+  const q=$('#f-q').value;
+  const url=`/api/calls?company=${encodeURIComponent(company)}&campaign=${encodeURIComponent(campaign)}&dispo=${encodeURIComponent(dispo)}&q=${encodeURIComponent(q)}`;
+  const d=await api(url);
   let rows=d.calls.map(c=>`<tr class="callrow" onclick="openCall('${c.id}')">
-    <td>${c.date} ${c.time}</td><td>${c.campaign}</td>
+    <td>${c.phone||'—'}</td>
+    <td><b>${c.company}</b></td>
+    <td>${c.campaign_name}</td>
     <td><span class="tag ${FLOWS[c.dispo]&&FLOWS[c.dispo].is_win?'win':''}">${c.dispo}</span></td>
-    <td>${c.phone}</td><td>${c.duration}s</td>
-    <td class="muted">${c.preview||''}…</td></tr>`).join('');
+    <td class="muted">${c.date}</td>
+    <td>${c.duration}s</td>
+    <td class="muted" style="max-width:280px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis">${c.preview||''}…</td>
+    </tr>`).join('');
   $('#tx-list').innerHTML=`<div class="muted" style="margin-bottom:8px">${d.count} calls</div>
-    <table><thead><tr><th>When</th><th>Campaign</th><th>Dispo</th><th>Phone</th><th>Dur</th><th>Preview</th></tr></thead>
-    <tbody>${rows||'<tr><td colspan=6 class=muted>no matches</td></tr>'}</tbody></table>`;
+    <table><thead><tr>
+      <th>Phone</th><th>Company</th><th>Campaign</th><th>Disposition</th><th>Date</th><th>Duration</th><th>Preview</th>
+    </tr></thead>
+    <tbody>${rows||'<tr><td colspan=7 class=muted>no matches</td></tr>'}</tbody></table>`;
 }
 async function openCall(cid){
   const t=await api('/api/call/'+cid);
@@ -188,8 +205,10 @@ async function openCall(cid){
     <div class="who">${x.speaker==='BOT'?'🤖 BOT':'🧑 CUST'}</div>
     <div class="txt">${x.text}</div></div>`).join('') ||
     `<pre>${t.text||'(no speech detected)'}</pre>`;
+  const company = t.company || t.campaign;
+  const campName = t.campaign_name || 'Medicare';
   $('#modal-body').innerHTML=`
-    <h2 style="margin-top:0">${t.campaign} · <span class="tag">${t.dispo}</span> ${t.dispo_label}</h2>
+    <h2 style="margin-top:0">${company} · ${campName} · <span class="tag">${t.dispo}</span> ${t.dispo_label}</h2>
     <div class="muted">${t.date} ${t.time} · ${t.phone} · ${t.duration}s</div>
     <audio controls src="/api/audio/${cid}"></audio>
     <div>${turns}</div>`;

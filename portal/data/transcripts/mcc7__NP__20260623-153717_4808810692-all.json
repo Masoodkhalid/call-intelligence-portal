@@ -116,5 +116,7 @@
   },
   "bot_text": "Hello? Hello? Yes. Hello? Yes. Good afternoon. My name is Anna. How are you doing today? Okay. I'm so glad to hear that. So I'm calling from Crescent Health Services. And with the Medicare updates, you might now qualify for new benefits.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 42
+  "bot_word_count": 42,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

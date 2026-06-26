@@ -42,5 +42,7 @@
   },
   "bot_text": "Hello? Hi, yes, this is Shelley with Lakeside Family Dentistry. Happy to help you.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 14
+  "bot_word_count": 14,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

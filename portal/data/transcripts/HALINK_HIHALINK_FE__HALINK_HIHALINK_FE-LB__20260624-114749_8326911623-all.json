@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-LB__20260624-114749_8326911623-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-LB",
-  "dispo_label": "HALINK_HIHALINK_FE-LB",
+  "dispo": "LB",
+  "dispo_label": "Left Blank / No Response",
   "date": "2026-06-24",
   "time": "11:47:49",
   "phone": "8326911623",
@@ -38,5 +38,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 45
+  "bot_word_count": 45,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

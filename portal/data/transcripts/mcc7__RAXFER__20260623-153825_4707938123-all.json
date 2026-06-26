@@ -238,5 +238,7 @@
   },
   "bot_text": "Hello? Yes? Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief Program So, have you been notified about these benefits yet? I heard that, but I don't know about that Oh, that's all right So, a lot of members haven't received notification about these yet, and that's exactly why I'm calling I want to help you get this sorted out You on both part A and B, right? Correct Can you hear me? I was just asking if you have Medicare part A and part B I said, yes Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on Thanks for holding on the line",
   "post_transfer_trimmed": true,
-  "bot_word_count": 130
+  "bot_word_count": 130,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

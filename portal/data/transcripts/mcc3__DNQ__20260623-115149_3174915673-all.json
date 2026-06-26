@@ -75,5 +75,7 @@
   },
   "bot_text": "Hello? Who's this? Hi, good morning, this is Rachel. So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Indiana State Relief Program. So, have you been notified about these benefits yet? I don't even have Medicaid. Sorry, but you didn't know that.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 54
+  "bot_word_count": 54,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

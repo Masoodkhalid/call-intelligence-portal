@@ -52,5 +52,7 @@
   },
   "bot_text": "Hello? Hello? Hi, this is Chelsea, and I'm reaching out because we pulled up your Medicare profile and there's And a note here is showing your--",
   "post_transfer_trimmed": false,
-  "bot_word_count": 26
+  "bot_word_count": 26,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

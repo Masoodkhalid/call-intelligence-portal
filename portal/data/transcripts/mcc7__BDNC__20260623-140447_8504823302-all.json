@@ -80,5 +80,7 @@
   },
   "bot_text": "Hello? Vans, you're in our home. Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So far, have you received any updates or notifications about this yet? You should stay in general home to stay in general.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 58
+  "bot_word_count": 58,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

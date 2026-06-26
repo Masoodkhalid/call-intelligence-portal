@@ -47,5 +47,7 @@
   },
   "bot_text": "Good afternoon. My name is Sophie. You doing okay? Okay. But with Medicare Special Enrollment 2026 around the corner, we've got some fantastic new plans and benefits you won't want to miss. Quick question.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 34
+  "bot_word_count": 34,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

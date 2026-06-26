@@ -61,5 +61,7 @@
   },
   "bot_text": "Good afternoon. This is Jacob. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Georgia State Relief program. So have you been notified about these benefits yet? I'm not 65. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 59
+  "bot_word_count": 59,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

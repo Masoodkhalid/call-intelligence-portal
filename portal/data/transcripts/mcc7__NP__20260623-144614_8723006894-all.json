@@ -47,5 +47,7 @@
   },
   "bot_text": "Hello. Hello. Good afternoon. My name is Sophie. Are you doing okay? Time may I help you? I'm Sophie and I'm talking to you from Nova Health Care. I'm here to make sure that you secure the best benefits in the special environment.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 43
+  "bot_word_count": 43,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

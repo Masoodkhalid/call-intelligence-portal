@@ -45,5 +45,7 @@
   },
   "bot_text": "Hello. Hi. Are you there? Yeah. Hello. Good afternoon. This is Rachel. So I'm calling because there are",
   "post_transfer_trimmed": false,
-  "bot_word_count": 18
+  "bot_word_count": 18,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

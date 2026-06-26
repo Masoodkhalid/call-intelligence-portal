@@ -33,5 +33,7 @@
   },
   "bot_text": "Please leave a message at the tone when finished you may hang up or press pound for additional options.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 19
+  "bot_word_count": 19,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

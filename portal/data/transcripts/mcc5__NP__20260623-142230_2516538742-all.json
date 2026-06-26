@@ -48,5 +48,7 @@
   },
   "bot_text": "Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2020.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 26
+  "bot_word_count": 26,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

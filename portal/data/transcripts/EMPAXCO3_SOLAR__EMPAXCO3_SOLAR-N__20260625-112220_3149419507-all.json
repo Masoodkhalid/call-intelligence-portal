@@ -1,8 +1,8 @@
 {
   "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-N__20260625-112220_3149419507-all",
   "campaign": "EMPAXCO3_SOLAR",
-  "dispo": "EMPAXCO3_SOLAR-N",
-  "dispo_label": "EMPAXCO3_SOLAR-N",
+  "dispo": "N",
+  "dispo_label": "No Answer",
   "date": "2026-06-25",
   "time": "11:22:20",
   "phone": "3149419507",
@@ -38,5 +38,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 6
+  "bot_word_count": 6,
+  "company": "Empaxco3",
+  "campaign_name": "Solar"
 }

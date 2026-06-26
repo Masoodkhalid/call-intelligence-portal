@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BN__20260624-120806_4177364500-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-BN",
-  "dispo_label": "HALINK_HIHALINK_FE-BN",
+  "dispo": "BN",
+  "dispo_label": "Business Number",
   "date": "2026-06-24",
   "time": "12:08:06",
   "phone": "4177364500",
@@ -75,5 +75,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 89
+  "bot_word_count": 89,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

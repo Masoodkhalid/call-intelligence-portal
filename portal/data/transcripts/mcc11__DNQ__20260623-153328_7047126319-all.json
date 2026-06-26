@@ -96,5 +96,7 @@
   },
   "bot_text": "Hello. Hi. Hello. Good afternoon. This is Alyssa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through North Carolina state relief program. So have you been notified about these benefits yet? Melissa, I don't have part A of Part B. I haven't had any Medicaid and a lot of Medicaid money. Sorry, but you don't seem to qualify for the plans that we have. Have a great day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 79
+  "bot_word_count": 79,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

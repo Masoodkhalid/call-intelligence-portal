@@ -108,7 +108,16 @@ def run():
 
     by_dispo = defaultdict(list)
     by_campaign = defaultdict(list)
+    by_company = defaultdict(list)
     for t in transcripts:
+        # back-fill company/campaign_name for old transcripts that lack them
+        if "company" not in t or "campaign_name" not in t:
+            company, campaign_name = C.parse_company_campaign(t.get("campaign", ""))
+            t["company"] = company
+            t["campaign_name"] = campaign_name
+        # re-normalize dispo in case it was saved with the full folder prefix
+        t["dispo"] = C.normalize_dispo(t["dispo"])
+        t["dispo_label"] = C.dispo_label(t["dispo"])
         # analyse only the bot-led portion (ignore post-transfer human agent talk)
         bt = C.bot_portion(t["text"])
         t["bot_text"] = bt
@@ -119,6 +128,7 @@ def run():
         C.save_json(os.path.join(C.TRANSCRIPTS_DIR, t["id"] + ".json"), t)
         by_dispo[t["dispo"]].append(t)
         by_campaign[t["campaign"]].append(t)
+        by_company[t["company"]].append(t)
 
     flows = {}
     for dispo, items in by_dispo.items():
@@ -153,21 +163,32 @@ def run():
     total = len(transcripts)
     wins = sum(1 for t in transcripts if C.dispo_is_win(t["dispo"]))
     dispo_counts = Counter(t["dispo"] for t in transcripts)
-    campaign_stats = {}
-    for camp, items in by_campaign.items():
+
+    # company stats
+    company_stats = {}
+    for comp, items in by_company.items():
         cn = len(items)
         cw = sum(1 for t in items if C.dispo_is_win(t["dispo"]))
-        campaign_stats[camp] = {
+        campaigns_in = sorted({t.get("campaign_name","?") for t in items})
+        company_stats[comp] = {
             "count": cn, "wins": cw,
             "transfer_rate": round(100 * cw / cn, 1),
+            "campaigns": campaigns_in,
             "dispo_counts": dict(Counter(t["dispo"] for t in items)),
         }
+
+    # unique companies and campaign names for UI filters
+    all_companies  = sorted({t.get("company","?")       for t in transcripts})
+    all_campaigns  = sorted({t.get("campaign_name","?") for t in transcripts})
+
     summary = {
         "total_calls": total, "transfers": wins,
         "transfer_rate": round(100 * wins / total, 1),
         "dispo_counts": dict(dispo_counts),
         "dispo_labels": {k: C.dispo_label(k) for k in dispo_counts},
-        "campaigns": campaign_stats,
+        "companies": company_stats,
+        "all_companies": all_companies,
+        "all_campaigns": all_campaigns,
         "avg_duration": round(sum(t["duration"] for t in transcripts) / total, 1),
     }
     C.save_json(os.path.join(C.ANALYSIS_DIR, "summary.json"), summary)

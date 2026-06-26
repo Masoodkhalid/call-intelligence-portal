@@ -99,5 +99,7 @@
   },
   "bot_text": "Hello? Hello? I'm going to need to download the app? Yes. Okay. Thank you. Thank you. Hello? Hey. This is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 35
+  "bot_word_count": 35,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

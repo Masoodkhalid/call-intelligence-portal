@@ -156,5 +156,7 @@
   },
   "bot_text": "Hello? What's good? All of that? Good morning. This is Sophie. You see that number. I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff. All of that. It's a four minute look at what your plan actually covers versus what comes out of your own pocket when you need care. Most people are genuinely surprised by the difference. We're just trying to reach everyone on the list before that deadline. So can you let me know if you have both Medicare Part A and Part B? Sorry, you got cut off. I will ask you to message Part A and B of Medicare- To mark your message urgent, press 2. To mark your message private, press 3. Descend your message as is, press pound. are used to.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 136
+  "bot_word_count": 136,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

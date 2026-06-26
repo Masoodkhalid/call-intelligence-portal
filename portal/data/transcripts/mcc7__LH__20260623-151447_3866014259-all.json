@@ -47,5 +47,7 @@
   },
   "bot_text": "Hello? I don't, y'all don't want to call me. Yeah.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 10
+  "bot_word_count": 10,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

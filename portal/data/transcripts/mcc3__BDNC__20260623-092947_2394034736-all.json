@@ -37,5 +37,7 @@
   },
   "bot_text": "Hello. Green door nursery.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 4
+  "bot_word_count": 4,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

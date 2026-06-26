@@ -43,5 +43,7 @@
   },
   "bot_text": "Take your phone now. At the tone, please record your message. When you've finished recording, simply hang up or press pound for further options.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 24
+  "bot_word_count": 24,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

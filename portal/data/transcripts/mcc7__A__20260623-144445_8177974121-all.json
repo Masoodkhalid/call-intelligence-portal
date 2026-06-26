@@ -66,5 +66,7 @@
   },
   "bot_text": "Hello. Are you there? Do you rerecord or add to your message, press 1. To mark your message urgent, press 2. To mark your message private, press 3. To send your message as is press pound.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 36
+  "bot_word_count": 36,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

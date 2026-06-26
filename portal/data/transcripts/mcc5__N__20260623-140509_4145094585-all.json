@@ -2,7 +2,7 @@
   "id": "mcc5__N__20260623-140509_4145094585-all",
   "campaign": "mcc5",
   "dispo": "N",
-  "dispo_label": "No Response",
+  "dispo_label": "No Answer",
   "date": "2026-06-23",
   "time": "14:05:09",
   "phone": "4145094585",
@@ -42,5 +42,7 @@
   },
   "bot_text": "At the telling, please record your message. When you've finished recording you may hang up or press 1 for more options. Can you hear me?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 25
+  "bot_word_count": 25,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

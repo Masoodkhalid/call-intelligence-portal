@@ -42,5 +42,7 @@
   },
   "bot_text": "Hello. Hi. Yeah. Hi, this is Chelsea and I'm reaching out because we pulled up your.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 16
+  "bot_word_count": 16,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

@@ -213,5 +213,7 @@
   },
   "bot_text": "Hello. Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approvals. So to get your file updated, do you have both Medicare Part A and Part B? Yeah. Okay. You do qualify forwarding you to our supervisor. Now what they need to do is just nice double for dinner and breathe. Thank you for holding this as David Williams. How are you doing today? They're doing pretty good. All right. Great. This call is in regard to inquiry about your Medicare benefits and savings. So do you have Medicare Part A and B? No, but I'm going to McDonald's, do you want anything McDonald's? Yeah, but I would love to have McDonald's ice cream. Ah, I love McDonald's ice cream. That's the best, but now I appreciate your offer. If you could take this one, it's a company of fun. I would love to have Pineapple, Pineapple, Pineapple ice cream. You know, I haven't had that in a long time. Oh, I can invite you for that if you want to. No, sir, I appreciate it. But I tell you what, if you could take my phone number off your list, this is a company phone. I'd appreciate it. I would love to put you in the nuts call list. Thank you. Thank you.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 239
+  "bot_word_count": 239,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

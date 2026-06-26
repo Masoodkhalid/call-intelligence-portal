@@ -33,5 +33,7 @@
   },
   "bot_text": "You",
   "post_transfer_trimmed": false,
-  "bot_word_count": 1
+  "bot_word_count": 1,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-N__20260624-143226_2526374870-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-N",
-  "dispo_label": "AICONTACT_MEDICARE-N",
+  "dispo": "N",
+  "dispo_label": "No Answer",
   "date": "2026-06-24",
   "time": "14:32:26",
   "phone": "2526374870",
@@ -38,5 +38,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 4
+  "bot_word_count": 4,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

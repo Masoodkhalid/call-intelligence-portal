@@ -73,5 +73,7 @@
   },
   "bot_text": "Hello. Hello. Good afternoon. This is Alissa. I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account. Hello. Your just state relief program. So far, have you received any updates or notifications about this yet? Hello. Hello. So just so you know, a lot of members haven't been notified yet and I just want to help you get the...",
   "post_transfer_trimmed": false,
-  "bot_word_count": 68
+  "bot_word_count": 68,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

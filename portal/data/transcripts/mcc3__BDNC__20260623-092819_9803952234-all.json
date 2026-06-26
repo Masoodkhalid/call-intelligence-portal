@@ -53,5 +53,7 @@
   },
   "bot_text": "Hello? Hello? Can you hear me? Can you hear me? Can you hear me?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 14
+  "bot_word_count": 14,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

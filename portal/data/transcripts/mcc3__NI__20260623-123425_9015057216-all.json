@@ -67,5 +67,7 @@
   },
   "bot_text": "She's my phone, but not me. Good morning. My name is Cassie, so I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals. So you do have both part A and part B, right? Hey, are you still there? I was just asking, you do have both part A and part B of Medicare, right?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 70
+  "bot_word_count": 70,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

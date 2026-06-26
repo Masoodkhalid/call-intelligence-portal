@@ -51,5 +51,7 @@
   },
   "bot_text": "Hello? This is a beauty shab. How may we help you? Hello?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 12
+  "bot_word_count": 12,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

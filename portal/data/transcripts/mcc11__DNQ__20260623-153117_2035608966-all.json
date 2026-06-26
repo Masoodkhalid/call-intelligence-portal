@@ -61,5 +61,7 @@
   },
   "bot_text": "Hello. Hello. Good afternoon. This is Rachel. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Connecticut State Relief Program. So far have you received any updates or notifications about this yet? I don't have Medicare policies to say. Sorry, but you did not seem to qualify for the plans that we have. Have a great day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 68
+  "bot_word_count": 68,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

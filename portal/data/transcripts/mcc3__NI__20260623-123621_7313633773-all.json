@@ -85,5 +85,7 @@
   },
   "bot_text": "Hello. Please say who you are calling. Hi. Good morning. This is Evelyn. So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Tennessee State Relief Program. So have you received any notification about these benefits yet? Yes, so I was asking if you received the notification about the pending credits on your Medicare plan.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 66
+  "bot_word_count": 66,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

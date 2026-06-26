@@ -169,5 +169,7 @@
     "transfer": true,
     "disqualify": false
   },
-  "bot_word_count": 206
+  "bot_word_count": 206,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

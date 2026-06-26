@@ -693,5 +693,7 @@
   },
   "bot_text": "Hello Hello? Hey, Chris here Good morning I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals So you do have both Part A and Part B, right? I'll do You qualify I'm forwarding you to our supervisor Please hold Okay",
   "post_transfer_trimmed": true,
-  "bot_word_count": 56
+  "bot_word_count": 56,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

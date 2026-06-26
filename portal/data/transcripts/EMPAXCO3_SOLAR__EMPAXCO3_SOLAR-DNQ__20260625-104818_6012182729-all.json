@@ -1,8 +1,8 @@
 {
   "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-DNQ__20260625-104818_6012182729-all",
   "campaign": "EMPAXCO3_SOLAR",
-  "dispo": "EMPAXCO3_SOLAR-DNQ",
-  "dispo_label": "EMPAXCO3_SOLAR-DNQ",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
   "date": "2026-06-25",
   "time": "10:48:18",
   "phone": "6012182729",
@@ -82,5 +82,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 63
+  "bot_word_count": 63,
+  "company": "Empaxco3",
+  "campaign_name": "Solar"
 }

@@ -53,5 +53,7 @@
   },
   "bot_text": "(phone ringing) - Hello Thank you for calling Tractor Supply in Murray We are open today from 8 a.m to 9 p.m Please hold for the next available team member",
   "post_transfer_trimmed": true,
-  "bot_word_count": 30
+  "bot_word_count": 30,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

@@ -2,7 +2,7 @@
   "id": "mcc3__N__20260623-123315_2812025074-all",
   "campaign": "mcc3",
   "dispo": "N",
-  "dispo_label": "No Response",
+  "dispo_label": "No Answer",
   "date": "2026-06-23",
   "time": "12:33:15",
   "phone": "2812025074",
@@ -38,5 +38,7 @@
   },
   "bot_text": "Hello? Are you there?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 4
+  "bot_word_count": 4,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

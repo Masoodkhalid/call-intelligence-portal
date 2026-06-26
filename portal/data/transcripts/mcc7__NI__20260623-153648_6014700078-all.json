@@ -71,5 +71,7 @@
   },
   "bot_text": "Hello? Yes, hello? Can you hear me? Can you hear me? Good afternoon. My name is Sophie. You doing okay? Hello? Hello?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 22
+  "bot_word_count": 22,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

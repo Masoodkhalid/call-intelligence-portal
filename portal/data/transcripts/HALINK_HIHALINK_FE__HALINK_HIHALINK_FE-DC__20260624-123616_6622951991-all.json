@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DC__20260624-123616_6622951991-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-DC",
-  "dispo_label": "HALINK_HIHALINK_FE-DC",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
   "date": "2026-06-24",
   "time": "12:36:16",
   "phone": "6622951991",
@@ -67,5 +67,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 56
+  "bot_word_count": 56,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

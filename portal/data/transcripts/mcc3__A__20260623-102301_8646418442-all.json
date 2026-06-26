@@ -33,5 +33,7 @@
   },
   "bot_text": "Well, hello Mulsberg, please leave your name number and a brief message and I'll call you back. Thank you.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 19
+  "bot_word_count": 19,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

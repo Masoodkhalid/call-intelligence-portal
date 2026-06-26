@@ -33,5 +33,7 @@
   },
   "bot_text": "\"Hello?\" \"I'm in home.\" \"Are you there?\" \"What do you want?\" \"Hi, this is Sarah. I'm reaching out because we pulled up your Medicare profile, and there's a note here showing you.\"",
   "post_transfer_trimmed": false,
-  "bot_word_count": 32
+  "bot_word_count": 32,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

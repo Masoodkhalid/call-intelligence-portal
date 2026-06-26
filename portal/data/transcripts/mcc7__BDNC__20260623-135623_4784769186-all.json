@@ -37,5 +37,7 @@
   },
   "bot_text": "Hello? Fort since cleaning my health care.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 7
+  "bot_word_count": 7,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

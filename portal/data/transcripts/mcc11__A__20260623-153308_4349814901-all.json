@@ -100,5 +100,7 @@
   },
   "bot_text": "Hello? Are you there? Hi, this is Sarah. I'm reaching out because we pulled up your Medicare profile. As a talent, please record your message when you finish recording the hang of more friends. One for more options. We just need a quick confirmation from you so your coverage doesn't get interrupted. Just confirm for me. Do you have both Part A and Part B? So you do have Part A and A Medicare, right? To listen to your message, press 2. To erase and re-record, press 3. To continue recording where you left off, press 4.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 97
+  "bot_word_count": 97,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

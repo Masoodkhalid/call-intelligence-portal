@@ -78,5 +78,7 @@
   },
   "bot_text": "Hello at the tone. Good morning. My name is Jacob when you finished recording. So I'm calling because there are pending rotary and cash benefits worth up to three hundred dollars available on your Medicare account through Nevada State Relief Program. So have you received any notification about these benefits yet? Yes, so I was asking if you received the notification about your menu credits on your Medicare plan? To mark your message urgent press 2. To mark your message private press 3. To send your message as is press pound. Are you",
   "post_transfer_trimmed": false,
-  "bot_word_count": 93
+  "bot_word_count": 93,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

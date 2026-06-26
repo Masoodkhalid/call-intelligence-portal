@@ -2,7 +2,7 @@
   "id": "mcc5__N__20260623-140528_6623924727-all",
   "campaign": "mcc5",
   "dispo": "N",
-  "dispo_label": "No Response",
+  "dispo_label": "No Answer",
   "date": "2026-06-23",
   "time": "14:05:28",
   "phone": "6623924727",
@@ -33,5 +33,7 @@
   },
   "bot_text": "Hello are you there to review?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 6
+  "bot_word_count": 6,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

@@ -50,5 +50,7 @@
   },
   "bot_text": "Hello? Hello? Hello? Hey, Chris here. Good morning. Hello? How's life treating you today? So, how's your day going? I need an air conditioner. And it's hot.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 27
+  "bot_word_count": 27,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

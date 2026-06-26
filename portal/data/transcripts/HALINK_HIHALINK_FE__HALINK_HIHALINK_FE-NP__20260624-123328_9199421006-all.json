@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-NP__20260624-123328_9199421006-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-NP",
-  "dispo_label": "HALINK_HIHALINK_FE-NP",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
   "date": "2026-06-24",
   "time": "12:33:28",
   "phone": "9199421006",
@@ -91,5 +91,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 89
+  "bot_word_count": 89,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

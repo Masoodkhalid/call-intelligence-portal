@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-123026_8706136526-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-DNQ",
-  "dispo_label": "AICONTACT_MEDICARE-DNQ",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
   "date": "2026-06-24",
   "time": "12:30:26",
   "phone": "8706136526",
@@ -96,5 +96,7 @@
     "transfer": false,
     "disqualify": true
   },
-  "bot_word_count": 80
+  "bot_word_count": 80,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

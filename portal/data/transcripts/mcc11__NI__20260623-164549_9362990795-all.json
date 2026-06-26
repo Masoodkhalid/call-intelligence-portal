@@ -48,5 +48,7 @@
   },
   "bot_text": "Hi, this is Sarah. We hope your Medicare profile and there has been no showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both Part A and Part B? So you do have Part A and B of Medicare, right?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 54
+  "bot_word_count": 54,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

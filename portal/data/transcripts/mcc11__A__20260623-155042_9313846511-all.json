@@ -52,5 +52,7 @@
   },
   "bot_text": "Hello? Are you there? We didn't get your message either because you were not speaking or because of a bad connection. To disconnect, press 1 to record your message, press 2.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 31
+  "bot_word_count": 31,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

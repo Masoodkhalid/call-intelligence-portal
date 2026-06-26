@@ -56,5 +56,7 @@
   },
   "bot_text": "Hello. Please leave your name and your number and I'll return your calls as soon as possible. Thank you. Have a great day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 23
+  "bot_word_count": 23,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

@@ -135,5 +135,7 @@
   },
   "bot_text": "Hello. What do you want? Hi, this is Sarah. I'm reaching out because we pulled up your Medicare profile. And there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you so your coverage doesn't get interrupted. Just confirm for me. Do you have both Part A and Part B? How many times I've got to tell you lady, I don't know what you're talking about. I'm sorry about that. This is actually my first time reaching out to you. I'm just calling about new 2026 Medicare benefits like cap, drug costs, and expanded coverage. So you do have Medicare Part A and B, right? We're about to fit this goddamn time today. I don't know what you're talking about. Let's discuss this at a more convenient time. Thank you. Have a nice day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 144
+  "bot_word_count": 144,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

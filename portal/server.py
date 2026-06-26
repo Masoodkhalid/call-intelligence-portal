@@ -43,10 +43,11 @@ def api_flows():
 
 @app.route("/api/calls")
 def api_calls():
-    """List transcripts with optional ?campaign=&dispo=&q= filters."""
-    camp = request.args.get("campaign", "")
-    dispo = request.args.get("dispo", "")
-    q = request.args.get("q", "").lower()
+    """List transcripts with optional ?company=&campaign=&dispo=&q= filters."""
+    company  = request.args.get("company", "").strip()
+    campaign = request.args.get("campaign", "").strip()
+    dispo    = request.args.get("dispo", "").strip()
+    q        = request.args.get("q", "").lower().strip()
     out = []
     for fn in sorted(os.listdir(C.TRANSCRIPTS_DIR)):
         if not fn.endswith(".json"):
@@ -54,17 +55,26 @@ def api_calls():
         t = C.load_json(os.path.join(C.TRANSCRIPTS_DIR, fn))
         if not t:
             continue
-        if camp and t["campaign"] != camp:
+        if company  and t.get("company", "")       != company:
             continue
-        if dispo and t["dispo"] != dispo:
+        if campaign and t.get("campaign_name", "")  != campaign:
             continue
-        if q and q not in (t.get("text", "").lower()):
+        if dispo    and t.get("dispo", "")           != dispo:
+            continue
+        if q        and q not in (t.get("text", "").lower()):
             continue
         out.append({
-            "id": t["id"], "campaign": t["campaign"], "dispo": t["dispo"],
-            "dispo_label": t.get("dispo_label", ""), "date": t["date"],
-            "time": t["time"], "phone": t["phone"], "duration": t["duration"],
-            "preview": (t.get("text", "")[:160]),
+            "id":            t["id"],
+            "company":       t.get("company", t["campaign"]),
+            "campaign_name": t.get("campaign_name", "Medicare"),
+            "campaign":      t["campaign"],
+            "dispo":         t["dispo"],
+            "dispo_label":   t.get("dispo_label", ""),
+            "date":          t["date"],
+            "time":          t["time"],
+            "phone":         t["phone"],
+            "duration":      t["duration"],
+            "preview":       (t.get("text", "")[:160]),
         })
     out.sort(key=lambda x: (x["date"], x["time"]))
     return jsonify({"count": len(out), "calls": out})

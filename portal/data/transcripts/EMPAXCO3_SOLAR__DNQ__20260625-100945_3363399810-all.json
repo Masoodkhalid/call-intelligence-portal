@@ -69,5 +69,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 61
+  "bot_word_count": 61,
+  "company": "Empaxco3",
+  "campaign_name": "Solar"
 }

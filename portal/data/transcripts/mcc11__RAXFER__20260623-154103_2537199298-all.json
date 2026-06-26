@@ -117,5 +117,7 @@
   },
   "bot_text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through your state's relief program So have you received any notification about these benefits yet? No, just one call Oh, I'm really sorry about that I'm just here to make sure you're aware of your rights and to help you get these benefits processed You're on both part A and B, right? Of course Perfect You qualify for the benefits I'm forwarding you to our supervisor Please hold on",
   "post_transfer_trimmed": true,
-  "bot_word_count": 95
+  "bot_word_count": 95,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

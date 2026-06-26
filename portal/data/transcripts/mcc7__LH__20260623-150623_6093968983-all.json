@@ -47,5 +47,7 @@
   },
   "bot_text": "Hello? Hello? Good afternoon. My name is Sophie. You doing okay? Yeah, you doing all right? Yeah. I'm doing good. Thanks for asking. I'm excited to chat about how we can enhance your Medicare coverage and maximize your benefits for the 2026 Special Enrollment. To kick things off, you currently have both Part A and B of Medicare.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 58
+  "bot_word_count": 58,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

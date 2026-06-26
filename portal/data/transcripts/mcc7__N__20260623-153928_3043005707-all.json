@@ -2,7 +2,7 @@
   "id": "mcc7__N__20260623-153928_3043005707-all",
   "campaign": "mcc7",
   "dispo": "N",
-  "dispo_label": "No Response",
+  "dispo_label": "No Answer",
   "date": "2026-06-23",
   "time": "15:39:28",
   "phone": "3043005707",
@@ -51,5 +51,7 @@
   },
   "bot_text": "Hello? Hello, Chris? Uh, are you there?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 7
+  "bot_word_count": 7,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

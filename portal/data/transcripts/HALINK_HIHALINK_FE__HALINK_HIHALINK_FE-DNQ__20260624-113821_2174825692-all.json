@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DNQ__20260624-113821_2174825692-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-DNQ",
-  "dispo_label": "HALINK_HIHALINK_FE-DNQ",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
   "date": "2026-06-24",
   "time": "11:38:21",
   "phone": "2174825692",
@@ -86,5 +86,7 @@
     "transfer": false,
     "disqualify": true
   },
-  "bot_word_count": 69
+  "bot_word_count": 69,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

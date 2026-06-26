@@ -67,5 +67,7 @@
   },
   "bot_text": "Hello? Can I help you? Good afternoon, my name is Sophie. I'm reaching out because we're running a quick coverage gap audit for folks before the December 7 cutoff. It's about a four-minute look at what your current plan actually pays versus what you'd owe out of pocket in a real situation. A lot of people assume their plan covers more than it actually does, And the gap only shows up when...",
   "post_transfer_trimmed": false,
-  "bot_word_count": 72
+  "bot_word_count": 72,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

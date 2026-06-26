@@ -113,5 +113,7 @@
   },
   "bot_text": "Hello. Are you there? Yes. Hey, good evening. This is Evelyn. So I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program. So have you received any notification about these benefits yet? Who you want to speak to? So I'm actually reaching out on behalf of your state's relief program because these benefits haven't been claimed yet. And I want to help you get them processed. You're enrolled in Part A and Part B, right? You are getting connected to our agent in a minute. Thank you so much.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 102
+  "bot_word_count": 102,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

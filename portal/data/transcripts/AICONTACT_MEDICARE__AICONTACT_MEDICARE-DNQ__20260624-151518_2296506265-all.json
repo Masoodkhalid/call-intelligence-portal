@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-151518_2296506265-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-DNQ",
-  "dispo_label": "AICONTACT_MEDICARE-DNQ",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
   "date": "2026-06-24",
   "time": "15:15:18",
   "phone": "2296506265",
@@ -89,5 +89,7 @@
     "transfer": false,
     "disqualify": true
   },
-  "bot_word_count": 58
+  "bot_word_count": 58,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

@@ -1,8 +1,8 @@
 {
   "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DAIR__20260624-122925_2819733150-all",
   "campaign": "HALINK_HIHALINK_FE",
-  "dispo": "HALINK_HIHALINK_FE-DAIR",
-  "dispo_label": "HALINK_HIHALINK_FE-DAIR",
+  "dispo": "DAIR",
+  "dispo_label": "Dead Air",
   "date": "2026-06-24",
   "time": "12:29:25",
   "phone": "2819733150",
@@ -38,5 +38,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 9
+  "bot_word_count": 9,
+  "company": "Halink",
+  "campaign_name": "Fe"
 }

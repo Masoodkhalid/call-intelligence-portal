@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-150531_5863405574-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-RAXFER",
-  "dispo_label": "AICONTACT_MEDICARE-RAXFER",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
   "date": "2026-06-24",
   "time": "15:05:31",
   "phone": "5863405574",
@@ -143,5 +143,7 @@
     "transfer": true,
     "disqualify": false
   },
-  "bot_word_count": 105
+  "bot_word_count": 105,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

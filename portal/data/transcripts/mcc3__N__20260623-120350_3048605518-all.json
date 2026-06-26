@@ -2,7 +2,7 @@
   "id": "mcc3__N__20260623-120350_3048605518-all",
   "campaign": "mcc3",
   "dispo": "N",
-  "dispo_label": "No Response",
+  "dispo_label": "No Answer",
   "date": "2026-06-23",
   "time": "12:03:50",
   "phone": "3048605518",
@@ -38,5 +38,7 @@
   },
   "bot_text": "Hello? Can you hear me?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 5
+  "bot_word_count": 5,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

@@ -102,5 +102,7 @@
   },
   "bot_text": "Hello, good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Nevada State Relief Program So, have you received any notification about these benefits yet? No Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both part A and part B, yes? I am, yes Perfect You qualify for the benefit I'm forwarding you to our supervisor Please hold on Hi, thanks for holding",
   "post_transfer_trimmed": true,
-  "bot_word_count": 95
+  "bot_word_count": 95,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

@@ -38,5 +38,7 @@
   },
   "bot_text": "\"Hello?\" \"Hello?\" \"Hi, this is Chris speaking.\" \"How are you doing today?\" \"So, how's your day going?\"",
   "post_transfer_trimmed": false,
-  "bot_word_count": 17
+  "bot_word_count": 17,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

@@ -33,5 +33,7 @@
   },
   "bot_text": "the moment hello it's just a sound of the tone and we'll return a call as soon as possible thank you",
   "post_transfer_trimmed": false,
-  "bot_word_count": 21
+  "bot_word_count": 21,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

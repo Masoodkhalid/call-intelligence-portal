@@ -46,5 +46,7 @@
   },
   "bot_text": "- Hello? - Hello, this is the Ambus. Hello?",
   "post_transfer_trimmed": false,
-  "bot_word_count": 9
+  "bot_word_count": 9,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

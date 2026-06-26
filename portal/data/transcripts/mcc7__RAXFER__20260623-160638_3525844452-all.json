@@ -142,5 +142,7 @@
   },
   "bot_text": "Hello? Hello? Good evening, my name is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program So far, have you received any updates or notifications about this yet? No Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes? Yes, why are you calling? Since you already have a Medicare plan, these credits can easily be processed on your account Please hold while I get that done for you Yes, thank you so much for holding on",
   "post_transfer_trimmed": true,
-  "bot_word_count": 117
+  "bot_word_count": 117,
+  "company": "mcc7",
+  "campaign_name": "Medicare"
 }

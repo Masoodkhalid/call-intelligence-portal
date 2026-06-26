@@ -117,5 +117,7 @@
   },
   "bot_text": "Hello? Are you there? Are you there? We do want to speak too Hi, this is Chelsea, and I'm reaching out because we pulled up your Medicare profile, and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you, so your coverage doesn't get interrupted Just confirm for me, do you have both Part A and Part B? Yes, why? Perfect Let me connect you with the Medicare specialist from Texas Oh, my God",
   "post_transfer_trimmed": true,
-  "bot_word_count": 85
+  "bot_word_count": 85,
+  "company": "mcc11",
+  "campaign_name": "Medicare"
 }

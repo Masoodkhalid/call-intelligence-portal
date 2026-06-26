@@ -57,5 +57,7 @@
   },
   "bot_text": "Hello. These are happy. No. You forgot my coffee. >> [INAUDIBLE]",
   "post_transfer_trimmed": false,
-  "bot_word_count": 11
+  "bot_word_count": 11,
+  "company": "mcc5",
+  "campaign_name": "Medicare"
 }

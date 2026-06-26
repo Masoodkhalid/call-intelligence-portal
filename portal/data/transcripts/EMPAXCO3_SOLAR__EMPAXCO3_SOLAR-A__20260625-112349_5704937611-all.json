@@ -1,8 +1,8 @@
 {
   "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-A__20260625-112349_5704937611-all",
   "campaign": "EMPAXCO3_SOLAR",
-  "dispo": "EMPAXCO3_SOLAR-A",
-  "dispo_label": "EMPAXCO3_SOLAR-A",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
   "date": "2026-06-25",
   "time": "11:23:49",
   "phone": "5704937611",
@@ -75,5 +75,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 46
+  "bot_word_count": 46,
+  "company": "Empaxco3",
+  "campaign_name": "Solar"
 }

@@ -1,8 +1,8 @@
 {
   "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BN__20260624-095419_8032704995-all",
   "campaign": "AICONTACT_MEDICARE",
-  "dispo": "AICONTACT_MEDICARE-BN",
-  "dispo_label": "AICONTACT_MEDICARE-BN",
+  "dispo": "BN",
+  "dispo_label": "Business Number",
   "date": "2026-06-24",
   "time": "09:54:19",
   "phone": "8032704995",
@@ -99,5 +99,7 @@
     "transfer": false,
     "disqualify": false
   },
-  "bot_word_count": 70
+  "bot_word_count": 70,
+  "company": "Aicontact",
+  "campaign_name": "Medicare"
 }

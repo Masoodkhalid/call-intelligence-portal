@@ -81,5 +81,7 @@
   },
   "bot_text": "Hello. Good morning. My name is Kathy. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage approvals. So to get your file updated, do you have both Medicare Part A and Part B? I do not. Sorry. You don't seem to qualify for the plans we have. Have a great day.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 69
+  "bot_word_count": 69,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }

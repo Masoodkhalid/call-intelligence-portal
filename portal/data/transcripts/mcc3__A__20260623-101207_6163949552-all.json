@@ -47,5 +47,7 @@
   },
   "bot_text": "Hello? Are being screened by smart call walker. We say your name after the tone, then press pound.",
   "post_transfer_trimmed": false,
-  "bot_word_count": 18
+  "bot_word_count": 18,
+  "company": "mcc3",
+  "campaign_name": "Medicare"
 }
