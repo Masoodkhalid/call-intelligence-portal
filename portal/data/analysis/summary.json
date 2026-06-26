@@ -33,12 +33,15 @@
     "LH": "Live Hangup"
   },
   "companies": {
-    "Aicontact": {
+    "aicontact": {
       "count": 220,
       "wins": 20,
       "transfer_rate": 9.1,
       "campaigns": [
         "Medicare"
+      ],
+      "bot_companies": [
+        "Confinality"
       ],
       "dispo_counts": {
         "A": 20,
@@ -54,12 +57,15 @@
         "RAXFER": 20
       }
     },
-    "Empaxco3": {
+    "empaxco3": {
       "count": 150,
       "wins": 16,
       "transfer_rate": 10.7,
       "campaigns": [
-        "Solar"
+        "FE"
+      ],
+      "bot_companies": [
+        "REEV"
       ],
       "dispo_counts": {
         "A": 20,
@@ -72,12 +78,15 @@
         "RI": 20
       }
     },
-    "Halink": {
+    "Halink(Hihalink)": {
       "count": 220,
       "wins": 22,
       "transfer_rate": 10.0,
       "campaigns": [
-        "Fe"
+        "FE"
+      ],
+      "bot_companies": [
+        "Confinality"
       ],
       "dispo_counts": {
         "A": 18,
@@ -100,6 +109,9 @@
       "campaigns": [
         "Medicare"
       ],
+      "bot_companies": [
+        "Confinality"
+      ],
       "dispo_counts": {
         "A": 21,
         "BDNC": 20,
@@ -119,6 +131,9 @@
       "transfer_rate": 10.3,
       "campaigns": [
         "Medicare"
+      ],
+      "bot_companies": [
+        "Confinality"
       ],
       "dispo_counts": {
         "A": 21,
@@ -140,6 +155,9 @@
       "campaigns": [
         "Medicare"
       ],
+      "bot_companies": [
+        "Confinality"
+      ],
       "dispo_counts": {
         "A": 20,
         "BDNC": 20,
@@ -160,6 +178,9 @@
       "campaigns": [
         "Medicare"
       ],
+      "bot_companies": [
+        "Confinality"
+      ],
       "dispo_counts": {
         "A": 19,
         "BDNC": 19,
@@ -175,22 +196,21 @@
     }
   },
   "all_companies": [
-    "Aicontact",
-    "Empaxco3",
-    "Halink",
+    "Halink(Hihalink)",
+    "aicontact",
+    "empaxco3",
     "mcc11",
     "mcc3",
     "mcc5",
     "mcc7"
   ],
   "all_campaigns": [
-    "Fe",
-    "Medicare",
-    "Solar"
+    "FE",
+    "Medicare"
   ],
   "all_bot_companies": [
     "Confinality",
-    "IDRAK"
+    "REEV"
   ],
   "avg_duration": 36.7
 }

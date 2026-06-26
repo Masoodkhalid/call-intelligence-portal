@@ -111,14 +111,11 @@ def run():
     by_company = defaultdict(list)
     by_bot = defaultdict(list)
     for t in transcripts:
-        # back-fill company/campaign_name for old transcripts that lack them
-        if "company" not in t or "campaign_name" not in t:
-            company, campaign_name = C.parse_company_campaign(t.get("campaign", ""))
-            t["company"] = company
-            t["campaign_name"] = campaign_name
-        # back-fill bot_company (also re-compute if previously stored as Unknown)
-        if "bot_company" not in t or t["bot_company"] == "Unknown":
-            t["bot_company"] = C.parse_bot_company(t.get("company", ""))
+        # always re-derive from definitive folder_meta (fixes wrong values)
+        company, bot_company, campaign_name = C.folder_meta(t.get("campaign", ""))
+        t["company"]       = company
+        t["bot_company"]   = bot_company
+        t["campaign_name"] = campaign_name
         # re-normalize dispo in case it was saved with the full folder prefix
         t["dispo"] = C.normalize_dispo(t["dispo"])
         t["dispo_label"] = C.dispo_label(t["dispo"])
@@ -174,11 +171,13 @@ def run():
     for comp, items in by_company.items():
         cn = len(items)
         cw = sum(1 for t in items if C.dispo_is_win(t["dispo"]))
-        campaigns_in = sorted({t.get("campaign_name","?") for t in items})
+        campaigns_in  = sorted({t.get("campaign_name","?") for t in items})
+        bots_in       = sorted({t.get("bot_company","?")   for t in items})
         company_stats[comp] = {
             "count": cn, "wins": cw,
             "transfer_rate": round(100 * cw / cn, 1),
-            "campaigns": campaigns_in,
+            "campaigns":   campaigns_in,
+            "bot_companies": bots_in,
             "dispo_counts": dict(Counter(t["dispo"] for t in items)),
         }
 

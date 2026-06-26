@@ -130,7 +130,8 @@ function renderDashboard(){
   let comps='';
   for(const [c,st] of Object.entries(s.companies||{})){
     const camps=(st.campaigns||[]).join(', ')||'—';
-    comps+=`<tr><td><b>${c}</b></td><td class="muted">${camps}</td><td>${st.count}</td><td>${st.wins}</td>
+    const bots=(st.bot_companies||[]).join(', ')||'—';
+    comps+=`<tr><td><b>${c}</b></td><td class="muted">${bots}</td><td class="muted">${camps}</td><td>${st.count}</td><td>${st.wins}</td>
       <td><span class="tag win">${pct(st.transfer_rate)}</span></td></tr>`;
   }
   let rows='';
@@ -149,7 +150,7 @@ function renderDashboard(){
     <h2>Dispositions</h2>
     <div class="card"><table><thead><tr><th>Disposition</th><th>Calls</th><th></th></tr></thead><tbody>${rows}</tbody></table></div>
     <h2>By Company</h2>
-    <div class="card"><table><thead><tr><th>Company</th><th>Campaign</th><th>Calls</th><th>Transfers</th><th>Rate</th></tr></thead><tbody>${comps}</tbody></table></div>`;
+    <div class="card"><table><thead><tr><th>Company</th><th>Bot</th><th>Campaign</th><th>Calls</th><th>Transfers</th><th>Rate</th></tr></thead><tbody>${comps}</tbody></table></div>`;
 }
 
 // ---- Transcripts -----------------------------------------------------------
