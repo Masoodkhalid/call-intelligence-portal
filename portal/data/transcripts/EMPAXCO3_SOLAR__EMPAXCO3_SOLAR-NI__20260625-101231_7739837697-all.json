@@ -51,15 +51,7 @@
     },
     {
       "speaker": "BOT",
-      "text": "So, can you please confirm are you between 40 and 85 years old?"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "Could you please confirm if you are between 40 and 85 years old?"
-    },
-    {
-      "speaker": "BOT",
-      "text": "Thanks for your time"
+      "text": "So, can you please confirm are you between 40 and 85 years old? Could you please confirm if you are between 40 and 85 years old? Thanks for your time"
     },
     {
       "speaker": "CUSTOMER",

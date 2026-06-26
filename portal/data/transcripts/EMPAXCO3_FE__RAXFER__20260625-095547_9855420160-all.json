@@ -1,0 +1,169 @@
+{
+  "id": "EMPAXCO3_FE__RAXFER__20260625-095547_9855420160-all",
+  "campaign": "EMPAXCO3_FE",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-25",
+  "time": "09:55:47",
+  "phone": "9855420160",
+  "filename": "20260625-095547_9855420160-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_FE/EMPAXCO3_FE-RAXFER/20260625-095547_9855420160-all.mp3",
+  "duration": 65.02,
+  "text": "Hello. Hello. My name is Eden. I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. To check if you qualify, so can you please confirm? Are you between 40 and 85 years old? I am between 40 and 85 years old. Perfect. You are qualified for the low cost final expense insurance plan. Let me connect you to the plan specialist. Please stay on the line. Thank you so much for holding on. This is Kevin from First Day Coverage, how are you? I am well. Okay. That's good to know. Well, ma'am, I believe you are interested in getting free no obligation code for a final expense life insurance today is that correct? About more information? No, sir. Not our right, ma'am. But I do not know how old are you or she is? I am not telling you. It is none of your business. Alright, ma'am.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Hello."
+    },
+    {
+      "start": 2.5,
+      "end": 4.2,
+      "text": "Hello."
+    },
+    {
+      "start": 4.2,
+      "end": 5.2,
+      "text": "My name is Eden."
+    },
+    {
+      "start": 5.2,
+      "end": 10.14,
+      "text": "I'm calling because in the recent updates, the government has introduced final expense"
+    },
+    {
+      "start": 10.14,
+      "end": 15.24,
+      "text": "insurance plans at a highly subsidized rate that you may qualify for."
+    },
+    {
+      "start": 15.24,
+      "end": 19.0,
+      "text": "To check if you qualify, so can you please confirm?"
+    },
+    {
+      "start": 19.0,
+      "end": 22.0,
+      "text": "Are you between 40 and 85 years old?"
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "text": "I am between 40 and 85 years old."
+    },
+    {
+      "start": 27.0,
+      "end": 28.32,
+      "text": "Perfect."
+    },
+    {
+      "start": 28.32,
+      "end": 32.48,
+      "text": "You are qualified for the low cost final expense insurance plan."
+    },
+    {
+      "start": 32.48,
+      "end": 34.68,
+      "text": "Let me connect you to the plan specialist."
+    },
+    {
+      "start": 34.68,
+      "end": 38.04,
+      "text": "Please stay on the line."
+    },
+    {
+      "start": 38.04,
+      "end": 39.32,
+      "text": "Thank you so much for holding on."
+    },
+    {
+      "start": 39.32,
+      "end": 42.48,
+      "text": "This is Kevin from First Day Coverage, how are you?"
+    },
+    {
+      "start": 42.48,
+      "end": 43.72,
+      "text": "I am well."
+    },
+    {
+      "start": 43.72,
+      "end": 44.72,
+      "text": "Okay."
+    },
+    {
+      "start": 44.72,
+      "end": 45.72,
+      "text": "That's good to know."
+    },
+    {
+      "start": 45.72,
+      "end": 49.48,
+      "text": "Well, ma'am, I believe you are interested in getting free no obligation code for a final"
+    },
+    {
+      "start": 49.48,
+      "end": 52.08,
+      "text": "expense life insurance today is that correct?"
+    },
+    {
+      "start": 52.08,
+      "end": 54.08,
+      "text": "About more information?"
+    },
+    {
+      "start": 54.08,
+      "end": 55.52,
+      "text": "No, sir."
+    },
+    {
+      "start": 55.52,
+      "end": 57.44,
+      "text": "Not our right, ma'am."
+    },
+    {
+      "start": 57.44,
+      "end": 60.52,
+      "text": "But I do not know how old are you or she is?"
+    },
+    {
+      "start": 60.52,
+      "end": 62.0,
+      "text": "I am not telling you."
+    },
+    {
+      "start": 62.0,
+      "end": 63.56,
+      "text": "It is none of your business."
+    },
+    {
+      "start": 63.56,
+      "end": 64.56,
+      "text": "Alright, ma'am."
+    }
+  ],
+  "word_count": 164,
+  "company": "Empaxco3",
+  "bot_company": "Unknown",
+  "campaign_name": "Fe",
+  "bot_text": "Hello Hello My name is Eden I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for To check if you qualify, so can you please confirm? Are you between 40 and 85 years old? I am between 40 and 85 years old Perfect You are qualified for the low cost final expense insurance plan Let me connect you to the plan specialist Please stay on the line",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello My name is Eden I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for To check if you qualify, so can you please confirm? Are you between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I am between 40 and 85 years old Perfect You are qualified for the low cost final expense insurance plan Let me connect you to the plan specialist Please stay on the line"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 82
+}

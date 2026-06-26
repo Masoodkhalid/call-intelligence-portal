@@ -47,15 +47,23 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "I thought this said \"Diana\" I'm calling about final expense coverage options available in your area"
+      "text": "I thought this said \"Diana\""
     },
     {
       "speaker": "BOT",
-      "text": "These plans are designed to help your family with funeral or burial expenses So can you please confirm, are you between 40 and 85 years old?"
+      "text": "I'm calling about final expense coverage options available in your area These plans are designed to help your family with funeral or burial expenses So can you please confirm, are you between 40 and 85 years old?"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Can you confirm, are you \"Diana\" or \"Adeline\"? Could you please confirm if you are between 40 and 85 years old? Excuse me, thank you, bye"
+      "text": "Can you confirm, are you \"Diana\" or \"Adeline\"?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Could you please confirm if you are between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Excuse me, thank you, bye"
     }
   ],
   "stages": {

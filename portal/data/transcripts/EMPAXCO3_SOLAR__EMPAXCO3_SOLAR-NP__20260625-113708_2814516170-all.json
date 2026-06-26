@@ -84,19 +84,11 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "What? I'm calling about final expense coverage option that's available in your area"
+      "text": "What?"
     },
     {
       "speaker": "BOT",
-      "text": "These plans are designed to help your family with funeral or burial expenses"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "So can you please confirm?"
-    },
-    {
-      "speaker": "BOT",
-      "text": "Are you between 40 and 85 years old?"
+      "text": "I'm calling about final expense coverage option that's available in your area These plans are designed to help your family with funeral or burial expenses So can you please confirm? Are you between 40 and 85 years old?"
     },
     {
       "speaker": "CUSTOMER",

@@ -97,7 +97,15 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "I'm calling about the final expense insurance option that may help cover funeral, burial, or cremation Okay, okay, okay To check basic eligibility, so can you please confirm, are you between 40 and 85 years old? It will only take about 30 seconds to explain how this could benefit you and your family Let me ask you this So, what's your age?"
+      "text": "I'm calling about the final expense insurance option that may help cover funeral, burial, or cremation Okay, okay, okay"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To check basic eligibility, so can you please confirm, are you between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "It will only take about 30 seconds to explain how this could benefit you and your family Let me ask you this So, what's your age?"
     },
     {
       "speaker": "BOT",

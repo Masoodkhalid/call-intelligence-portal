@@ -1,0 +1,73 @@
+{
+  "id": "EMPAXCO3_FE__RAXFER__20260625-095839_5707526193-all",
+  "campaign": "EMPAXCO3_FE",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-25",
+  "time": "09:58:39",
+  "phone": "5707526193",
+  "filename": "20260625-095839_5707526193-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_FE/EMPAXCO3_FE-RAXFER/20260625-095839_5707526193-all.mp3",
+  "duration": 42.05,
+  "text": "Hello. Yes. Hi, this is Adeline. How are you doing today? Okay. Nice. Glad to hear that. I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. To check if you qualify, so can you please confirm, are you between 40 and 85 years old? I'm 83. Perfect. You're qualified for the low cost final expense insurance plan. Let me connect you to the plan specialist. Please stay on the line.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.2,
+      "text": "Hello. Yes. Hi, this is Adeline. How are you doing today? Okay. Nice. Glad to hear that."
+    },
+    {
+      "start": 11.2,
+      "end": 16.24,
+      "text": "I'm calling because in the recent updates, the government has introduced final expense"
+    },
+    {
+      "start": 16.24,
+      "end": 23.68,
+      "text": "insurance plans at a highly subsidized rate that you may qualify for. To check if you qualify,"
+    },
+    {
+      "start": 23.68,
+      "end": 34.48,
+      "text": "so can you please confirm, are you between 40 and 85 years old? I'm 83. Perfect. You're qualified"
+    },
+    {
+      "start": 34.48,
+      "end": 39.52,
+      "text": "for the low cost final expense insurance plan. Let me connect you to the plan specialist. Please"
+    },
+    {
+      "start": 39.52,
+      "end": 41.28,
+      "text": "stay on the line."
+    }
+  ],
+  "word_count": 86,
+  "company": "Empaxco3",
+  "bot_company": "Unknown",
+  "campaign_name": "Fe",
+  "bot_text": "Hello Yes Hi, this is Adeline How are you doing today? Okay Nice Glad to hear that I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for To check if you qualify, so can you please confirm, are you between 40 and 85 years old? I'm 83 Perfect You're qualified for the low cost final expense insurance plan Let me connect you to the plan specialist Please stay on the line",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Yes Hi, this is Adeline How are you doing today?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Okay Nice Glad to hear that I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for To check if you qualify, so can you please confirm, are you between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm 83 Perfect You're qualified for the low cost final expense insurance plan Let me connect you to the plan specialist Please stay on the line"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 86
+}

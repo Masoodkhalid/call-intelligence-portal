@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 7,
   "scripts": [
     {
       "id": 1,
@@ -362,12 +362,8 @@
           8
         ],
         [
-          "AICONTACT_MEDICARE-BN",
-          2
-        ],
-        [
           "BN",
-          2
+          4
         ],
         [
           "RAXFER",
@@ -487,26 +483,30 @@
       "dispo_breakdown": [
         [
           "DNQ",
-          11
+          17
         ],
         [
           "NI",
-          11
-        ],
-        [
-          "AICONTACT_MEDICARE-DNQ",
-          6
-        ],
-        [
-          "AICONTACT_MEDICARE-NI",
-          5
+          16
         ],
         [
           "DC",
-          4
+          7
+        ],
+        [
+          "LB",
+          6
         ],
         [
           "NP",
+          6
+        ],
+        [
+          "A",
+          4
+        ],
+        [
+          "BDNC",
           4
         ],
         [
@@ -514,44 +514,8 @@
           4
         ],
         [
-          "AICONTACT_MEDICARE-DC",
-          3
-        ],
-        [
-          "AICONTACT_MEDICARE-LB",
-          3
-        ],
-        [
-          "LB",
-          3
-        ],
-        [
-          "AICONTACT_MEDICARE-A",
-          2
-        ],
-        [
-          "AICONTACT_MEDICARE-BDNC",
-          2
-        ],
-        [
-          "AICONTACT_MEDICARE-NP",
-          2
-        ],
-        [
-          "A",
-          2
-        ],
-        [
-          "BDNC",
-          2
-        ],
-        [
-          "AICONTACT_MEDICARE-BN",
-          1
-        ],
-        [
           "BN",
-          1
+          2
         ]
       ],
       "campaigns": [
@@ -590,7 +554,224 @@
     },
     {
       "id": 4,
-      "template": "we just need a quick confirmation from you so your coverage doesn t get interrupted just confirm for me do you have both part a and part b",
+      "template": "calling because in the recent updates the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for to check",
+      "full_script": [
+        {
+          "line": "Hi, my name is Lisa",
+          "role": "IDENTIFY",
+          "df": 6,
+          "pct": 12.5
+        },
+        {
+          "line": "\"Hello?\" \"Hello.\" \"What do you want?\" \"Hi, my name is Emma",
+          "role": "IDENTIFY",
+          "df": 3,
+          "pct": 6.2
+        },
+        {
+          "line": "Hello Hello Hi, my name is Ayla I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for To check if you qualify, so can you please confirm, are you between [amount] and [amount] years old?",
+          "role": "IDENTIFY",
+          "df": 3,
+          "pct": 6.2
+        },
+        {
+          "line": "Hello Yes Hi, this is Adeline How are you doing today?",
+          "role": "IDENTIFY",
+          "df": 3,
+          "pct": 6.2
+        },
+        {
+          "line": "Hi, this is Emma",
+          "role": "IDENTIFY",
+          "df": 3,
+          "pct": 6.2
+        },
+        {
+          "line": "I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for",
+          "role": "PITCH",
+          "df": 18,
+          "pct": 37.5
+        },
+        {
+          "line": "Yes Perfect You're qualified for the low cost final expense insurance plans Let me connect you to the plan specialist stay on the line",
+          "role": "TRANSFER",
+          "df": 3,
+          "pct": 6.2
+        }
+      ],
+      "calls": 48,
+      "variants": 7,
+      "agent_names": [
+        [
+          "Hannah",
+          3
+        ]
+      ],
+      "states": [],
+      "qualify_variants": [
+        [
+          "i m calling because in the recent update the government has introduced",
+          12
+        ],
+        [
+          "hello hello i m calling because in the recent updates the government h",
+          3
+        ],
+        [
+          "i m calling because in the recent updates the government has introduce",
+          3
+        ],
+        [
+          "hello hello hello hi i m calling because in the recent update the gove",
+          3
+        ],
+        [
+          "hello hello i m calling because in the recent update the government ha",
+          3
+        ]
+      ],
+      "dispo_breakdown": [
+        [
+          "DNQ",
+          15
+        ],
+        [
+          "NI",
+          12
+        ],
+        [
+          "RAXFER",
+          12
+        ],
+        [
+          "A",
+          6
+        ],
+        [
+          "NP",
+          3
+        ]
+      ],
+      "campaigns": [
+        [
+          "EMPAXCO3_SOLAR",
+          32
+        ],
+        [
+          "EMPAXCO3_FE",
+          16
+        ]
+      ],
+      "transfer_rate": 25.0,
+      "examples": [
+        {
+          "id": "EMPAXCO3_FE__A__20260625-114048_3374240069-all",
+          "text": "calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for"
+        },
+        {
+          "id": "EMPAXCO3_FE__A__20260625-115128_9012790779-all",
+          "text": "calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for To check"
+        },
+        {
+          "id": "EMPAXCO3_FE__DNQ__20260625-090913_8327562127-all",
+          "text": "calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for"
+        },
+        {
+          "id": "EMPAXCO3_FE__DNQ__20260625-091647_4106059428-all",
+          "text": "calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for So, check"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "template": "i m calling about final expense coverage options available in your area these plans are designed to help your family with funeral or burial expenses so can you",
+      "full_script": [
+        {
+          "line": "Hi, this is Adeline",
+          "role": "IDENTIFY",
+          "df": 3,
+          "pct": 12.5
+        },
+        {
+          "line": "Hi, my name is Julia",
+          "role": "IDENTIFY",
+          "df": 3,
+          "pct": 12.5
+        },
+        {
+          "line": "My name is Eden",
+          "role": "IDENTIFY",
+          "df": 3,
+          "pct": 12.5
+        },
+        {
+          "line": "This is Lisa",
+          "role": "IDENTIFY",
+          "df": 3,
+          "pct": 12.5
+        }
+      ],
+      "calls": 24,
+      "variants": 4,
+      "agent_names": [
+        [
+          "Hannah",
+          3
+        ]
+      ],
+      "states": [],
+      "qualify_variants": [],
+      "dispo_breakdown": [
+        [
+          "A",
+          6
+        ],
+        [
+          "DNQ",
+          6
+        ],
+        [
+          "NI",
+          6
+        ],
+        [
+          "NP",
+          6
+        ]
+      ],
+      "campaigns": [
+        [
+          "EMPAXCO3_SOLAR",
+          16
+        ],
+        [
+          "EMPAXCO3_FE",
+          8
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        {
+          "id": "EMPAXCO3_FE__A__20260625-110554_6015801003-all",
+          "text": "I'm calling about final expense coverage options available in your area These plans are designed to help your family with funeral or burial expenses So, can you"
+        },
+        {
+          "id": "EMPAXCO3_FE__A__20260625-111140_8149647253-all",
+          "text": "I'm calling about final expense coverage options available in your area These plans are designed to help your family with funeral or burial expenses So can you "
+        },
+        {
+          "id": "EMPAXCO3_FE__DNQ__20260625-093723_3142650839-all",
+          "text": "I'm calling about final expense coverage options available in your area These plans are designed to help your family with funeral or burial expenses So can you "
+        },
+        {
+          "id": "EMPAXCO3_FE__DNQ__20260625-101925_4804692885-all",
+          "text": "I'm calling about final expense coverage options available in your area These plans are designed to help your family with funeral or burial expenses So can you "
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "template": "we just need a quick confirmation from you so your coverage doesn t get interrupted",
       "full_script": [],
       "calls": 1,
       "variants": 1,
@@ -627,12 +808,12 @@
       "examples": [
         {
           "id": "mcc11__A__20260623-153308_4349814901-all",
-          "text": "We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both Part A and Part B?"
+          "text": "We just need a quick confirmation from you so your coverage doesn't get interrupted"
         }
       ]
     },
     {
-      "id": 5,
+      "id": 7,
       "template": "when that transfer is missing it can cause delays in your coverage approvals i can verify it real quick so you do have both part a and part b right",
       "full_script": [],
       "calls": 1,

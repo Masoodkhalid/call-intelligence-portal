@@ -3,27 +3,27 @@
     "dispo": "A",
     "label": "Answering Machine",
     "is_win": false,
-    "count": 139,
-    "avg_duration": 26.0,
-    "avg_words": 55.5,
+    "count": 149,
+    "avg_duration": 26.1,
+    "avg_words": 55.6,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 128,
-        "pct": 92.1
+        "count": 138,
+        "pct": 92.6
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 59,
-        "pct": 42.4
+        "count": 64,
+        "pct": 43.0
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 41,
-        "pct": 29.5
+        "count": 43,
+        "pct": 28.9
       },
       {
         "key": "transfer",
@@ -35,12 +35,16 @@
         "key": "disqualify",
         "label": "Disqualified",
         "count": 2,
-        "pct": 1.4
+        "pct": 1.3
       }
     ],
     "top_customer_lines": [
       [
         "at the tone",
+        5
+      ],
+      [
+        "please try again at the tone, please record your message when you've finished re",
         5
       ],
       [
@@ -56,7 +60,7 @@
         4
       ],
       [
-        "please try again at the tone, please record your message when you've finished re",
+        "thank you",
         4
       ],
       [
@@ -68,34 +72,38 @@
         3
       ],
       [
-        "thank you",
+        "i'm calling about the final expense insurance option that may help cover funeral",
         3
       ],
       [
-        "passward yeah, sorry about that",
-        2
+        "it will only take about 30 seconds to explain how this could benefit you and you",
+        3
       ],
       [
-        "login and correct, mailbox",
-        2
+        "to review, re-record, or add to your message, press 1",
+        3
       ],
       [
-        "hello 911 if this is not an emergency, please leave your name and number i'll be",
-        2
-      ],
-      [
-        "log in and correct, mailbox",
-        2
+        "hi, my name is julia",
+        3
       ]
     ],
     "top_objections": [
+      [
+        "please try again at the tone, please record your message when you've finished re",
+        5
+      ],
       [
         "at the tell-and-please record your message when you've finished recording, you m",
         4
       ],
       [
-        "please try again at the tone, please record your message when you've finished re",
-        4
+        "\"dear agree\" \"hello?\" \"nothing has been recorded record your message after the t",
+        3
+      ],
+      [
+        "record your message after the beep when you're finished, you may hang up or pres",
+        3
       ],
       [
         "good afternoon, my name is rebecca i'm calling about a quick eligibility review ",
@@ -103,14 +111,6 @@
       ],
       [
         "for your message, when you've finished recording you may hang up or press one fo",
-        2
-      ],
-      [
-        "\"dear agree\" \"hello?\" \"nothing has been recorded record your message after the t",
-        2
-      ],
-      [
-        "record your message after the beep when you're finished, you may hang up or pres",
         2
       ],
       [
@@ -322,15 +322,15 @@
         2
       ],
       [
+        "just confirm for me",
+        2
+      ],
+      [
         "you ain't pulled up my medicare file, you must have pulled up somebody else's, s",
         2
       ],
       [
         "\"hello?\" \"i'm sure it's a scientology.\" \"you're going in a dark room, huh?\" \"and",
-        2
-      ],
-      [
-        "there's no chelsea here i think you have the wrong number unless you want to tal",
         2
       ]
     ],
@@ -495,11 +495,11 @@
         2
       ],
       [
-        "i don't give information out on the phone i don't know who you are or what your ",
+        "just confirm for me",
         2
       ],
       [
-        "what time is it? yeah, sorry to catch you at a busy time, but can i have just a ",
+        "i don't give information out on the phone i don't know who you are or what your ",
         2
       ]
     ],
@@ -537,27 +537,27 @@
     "dispo": "DNQ",
     "label": "Did Not Qualify",
     "is_win": false,
-    "count": 141,
-    "avg_duration": 36.3,
-    "avg_words": 79.9,
+    "count": 151,
+    "avg_duration": 36.1,
+    "avg_words": 80.0,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 138,
-        "pct": 97.9
+        "count": 148,
+        "pct": 98.0
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 141,
+        "count": 151,
         "pct": 100.0
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 125,
-        "pct": 88.7
+        "count": 130,
+        "pct": 86.1
       },
       {
         "key": "transfer",
@@ -569,7 +569,7 @@
         "key": "disqualify",
         "label": "Disqualified",
         "count": 108,
-        "pct": 76.6
+        "pct": 71.5
       }
     ],
     "top_customer_lines": [
@@ -590,11 +590,15 @@
         6
       ],
       [
-        "no sorry it looks like you don't qualify for the plans",
-        4
+        "to check if you qualify, so can you please confirm?",
+        6
       ],
       [
-        "so can you please confirm?",
+        "nope",
+        5
+      ],
+      [
+        "no sorry it looks like you don't qualify for the plans",
         4
       ],
       [
@@ -602,24 +606,20 @@
         4
       ],
       [
-        "hey",
+        "just confirm for me",
         3
       ],
       [
-        "yes but i'm in the nursing home and i haven't got no report on anything but they",
-        2
+        "yes hi, my name is lisa",
+        3
       ],
       [
-        "no yeah, sorry about that",
-        2
+        "hi, my name is emma i'm calling about the final expensive churn option that may ",
+        3
       ],
       [
-        "hello hello good morning, my name is rebecca i'm calling about i don't care who ",
-        2
-      ],
-      [
-        "we're good fucking quick on the goddamn number leave me to fuck you off",
-        2
+        "my name is emma",
+        3
       ]
     ],
     "top_objections": [
@@ -676,27 +676,27 @@
     "dispo": "LB",
     "label": "Left Blank / No Response",
     "is_win": false,
-    "count": 60,
-    "avg_duration": 24.0,
-    "avg_words": 38.6,
+    "count": 70,
+    "avg_duration": 22.8,
+    "avg_words": 35.1,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 56,
-        "pct": 93.3
+        "count": 64,
+        "pct": 91.4
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
         "count": 30,
-        "pct": 50.0
+        "pct": 42.9
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
         "count": 14,
-        "pct": 23.3
+        "pct": 20.0
       },
       {
         "key": "transfer",
@@ -714,7 +714,39 @@
     "top_customer_lines": [
       [
         "(speaking in foreign language)",
-        4
+        6
+      ],
+      [
+        "say me",
+        3
+      ],
+      [
+        "[non-english speech] hi this is adeline",
+        3
+      ],
+      [
+        "i know",
+        3
+      ],
+      [
+        "well",
+        3
+      ],
+      [
+        "i'm going to speak english",
+        3
+      ],
+      [
+        "dose cinco nueve cinco tres dose seis quattro dose you have come here immediatel",
+        3
+      ],
+      [
+        "\"hortio.\" \"hello.\" \"quattro.\" \"dos.\" \"sinko.\" \"dos.\" \"quattro.\" \"nove.\" \"quattro",
+        3
+      ],
+      [
+        "just confirm for me",
+        2
       ],
       [
         "i'm sorry, but can you speak english? no i'm sorry we currently only have englis",
@@ -726,38 +758,6 @@
       ],
       [
         "(speaks in foreign language)",
-        2
-      ],
-      [
-        "oh look",
-        2
-      ],
-      [
-        "i'm calling about a quick eligibility review on your account it turns out you qu",
-        2
-      ],
-      [
-        "say me",
-        2
-      ],
-      [
-        "[non-english speech] hi this is adeline",
-        2
-      ],
-      [
-        "i'm calling about final events, what are the options available in your area?",
-        2
-      ],
-      [
-        "i know",
-        2
-      ],
-      [
-        "well",
-        2
-      ],
-      [
-        "i'm going to speak english",
         2
       ]
     ],
@@ -779,27 +779,27 @@
     "dispo": "NI",
     "label": "Not Interested",
     "is_win": false,
-    "count": 141,
-    "avg_duration": 39.2,
-    "avg_words": 68.5,
+    "count": 151,
+    "avg_duration": 38.9,
+    "avg_words": 68.0,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 141,
+        "count": 151,
         "pct": 100.0
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 130,
-        "pct": 92.2
+        "count": 136,
+        "pct": 90.1
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 81,
-        "pct": 57.4
+        "count": 85,
+        "pct": 56.3
       },
       {
         "key": "transfer",
@@ -816,6 +816,10 @@
     ],
     "top_customer_lines": [
       [
+        "goodbye",
+        8
+      ],
+      [
         "i'm sorry",
         8
       ],
@@ -828,16 +832,8 @@
         7
       ],
       [
-        "goodbye",
-        6
-      ],
-      [
         "yes, so i was asking if you received the notification about the pending credits ",
         5
-      ],
-      [
-        "could you please confirm if you are between 40 and 85 years old?",
-        4
       ],
       [
         "yes",
@@ -852,25 +848,29 @@
         3
       ],
       [
-        "would you mind sharing what's making you not interested?",
-        2
+        "hi, my name is emma",
+        3
       ],
       [
-        "you're welcome",
-        2
+        "so check if you qualify",
+        3
       ],
       [
-        "i previously helped you with your medicare plan and since it's open enrollment, ",
-        2
+        "good okay",
+        3
+      ],
+      [
+        "hi, my name is adeline i'm calling about the final expense insurance option that",
+        3
       ]
     ],
     "top_objections": [
       [
-        "would you mind sharing what's making you not interested?",
-        2
+        "i'm not interested thank you",
+        3
       ],
       [
-        "i'm not interested thank you",
+        "would you mind sharing what's making you not interested?",
         2
       ],
       [
@@ -894,27 +894,27 @@
     "dispo": "NP",
     "label": "No Pitch (cut early)",
     "is_win": false,
-    "count": 137,
-    "avg_duration": 24.7,
-    "avg_words": 46.0,
+    "count": 145,
+    "avg_duration": 25.3,
+    "avg_words": 46.3,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 134,
-        "pct": 97.8
+        "count": 142,
+        "pct": 97.9
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 123,
-        "pct": 89.8
+        "count": 126,
+        "pct": 86.9
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 24,
-        "pct": 17.5
+        "count": 25,
+        "pct": 17.2
       },
       {
         "key": "transfer",
@@ -947,36 +947,36 @@
         4
       ],
       [
-        "yeah, i'm here what do you need?",
-        2
-      ],
-      [
-        "yes hi, this is chelsea and i'm reaching out because we pulled up your medicare ",
-        2
-      ],
-      [
-        "hello wow hi, this is chelsea we pulled up your medicare profile and there's a n",
-        2
-      ],
-      [
-        "do you have any questions?",
-        2
-      ],
-      [
-        "not saying hello again",
-        2
-      ],
-      [
-        "we work together on your medicare plan previously, and because it's open enrollm",
-        2
-      ],
-      [
-        "oh, boy hi, this is chelsea and i'm reaching out because we pulled up your medic",
-        2
+        "my name is sophie",
+        4
       ],
       [
         "hi, my name is adeline i'm calling about the final expense insurance options tha",
-        2
+        3
+      ],
+      [
+        "hi, my name is ervin i'm calling about the final expense insurance options that ",
+        3
+      ],
+      [
+        "oh, hey",
+        3
+      ],
+      [
+        "hi, lisa",
+        3
+      ],
+      [
+        "what?",
+        3
+      ],
+      [
+        "i've got the card you call i'm not ready to tell right now so you may send me a ",
+        3
+      ],
+      [
+        "\"hello?\" \"hello?\" \"hi, my name is julia i'm calling about the final expense insu",
+        3
       ]
     ],
     "top_objections": [
@@ -997,15 +997,15 @@
     "dispo": "N",
     "label": "No Answer",
     "is_win": false,
-    "count": 140,
-    "avg_duration": 13.0,
+    "count": 149,
+    "avg_duration": 13.1,
     "avg_words": 4.9,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 138,
-        "pct": 98.6
+        "count": 147,
+        "pct": 98.7
       },
       {
         "key": "pitch",
@@ -1100,33 +1100,33 @@
     "dispo": "RAXFER",
     "label": "Transferred to Agent",
     "is_win": true,
-    "count": 139,
-    "avg_duration": 144.6,
-    "avg_words": 108.6,
+    "count": 147,
+    "avg_duration": 139.6,
+    "avg_words": 107.1,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 137,
+        "count": 145,
         "pct": 98.6
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 131,
-        "pct": 94.2
+        "count": 138,
+        "pct": 93.9
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 113,
-        "pct": 81.3
+        "count": 117,
+        "pct": 79.6
       },
       {
         "key": "transfer",
         "label": "Transfer to agent",
-        "count": 124,
-        "pct": 89.2
+        "count": 132,
+        "pct": 89.8
       },
       {
         "key": "disqualify",
@@ -1157,38 +1157,38 @@
         4
       ],
       [
-        "hello hello hey, this is chelsea there's a note on your medicare profile that yo",
-        2
-      ],
-      [
-        "i am hi, this is chelsea and i'm reaching out because we pulled up your medicare",
-        2
-      ],
-      [
-        "hey, this is chelsea there's a note on your medicare profile that your 2026 upda",
-        2
-      ],
-      [
-        "hello help me hi, this is chelsea we pulled up your medicare profile and there's",
-        2
-      ],
-      [
-        "hello hi good afternoon, my name is rebecca i'm calling about a quick eligibilit",
-        2
-      ],
-      [
         "hello hello hi, my name is ervin i'm calling about final expense coverage option",
-        2
+        3
       ],
       [
         "yeah, i am you're now qualified for the new state approved relief program let me",
-        2
+        3
+      ],
+      [
+        "yes perfect you're qualified for the low cost final expense insurance plans let ",
+        3
+      ],
+      [
+        "hello hi yes hi, my name is julia i'm calling about final expense coverage optio",
+        3
+      ],
+      [
+        "i am between 40 and 85 years old perfect you are qualified for the low cost fina",
+        3
+      ],
+      [
+        "hello yes hi, this is adeline how are you doing today?",
+        3
+      ],
+      [
+        "i'm 83 perfect you're qualified for the low cost final expense insurance plan le",
+        3
       ]
     ],
     "top_objections": [
       [
         "yeah hi, my name is hannah i'm calling about the final expense insurance options",
-        2
+        3
       ],
       [
         "yes, i am and they already told me, \"i'm getting everything that i can get here ",
@@ -1231,14 +1231,14 @@
     "dispo": "RI",
     "label": "Re-Inquiry",
     "is_win": false,
-    "count": 20,
+    "count": 30,
     "avg_duration": 15.9,
     "avg_words": 7.8,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 20,
+        "count": 30,
         "pct": 100.0
       },
       {
@@ -1269,36 +1269,36 @@
     "top_customer_lines": [
       [
         "(phone ringing)",
-        4
+        6
       ],
       [
         "[phone rings]",
-        2
+        3
       ],
       [
         "[phone ringing] [phone ringing] can you hear me? [phone ringing]",
-        2
+        3
       ],
       [
         "are you still on the line with me?",
-        2
+        3
       ],
       [
         "(phone rings) (phone rings) can you hear me? (phone rings)",
-        2
+        3
       ],
       [
         "(beep)",
-        2
+        3
       ]
     ],
     "top_objections": [],
     "example_ids": [
-      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RI__20260625-094354_8433659112-all",
-      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RI__20260625-094607_3256465521-all",
-      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RI__20260625-100722_2257154053-all",
-      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RI__20260625-111215_6163040636-all",
-      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RI__20260625-112509_8653078508-all"
+      "EMPAXCO3_FE__RI__20260625-094354_8433659112-all",
+      "EMPAXCO3_FE__RI__20260625-094607_3256465521-all",
+      "EMPAXCO3_FE__RI__20260625-100722_2257154053-all",
+      "EMPAXCO3_FE__RI__20260625-111215_6163040636-all",
+      "EMPAXCO3_FE__RI__20260625-112509_8653078508-all"
     ]
   },
   "LH": {
@@ -1358,6 +1358,10 @@
         1
       ],
       [
+        "just confirm for me",
+        1
+      ],
+      [
         "you",
         1
       ],
@@ -1383,10 +1387,6 @@
       ],
       [
         "hi, how can i help you?",
-        1
-      ],
-      [
-        "yes so i was asking if you received the notification about the pending credits o",
         1
       ]
     ],

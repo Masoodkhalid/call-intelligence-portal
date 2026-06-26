@@ -94,7 +94,15 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Speak up a little bit, man I can hardly hear it I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for So check if you qualify Bye So can you"
+      "text": "Speak up a little bit, man I can hardly hear it"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So check if you qualify Bye So can you"
     }
   ],
   "stages": {

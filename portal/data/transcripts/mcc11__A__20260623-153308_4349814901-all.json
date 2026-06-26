@@ -84,7 +84,15 @@
     },
     {
       "speaker": "BOT",
-      "text": "We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both Part A and Part B? So you do have Part A and A Medicare, right? To listen to your message, press 2"
+      "text": "We just need a quick confirmation from you so your coverage doesn't get interrupted"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Just confirm for me"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Do you have both Part A and Part B? So you do have Part A and A Medicare, right? To listen to your message, press 2"
     },
     {
       "speaker": "CUSTOMER",

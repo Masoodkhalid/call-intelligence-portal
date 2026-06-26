@@ -47,19 +47,19 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Hi, my name is Adeline I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you make qualify for To check if you qualify, so can you please confirm?"
+      "text": "Hi, my name is Adeline"
     },
     {
       "speaker": "BOT",
-      "text": "Are you between 40 and 85 years old? Can you hear me?"
+      "text": "I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you make qualify for"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Could you please confirm if you are between 40 and 85 years old?"
+      "text": "To check if you qualify, so can you please confirm?"
     },
     {
       "speaker": "BOT",
-      "text": "Can you hear me? Can you hear me?"
+      "text": "Are you between 40 and 85 years old? Can you hear me? Could you please confirm if you are between 40 and 85 years old? Can you hear me? Can you hear me?"
     },
     {
       "speaker": "CUSTOMER",

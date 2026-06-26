@@ -80,7 +80,15 @@
     },
     {
       "speaker": "BOT",
-      "text": "Good morning My name is Kathy When you've finished recording, simply hang up or press so I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage approvals So to get your file updated, do you have both Medicare Part A and Part B? Hey, are you still there? I was just asking you do have both Part A and Part B of Medicare, right?"
+      "text": "Good morning"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Kathy"
+    },
+    {
+      "speaker": "BOT",
+      "text": "When you've finished recording, simply hang up or press so I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage approvals So to get your file updated, do you have both Medicare Part A and Part B? Hey, are you still there? I was just asking you do have both Part A and Part B of Medicare, right?"
     },
     {
       "speaker": "CUSTOMER",

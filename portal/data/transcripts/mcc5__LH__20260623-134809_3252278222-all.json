@@ -79,11 +79,11 @@
     },
     {
       "speaker": "BOT",
-      "text": "Good afternoon My name is Kathy"
+      "text": "Good afternoon"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Who are you following?"
+      "text": "My name is Kathy Who are you following?"
     },
     {
       "speaker": "BOT",

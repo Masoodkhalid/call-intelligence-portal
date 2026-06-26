@@ -67,11 +67,11 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Hi, my name is Adeline I'm calling about the final expense insurance options that may help have a funeral, burial, or cremation cost To check basic eligibility, so can you please confirm, are you between 40 and 85 years old?"
+      "text": "Hi, my name is Adeline I'm calling about the final expense insurance options that may help have a funeral, burial, or cremation cost"
     },
     {
       "speaker": "BOT",
-      "text": "Can you hear me? [BLANK_AUDIO]"
+      "text": "To check basic eligibility, so can you please confirm, are you between 40 and 85 years old? Can you hear me? [BLANK_AUDIO]"
     }
   ],
   "stages": {

@@ -62,11 +62,11 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Hi, my name is Emma I'm calling because in the recent episode, the government has introduced the final insurance plans at a highly subsidized rate that you may qualify for"
+      "text": "Hi, my name is Emma"
     },
     {
       "speaker": "BOT",
-      "text": "Okay, all right"
+      "text": "I'm calling because in the recent episode, the government has introduced the final insurance plans at a highly subsidized rate that you may qualify for Okay, all right"
     },
     {
       "speaker": "CUSTOMER",
@@ -74,11 +74,11 @@
     },
     {
       "speaker": "BOT",
-      "text": "So can you please confirm, are you between 40 and 85 years old? Good point"
+      "text": "So can you please confirm, are you between 40 and 85 years old? Good point Could you please confirm, if you are between 40 and 85 years old?"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Could you please confirm, if you are between 40 and 85 years old? Good Okay"
+      "text": "Good Okay"
     },
     {
       "speaker": "BOT",

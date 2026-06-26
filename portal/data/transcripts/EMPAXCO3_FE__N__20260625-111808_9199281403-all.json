@@ -1,0 +1,45 @@
+{
+  "id": "EMPAXCO3_FE__N__20260625-111808_9199281403-all",
+  "campaign": "EMPAXCO3_FE",
+  "dispo": "N",
+  "dispo_label": "No Answer",
+  "date": "2026-06-25",
+  "time": "11:18:08",
+  "phone": "9199281403",
+  "filename": "20260625-111808_9199281403-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_FE/EMPAXCO3_FE-N/20260625-111808_9199281403-all.mp3",
+  "duration": 16.56,
+  "text": "Hello? *clears throat* Can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "*clears throat* Can you hear me?"
+    }
+  ],
+  "word_count": 7,
+  "company": "Empaxco3",
+  "bot_company": "Unknown",
+  "campaign_name": "Fe",
+  "bot_text": "Hello? *clears throat* Can you hear me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? *clears throat* Can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 7
+}

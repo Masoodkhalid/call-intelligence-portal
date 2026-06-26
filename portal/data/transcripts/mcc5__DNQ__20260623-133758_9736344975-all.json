@@ -51,11 +51,11 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "\"Hello?\" \"Hello?\" \"Good afternoon My name is Sophie"
+      "text": "\"Hello?\" \"Hello?\" \"Good afternoon"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff It's a four minute look at what your plan actually covers versus what comes out of your own pocket when you need care Most people are genuinely surprised by the difference We're just trying to reach everyone on the list before that deadline"
+      "text": "My name is Sophie I'm reaching out because we're doing a quick coverage gap audit for people before the December 7th cutoff It's a four minute look at what your plan actually covers versus what comes out of your own pocket when you need care Most people are genuinely surprised by the difference We're just trying to reach everyone on the list before that deadline"
     },
     {
       "speaker": "BOT",

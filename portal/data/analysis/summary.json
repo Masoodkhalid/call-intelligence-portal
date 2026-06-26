@@ -1,20 +1,20 @@
 {
-  "total_calls": 1396,
-  "transfers": 139,
+  "total_calls": 1471,
+  "transfers": 147,
   "transfer_rate": 10.0,
   "dispo_counts": {
-    "A": 139,
+    "A": 149,
     "BDNC": 119,
     "BN": 40,
     "DAIR": 120,
     "DC": 120,
-    "DNQ": 141,
-    "LB": 60,
-    "NI": 141,
-    "NP": 137,
-    "N": 140,
-    "RAXFER": 139,
-    "RI": 20,
+    "DNQ": 151,
+    "LB": 70,
+    "NI": 151,
+    "NP": 145,
+    "N": 149,
+    "RAXFER": 147,
+    "RI": 30,
     "LH": 80
   },
   "dispo_labels": {
@@ -55,6 +55,27 @@
         "NP": 22,
         "N": 20,
         "RAXFER": 20
+      }
+    },
+    "Empaxco3": {
+      "count": 75,
+      "wins": 8,
+      "transfer_rate": 10.7,
+      "campaigns": [
+        "Fe"
+      ],
+      "bot_companies": [
+        "Unknown"
+      ],
+      "dispo_counts": {
+        "A": 10,
+        "DNQ": 10,
+        "LB": 10,
+        "NI": 10,
+        "NP": 8,
+        "N": 9,
+        "RAXFER": 8,
+        "RI": 10
       }
     },
     "empaxco3": {
@@ -196,6 +217,7 @@
     }
   },
   "all_companies": [
+    "Empaxco3",
     "Halink(Hihalink)",
     "aicontact",
     "empaxco3",
@@ -206,11 +228,13 @@
   ],
   "all_campaigns": [
     "FE",
+    "Fe",
     "Medicare"
   ],
   "all_bot_companies": [
     "Confinality",
-    "REEV"
+    "REEV",
+    "Unknown"
   ],
-  "avg_duration": 36.7
+  "avg_duration": 36.3
 }

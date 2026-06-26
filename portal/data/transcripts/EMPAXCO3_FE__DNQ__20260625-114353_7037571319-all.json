@@ -1,0 +1,119 @@
+{
+  "id": "EMPAXCO3_FE__DNQ__20260625-114353_7037571319-all",
+  "campaign": "EMPAXCO3_FE",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-25",
+  "time": "11:43:53",
+  "phone": "7037571319",
+  "filename": "20260625-114353_7037571319-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_FE/EMPAXCO3_FE-DNQ/20260625-114353_7037571319-all.mp3",
+  "duration": 31.61,
+  "text": ">> Hello. >> Yes? >> My name is Eden. I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. To check if you qualify, so can you please confirm? Are you between 40 and 85 years old? >> No. >> Sorry, you don't seem to be qualified for the benefits plans that I have. Thank you for your time.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": ">> Hello."
+    },
+    {
+      "start": 3.36,
+      "end": 5.2,
+      "text": ">> Yes?"
+    },
+    {
+      "start": 5.2,
+      "end": 6.28,
+      "text": ">> My name is Eden."
+    },
+    {
+      "start": 6.28,
+      "end": 9.02,
+      "text": "I'm calling because in the recent updates,"
+    },
+    {
+      "start": 9.02,
+      "end": 12.26,
+      "text": "the government has introduced final expense insurance plans"
+    },
+    {
+      "start": 12.26,
+      "end": 17.04,
+      "text": "at a highly subsidized rate that you may qualify for."
+    },
+    {
+      "start": 17.04,
+      "end": 19.96,
+      "text": "To check if you qualify, so can you please confirm?"
+    },
+    {
+      "start": 19.96,
+      "end": 24.44,
+      "text": "Are you between 40 and 85 years old?"
+    },
+    {
+      "start": 24.44,
+      "end": 26.16,
+      "text": ">> No."
+    },
+    {
+      "start": 26.16,
+      "end": 28.12,
+      "text": ">> Sorry, you don't seem to be qualified"
+    },
+    {
+      "start": 28.12,
+      "end": 30.06,
+      "text": "for the benefits plans that I have."
+    },
+    {
+      "start": 30.06,
+      "end": 31.16,
+      "text": "Thank you for your time."
+    }
+  ],
+  "word_count": 74,
+  "company": "Empaxco3",
+  "bot_company": "Unknown",
+  "campaign_name": "Fe",
+  "bot_text": ">> Hello. >> Yes? >> My name is Eden. I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. To check if you qualify, so can you please confirm? Are you between 40 and 85 years old? >> No. >> Sorry, you don't seem to be qualified for the benefits plans that I have. Thank you for your time.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes? My name is Eden"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To check if you qualify, so can you please confirm?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, you don't seem to be qualified for the benefits plans that I have Thank you for your time"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 74
+}

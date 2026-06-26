@@ -1,0 +1,76 @@
+{
+  "id": "EMPAXCO3_FE__A__20260625-111140_8149647253-all",
+  "campaign": "EMPAXCO3_FE",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-25",
+  "time": "11:11:40",
+  "phone": "8149647253",
+  "filename": "20260625-111140_8149647253-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_FE/EMPAXCO3_FE-A/20260625-111140_8149647253-all.mp3",
+  "duration": 24.7,
+  "text": "Sarah. Hello. My name is Eden. I'm calling about final expense coverage options available in your area. These plans are designed to help your family with funeral or burial expenses. So can you please confirm? Are you between 40 and 85 years old? It's not available. Please leave your message after the tone.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "Sarah. Hello."
+    },
+    {
+      "start": 3.24,
+      "end": 9.72,
+      "text": "My name is Eden. I'm calling about final expense coverage options available in your area."
+    },
+    {
+      "start": 9.72,
+      "end": 14.16,
+      "text": "These plans are designed to help your family with funeral or burial expenses."
+    },
+    {
+      "start": 14.16,
+      "end": 19.16,
+      "text": "So can you please confirm? Are you between 40 and 85 years old?"
+    },
+    {
+      "start": 19.16,
+      "end": 24.5,
+      "text": "It's not available. Please leave your message after the tone."
+    }
+  ],
+  "word_count": 53,
+  "company": "Empaxco3",
+  "bot_company": "Unknown",
+  "campaign_name": "Fe",
+  "bot_text": "Sarah. Hello. My name is Eden. I'm calling about final expense coverage options available in your area. These plans are designed to help your family with funeral or burial expenses. So can you please confirm? Are you between 40 and 85 years old? It's not available. Please leave your message after the tone.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Sarah"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Eden"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm calling about final expense coverage options available in your area These plans are designed to help your family with funeral or burial expenses So can you please confirm? Are you between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "It's not available Please leave your message after the tone"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 53
+}

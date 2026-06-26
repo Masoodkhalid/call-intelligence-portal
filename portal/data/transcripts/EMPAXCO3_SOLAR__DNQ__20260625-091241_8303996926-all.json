@@ -85,7 +85,15 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Nope Could you please confirm, if you are between 40 and 85 years old? No"
+      "text": "Nope"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Could you please confirm, if you are between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
     },
     {
       "speaker": "BOT",

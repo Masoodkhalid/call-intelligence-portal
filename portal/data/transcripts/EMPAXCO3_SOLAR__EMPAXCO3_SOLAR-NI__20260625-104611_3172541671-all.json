@@ -38,15 +38,7 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello Hello Hi, my name is Hannah"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "I'm calling about final expense coverage options available in your area"
-    },
-    {
-      "speaker": "BOT",
-      "text": "These plans are designed to help your family with funeral or burial expenses So can you please confirm, are you between 40 and 85 years old?"
+      "text": "Hello Hello Hi, my name is Hannah I'm calling about final expense coverage options available in your area These plans are designed to help your family with funeral or burial expenses So can you please confirm, are you between 40 and 85 years old?"
     },
     {
       "speaker": "CUSTOMER",

@@ -1,0 +1,45 @@
+{
+  "id": "EMPAXCO3_FE__NP__20260625-111522_3032875958-all",
+  "campaign": "EMPAXCO3_FE",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-25",
+  "time": "11:15:22",
+  "phone": "3032875958",
+  "filename": "20260625-111522_3032875958-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_FE/EMPAXCO3_FE-NP/20260625-111522_3032875958-all.mp3",
+  "duration": 19.73,
+  "text": "Hello. Hi, this is Ayla. How are you doing today? Can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello. Hi, this is Ayla. How are you doing today?"
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Can you hear me?"
+    }
+  ],
+  "word_count": 14,
+  "company": "Empaxco3",
+  "bot_company": "Unknown",
+  "campaign_name": "Fe",
+  "bot_text": "Hello. Hi, this is Ayla. How are you doing today? Can you hear me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hi, this is Ayla How are you doing today? Can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 14
+}

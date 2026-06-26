@@ -1,0 +1,99 @@
+{
+  "id": "EMPAXCO3_FE__NI__20260625-095245_3363100025-all",
+  "campaign": "EMPAXCO3_FE",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-25",
+  "time": "09:52:45",
+  "phone": "3363100025",
+  "filename": "20260625-095245_3363100025-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_FE/EMPAXCO3_FE-NI/20260625-095245_3363100025-all.mp3",
+  "duration": 29.02,
+  "text": "- Hello. - Hello. - Hi, my name is Emma. I'm calling because in the recent episode, the government has introduced the final insurance plans at a highly subsidized rate that you may qualify for. - Okay, all right. - So check if you qualify. So can you please confirm, are you between 40 and 85 years old? - Good point. - Could you please confirm, if you are between 40 and 85 years old? - Good. Okay. [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "- Hello. - Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "- Hi, my name is Emma. I'm calling because in the recent episode,"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "the government has introduced the final insurance plans at a highly subsidized rate"
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "that you may qualify for. - Okay, all right. - So check if you qualify."
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "So can you please confirm, are you between 40 and 85 years old?"
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": "- Good point. - Could you please confirm, if you are between"
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": "40 and 85 years old? - Good. Okay."
+    },
+    {
+      "start": 28.0,
+      "end": 35.0,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 79,
+  "company": "Empaxco3",
+  "bot_company": "Unknown",
+  "campaign_name": "Fe",
+  "bot_text": "- Hello. - Hello. - Hi, my name is Emma. I'm calling because in the recent episode, the government has introduced the final insurance plans at a highly subsidized rate that you may qualify for. - Okay, all right. - So check if you qualify. So can you please confirm, are you between 40 and 85 years old? - Good point. - Could you please confirm, if you are between 40 and 85 years old? - Good. Okay. [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Emma"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm calling because in the recent episode, the government has introduced the final insurance plans at a highly subsidized rate that you may qualify for Okay, all right"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So check if you qualify"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So can you please confirm, are you between 40 and 85 years old? Good point Could you please confirm, if you are between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Good Okay"
+    },
+    {
+      "speaker": "BOT",
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 79
+}

@@ -31,11 +31,11 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello, good morning My name is Kathy"
+      "text": "Hello, good morning"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "I know you're going to grab your bag on"
+      "text": "My name is Kathy I know you're going to grab your bag on"
     },
     {
       "speaker": "BOT",

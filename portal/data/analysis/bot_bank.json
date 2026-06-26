@@ -1,5 +1,5 @@
 {
-  "threshold": 16,
+  "threshold": 17,
   "lines": [
     [
       "are you there",
@@ -15,11 +15,11 @@
     ],
     [
       "this is <NAME>",
-      149
+      150
     ],
     [
       "can you hear me",
-      120
+      140
     ],
     [
       "good morning",
@@ -54,6 +54,10 @@
       54
     ],
     [
+      "how are you doing today",
+      52
+    ],
+    [
       "james here from nova health care <STATE>",
       50
     ],
@@ -70,12 +74,16 @@
       48
     ],
     [
+      "blank audio",
+      45
+    ],
+    [
       "so have you been notified about these benefits yet",
       45
     ],
     [
-      "blank audio",
-      43
+      "are you between <NUM> and <NUM> years old",
+      42
     ],
     [
       "we just need a quick confirmation so your coverage doesn t get interrupted",
@@ -98,15 +106,11 @@
       38
     ],
     [
-      "how are you doing today",
+      "hello can you hear me",
       37
     ],
     [
       "just a quick confirmation from you and we re all set",
-      36
-    ],
-    [
-      "hello can you hear me",
       36
     ],
     [
@@ -130,6 +134,10 @@
       31
     ],
     [
+      "thank you for your time",
+      30
+    ],
+    [
       "so to check whether you are eligible for this may i know your age please",
       30
     ],
@@ -142,12 +150,8 @@
       28
     ],
     [
-      "are you between <NUM> and <NUM> years old",
-      28
-    ],
-    [
       "have a good day",
-      26
+      27
     ],
     [
       "hey glad to hear you",
@@ -158,6 +162,14 @@
       26
     ],
     [
+      "these plans are designed to help your family with funeral or burial expenses",
+      24
+    ],
+    [
+      "sorry you don t seem to be qualified for the benefits plans that i have",
+      24
+    ],
+    [
       "i couldn t quite catch that",
       24
     ],
@@ -166,15 +178,15 @@
       24
     ],
     [
+      "to mark your message private press <NUM>",
+      23
+    ],
+    [
       "so you do have part a and b of medicare right",
       22
     ],
     [
       "we just need a quick confirmation from you so your coverage doesn t get interrupted",
-      22
-    ],
-    [
-      "thank you for your time",
       22
     ],
     [
@@ -190,7 +202,15 @@
       21
     ],
     [
-      "to mark your message private press <NUM>",
+      "i m calling about final expense coverage options available in your area",
+      21
+    ],
+    [
+      "so can you please confirm",
+      21
+    ],
+    [
+      "could you please confirm if you are between <NUM> and <NUM> years old",
       21
     ],
     [
@@ -206,6 +226,10 @@
       21
     ],
     [
+      "to mark your message urgent press <NUM>",
+      20
+    ],
+    [
       "james here from nova healthcare <STATE>",
       20
     ],
@@ -214,7 +238,11 @@
       19
     ],
     [
-      "to mark your message urgent press <NUM>",
+      "to send your message as is press pound",
+      18
+    ],
+    [
+      "i m calling because in the recent update the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for",
       18
     ],
     [
@@ -222,32 +250,8 @@
       18
     ],
     [
-      "to send your message as is press pound",
-      17
-    ],
-    [
       "oh that s all right",
       17
-    ],
-    [
-      "just confirm for me",
-      16
-    ],
-    [
-      "these plans are designed to help your family with funeral or burial expenses",
-      16
-    ],
-    [
-      "sorry you don t seem to be qualified for the benefits plans that i have",
-      16
-    ],
-    [
-      "i m sorry i couldn t quite catch that",
-      16
-    ],
-    [
-      "my name is sophie",
-      16
     ]
   ]
 }

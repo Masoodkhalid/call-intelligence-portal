@@ -139,7 +139,15 @@
     },
     {
       "speaker": "BOT",
-      "text": "Your message, press 1 to mark your message urgent, press 2 To mark your message private, press 3 To send your message as is, press pound I'm sorry, I didn't quite get that Are you clear?"
+      "text": "Your message, press 1 to mark your message urgent, press 2 To mark your message private, press 3 To send your message as is, press pound"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm sorry, I didn't quite get that"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you clear?"
     },
     {
       "speaker": "CUSTOMER",

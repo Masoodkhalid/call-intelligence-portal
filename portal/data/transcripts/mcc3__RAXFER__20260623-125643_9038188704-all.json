@@ -72,11 +72,11 @@
     },
     {
       "speaker": "BOT",
-      "text": "Thank you for holding My name is Sophie"
+      "text": "Thank you for holding"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "How are you?"
+      "text": "My name is Sophie How are you?"
     }
   ],
   "stages": {

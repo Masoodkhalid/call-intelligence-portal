@@ -36,15 +36,7 @@
   "turns": [
     {
       "speaker": "CUSTOMER",
-      "text": "You've reached 269-447-0209"
-    },
-    {
-      "speaker": "BOT",
-      "text": "My name is James"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "If you're a telemarketer, please hang up immediately and take me off your list Otherwise"
+      "text": "You've reached 269-447-0209 My name is James If you're a telemarketer, please hang up immediately and take me off your list Otherwise"
     }
   ],
   "stages": {

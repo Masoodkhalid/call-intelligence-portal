@@ -1,0 +1,59 @@
+{
+  "id": "EMPAXCO3_FE__NI__20260625-111826_7733741960-all",
+  "campaign": "EMPAXCO3_FE",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-25",
+  "time": "11:18:26",
+  "phone": "7733741960",
+  "filename": "20260625-111826_7733741960-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_FE/EMPAXCO3_FE-NI/20260625-111826_7733741960-all.mp3",
+  "duration": 38.95,
+  "text": "Hi, my name is Hannah. I'm calling because in the recent updates the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. To check if you qualify, so can you please confirm are you between 40 and 85 years old? Thank you for your time. Goodbye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.24,
+      "text": "Hi, my name is Hannah. I'm calling because in the recent updates the government has introduced"
+    },
+    {
+      "start": 10.24,
+      "end": 17.28,
+      "text": "final expense insurance plans at a highly subsidized rate that you may qualify for."
+    },
+    {
+      "start": 17.28,
+      "end": 29.12,
+      "text": "To check if you qualify, so can you please confirm are you between 40 and 85 years old?"
+    },
+    {
+      "start": 29.12,
+      "end": 38.32,
+      "text": "Thank you for your time. Goodbye."
+    }
+  ],
+  "word_count": 54,
+  "company": "Empaxco3",
+  "bot_company": "Unknown",
+  "campaign_name": "Fe",
+  "bot_text": "Hi, my name is Hannah. I'm calling because in the recent updates the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. To check if you qualify, so can you please confirm are you between 40 and 85 years old? Thank you for your time. Goodbye.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hi, my name is Hannah I'm calling because in the recent updates the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for To check if you qualify, so can you please confirm are you between 40 and 85 years old? Thank you for your time"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Goodbye"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 54
+}

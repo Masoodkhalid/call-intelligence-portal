@@ -1,0 +1,40 @@
+{
+  "id": "EMPAXCO3_FE__N__20260625-112718_5745818449-all",
+  "campaign": "EMPAXCO3_FE",
+  "dispo": "N",
+  "dispo_label": "No Answer",
+  "date": "2026-06-25",
+  "time": "11:27:18",
+  "phone": "5745818449",
+  "filename": "20260625-112718_5745818449-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_FE/EMPAXCO3_FE-N/20260625-112718_5745818449-all.mp3",
+  "duration": 3.17,
+  "text": "Hello, can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello, can you hear me?"
+    }
+  ],
+  "word_count": 5,
+  "company": "Empaxco3",
+  "bot_company": "Unknown",
+  "campaign_name": "Fe",
+  "bot_text": "Hello, can you hear me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 5
+}

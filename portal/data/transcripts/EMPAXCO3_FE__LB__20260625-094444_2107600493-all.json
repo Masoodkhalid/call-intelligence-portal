@@ -1,0 +1,40 @@
+{
+  "id": "EMPAXCO3_FE__LB__20260625-094444_2107600493-all",
+  "campaign": "EMPAXCO3_FE",
+  "dispo": "LB",
+  "dispo_label": "Left Blank / No Response",
+  "date": "2026-06-25",
+  "time": "09:44:44",
+  "phone": "2107600493",
+  "filename": "20260625-094444_2107600493-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_FE/EMPAXCO3_FE-LB/20260625-094444_2107600493-all.mp3",
+  "duration": 11.16,
+  "text": "(speaking in foreign language)",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.92,
+      "text": "(speaking in foreign language)"
+    }
+  ],
+  "word_count": 4,
+  "company": "Empaxco3",
+  "bot_company": "Unknown",
+  "campaign_name": "Fe",
+  "bot_text": "(speaking in foreign language)",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "(speaking in foreign language)"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 4
+}

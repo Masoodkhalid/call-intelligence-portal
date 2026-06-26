@@ -75,15 +75,7 @@
     },
     {
       "speaker": "BOT",
-      "text": "This is what you're doing today"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "I'm calling about final events, what are the options available in your area?"
-    },
-    {
-      "speaker": "BOT",
-      "text": "These plans are designed to help your family with"
+      "text": "This is what you're doing today I'm calling about final events, what are the options available in your area? These plans are designed to help your family with"
     }
   ],
   "stages": {

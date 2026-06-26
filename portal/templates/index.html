@@ -69,7 +69,23 @@
 <header>
   <h1>📞 Call Intelligence Portal</h1>
   <span class="pill" id="hdr-stat">loading…</span>
+  <button id="sync-btn" onclick="startSync()"
+    style="margin-left:auto;background:#238636;border:none;color:#fff;
+           padding:8px 18px;border-radius:8px;cursor:pointer;font-size:13px;font-weight:600">
+    🔄 Sync Sheet
+  </button>
 </header>
+
+<!-- Sync progress panel -->
+<div id="sync-panel" style="display:none;background:#161b22;border-bottom:2px solid #238636;
+     padding:12px 22px;font-family:ui-monospace,Menlo,monospace;font-size:12px">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">
+    <b style="color:#3fb950" id="sync-title">Syncing…</b>
+    <span id="sync-close" onclick="$('#sync-panel').style.display='none'"
+      style="cursor:pointer;color:#8b97a8;font-size:16px">✕</span>
+  </div>
+  <div id="sync-log" style="max-height:120px;overflow-y:auto;color:#e6edf3;line-height:1.7"></div>
+</div>
 <nav>
   <button data-tab="dashboard" class="active">Dashboard</button>
   <button data-tab="transcripts">Transcripts</button>
@@ -512,6 +528,49 @@ function renderHistory(items){
     return;
   }
   $('#gen-history').innerHTML = items.map(r=>genCard(r,false)).join('');
+}
+
+// ---- Sheet Sync ------------------------------------------------------------
+let _syncPoll = null;
+
+async function startSync(){
+  const btn = $('#sync-btn');
+  btn.disabled = true;
+  btn.textContent = '⏳ Syncing…';
+  const r = await fetch('/api/sync', {method:'POST'}).then(x=>x.json());
+  if(!r.ok){ alert(r.message); btn.disabled=false; btn.textContent='🔄 Sync Sheet'; return; }
+  $('#sync-panel').style.display = 'block';
+  $('#sync-title').textContent = 'Syncing from Google Sheet…';
+  $('#sync-log').innerHTML = '';
+  if(_syncPoll) clearInterval(_syncPoll);
+  _syncPoll = setInterval(pollSync, 1500);
+}
+
+async function pollSync(){
+  const s = await api('/api/sync_status');
+  const logEl = $('#sync-log');
+  logEl.innerHTML = (s.log||[]).map(l=>`<div>${l}</div>`).join('');
+  logEl.scrollTop = logEl.scrollHeight;
+  if(s.status === 'done' || s.status === 'error'){
+    clearInterval(_syncPoll); _syncPoll = null;
+    const btn = $('#sync-btn');
+    btn.disabled = false;
+    btn.textContent = '🔄 Sync Sheet';
+    $('#sync-title').textContent = s.status === 'done'
+      ? '✅ Sync complete — reloading data…'
+      : '❌ Sync error — see log above';
+    if(s.status === 'done'){
+      // reload summary + flows without full page refresh
+      setTimeout(async ()=>{
+        SUMMARY = await api('/api/summary');
+        FLOWS   = await api('/api/flows');
+        $('#hdr-stat').textContent =
+          `${SUMMARY.total_calls||0} calls · ${SUMMARY.transfers||0} transfers · ${pct(SUMMARY.transfer_rate)} transfer rate`;
+        renderDashboard();
+        $('#sync-title').textContent = '✅ Sync complete';
+      }, 800);
+    }
+  }
 }
 
 boot();

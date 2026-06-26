@@ -1,0 +1,59 @@
+{
+  "id": "EMPAXCO3_FE__RI__20260625-112509_8653078508-all",
+  "campaign": "EMPAXCO3_FE",
+  "dispo": "RI",
+  "dispo_label": "Re-Inquiry",
+  "date": "2026-06-25",
+  "time": "11:25:09",
+  "phone": "8653078508",
+  "filename": "20260625-112509_8653078508-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_FE/EMPAXCO3_FE-RI/20260625-112509_8653078508-all.mp3",
+  "duration": 16.34,
+  "text": "Hello? [phone rings] Can you hear me? [phone rings]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 10.0,
+      "text": "[phone rings]"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "[phone rings]"
+    }
+  ],
+  "word_count": 9,
+  "company": "Empaxco3",
+  "bot_company": "Unknown",
+  "campaign_name": "Fe",
+  "bot_text": "Hello? [phone rings] Can you hear me? [phone rings]",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? [phone rings] Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "[phone rings]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 9
+}

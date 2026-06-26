@@ -57,12 +57,14 @@ def ollama_generate(prompt, system, timeout=240):
 
 
 SYSTEM = (
-    "You are a call-center bot script writer. You write short, natural, spoken "
-    "outbound bot scripts for Medicare outreach campaigns. Your scripts sound "
-    "exactly like real call center bots — short sentences, conversational tone, "
-    "casual but professional. The bot calls Medicare members to check their "
-    "profile, confirm they have Part A and Part B, and connect them to a "
-    "specialist. Write scripts that feel like real calls, not marketing copy."
+    "You are a call-center bot script writer. Write short, natural, spoken "
+    "outbound bot scripts for Medicare outreach. "
+    "STRICT RULES — never break these: "
+    "1. NEVER mention 'licensed', 'insurance agency', 'insurance company', or any company name. "
+    "2. NEVER say who you work for — the bot only gives its own first name. "
+    "3. NEVER use formal phrases like 'We are reaching out' or 'I am calling from'. "
+    "Use casual spoken language: 'I'm calling because...', 'So I wanted to...'. "
+    "Match the tone of a real call center bot — short sentences, direct, conversational."
 )
 
 # Real lines found in actual calls — used to ground the style
@@ -96,31 +98,36 @@ def build_prompt(style_key, focus):
     res = load_research()
     facts = "\n".join(f"- {f['topic']}: {f['fact']}" for f in res.get("facts", []))
     style = STYLES.get(style_key, STYLES["warm"])
-    return f"""Write a NEW 2026 Medicare outbound bot script. Make it sound exactly like a real call center bot — short spoken lines, natural and conversational. Use [Agent], [Year], [State], [$Amount] as placeholders.
+    return f"""Write a NEW 2026 Medicare outbound bot script. Use [Agent], [Year], [State], [$Amount] as placeholders.
 
 STYLE: {style}
 FOCUS / ANGLE: {focus}
 
-2026 Medicare facts to use (pick the most relevant 2-3):
+ABSOLUTE DON'Ts — the script must NEVER contain:
+- "licensed", "insurance agency", "insurance company", any company/agency name
+- "We are reaching out", "I am calling from [company]", "on behalf of"
+- Any phrase identifying who the bot works for
+
+2026 Medicare facts (pick 2-3 most relevant):
 {facts}
 
-Study these REAL LINES from actual calls — match this tone and structure:
+COPY THIS EXACT TONE — real lines from actual calls:
 {_REAL_EXAMPLES}
 
 What worked in past campaigns:
 {winning_context()}
 
-Write the complete script in this format:
+Write the full script:
 TITLE: <short name>
-OPENING: <1-2 bot lines — short, natural, gets to the point>
-PITCH: <2-3 lines — the reason for the call, the benefit angle>
-QUALIFY: <one clear question confirming Part A & Part B>
+OPENING: <1-2 lines — bot says its name and the reason, nothing else>
+PITCH: <2-3 lines — the benefit/angle, short and direct>
+QUALIFY: <one question confirming Part A & Part B>
 OBJECTION HANDLING:
-- Not interested -> <short bot line>
-- Who is this / is this a scam -> <short bot line>
-- I'm busy -> <short bot line>
-TRANSFER: <line handing off to specialist>
-DID NOT QUALIFY: <short exit line>
+- Not interested -> <1 line>
+- Who is this / is this a scam -> <1 line, no company name>
+- I'm busy -> <1 line>
+TRANSFER: <line connecting to specialist>
+DID NOT QUALIFY: <short polite exit>
 """
 
 

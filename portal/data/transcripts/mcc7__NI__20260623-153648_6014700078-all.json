@@ -59,7 +59,15 @@
     },
     {
       "speaker": "BOT",
-      "text": "Can you hear me? Can you hear me? Good afternoon My name is Sophie You doing okay? Hello? Hello?"
+      "text": "Can you hear me? Can you hear me? Good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Sophie"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You doing okay? Hello? Hello?"
     }
   ],
   "stages": {

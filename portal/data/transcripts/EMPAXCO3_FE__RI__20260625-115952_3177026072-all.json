@@ -1,0 +1,59 @@
+{
+  "id": "EMPAXCO3_FE__RI__20260625-115952_3177026072-all",
+  "campaign": "EMPAXCO3_FE",
+  "dispo": "RI",
+  "dispo_label": "Re-Inquiry",
+  "date": "2026-06-25",
+  "time": "11:59:52",
+  "phone": "3177026072",
+  "filename": "20260625-115952_3177026072-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_FE/EMPAXCO3_FE-RI/20260625-115952_3177026072-all.mp3",
+  "duration": 16.34,
+  "text": "Hello. Can you hear me? Hello. (beep)",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 12.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "Hello."
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "(beep)"
+    }
+  ],
+  "word_count": 7,
+  "company": "Empaxco3",
+  "bot_company": "Unknown",
+  "campaign_name": "Fe",
+  "bot_text": "Hello. Can you hear me? Hello. (beep)",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Can you hear me? Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "(beep)"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 7
+}
