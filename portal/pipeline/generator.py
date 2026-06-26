@@ -131,8 +131,46 @@ DID NOT QUALIFY: <short polite exit>
 """
 
 
+import re as _re
+
+# Patterns the LLM keeps inserting despite instructions — strip them from output.
+_CLEAN_PATTERNS = [
+    # "[Licensed Insurance Agency]" with leading preposition/verb
+    (_re.compile(r'\b(with|from|at|for|represent(?:ing)?|I represent)\s+\[Licensed Insurance Agency\]', _re.I), ''),
+    # "[Licensed Insurance Agency]" standalone
+    (_re.compile(r'\[Licensed Insurance Agency\]', _re.I), ''),
+    # "[Company Name], a licensed insurance agency" or "[Company Name]" standalone
+    (_re.compile(r'\[Company Name\],?\s*(?:a licensed insurance agenc\w*)?', _re.I), ''),
+    # "a/the licensed insurance agency/agent"
+    (_re.compile(r',?\s*(?:a |the )?licensed insurance agenc\w*', _re.I), ''),
+    # "licensed insurance" anywhere remaining
+    (_re.compile(r'\blicensed insurance\b[^.!?]*', _re.I), ''),
+    # dangling connectors left behind: "and .", "and I .", "this is ."
+    (_re.compile(r'\b(and|or|but)\s*[,\.]'), '.'),
+    (_re.compile(r'\bthis is\s*\.'), ''),
+    (_re.compile(r'\bfrom\s*\.'), '.'),
+    (_re.compile(r'\bfrom\s*$', _re.M), ''),
+    # space before punctuation: "name ." → "name."
+    (_re.compile(r'\s+([.,!?])'), r'\1'),
+    # tidy double spaces and stray leading punctuation per line
+    (_re.compile(r'[ \t]{2,}'), ' '),
+    (_re.compile(r'^\s*[,\s]+', _re.M), ''),
+    # trailing "calling." with nothing after is fine; "calling ." → "calling."
+    (_re.compile(r'\bcalling\s*\.\s*$', _re.M), 'calling.'),
+]
+
+
+def _clean(text):
+    for pat, repl in _CLEAN_PATTERNS:
+        text = pat.sub(repl, text)
+    # second pass: remove any remaining empty lines from removal
+    lines = [l.strip() for l in text.splitlines()]
+    text = '\n'.join(l for l in lines if l)
+    return text.strip()
+
+
 def generate(style_key="warm", focus="2026 Part D $2,100 out-of-pocket cap savings"):
-    out = ollama_generate(build_prompt(style_key, focus), SYSTEM)
+    out = _clean(ollama_generate(build_prompt(style_key, focus), SYSTEM))
     rec = {
         "id": datetime.datetime.now().strftime("%Y%m%d-%H%M%S"),
         "generated_at": datetime.datetime.now().isoformat(timespec="seconds"),
