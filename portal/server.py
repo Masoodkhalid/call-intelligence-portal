@@ -92,12 +92,13 @@ def api_flows():
 
 @app.route("/api/calls")
 def api_calls():
-    """List transcripts with ?company=&bot_company=&campaign=&dispo=&phone= filters."""
+    """List transcripts with ?company=&bot_company=&campaign=&dispo=&phone=&q= filters."""
     company     = request.args.get("company", "").strip()
     bot_company = request.args.get("bot_company", "").strip()
     campaign    = request.args.get("campaign", "").strip()
     dispo       = request.args.get("dispo", "").strip()
     phone       = request.args.get("phone", "").strip()
+    q           = request.args.get("q", "").strip().lower()
     out = []
     for fn in sorted(os.listdir(C.TRANSCRIPTS_DIR)):
         if not fn.endswith(".json"):
@@ -105,15 +106,17 @@ def api_calls():
         t = C.load_json(os.path.join(C.TRANSCRIPTS_DIR, fn))
         if not t:
             continue
-        if company     and t.get("company", "")       != company:
+        if company     and t.get("company", "")        != company:
             continue
-        if bot_company and t.get("bot_company", "")   != bot_company:
+        if bot_company and t.get("bot_company", "")    != bot_company:
             continue
         if campaign    and t.get("campaign_name", "")  != campaign:
             continue
         if dispo       and t.get("dispo", "")           != dispo:
             continue
         if phone       and phone not in t.get("phone", ""):
+            continue
+        if q           and q not in t.get("text", "").lower():
             continue
         out.append({
             "id":            t["id"],

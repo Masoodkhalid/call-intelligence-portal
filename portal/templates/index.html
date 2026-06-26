@@ -192,12 +192,13 @@ async function loadTranscripts(resetPage){
   if(resetPage || resetPage===undefined) TX_PAGE=0;
   if(!$('#tx-controls')){
     $('#transcripts').innerHTML=`
-      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:8px;margin-bottom:10px" id="tx-controls">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(155px,1fr));gap:8px;margin-bottom:10px" id="tx-controls">
         <select id="f-company"><option value="">All Companies</option>${companyOptions()}</select>
         <select id="f-bot"><option value="">All Bot Companies</option>${botOptions()}</select>
         <select id="f-campaign"><option value="">All Campaigns</option>${campaignOptions()}</select>
         <select id="f-dispo"><option value="">All Dispositions</option>${dispoOptions()}</select>
-        <input id="f-phone" placeholder="Phone number…">
+        <input id="f-phone" placeholder="🔍 Phone number…" style="min-width:130px">
+        <input id="f-q" placeholder="🔍 Search transcript…" style="min-width:160px">
         <button onclick="loadTranscripts(true)" style="background:var(--accent);border:none;color:#fff;
           padding:8px 16px;border-radius:8px;cursor:pointer;font-size:13px;font-weight:600">Search</button>
       </div>
@@ -205,14 +206,17 @@ async function loadTranscripts(resetPage){
     ['f-company','f-bot','f-campaign','f-dispo'].forEach(id=>{
       $(('#'+id)).addEventListener('change',()=>loadTranscripts(true));
     });
-    $('#f-phone').addEventListener('keydown',e=>{if(e.key==='Enter')loadTranscripts(true);});
+    ['f-phone','f-q'].forEach(id=>{
+      $(('#'+id)).addEventListener('keydown',e=>{if(e.key==='Enter')loadTranscripts(true);});
+    });
   }
   const company    = $('#f-company').value;
   const bot        = $('#f-bot').value;
   const campaign   = $('#f-campaign').value;
   const dispo      = $('#f-dispo').value;
   const phone      = $('#f-phone').value.trim();
-  const url = `/api/calls?company=${encodeURIComponent(company)}&bot_company=${encodeURIComponent(bot)}&campaign=${encodeURIComponent(campaign)}&dispo=${encodeURIComponent(dispo)}&phone=${encodeURIComponent(phone)}`;
+  const q          = $('#f-q').value.trim();
+  const url = `/api/calls?company=${encodeURIComponent(company)}&bot_company=${encodeURIComponent(bot)}&campaign=${encodeURIComponent(campaign)}&dispo=${encodeURIComponent(dispo)}&phone=${encodeURIComponent(phone)}&q=${encodeURIComponent(q)}`;
   const d = await api(url);
   TX_ALL = d.calls;
   renderTxPage();
