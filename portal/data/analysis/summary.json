@@ -188,5 +188,9 @@
     "Medicare",
     "Solar"
   ],
+  "all_bot_companies": [
+    "Confinality",
+    "IDRAK"
+  ],
   "avg_duration": 36.7
 }

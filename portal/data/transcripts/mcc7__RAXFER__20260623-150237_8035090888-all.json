@@ -87,5 +87,6 @@
   "post_transfer_trimmed": true,
   "bot_word_count": 118,
   "company": "mcc7",
-  "campaign_name": "Medicare"
+  "campaign_name": "Medicare",
+  "bot_company": "Confinality"
 }

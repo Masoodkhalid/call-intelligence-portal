@@ -109,12 +109,16 @@ def run():
     by_dispo = defaultdict(list)
     by_campaign = defaultdict(list)
     by_company = defaultdict(list)
+    by_bot = defaultdict(list)
     for t in transcripts:
         # back-fill company/campaign_name for old transcripts that lack them
         if "company" not in t or "campaign_name" not in t:
             company, campaign_name = C.parse_company_campaign(t.get("campaign", ""))
             t["company"] = company
             t["campaign_name"] = campaign_name
+        # back-fill bot_company (also re-compute if previously stored as Unknown)
+        if "bot_company" not in t or t["bot_company"] == "Unknown":
+            t["bot_company"] = C.parse_bot_company(t.get("company", ""))
         # re-normalize dispo in case it was saved with the full folder prefix
         t["dispo"] = C.normalize_dispo(t["dispo"])
         t["dispo_label"] = C.dispo_label(t["dispo"])
@@ -129,6 +133,7 @@ def run():
         by_dispo[t["dispo"]].append(t)
         by_campaign[t["campaign"]].append(t)
         by_company[t["company"]].append(t)
+        by_bot[t["bot_company"]].append(t)
 
     flows = {}
     for dispo, items in by_dispo.items():
@@ -177,9 +182,10 @@ def run():
             "dispo_counts": dict(Counter(t["dispo"] for t in items)),
         }
 
-    # unique companies and campaign names for UI filters
-    all_companies  = sorted({t.get("company","?")       for t in transcripts})
-    all_campaigns  = sorted({t.get("campaign_name","?") for t in transcripts})
+    # unique companies, campaigns, bot companies for UI filters
+    all_companies    = sorted({t.get("company","?")       for t in transcripts})
+    all_campaigns    = sorted({t.get("campaign_name","?") for t in transcripts})
+    all_bot_companies= sorted({t.get("bot_company","?")   for t in transcripts})
 
     summary = {
         "total_calls": total, "transfers": wins,
@@ -187,8 +193,9 @@ def run():
         "dispo_counts": dict(dispo_counts),
         "dispo_labels": {k: C.dispo_label(k) for k in dispo_counts},
         "companies": company_stats,
-        "all_companies": all_companies,
-        "all_campaigns": all_campaigns,
+        "all_companies":     all_companies,
+        "all_campaigns":     all_campaigns,
+        "all_bot_companies": all_bot_companies,
         "avg_duration": round(sum(t["duration"] for t in transcripts) / total, 1),
     }
     C.save_json(os.path.join(C.ANALYSIS_DIR, "summary.json"), summary)

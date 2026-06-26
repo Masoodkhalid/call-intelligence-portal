@@ -95,18 +95,27 @@ def call_id(campaign, dispo, filename):
     return f"{campaign}__{dispo}__{stem}"
 
 
-# ---- Company / Campaign inference ------------------------------------------
+# ---- Company / Campaign / Bot inference ------------------------------------
 # Campaigns we recognise as the suffix of a folder name
 _KNOWN_CAMPAIGNS = {"FE", "MEDICARE", "SOLAR"}
+
+# company (first segment of folder name, lowered) -> bot company name
+_BOT_COMPANY_MAP = {
+    "mcc":        "Confinality",   # mcc3/mcc5/mcc7/mcc11 (digits stripped → mcc)
+    "halink":     "Confinality",
+    "aicontact":  "Confinality",
+    "empaxco3":   "IDRAK",
+    "empaxco":    "IDRAK",         # digit-stripped fallback
+}
 
 
 def parse_company_campaign(folder_name):
     """Return (company, campaign) from a top-level recordings folder name.
 
-    mcc3              -> ("mcc3",          "Medicare")
-    AICONTACT_MEDICARE -> ("aicontact",    "Medicare")
-    HALINK_HIHALINK_FE -> ("Halink",       "FE")
-    EMPAXCO3_SOLAR     -> ("empaxco3",     "Solar")
+    mcc3               -> ("mcc3",       "Medicare")
+    AICONTACT_MEDICARE -> ("Aicontact",  "Medicare")
+    HALINK_HIHALINK_FE -> ("Halink",     "Fe")
+    EMPAXCO3_SOLAR     -> ("Empaxco3",   "Solar")
     """
     if re.match(r"^mcc\d+$", folder_name, re.I):
         return folder_name, "Medicare"
@@ -115,12 +124,20 @@ def parse_company_campaign(folder_name):
     for camp in sorted(_KNOWN_CAMPAIGNS, key=len, reverse=True):
         if up.endswith("_" + camp):
             company_raw = folder_name[:-(len(camp) + 1)]
-            # prettify: HALINK_HIHALINK -> Halink, AICONTACT -> aicontact
             company = company_raw.split("_")[0].capitalize()
             return company, camp.title()
 
-    # fallback — use the whole folder as company, unknown campaign
     return folder_name, "Unknown"
+
+
+def parse_bot_company(company_name):
+    """Return the bot-platform company for a given client company name."""
+    low = company_name.lower()
+    if low in _BOT_COMPANY_MAP:
+        return _BOT_COMPANY_MAP[low]
+    # also try with trailing digits stripped (mcc3 → mcc)
+    key = re.sub(r"\d+$", "", low)
+    return _BOT_COMPANY_MAP.get(key, "Unknown")
 
 
 def iter_recordings():
@@ -142,9 +159,10 @@ def iter_recordings():
                     continue
                 path = os.path.join(ddir, fn)
                 meta = parse_filename(path)
-                meta["campaign"]      = folder          # raw folder key
-                meta["company"]       = company         # human company name
-                meta["campaign_name"] = campaign_name   # human campaign name
+                meta["campaign"]      = folder                            # raw folder key
+                meta["company"]       = company                           # client company
+                meta["campaign_name"] = campaign_name                     # campaign
+                meta["bot_company"]   = parse_bot_company(company)        # bot platform
                 meta["dispo"]         = dispo
                 meta["dispo_label"]   = dispo_label(dispo)
                 meta["path"]          = path

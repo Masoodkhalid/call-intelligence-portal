@@ -153,62 +153,120 @@ function renderDashboard(){
 }
 
 // ---- Transcripts -----------------------------------------------------------
+const TX_PAGE_SIZE = 100;
+let TX_ALL = [];    // full filtered result from API
+let TX_PAGE = 0;    // current page index (0-based)
+
 function dispoOptions(){
   return Object.keys(SUMMARY.dispo_labels||{}).sort()
     .map(d=>`<option value="${d}">${d} — ${SUMMARY.dispo_labels[d]}</option>`).join('');
 }
 function companyOptions(){
-  return (SUMMARY.all_companies||[])
-    .map(c=>`<option value="${c}">${c}</option>`).join('');
+  return (SUMMARY.all_companies||[]).map(c=>`<option value="${c}">${c}</option>`).join('');
 }
 function campaignOptions(){
-  return (SUMMARY.all_campaigns||[])
-    .map(c=>`<option value="${c}">${c}</option>`).join('');
+  return (SUMMARY.all_campaigns||[]).map(c=>`<option value="${c}">${c}</option>`).join('');
 }
-async function loadTranscripts(){
+function botOptions(){
+  return (SUMMARY.all_bot_companies||[]).map(c=>`<option value="${c}">${c}</option>`).join('');
+}
+
+async function loadTranscripts(resetPage){
+  if(resetPage || resetPage===undefined) TX_PAGE=0;
   if(!$('#tx-controls')){
     $('#transcripts').innerHTML=`
-      <div class="row" id="tx-controls">
-        <select id="f-company"><option value="">All companies</option>${companyOptions()}</select>
-        <select id="f-campaign"><option value="">All campaigns</option>${campaignOptions()}</select>
-        <select id="f-dispo"><option value="">All dispositions</option>${dispoOptions()}</select>
-        <input id="f-q" placeholder="search transcript text…" style="flex:1;min-width:180px">
-        <button onclick="loadTranscripts()" class="chip">Search</button>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:8px;margin-bottom:10px" id="tx-controls">
+        <select id="f-company"><option value="">All Companies</option>${companyOptions()}</select>
+        <select id="f-bot"><option value="">All Bot Companies</option>${botOptions()}</select>
+        <select id="f-campaign"><option value="">All Campaigns</option>${campaignOptions()}</select>
+        <select id="f-dispo"><option value="">All Dispositions</option>${dispoOptions()}</select>
+        <input id="f-phone" placeholder="Phone number…">
+        <button onclick="loadTranscripts(true)" style="background:var(--accent);border:none;color:#fff;
+          padding:8px 16px;border-radius:8px;cursor:pointer;font-size:13px;font-weight:600">Search</button>
       </div>
-      <div class="card" id="tx-list">loading…</div>`;
-    $('#f-q').addEventListener('keydown',e=>{if(e.key==='Enter')loadTranscripts();});
+      <div id="tx-list">loading…</div>`;
+    ['f-company','f-bot','f-campaign','f-dispo'].forEach(id=>{
+      $(('#'+id)).addEventListener('change',()=>loadTranscripts(true));
+    });
+    $('#f-phone').addEventListener('keydown',e=>{if(e.key==='Enter')loadTranscripts(true);});
   }
-  const company=$('#f-company').value;
-  const campaign=$('#f-campaign').value;
-  const dispo=$('#f-dispo').value;
-  const q=$('#f-q').value;
-  const url=`/api/calls?company=${encodeURIComponent(company)}&campaign=${encodeURIComponent(campaign)}&dispo=${encodeURIComponent(dispo)}&q=${encodeURIComponent(q)}`;
-  const d=await api(url);
-  let rows=d.calls.map(c=>`<tr class="callrow" onclick="openCall('${c.id}')">
+  const company    = $('#f-company').value;
+  const bot        = $('#f-bot').value;
+  const campaign   = $('#f-campaign').value;
+  const dispo      = $('#f-dispo').value;
+  const phone      = $('#f-phone').value.trim();
+  const url = `/api/calls?company=${encodeURIComponent(company)}&bot_company=${encodeURIComponent(bot)}&campaign=${encodeURIComponent(campaign)}&dispo=${encodeURIComponent(dispo)}&phone=${encodeURIComponent(phone)}`;
+  const d = await api(url);
+  TX_ALL = d.calls;
+  renderTxPage();
+}
+
+function renderTxPage(){
+  const total = TX_ALL.length;
+  const pages = Math.max(1, Math.ceil(total / TX_PAGE_SIZE));
+  TX_PAGE = Math.min(TX_PAGE, pages-1);
+  const slice = TX_ALL.slice(TX_PAGE*TX_PAGE_SIZE, (TX_PAGE+1)*TX_PAGE_SIZE);
+
+  let rows = slice.map(c=>`<tr class="callrow" onclick="openCall('${c.id}')">
     <td>${c.phone||'—'}</td>
     <td><b>${c.company}</b></td>
+    <td><span style="color:var(--accent);font-size:12px">${c.bot_company||'—'}</span></td>
     <td>${c.campaign_name}</td>
     <td><span class="tag ${FLOWS[c.dispo]&&FLOWS[c.dispo].is_win?'win':''}">${c.dispo}</span></td>
     <td class="muted">${c.date}</td>
     <td>${c.duration}s</td>
-    <td class="muted" style="max-width:280px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis">${c.preview||''}…</td>
-    </tr>`).join('');
-  $('#tx-list').innerHTML=`<div class="muted" style="margin-bottom:8px">${d.count} calls</div>
-    <table><thead><tr>
-      <th>Phone</th><th>Company</th><th>Campaign</th><th>Disposition</th><th>Date</th><th>Duration</th><th>Preview</th>
-    </tr></thead>
-    <tbody>${rows||'<tr><td colspan=7 class=muted>no matches</td></tr>'}</tbody></table>`;
+    <td class="muted" style="max-width:240px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis">${(c.preview||'').replace(/</g,'&lt;')}…</td>
+  </tr>`).join('');
+
+  // pagination bar
+  let pager = '';
+  if(pages>1){
+    pager = `<div style="display:flex;align-items:center;gap:8px;margin-top:12px;flex-wrap:wrap">
+      <span class="muted">Page ${TX_PAGE+1} of ${pages} (${total} calls)</span>
+      <button onclick="txGo(0)" ${TX_PAGE===0?'disabled':''} class="chip">« First</button>
+      <button onclick="txGo(${TX_PAGE-1})" ${TX_PAGE===0?'disabled':''} class="chip">‹ Prev</button>`;
+    const start=Math.max(0,TX_PAGE-2), end=Math.min(pages,TX_PAGE+3);
+    for(let i=start;i<end;i++){
+      pager+=`<button onclick="txGo(${i})" class="chip" ${i===TX_PAGE?'style="background:var(--accent);color:#fff;border-color:var(--accent)"':''}>${i+1}</button>`;
+    }
+    pager+=`<button onclick="txGo(${TX_PAGE+1})" ${TX_PAGE>=pages-1?'disabled':''} class="chip">Next ›</button>
+      <button onclick="txGo(${pages-1})" ${TX_PAGE>=pages-1?'disabled':''} class="chip">Last »</button>
+    </div>`;
+  } else {
+    pager=`<div class="muted" style="margin-top:8px">${total} calls</div>`;
+  }
+
+  $('#tx-list').innerHTML=`
+    <div class="card" style="overflow-x:auto">
+      <table><thead><tr>
+        <th>Phone</th><th>Company</th><th>Bot Company</th><th>Campaign</th>
+        <th>Disposition</th><th>Date</th><th>Duration</th><th>Preview</th>
+      </tr></thead>
+      <tbody>${rows||'<tr><td colspan=8 class=muted style="padding:20px">No matches</td></tr>'}</tbody></table>
+    </div>
+    ${pager}`;
 }
+
+function txGo(page){
+  TX_PAGE=page;
+  renderTxPage();
+  $('#transcripts').scrollIntoView({behavior:'smooth',block:'start'});
+}
+
 async function openCall(cid){
   const t=await api('/api/call/'+cid);
   let turns=(t.turns||[]).map(x=>`<div class="turn ${x.speaker}">
     <div class="who">${x.speaker==='BOT'?'🤖 BOT':'🧑 CUST'}</div>
     <div class="txt">${x.text}</div></div>`).join('') ||
     `<pre>${t.text||'(no speech detected)'}</pre>`;
-  const company = t.company || t.campaign;
-  const campName = t.campaign_name || 'Medicare';
+  const company   = t.company    || t.campaign;
+  const campName  = t.campaign_name || 'Medicare';
+  const botComp   = t.bot_company  || '—';
   $('#modal-body').innerHTML=`
-    <h2 style="margin-top:0">${company} · ${campName} · <span class="tag">${t.dispo}</span> ${t.dispo_label}</h2>
+    <h2 style="margin-top:0">${company}
+      <span class="muted" style="font-weight:400;font-size:13px"> · ${botComp} · ${campName} · </span>
+      <span class="tag ${t.dispo==='RAXFER'?'win':''}">${t.dispo}</span> ${t.dispo_label}
+    </h2>
     <div class="muted">${t.date} ${t.time} · ${t.phone} · ${t.duration}s</div>
     <audio controls src="/api/audio/${cid}"></audio>
     <div>${turns}</div>`;
