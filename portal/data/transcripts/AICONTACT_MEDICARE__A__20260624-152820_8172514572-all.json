@@ -1,0 +1,79 @@
+{
+  "id": "AICONTACT_MEDICARE__A__20260624-152820_8172514572-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-24",
+  "time": "15:28:20",
+  "phone": "8172514572",
+  "filename": "20260624-152820_8172514572-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-A/20260624-152820_8172514572-all.mp3",
+  "duration": 28.3,
+  "text": "Hello? Passward. Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? Log in and correct, mailbox.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Passward."
+    },
+    {
+      "start": 2.0,
+      "end": 7.0,
+      "text": "Hey, this is Chelsea."
+    },
+    {
+      "start": 7.0,
+      "end": 12.0,
+      "text": "There's a note on your Medicare profile that your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 16.0,
+      "end": 22.0,
+      "text": "Do you have Part A and Part B?"
+    },
+    {
+      "start": 22.0,
+      "end": 32.0,
+      "text": "Log in and correct, mailbox."
+    }
+  ],
+  "word_count": 43,
+  "bot_text": "Hello? Passward. Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? Log in and correct, mailbox.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Passward"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Log in and correct, mailbox"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 43
+}

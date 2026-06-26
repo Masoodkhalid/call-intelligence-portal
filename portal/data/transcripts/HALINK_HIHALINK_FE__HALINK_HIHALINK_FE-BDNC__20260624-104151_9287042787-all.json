@@ -1,0 +1,42 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BDNC__20260624-104151_9287042787-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-BDNC",
+  "dispo_label": "HALINK_HIHALINK_FE-BDNC",
+  "date": "2026-06-24",
+  "time": "10:41:51",
+  "phone": "9287042787",
+  "filename": "20260624-104151_9287042787-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-BDNC/20260624-104151_9287042787-all.mp3",
+  "duration": 12.74,
+  "text": "Hello we're with another customer or we're out of the office our regular hours are Monday through Thursday from 9 a.m. to 5 p.m. and Friday from 9 till 4 please leave a message with your name and phone over and we'll contact.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.64,
+      "text": "Hello we're with another customer or we're out of the office our regular hours are Monday through Thursday from 9 a.m."
+    },
+    {
+      "start": 6.64,
+      "end": 12.64,
+      "text": "to 5 p.m. and Friday from 9 till 4 please leave a message with your name and phone over and we'll contact."
+    }
+  ],
+  "word_count": 43,
+  "bot_text": "Hello we're with another customer or we're out of the office our regular hours are Monday through Thursday from 9 a.m. to 5 p.m. and Friday from 9 till 4 please leave a message with your name and phone over and we'll contact.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello we're with another customer or we're out of the office our regular hours are Monday through Thursday from 9 a.m to 5 p.m and Friday from 9 till 4 please leave a message with your name and phone over and we'll contact"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 43
+}

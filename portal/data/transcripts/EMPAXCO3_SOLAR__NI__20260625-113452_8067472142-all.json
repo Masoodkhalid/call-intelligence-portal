@@ -1,0 +1,77 @@
+{
+  "id": "EMPAXCO3_SOLAR__NI__20260625-113452_8067472142-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-25",
+  "time": "11:34:52",
+  "phone": "8067472142",
+  "filename": "20260625-113452_8067472142-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-NI/20260625-113452_8067472142-all.mp3",
+  "duration": 73.22,
+  "text": "Hello. Hi, my name is Adeline. I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you make qualify for. To check if you qualify, so can you please confirm? Are you between 40 and 85 years old? Can you hear me? Could you please confirm if you are between 40 and 85 years old? Can you hear me? Can you hear me? Make sure you're trying to goodbye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.68,
+      "text": "Hello. Hi, my name is Adeline. I'm calling because in the recent update, the government"
+    },
+    {
+      "start": 7.68,
+      "end": 13.98,
+      "text": "has introduced final expense insurance plans at a highly subsidized rate that you make"
+    },
+    {
+      "start": 13.98,
+      "end": 40.46,
+      "text": "qualify for. To check if you qualify, so can you please confirm? Are you between 40 and"
+    },
+    {
+      "start": 40.46,
+      "end": 61.7,
+      "text": "85 years old? Can you hear me? Could you please confirm if you are between 40 and 85 years"
+    },
+    {
+      "start": 61.7,
+      "end": 72.96,
+      "text": "old? Can you hear me? Can you hear me? Make sure you're trying to goodbye."
+    }
+  ],
+  "word_count": 80,
+  "bot_text": "Hello. Hi, my name is Adeline. I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you make qualify for. To check if you qualify, so can you please confirm? Are you between 40 and 85 years old? Can you hear me? Could you please confirm if you are between 40 and 85 years old? Can you hear me? Can you hear me? Make sure you're trying to goodbye.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Adeline I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you make qualify for To check if you qualify, so can you please confirm?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you between 40 and 85 years old? Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Could you please confirm if you are between 40 and 85 years old?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you hear me? Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Make sure you're trying to goodbye"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 80
+}

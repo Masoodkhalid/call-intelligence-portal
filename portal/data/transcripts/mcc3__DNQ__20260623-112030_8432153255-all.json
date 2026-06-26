@@ -65,11 +65,11 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Yes What are you doing?"
+      "text": "Yes"
     },
     {
       "speaker": "BOT",
-      "text": "Hi Good morning This is Rachel So, I'm calling because their appending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief prep So, have you been notified about these benefits yet?"
+      "text": "What are you doing? Hi Good morning This is Rachel So, I'm calling because their appending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief prep So, have you been notified about these benefits yet?"
     },
     {
       "speaker": "CUSTOMER",

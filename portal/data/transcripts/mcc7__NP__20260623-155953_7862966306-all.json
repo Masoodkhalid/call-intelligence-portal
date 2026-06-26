@@ -84,7 +84,11 @@
     },
     {
       "speaker": "BOT",
-      "text": "No, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both parties"
+      "text": "No, that's all right That's exactly why I'm calling"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I want to help you get these benefits processed before they go unclaimed You're covered under both parties"
     }
   ],
   "stages": {

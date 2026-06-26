@@ -1,0 +1,60 @@
+{
+  "id": "AICONTACT_MEDICARE__A__20260624-154619_6183187546-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-24",
+  "time": "15:46:19",
+  "phone": "6183187546",
+  "filename": "20260624-154619_6183187546-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-A/20260624-154619_6183187546-all.mp3",
+  "duration": 18.79,
+  "text": "Hello? Are you there? We didn't get your message either because you were not speaking or because of a bad connection. To disconnect, press 1. To record your message, press 2.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.52,
+      "end": 7.5,
+      "text": "Are you there?"
+    },
+    {
+      "start": 7.5,
+      "end": 11.0,
+      "text": "We didn't get your message either because you were not speaking or because of a bad connection."
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": "To disconnect, press 1. To record your message, press 2."
+    }
+  ],
+  "word_count": 31,
+  "bot_text": "Hello? Are you there? We didn't get your message either because you were not speaking or because of a bad connection. To disconnect, press 1. To record your message, press 2.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "We didn't get your message either because you were not speaking or because of a bad connection To disconnect, press 1"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To record your message, press 2"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 31
+}

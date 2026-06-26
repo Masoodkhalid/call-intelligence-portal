@@ -68,15 +68,7 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Yes Oh, okay Great So the notification has all the details and I just want to help you get everything processed"
-    },
-    {
-      "speaker": "BOT",
-      "text": "You're enrolled in both Part A and Part B, aren't you?"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "Yes"
+      "text": "Yes Oh, okay Great So the notification has all the details and I just want to help you get everything processed You're enrolled in both Part A and Part B, aren't you? Yes"
     }
   ],
   "stages": {

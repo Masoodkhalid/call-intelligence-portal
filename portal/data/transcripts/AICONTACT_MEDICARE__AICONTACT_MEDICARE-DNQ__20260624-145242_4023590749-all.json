@@ -1,0 +1,89 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-145242_4023590749-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-DNQ",
+  "dispo_label": "AICONTACT_MEDICARE-DNQ",
+  "date": "2026-06-24",
+  "time": "14:52:42",
+  "phone": "4023590749",
+  "filename": "20260624-145242_4023590749-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-DNQ/20260624-145242_4023590749-all.mp3",
+  "duration": 37.94,
+  "text": "Hello Yeah Good afternoon. My name is Rebecca. I'm calling about a quick eligibility review on your account It turns out you qualify for the updated benefits, but they were never activated things like credits Convenience upgrades and added protection. So you have part a and B, right? Yes Awesome, can you tell me your age please me Unfortunately, you don't seem to qualify for the plans. We're offering have a wonderful day",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello"
+    },
+    {
+      "start": 2.04,
+      "end": 4.08,
+      "text": "Yeah"
+    },
+    {
+      "start": 4.08,
+      "end": 8.6,
+      "text": "Good afternoon. My name is Rebecca. I'm calling about a quick eligibility review on your account"
+    },
+    {
+      "start": 8.76,
+      "end": 14.76,
+      "text": "It turns out you qualify for the updated benefits, but they were never activated things like credits"
+    },
+    {
+      "start": 15.28,
+      "end": 20.48,
+      "text": "Convenience upgrades and added protection. So you have part a and B, right?"
+    },
+    {
+      "start": 22.28,
+      "end": 24.28,
+      "text": "Yes"
+    },
+    {
+      "start": 25.28,
+      "end": 27.28,
+      "text": "Awesome, can you tell me your age please"
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "me"
+    },
+    {
+      "start": 32.44,
+      "end": 36.12,
+      "text": "Unfortunately, you don't seem to qualify for the plans. We're offering have a wonderful day"
+    }
+  ],
+  "word_count": 73,
+  "bot_text": "Hello Yeah Good afternoon. My name is Rebecca. I'm calling about a quick eligibility review on your account It turns out you qualify for the updated benefits, but they were never activated things like credits Convenience upgrades and added protection. So you have part a and B, right? Yes Awesome, can you tell me your age please me Unfortunately, you don't seem to qualify for the plans. We're offering have a wonderful day",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Yeah Good afternoon My name is Rebecca"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm calling about a quick eligibility review on your account It turns out you qualify for the updated benefits, but they were never activated things like credits Convenience upgrades and added protection"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you have part a and B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes Awesome, can you tell me your age please me Unfortunately, you don't seem to qualify for the plans We're offering have a wonderful day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_word_count": 73
+}

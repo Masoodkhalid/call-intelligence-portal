@@ -1,0 +1,167 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-103903_6627221636-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-RAXFER",
+  "dispo_label": "AICONTACT_MEDICARE-RAXFER",
+  "date": "2026-06-24",
+  "time": "10:39:03",
+  "phone": "6627221636",
+  "filename": "20260624-103903_6627221636-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-RAXFER/20260624-103903_6627221636-all.mp3",
+  "duration": 72.0,
+  "text": ">> Hello. >> Hello. >> Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? >> Sure. >> Perfect. Let me connect you with a Medicare specialist from Mississippi. >> Well, sure. >> No. >> Hi, thank you so much for holding online. This is Daniel with Home Health Care. How are you doing? >> I'm fine. How are you? >> Fine. Thank you so much for asking. The reason I'm calling you today is about the home health care. The state has just expanded a subsidized program for the seniors so they can get a professional caregiver at their own home. I just need to confirm how old are you. >> What was your name again? >> Daniel Butcher. >> Okay, Daniel. Well, you can go fuck off and don't.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": ">> Hello."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": ">> Hello."
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": ">> Hey, this is Chelsea."
+    },
+    {
+      "start": 9.0,
+      "end": 13.0,
+      "text": "There's a note on your Medicare profile that your 2026 update"
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "hasn't been confirmed."
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 18.0,
+      "end": 22.0,
+      "text": "Do you have Part A and Part B?"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": ">> Sure."
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": ">> Perfect."
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": "Let me connect you with a Medicare specialist from Mississippi."
+    },
+    {
+      "start": 29.0,
+      "end": 33.0,
+      "text": ">> Well, sure."
+    },
+    {
+      "start": 33.0,
+      "end": 35.0,
+      "text": ">> No."
+    },
+    {
+      "start": 35.0,
+      "end": 38.0,
+      "text": ">> Hi, thank you so much for holding online."
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "This is Daniel with Home Health Care."
+    },
+    {
+      "start": 40.0,
+      "end": 42.0,
+      "text": "How are you doing?"
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "text": ">> I'm fine."
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": "How are you?"
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "text": ">> Fine."
+    },
+    {
+      "start": 46.0,
+      "end": 48.0,
+      "text": "Thank you so much for asking."
+    },
+    {
+      "start": 48.0,
+      "end": 51.0,
+      "text": "The reason I'm calling you today is about the home health care."
+    },
+    {
+      "start": 51.0,
+      "end": 55.0,
+      "text": "The state has just expanded a subsidized program for the seniors"
+    },
+    {
+      "start": 55.0,
+      "end": 58.0,
+      "text": "so they can get a professional caregiver at their own home."
+    },
+    {
+      "start": 58.0,
+      "end": 62.0,
+      "text": "I just need to confirm how old are you."
+    },
+    {
+      "start": 62.0,
+      "end": 66.0,
+      "text": ">> What was your name again?"
+    },
+    {
+      "start": 66.0,
+      "end": 68.0,
+      "text": ">> Daniel Butcher."
+    },
+    {
+      "start": 68.0,
+      "end": 70.0,
+      "text": ">> Okay, Daniel."
+    },
+    {
+      "start": 70.0,
+      "end": 72.0,
+      "text": "Well, you can go fuck off and don't."
+    }
+  ],
+  "word_count": 157,
+  "bot_text": "Hello Hello Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B? Sure Perfect Let me connect you with a Medicare specialist from Mississippi Well, sure",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Hello Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B? Sure Perfect Let me connect you with a Medicare specialist from Mississippi Well, sure"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 52
+}

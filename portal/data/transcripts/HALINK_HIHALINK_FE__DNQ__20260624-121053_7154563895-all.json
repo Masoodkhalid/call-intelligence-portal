@@ -1,0 +1,101 @@
+{
+  "id": "HALINK_HIHALINK_FE__DNQ__20260624-121053_7154563895-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-24",
+  "time": "12:10:53",
+  "phone": "7154563895",
+  "filename": "20260624-121053_7154563895-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-DNQ/20260624-121053_7154563895-all.mp3",
+  "duration": 36.72,
+  "text": "Hello. Who is this and what the hell do you want? Hey, good morning. James here from Nova Health Care Wisconsin. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So, did you check your eligibility? Can you please share your age? 90. Sorry. You don't seem to qualify for the benefit plans I have. Have a good day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Who is this and what the hell do you want?"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "Hey, good morning. James here from Nova Health Care Wisconsin."
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "I'm calling to let you know about a cashback benefit that may help with"
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "out-of-pocket expenses of up to $10,000, especially during a"
+    },
+    {
+      "start": 20.0,
+      "end": 26.0,
+      "text": "hospital stay. So, did you check your eligibility? Can you please share your age?"
+    },
+    {
+      "start": 26.0,
+      "end": 30.0,
+      "text": "90."
+    },
+    {
+      "start": 30.0,
+      "end": 34.0,
+      "text": "Sorry. You don't seem to qualify for the benefit plans I have."
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "text": "Have a good day."
+    }
+  ],
+  "word_count": 75,
+  "bot_text": "Hello. Who is this and what the hell do you want? Hey, good morning. James here from Nova Health Care Wisconsin. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So, did you check your eligibility? Can you please share your age? 90. Sorry. You don't seem to qualify for the benefit plans I have. Have a good day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Who is this and what the hell do you want?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hey, good morning James here from Nova Health Care Wisconsin I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So, did you check your eligibility?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you please share your age?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "90 Sorry"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You don't seem to qualify for the benefit plans I have Have a good day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_word_count": 75
+}

@@ -1,0 +1,85 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DNQ__20260624-121859_3368180276-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-DNQ",
+  "dispo_label": "HALINK_HIHALINK_FE-DNQ",
+  "date": "2026-06-24",
+  "time": "12:18:59",
+  "phone": "3368180276",
+  "filename": "20260624-121859_3368180276-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-DNQ/20260624-121859_3368180276-all.mp3",
+  "duration": 38.3,
+  "text": "Can you hear me? Hey, glad to hear you. I'm James from Nova Health Care, North Carolina. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to check whether you are eligible for this, may I know your age please? Forty-one. Sorry, you don't seem to qualify for the benefit of the plans I have. Have a good day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 7.0,
+      "end": 12.0,
+      "text": "Hey, glad to hear you."
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "I'm James from Nova Health Care, North Carolina."
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "text": "I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses"
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": "of up to $10,000, especially during a hospital stay."
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": "So to check whether you are eligible for this, may I know your age please?"
+    },
+    {
+      "start": 29.0,
+      "end": 31.0,
+      "text": "Forty-one."
+    },
+    {
+      "start": 31.0,
+      "end": 35.0,
+      "text": "Sorry, you don't seem to qualify for the benefit of the plans I have."
+    },
+    {
+      "start": 35.0,
+      "end": 37.0,
+      "text": "Have a good day."
+    }
+  ],
+  "word_count": 76,
+  "bot_text": "Can you hear me? Hey, glad to hear you. I'm James from Nova Health Care, North Carolina. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to check whether you are eligible for this, may I know your age please? Forty-one. Sorry, you don't seem to qualify for the benefit of the plans I have. Have a good day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Can you hear me? Hey, glad to hear you I'm James from Nova Health Care, North Carolina I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay So to check whether you are eligible for this, may I know your age please?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Forty-one"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, you don't seem to qualify for the benefit of the plans I have Have a good day"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_word_count": 76
+}

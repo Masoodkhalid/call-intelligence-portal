@@ -1,0 +1,51 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BDNC__20260624-090615_9542087612-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-BDNC",
+  "dispo_label": "HALINK_HIHALINK_FE-BDNC",
+  "date": "2026-06-24",
+  "time": "09:06:15",
+  "phone": "9542087612",
+  "filename": "20260624-090615_9542087612-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-BDNC/20260624-090615_9542087612-all.mp3",
+  "duration": 10.22,
+  "text": "Hello, can you hear me? Yes, I can hear you. How can I assist you today?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello, can you hear me?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Yes, I can hear you."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "How can I assist you today?"
+    }
+  ],
+  "word_count": 16,
+  "bot_text": "Hello, can you hear me? Yes, I can hear you. How can I assist you today?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, I can hear you How can I assist you today?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 16
+}

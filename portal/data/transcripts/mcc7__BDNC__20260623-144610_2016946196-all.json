@@ -60,11 +60,11 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Hello, can I help you?"
+      "text": "Hello, can I help you? Hello, good afternoon, this is Alyssa"
     },
     {
       "speaker": "BOT",
-      "text": "Hello, good afternoon, this is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program So have you received any notification about these benefits yet?"
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program So have you received any notification about these benefits yet?"
     },
     {
       "speaker": "CUSTOMER",

@@ -1,0 +1,55 @@
+{
+  "id": "HALINK_HIHALINK_FE__BDNC__20260624-114111_8035411078-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-24",
+  "time": "11:41:11",
+  "phone": "8035411078",
+  "filename": "20260624-114111_8035411078-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-BDNC/20260624-114111_8035411078-all.mp3",
+  "duration": 13.82,
+  "text": "Hello. Ball County, just back. Hello. Hello.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello."
+    },
+    {
+      "start": 3.0,
+      "end": 10.0,
+      "text": "Ball County, just back. Hello."
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "Hello."
+    }
+  ],
+  "word_count": 7,
+  "bot_text": "Hello. Ball County, just back. Hello. Hello.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Ball County, just back"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 7
+}

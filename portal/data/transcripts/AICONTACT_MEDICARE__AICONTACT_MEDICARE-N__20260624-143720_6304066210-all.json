@@ -1,0 +1,55 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-N__20260624-143720_6304066210-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-N",
+  "dispo_label": "AICONTACT_MEDICARE-N",
+  "date": "2026-06-24",
+  "time": "14:37:20",
+  "phone": "6304066210",
+  "filename": "20260624-143720_6304066210-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-N/20260624-143720_6304066210-all.mp3",
+  "duration": 3.96,
+  "text": "Hello? Thank you. Hello?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Thank you."
+    },
+    {
+      "start": 2.0,
+      "end": 2.0,
+      "text": "Hello?"
+    }
+  ],
+  "word_count": 4,
+  "bot_text": "Hello? Thank you. Hello?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Thank you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 4
+}

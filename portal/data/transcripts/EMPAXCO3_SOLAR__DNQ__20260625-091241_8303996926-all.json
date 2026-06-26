@@ -1,0 +1,103 @@
+{
+  "id": "EMPAXCO3_SOLAR__DNQ__20260625-091241_8303996926-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-25",
+  "time": "09:12:41",
+  "phone": "8303996926",
+  "filename": "20260625-091241_8303996926-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-DNQ/20260625-091241_8303996926-all.mp3",
+  "duration": 31.54,
+  "text": "- Hello. - Hello. - Hi, my name is Emma. I'm calling about the final expensive churn option that may help cover funeral, burial, or cremation costs to text-based vulnerability. So, can you please confirm, are you between 40 and 85 years old? - Nope. - Could you please confirm, if you are between 40 and 85 years old? - No. Sorry, you don't seem to be qualified for the benefits plans that I have. Thank you for your time.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "- Hello. - Hello."
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "- Hi, my name is Emma."
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "I'm calling about the final expensive churn option"
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "that may help cover funeral, burial, or cremation costs"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "to text-based vulnerability."
+    },
+    {
+      "start": 13.0,
+      "end": 18.0,
+      "text": "So, can you please confirm, are you between 40 and 85 years old?"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "- Nope."
+    },
+    {
+      "start": 20.0,
+      "end": 25.0,
+      "text": "- Could you please confirm, if you are between 40 and 85 years old?"
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "- No."
+    },
+    {
+      "start": 27.0,
+      "end": 30.1,
+      "text": "Sorry, you don't seem to be qualified for the benefits plans that I have."
+    },
+    {
+      "start": 30.14,
+      "end": 30.98,
+      "text": "Thank you for your time."
+    }
+  ],
+  "word_count": 80,
+  "bot_text": "- Hello. - Hello. - Hi, my name is Emma. I'm calling about the final expensive churn option that may help cover funeral, burial, or cremation costs to text-based vulnerability. So, can you please confirm, are you between 40 and 85 years old? - Nope. - Could you please confirm, if you are between 40 and 85 years old? - No. Sorry, you don't seem to be qualified for the benefits plans that I have. Thank you for your time.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Emma I'm calling about the final expensive churn option that may help cover funeral, burial, or cremation costs to text-based vulnerability"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So, can you please confirm, are you between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Nope Could you please confirm, if you are between 40 and 85 years old? No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, you don't seem to be qualified for the benefits plans that I have Thank you for your time"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 80
+}

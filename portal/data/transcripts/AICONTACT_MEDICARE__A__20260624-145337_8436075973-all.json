@@ -1,0 +1,50 @@
+{
+  "id": "AICONTACT_MEDICARE__A__20260624-145337_8436075973-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-24",
+  "time": "14:53:37",
+  "phone": "8436075973",
+  "filename": "20260624-145337_8436075973-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-A/20260624-145337_8436075973-all.mp3",
+  "duration": 13.25,
+  "text": "Hello 911. If this is not an emergency, please leave your name and number. I'll be glad to return your call as soon as possible. Thank you very much. Have a good day. At the tone.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "Hello 911. If this is not an emergency, please leave your name and number. I'll be glad to return your call as soon as possible. Thank you very much. Have a good day."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "At the tone."
+    }
+  ],
+  "word_count": 36,
+  "bot_text": "Hello 911. If this is not an emergency, please leave your name and number. I'll be glad to return your call as soon as possible. Thank you very much. Have a good day. At the tone.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello 911 If this is not an emergency, please leave your name and number I'll be glad to return your call as soon as possible Thank you very much"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a good day"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "At the tone"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 36
+}

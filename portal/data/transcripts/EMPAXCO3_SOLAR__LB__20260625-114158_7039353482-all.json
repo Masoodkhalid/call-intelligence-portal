@@ -1,0 +1,37 @@
+{
+  "id": "EMPAXCO3_SOLAR__LB__20260625-114158_7039353482-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "LB",
+  "dispo_label": "Left Blank / No Response",
+  "date": "2026-06-25",
+  "time": "11:41:58",
+  "phone": "7039353482",
+  "filename": "20260625-114158_7039353482-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-LB/20260625-114158_7039353482-all.mp3",
+  "duration": 16.13,
+  "text": "Hello!",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello!"
+    }
+  ],
+  "word_count": 1,
+  "bot_text": "Hello!",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello!"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 1
+}

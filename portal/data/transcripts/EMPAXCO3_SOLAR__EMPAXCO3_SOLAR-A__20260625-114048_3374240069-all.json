@@ -1,0 +1,108 @@
+{
+  "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-A__20260625-114048_3374240069-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "EMPAXCO3_SOLAR-A",
+  "dispo_label": "EMPAXCO3_SOLAR-A",
+  "date": "2026-06-25",
+  "time": "11:40:48",
+  "phone": "3374240069",
+  "filename": "20260625-114048_3374240069-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-A/20260625-114048_3374240069-all.mp3",
+  "duration": 19.01,
+  "text": ">> Hey, what's going on? >> Hello. Hi, this is Emma. >> Thank you. >> How are you doing today? >> Speak up a little bit, man. I can hardly hear it. >> I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. So check if you qualify. - Bye. So can you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": ">> Hey, what's going on?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": ">> Hello."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Hi, this is Emma."
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": ">> Thank you."
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": ">> How are you doing today?"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": ">> Speak up a little bit, man."
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "I can hardly hear it."
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": ">> I'm calling because in the recent update, the government has introduced final expense"
+    },
+    {
+      "start": 12.0,
+      "end": 17.0,
+      "text": "insurance plans at a highly subsidized rate that you may qualify for."
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "text": "So check if you qualify."
+    },
+    {
+      "start": 18.0,
+      "end": 18.84,
+      "text": "- Bye."
+    },
+    {
+      "start": 18.84,
+      "end": 19.66,
+      "text": "So can you."
+    }
+  ],
+  "word_count": 68,
+  "bot_text": ">> Hey, what's going on? >> Hello. Hi, this is Emma. >> Thank you. >> How are you doing today? >> Speak up a little bit, man. I can hardly hear it. >> I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. So check if you qualify. - Bye. So can you.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey, what's going on?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello Hi, this is Emma"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Thank you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "How are you doing today?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Speak up a little bit, man I can hardly hear it I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for So check if you qualify Bye So can you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 68
+}

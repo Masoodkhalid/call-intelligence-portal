@@ -1,0 +1,61 @@
+{
+  "id": "EMPAXCO3_SOLAR__RI__20260625-112943_9312843235-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "RI",
+  "dispo_label": "Re-Inquiry",
+  "date": "2026-06-25",
+  "time": "11:29:43",
+  "phone": "9312843235",
+  "filename": "20260625-112943_9312843235-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-RI/20260625-112943_9312843235-all.mp3",
+  "duration": 16.49,
+  "text": "Hello? [PHONE RINGING] [PHONE RINGING] Can you hear me? [PHONE RINGING]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "[PHONE RINGING]"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "[PHONE RINGING]"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "[PHONE RINGING]"
+    }
+  ],
+  "word_count": 11,
+  "bot_text": "Hello? [PHONE RINGING] [PHONE RINGING] Can you hear me? [PHONE RINGING]",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "[PHONE RINGING] [PHONE RINGING] Can you hear me? [PHONE RINGING]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 11
+}

@@ -1,0 +1,62 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NP__20260624-143817_6188743162-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-NP",
+  "dispo_label": "AICONTACT_MEDICARE-NP",
+  "date": "2026-06-24",
+  "time": "14:38:17",
+  "phone": "6188743162",
+  "filename": "20260624-143817_6188743162-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-NP/20260624-143817_6188743162-all.mp3",
+  "duration": 21.6,
+  "text": "Hello? Hello? Hi, this is Chelsea, and I'm reaching out because we pulled up your Medicare profile, and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you so your coverage doesn't get interrupted. Just confirm for me.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 11.0,
+      "text": "Hi, this is Chelsea, and I'm reaching out because we pulled up your Medicare profile,"
+    },
+    {
+      "start": 11.0,
+      "end": 16.0,
+      "text": "and there's a note here showing your 2026 plan update hasn't been confirmed yet."
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "We just need a quick confirmation from you so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Just confirm for me."
+    }
+  ],
+  "word_count": 49,
+  "bot_text": "Hello? Hello? Hi, this is Chelsea, and I'm reaching out because we pulled up your Medicare profile, and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you so your coverage doesn't get interrupted. Just confirm for me.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Hi, this is Chelsea, and I'm reaching out because we pulled up your Medicare profile, and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 49
+}

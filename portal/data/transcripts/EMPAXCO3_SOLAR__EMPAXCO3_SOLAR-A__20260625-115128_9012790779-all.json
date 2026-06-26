@@ -1,0 +1,104 @@
+{
+  "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-A__20260625-115128_9012790779-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "EMPAXCO3_SOLAR-A",
+  "dispo_label": "EMPAXCO3_SOLAR-A",
+  "date": "2026-06-25",
+  "time": "11:51:28",
+  "phone": "9012790779",
+  "filename": "20260625-115128_9012790779-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-A/20260625-115128_9012790779-all.mp3",
+  "duration": 41.18,
+  "text": "Hello. Hello. Hi, my name is Ayla. I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. To check if you qualify, so can you please confirm, are you between 40 and 85 years old? To review, rerecord, or add to your message, press 1. To mark your message urgent, press 2. To mark your message private, press 3. To send your message...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello."
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Hello."
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Hi, my name is Ayla."
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "I'm calling because in the recent updates,"
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "the government has introduced final expense insurance plans"
+    },
+    {
+      "start": 15.0,
+      "end": 19.0,
+      "text": "at a highly subsidized rate that you may qualify for."
+    },
+    {
+      "start": 19.0,
+      "end": 22.0,
+      "text": "To check if you qualify, so can you please confirm,"
+    },
+    {
+      "start": 22.0,
+      "end": 29.0,
+      "text": "are you between 40 and 85 years old?"
+    },
+    {
+      "start": 29.0,
+      "end": 34.0,
+      "text": "To review, rerecord, or add to your message, press 1."
+    },
+    {
+      "start": 34.0,
+      "end": 37.0,
+      "text": "To mark your message urgent, press 2."
+    },
+    {
+      "start": 37.0,
+      "end": 40.0,
+      "text": "To mark your message private, press 3."
+    },
+    {
+      "start": 40.0,
+      "end": 42.0,
+      "text": "To send your message..."
+    }
+  ],
+  "word_count": 78,
+  "bot_text": "Hello. Hello. Hi, my name is Ayla. I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. To check if you qualify, so can you please confirm, are you between 40 and 85 years old? To review, rerecord, or add to your message, press 1. To mark your message urgent, press 2. To mark your message private, press 3. To send your message...",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Ayla I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for To check if you qualify, so can you please confirm, are you between 40 and 85 years old? To review, rerecord, or add to your message, press 1"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To mark your message urgent, press 2 To mark your message private, press 3"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To send your message"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 78
+}

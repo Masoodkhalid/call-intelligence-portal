@@ -60,19 +60,7 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Yes"
-    },
-    {
-      "speaker": "BOT",
-      "text": "So, I was asking if you received the notification about the pending credits on your Medicare plan"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "Oh, okay, great So, the notification has all the details, and I just want to help you get everything processed"
-    },
-    {
-      "speaker": "BOT",
-      "text": "You're enrolled in both Part A and Part B, aren't you?"
+      "text": "Yes So, I was asking if you received the notification about the pending credits on your Medicare plan Oh, okay, great So, the notification has all the details, and I just want to help you get everything processed You're enrolled in both Part A and Part B, aren't you?"
     }
   ],
   "stages": {

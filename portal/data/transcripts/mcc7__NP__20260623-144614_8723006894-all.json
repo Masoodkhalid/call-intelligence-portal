@@ -31,11 +31,11 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello Hello Good afternoon My name is Sophie"
+      "text": "Hello Hello Good afternoon My name is Sophie Are you doing okay?"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Are you doing okay? Time may I help you? I'm Sophie and I'm talking to you from Nova Health Care I'm here to make sure that you secure the best benefits in the special environment"
+      "text": "Time may I help you? I'm Sophie and I'm talking to you from Nova Health Care I'm here to make sure that you secure the best benefits in the special environment"
     }
   ],
   "stages": {

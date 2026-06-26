@@ -1,0 +1,107 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-145153_2106501600-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-A",
+  "dispo_label": "AICONTACT_MEDICARE-A",
+  "date": "2026-06-24",
+  "time": "14:51:53",
+  "phone": "2106501600",
+  "filename": "20260624-145153_2106501600-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-A/20260624-145153_2106501600-all.mp3",
+  "duration": 50.47,
+  "text": ">> Hello? Are you there? >> Passward. >> Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have part A and part B? >> So you do have part A and B of Medicare, right? >> Passward. >> Yeah, sorry about that. I was just asking, do you currently have both Medicare Part A and Part B? >> Login and correct, mailbox.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.52,
+      "text": ">> Hello? Are you there?"
+    },
+    {
+      "start": 8.52,
+      "end": 10.52,
+      "text": ">> Passward."
+    },
+    {
+      "start": 10.52,
+      "end": 14.16,
+      "text": ">> Hey, this is Chelsea."
+    },
+    {
+      "start": 14.16,
+      "end": 19.36,
+      "text": "There's a note on your Medicare profile that your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 19.36,
+      "end": 22.96,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 22.96,
+      "end": 24.92,
+      "text": "Do you have part A and part B?"
+    },
+    {
+      "start": 30.24,
+      "end": 33.36,
+      "text": ">> So you do have part A and B of Medicare, right?"
+    },
+    {
+      "start": 33.36,
+      "end": 34.16,
+      "text": ">> Passward."
+    },
+    {
+      "start": 35.76,
+      "end": 37.66,
+      "text": ">> Yeah, sorry about that."
+    },
+    {
+      "start": 37.66,
+      "end": 42.52,
+      "text": "I was just asking, do you currently have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 44.28,
+      "end": 46.6,
+      "text": ">> Login and correct, mailbox."
+    }
+  ],
+  "word_count": 83,
+  "bot_text": ">> Hello? Are you there? >> Passward. >> Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have part A and part B? >> So you do have part A and B of Medicare, right? >> Passward. >> Yeah, sorry about that. I was just asking, do you currently have both Medicare Part A and Part B? >> Login and correct, mailbox.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Passward"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have part A and part B? So you do have part A and B of Medicare, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Passward Yeah, sorry about that"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I was just asking, do you currently have both Medicare Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Login and correct, mailbox"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 83
+}

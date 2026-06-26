@@ -185,7 +185,15 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Yeah Okay You do qualify forwarding you to our supervisor Now what they need to do is just nice double for dinner and breathe Thank you for holding this as David Williams How are you doing today? They're doing pretty good All right Great This call is in regard to inquiry about your Medicare benefits and savings"
+      "text": "Yeah Okay You do qualify forwarding you to our supervisor Now what they need to do is just nice double for dinner and breathe Thank you for holding this as David Williams"
+    },
+    {
+      "speaker": "BOT",
+      "text": "How are you doing today?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "They're doing pretty good All right Great This call is in regard to inquiry about your Medicare benefits and savings"
     },
     {
       "speaker": "BOT",

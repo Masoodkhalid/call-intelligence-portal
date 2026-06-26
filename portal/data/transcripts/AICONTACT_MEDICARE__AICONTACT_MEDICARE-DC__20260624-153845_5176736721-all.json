@@ -1,0 +1,86 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DC__20260624-153845_5176736721-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-DC",
+  "dispo_label": "AICONTACT_MEDICARE-DC",
+  "date": "2026-06-24",
+  "time": "15:38:45",
+  "phone": "5176736721",
+  "filename": "20260624-153845_5176736721-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-DC/20260624-153845_5176736721-all.mp3",
+  "duration": 31.75,
+  "text": "Hello? Hello. Hey, this is Chelsea, there's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? What time is it? Yeah, sorry to catch you at a busy time, but can I have just a minute to share some 2026 Medicare updates? I don't need any updates.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 10.06,
+      "text": "Hey, this is Chelsea, there's a note on your Medicare profile that your 2026 update hasn't"
+    },
+    {
+      "start": 10.06,
+      "end": 11.06,
+      "text": "been confirmed."
+    },
+    {
+      "start": 11.06,
+      "end": 14.46,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 14.46,
+      "end": 17.36,
+      "text": "Do you have Part A and Part B?"
+    },
+    {
+      "start": 17.36,
+      "end": 20.76,
+      "text": "What time is it?"
+    },
+    {
+      "start": 20.76,
+      "end": 25.76,
+      "text": "Yeah, sorry to catch you at a busy time, but can I have just a minute to share some"
+    },
+    {
+      "start": 25.76,
+      "end": 29.08,
+      "text": "2026 Medicare updates?"
+    },
+    {
+      "start": 29.08,
+      "end": 30.58,
+      "text": "I don't need any updates."
+    }
+  ],
+  "word_count": 69,
+  "bot_text": "Hello? Hello. Hey, this is Chelsea, there's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? What time is it? Yeah, sorry to catch you at a busy time, but can I have just a minute to share some 2026 Medicare updates? I don't need any updates.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello Hey, this is Chelsea, there's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "What time is it? Yeah, sorry to catch you at a busy time, but can I have just a minute to share some 2026 Medicare updates? I don't need any updates"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 69
+}

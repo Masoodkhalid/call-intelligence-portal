@@ -1,0 +1,77 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-NP__20260624-120140_6159349559-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-NP",
+  "dispo_label": "HALINK_HIHALINK_FE-NP",
+  "date": "2026-06-24",
+  "time": "12:01:40",
+  "phone": "6159349559",
+  "filename": "20260624-120140_6159349559-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-NP/20260624-120140_6159349559-all.mp3",
+  "duration": 39.53,
+  "text": "Hello. What are you doing? Hey, good morning. James here from Nova Health Care, Tennessee. I'm calling to let you know about a cashback benefit that can help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to see if you qualify for this, can you please share your age? I'm sorry, I couldn't quite catch that. Can you please share your age with me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "What are you doing?"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Hey, good morning."
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "James here from Nova Health Care, Tennessee."
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "text": "I'm calling to let you know about a cashback benefit that can help with out-of-pocket expenses"
+    },
+    {
+      "start": 15.0,
+      "end": 19.0,
+      "text": "of up to $10,000, especially during a hospital stay."
+    },
+    {
+      "start": 19.0,
+      "end": 24.0,
+      "text": "So to see if you qualify for this, can you please share your age?"
+    },
+    {
+      "start": 24.0,
+      "end": 30.0,
+      "text": "I'm sorry, I couldn't quite catch that."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "Can you please share your age with me?"
+    }
+  ],
+  "word_count": 69,
+  "bot_text": "Hello. What are you doing? Hey, good morning. James here from Nova Health Care, Tennessee. I'm calling to let you know about a cashback benefit that can help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to see if you qualify for this, can you please share your age? I'm sorry, I couldn't quite catch that. Can you please share your age with me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello What are you doing? Hey, good morning James here from Nova Health Care, Tennessee I'm calling to let you know about a cashback benefit that can help with out-of-pocket expenses of up to $10,000, especially during a hospital stay So to see if you qualify for this, can you please share your age? I'm sorry, I couldn't quite catch that Can you please share your age with me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 69
+}

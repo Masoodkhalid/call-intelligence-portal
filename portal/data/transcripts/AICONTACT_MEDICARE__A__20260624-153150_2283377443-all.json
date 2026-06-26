@@ -1,0 +1,56 @@
+{
+  "id": "AICONTACT_MEDICARE__A__20260624-153150_2283377443-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-24",
+  "time": "15:31:50",
+  "phone": "2283377443",
+  "filename": "20260624-153150_2283377443-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-A/20260624-153150_2283377443-all.mp3",
+  "duration": 40.61,
+  "text": "Hello now at the tone please record your message when you feel free to go through Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both Part A and Part B? So you do have Part A and Part A or Medicare right press 1 to mark your message urgent press 2 to mark your message private press 3 to send your message as is press pound.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "Hello now at the tone please record your message when you feel free to go through Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet."
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "We just need a quick confirmation so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 16.0,
+      "end": 19.0,
+      "text": "Do you have both Part A and Part B?"
+    },
+    {
+      "start": 24.0,
+      "end": 38.0,
+      "text": "So you do have Part A and Part A or Medicare right press 1 to mark your message urgent press 2 to mark your message private press 3 to send your message as is press pound."
+    }
+  ],
+  "word_count": 87,
+  "bot_text": "Hello now at the tone please record your message when you feel free to go through Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both Part A and Part B? So you do have Part A and Part A or Medicare right press 1 to mark your message urgent press 2 to mark your message private press 3 to send your message as is press pound.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello now at the tone please record your message when you feel free to go through Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So you do have Part A and Part A or Medicare right press 1 to mark your message urgent press 2 to mark your message private press 3 to send your message as is press pound"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 87
+}

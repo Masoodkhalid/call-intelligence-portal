@@ -41,7 +41,11 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello Hello Hello Hey, good evening This is Rachel So I'm calling because their appending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief, so have you received any notification about these benefits yet? Yes, so I was asking if you've received the notification about the pending credits on your Medicare plan"
+      "text": "Hello Hello Hello Hey, good evening This is Rachel So I'm calling because their appending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina state relief, so have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, so I was asking if you've received the notification about the pending credits on your Medicare plan"
     }
   ],
   "stages": {

@@ -1,0 +1,121 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-RAXFER__20260624-120547_6164077062-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-RAXFER",
+  "dispo_label": "HALINK_HIHALINK_FE-RAXFER",
+  "date": "2026-06-24",
+  "time": "12:05:47",
+  "phone": "6164077062",
+  "filename": "20260624-120547_6164077062-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-RAXFER/20260624-120547_6164077062-all.mp3",
+  "duration": 58.03,
+  "text": "I thank you so much for holding, my name is Mark Tan, how are you doing today? I'm so sorry to get you at the morning time, but I'm not going to take your money. No, no, no, no, no, I'm not talking about all these calls from you. Okay. Some new people. You know what's this all about? You know? What? If you're, if you attend the call and you know what this call about? Yes. Okay. So what's this call about you can follow me? You shouldn't have this, it was out. No. This shot, all is about hospital and damnative plan. I'm sorry? [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.74,
+      "text": "I thank you so much for holding, my name is Mark Tan, how are you doing today?"
+    },
+    {
+      "start": 7.74,
+      "end": 16.08,
+      "text": "I'm so sorry to get you at the morning time, but I'm not going to take your money."
+    },
+    {
+      "start": 16.08,
+      "end": 21.48,
+      "text": "No, no, no, no, no, I'm not talking about all these calls from you."
+    },
+    {
+      "start": 21.48,
+      "end": 22.48,
+      "text": "Okay."
+    },
+    {
+      "start": 22.48,
+      "end": 23.48,
+      "text": "Some new people."
+    },
+    {
+      "start": 23.48,
+      "end": 25.38,
+      "text": "You know what's this all about?"
+    },
+    {
+      "start": 25.38,
+      "end": 26.38,
+      "text": "You know?"
+    },
+    {
+      "start": 26.38,
+      "end": 27.38,
+      "text": "What?"
+    },
+    {
+      "start": 27.38,
+      "end": 31.72,
+      "text": "If you're, if you attend the call and you know what this call about?"
+    },
+    {
+      "start": 31.72,
+      "end": 32.72,
+      "text": "Yes."
+    },
+    {
+      "start": 32.72,
+      "end": 33.72,
+      "text": "Okay."
+    },
+    {
+      "start": 33.72,
+      "end": 39.08,
+      "text": "So what's this call about you can follow me?"
+    },
+    {
+      "start": 39.08,
+      "end": 41.72,
+      "text": "You shouldn't have this, it was out."
+    },
+    {
+      "start": 41.72,
+      "end": 42.72,
+      "text": "No."
+    },
+    {
+      "start": 42.72,
+      "end": 46.62,
+      "text": "This shot, all is about hospital and damnative plan."
+    },
+    {
+      "start": 46.62,
+      "end": 49.62,
+      "text": "I'm sorry?"
+    },
+    {
+      "start": 49.62,
+      "end": 59.62,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 107,
+  "bot_text": "I thank you so much for holding, my name is Mark Tan, how are you doing today? I'm so sorry to get you at the morning time, but I'm not going to take your money. No, no, no, no, no, I'm not talking about all these calls from you. Okay. Some new people. You know what's this all about? You know? What? If you're, if you attend the call and you know what this call about? Yes. Okay. So what's this call about you can follow me? You shouldn't have this, it was out. No. This shot, all is about hospital and damnative plan. I'm sorry? [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "I thank you so much for holding, my name is Mark Tan, how are you doing today? I'm so sorry to get you at the morning time, but I'm not going to take your money No, no, no, no, no, I'm not talking about all these calls from you Okay Some new people You know what's this all about? You know? What? If you're, if you attend the call and you know what this call about? Yes Okay So what's this call about you can follow me? You shouldn't have this, it was out No This shot, all is about hospital and damnative plan I'm sorry?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 107
+}

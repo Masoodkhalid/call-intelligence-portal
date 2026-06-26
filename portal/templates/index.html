@@ -326,82 +326,114 @@ async function renderScripts(){
 }
 
 // ---- Script Generator ------------------------------------------------------
-let GEN_STYLES=null;
+// Script types — each button generates a full bot script for that flow/goal
+const SCRIPT_TYPES = [
+  { key:'profile',   label:'Medicare Profile Update',
+    focus:'Medicare Part A & B profile hasn\'t been transferred to the national database for 2026 — get it updated to avoid coverage delays' },
+  { key:'benefits',  label:'Grocery & Cash Benefits',
+    focus:'Pending grocery and cash benefits available on Medicare account — confirm Part A & B to check eligibility' },
+  { key:'partab',    label:'Part A & B Confirm',
+    focus:'Quick confirmation that member has both Medicare Part A and Part B to make sure they\'re not missing out on 2026 plan benefits' },
+  { key:'drugcap',   label:'$2,100 Drug Cap',
+    focus:'2026 Part D out-of-pocket cap of $2,100 — members with Part A & B can stop paying for prescriptions after hitting the cap' },
+  { key:'enrollment',label:'Plan Enrollment Review',
+    focus:'Annual Enrollment Period Oct 15–Dec 7 — review current Medicare Advantage plan and check for better 2026 options for Part A & B holders' },
+  { key:'requalify', label:'Re-Qualify Lost Calls',
+    focus:'Re-engage customers who hung up or said not interested — softer approach to confirm Part A & B and offer specialist' },
+];
+
 async function renderGenerator(){
-  const d=await api('/api/generated');
-  GEN_STYLES=d.styles;
-  const styleBtns=Object.entries(d.styles).map(([k,v])=>
-    `<button class="chip" onclick="genScript('${k}')" id="gs-${k}" title="${v}">${k.replace('_',' ')}</button>`).join('');
-  const FOCUS_OPTIONS=[
-    "Medicare Part A & Part B qualification check — help member confirm coverage",
-    "Part A (hospital) + Part B (medical) — explain what each covers in 2026",
-    "2026 Part D prescription drug out-of-pocket cap ($2,100) for Part A & B members",
-    "Medicare Advantage plan review for members who have Part A and Part B",
-    "Insulin $35/month cap — available to members with Part A and Part B",
-    "Annual Enrollment Period (Oct 15 – Dec 7) — reviewing plan options for Part A & B holders",
-    "Prescription Payment Plan (M3P) — monthly payment option for Part A & B members",
-    "Supplemental benefits (dental/vision/hearing) available with Part A and Part B",
-  ];
-  const focusOpts=FOCUS_OPTIONS.map((f,i)=>`<option value="${f}">${f}</option>`).join('');
+  const d = await api('/api/generated');
+  const typeBtns = SCRIPT_TYPES.map(t =>
+    `<button onclick="genScript('${t.key}','${t.focus.replace(/'/g,"\\'")}')"
+      style="background:var(--panel2);border:1px solid var(--line);color:var(--text);
+             padding:10px 18px;border-radius:10px;cursor:pointer;font-size:13px;
+             text-align:left;line-height:1.4">
+      <div style="font-weight:600;color:var(--accent)">${t.label}</div>
+      <div style="font-size:11px;color:var(--muted);margin-top:3px">${t.focus.slice(0,70)}…</div>
+    </button>`
+  ).join('');
+
   $('#generator').innerHTML=`
-    <div class="card">
-      <h2 style="margin-top:0">✨ Generate a new 2026 Medicare script</h2>
-      <p class="muted">Scripts are grounded in verified 2026 Medicare facts and CMS compliance rules.
-      Select a pitch focus (all options are Part A &amp; Part B based), then pick a style.</p>
-      <div class="row">
-        <div style="flex:1;min-width:260px">
-          <div class="label" style="margin-bottom:4px">Pitch focus (Part A &amp; B based)</div>
-          <select id="gen-focus" style="width:100%">
-            ${focusOpts}
-          </select>
-        </div>
+    <div class="card" style="margin-bottom:18px">
+      <h2 style="margin-top:0">Script Generator</h2>
+      <p class="muted" style="margin:0 0 16px">
+        Pick a script type below. The AI reads your actual call flows and writes
+        a complete new bot script with opening, pitch, Part A &amp; B qualify, objection
+        handling, and transfer — ready to add to your bot.
+      </p>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px">
+        ${typeBtns}
       </div>
-      <div class="row" style="margin-bottom:0">
-        <span class="label" style="align-self:center">Style:</span> ${styleBtns}
-      </div>
-      <div id="gen-status" class="muted" style="margin-top:10px"></div>
+      <div id="gen-status" style="margin-top:14px;padding:10px;border-radius:8px;display:none"></div>
     </div>
     <div id="gen-output"></div>
-    <h2>Previously generated</h2>
-    <div id="gen-history"></div>
-    <div class="card" style="margin-top:18px">
-      <div class="label" style="margin-bottom:8px">2026 Medicare Part A &amp; B — Research basis</div>
-      <div id="gen-research" class="muted">loading…</div>
+    <div id="gen-history-wrap">
+      <h2>Previously generated scripts</h2>
+      <div id="gen-history"></div>
     </div>`;
   renderHistory(d.items);
-  const r=await api('/api/research');
-  // only show Part A & B relevant facts
-  const partabFacts=(r.facts||[]).filter(f=>
-    /part [ab]|part a|part b|prescription|insulin|drug cap|out.of.pocket|enrollment|advantage|supplement/i.test(f.topic+' '+f.fact)
-  );
-  $('#gen-research').innerHTML=
-    `<b>Verified facts used to ground every generated script:</b><br><br>`+
-    partabFacts.map(f=>`<span style="color:var(--accent)">▸ ${f.topic}:</span> ${f.fact}`).join('<br><br>')+
-    `<br><br><span class="label">CMS compliance guardrails (always enforced)</span><br>`+
-    (r.compliance_rules||[]).map(x=>`• ${x}`).join('<br>');
 }
-async function genScript(style){
-  const focus=$('#gen-focus').value;
-  $('#gen-status').textContent='🤖 Writing a '+style.replace('_',' ')+' script… (local AI, ~10-30s)';
-  document.querySelectorAll('[id^=gs-]').forEach(b=>b.style.opacity=.4);
+
+async function genScript(key, focus){
+  const statusEl = $('#gen-status');
+  statusEl.style.display='block';
+  statusEl.style.background='var(--panel2)';
+  statusEl.style.color='var(--muted)';
+  statusEl.style.border='1px solid var(--line)';
+  statusEl.textContent='Writing script… the local AI is working on it (~15–30 seconds)';
+  document.querySelectorAll('#generator button').forEach(b=>b.style.opacity='0.5');
   try{
-    const rec=await fetch('/api/generate',{method:'POST',headers:{'Content-Type':'application/json'},
-      body:JSON.stringify({style,focus})}).then(r=>r.json());
-    $('#gen-output').innerHTML=genCard(rec,true);
-    $('#gen-status').textContent='✓ Done — saved to history.';
-    const d=await api('/api/generated'); renderHistory(d.items);
-  }catch(e){ $('#gen-status').textContent='Error: '+e; }
-  document.querySelectorAll('[id^=gs-]').forEach(b=>b.style.opacity=1);
+    const rec = await fetch('/api/generate',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({style:'direct', focus})
+    }).then(r=>r.json());
+    $('#gen-output').innerHTML = genCard(rec, true);
+    statusEl.style.color='var(--good)';
+    statusEl.style.border='1px solid var(--good)';
+    statusEl.textContent='Done — script generated and saved below.';
+    const d2 = await api('/api/generated');
+    renderHistory(d2.items);
+  } catch(e){
+    statusEl.style.color='var(--bad)';
+    statusEl.textContent='Error: '+e;
+  }
+  document.querySelectorAll('#generator button').forEach(b=>b.style.opacity='1');
 }
-function genCard(rec,fresh){
-  return `<div class="card" style="margin-bottom:14px;${fresh?'border-color:var(--good)':''}">
-    <div class="row" style="margin:0 0 8px"><h2 style="margin:0">${fresh?'🆕 ':''}${rec.style.replace('_',' ')} style</h2>
-      <span class="chip">${rec.focus}</span><span class="muted">${rec.generated_at}</span></div>
-    <pre>${(rec.output||'').replace(/</g,'&lt;')}</pre></div>`;
+
+function genCard(rec, fresh){
+  const label = SCRIPT_TYPES.find(t=>t.key===rec.style||t.focus===rec.focus)?.label || rec.focus;
+  return `<div class="card" style="margin-bottom:14px;${fresh?'border:1px solid var(--good)':''}">
+    <div class="row" style="margin:0 0 10px;justify-content:space-between">
+      <div>
+        <h2 style="margin:0">${fresh?'New — ':''} ${label||rec.style}</h2>
+        <div class="muted" style="font-size:12px;margin-top:3px">${rec.generated_at} · ${rec.engine}</div>
+      </div>
+      <button onclick="copyScript(this)" data-text="${encodeURIComponent(rec.output||'')}"
+        style="background:var(--panel2);border:1px solid var(--line);color:var(--text);
+               padding:6px 14px;border-radius:8px;cursor:pointer;font-size:12px">
+        Copy script
+      </button>
+    </div>
+    <pre>${(rec.output||'').replace(/</g,'&lt;')}</pre>
+  </div>`;
 }
+
+function copyScript(btn){
+  const text = decodeURIComponent(btn.dataset.text);
+  navigator.clipboard.writeText(text).then(()=>{
+    btn.textContent='Copied!';
+    setTimeout(()=>btn.textContent='Copy script', 2000);
+  });
+}
+
 function renderHistory(items){
-  $('#gen-history').innerHTML=(items&&items.length)?
-    items.map(r=>genCard(r,false)).join(''):'<div class="card muted">No scripts generated yet.</div>';
+  if(!items||!items.length){
+    $('#gen-history').innerHTML='<div class="card muted">No scripts generated yet — pick a type above.</div>';
+    return;
+  }
+  $('#gen-history').innerHTML = items.map(r=>genCard(r,false)).join('');
 }
 
 boot();

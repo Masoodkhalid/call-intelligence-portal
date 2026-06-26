@@ -1,0 +1,64 @@
+{
+  "id": "HALINK_HIHALINK_FE__N__20260624-115130_7316451022-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "N",
+  "dispo_label": "No Answer",
+  "date": "2026-06-24",
+  "time": "11:51:30",
+  "phone": "7316451022",
+  "filename": "20260624-115130_7316451022-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-N/20260624-115130_7316451022-all.mp3",
+  "duration": 12.53,
+  "text": "Hello. Yes. Can you hear me? Finally.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Yes."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Finally."
+    }
+  ],
+  "word_count": 7,
+  "bot_text": "Hello. Yes. Can you hear me? Finally.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Finally"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 7
+}

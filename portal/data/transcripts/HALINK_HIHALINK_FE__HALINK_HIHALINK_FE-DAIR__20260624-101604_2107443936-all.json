@@ -1,0 +1,42 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DAIR__20260624-101604_2107443936-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-DAIR",
+  "dispo_label": "HALINK_HIHALINK_FE-DAIR",
+  "date": "2026-06-24",
+  "time": "10:16:04",
+  "phone": "2107443936",
+  "filename": "20260624-101604_2107443936-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-DAIR/20260624-101604_2107443936-all.mp3",
+  "duration": 12.46,
+  "text": "Hello. Uh, can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Uh, can you hear me?"
+    }
+  ],
+  "word_count": 6,
+  "bot_text": "Hello. Uh, can you hear me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Uh, can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 6
+}

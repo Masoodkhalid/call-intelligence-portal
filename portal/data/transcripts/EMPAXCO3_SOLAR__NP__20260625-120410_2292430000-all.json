@@ -1,0 +1,60 @@
+{
+  "id": "EMPAXCO3_SOLAR__NP__20260625-120410_2292430000-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-25",
+  "time": "12:04:10",
+  "phone": "2292430000",
+  "filename": "20260625-120410_2292430000-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-NP/20260625-120410_2292430000-all.mp3",
+  "duration": 34.27,
+  "text": "Hello. Hi, this is Ervin. How are you doing today? I'm doing good. Thanks for asking. Hi, my name is Ervin. I'm calling about final expense coverage options available in your area. These plans are designed to help your family with funeral or burial expenses. Can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": "Hello. Hi, this is Ervin. How are you doing today? I'm doing good. Thanks for asking."
+    },
+    {
+      "start": 9.0,
+      "end": 15.0,
+      "text": "Hi, my name is Ervin. I'm calling about final expense coverage options available in your area."
+    },
+    {
+      "start": 15.0,
+      "end": 21.0,
+      "text": "These plans are designed to help your family with funeral or burial expenses."
+    },
+    {
+      "start": 21.0,
+      "end": 30.0,
+      "text": "Can you hear me?"
+    }
+  ],
+  "word_count": 49,
+  "bot_text": "Hello. Hi, this is Ervin. How are you doing today? I'm doing good. Thanks for asking. Hi, my name is Ervin. I'm calling about final expense coverage options available in your area. These plans are designed to help your family with funeral or burial expenses. Can you hear me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hi, this is Ervin How are you doing today?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm doing good Thanks for asking Hi, my name is Ervin I'm calling about final expense coverage options available in your area"
+    },
+    {
+      "speaker": "BOT",
+      "text": "These plans are designed to help your family with funeral or burial expenses Can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 49
+}

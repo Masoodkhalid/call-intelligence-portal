@@ -1,0 +1,67 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DC__20260624-123058_8433099504-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-DC",
+  "dispo_label": "HALINK_HIHALINK_FE-DC",
+  "date": "2026-06-24",
+  "time": "12:30:58",
+  "phone": "8433099504",
+  "filename": "20260624-123058_8433099504-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-DC/20260624-123058_8433099504-all.mp3",
+  "duration": 33.34,
+  "text": "Hello. Hello. Can you hear me? Yes, can you hear me? Hey, glad to hear you. I'm James from Know the Healthcare of South Carolina. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to check your eligibility, can you please share your age?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "Hello."
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "Yes, can you hear me?"
+    },
+    {
+      "start": 12.0,
+      "end": 17.0,
+      "text": "Hey, glad to hear you. I'm James from Know the Healthcare of South Carolina."
+    },
+    {
+      "start": 17.0,
+      "end": 26.0,
+      "text": "I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay."
+    },
+    {
+      "start": 26.0,
+      "end": 31.0,
+      "text": "So to check your eligibility, can you please share your age?"
+    }
+  ],
+  "word_count": 61,
+  "bot_text": "Hello. Hello. Can you hear me? Yes, can you hear me? Hey, glad to hear you. I'm James from Know the Healthcare of South Carolina. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to check your eligibility, can you please share your age?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Can you hear me? Yes, can you hear me? Hey, glad to hear you I'm James from Know the Healthcare of South Carolina I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay So to check your eligibility, can you please share your age?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 61
+}

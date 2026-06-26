@@ -79,7 +79,15 @@
     },
     {
       "speaker": "BOT",
-      "text": "Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes? Hello Sorry, but you do not seem to qualify for the plans that we have Have a great day"
+      "text": "Oh, that's all right That's exactly why I'm calling"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I want to help you get these benefits processed before they go unclaimed"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're covered under both Part A and Part B, yes? Hello Sorry, but you do not seem to qualify for the plans that we have Have a great day"
     }
   ],
   "stages": {

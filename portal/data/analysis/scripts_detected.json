@@ -9,39 +9,39 @@
           "line": "So I'm calling because there are pending grocery and cash benefits worth up to [amount] available on your Medicare account through [State] State Relief Program",
           "role": "PITCH",
           "df": 66,
-          "pct": 29.6
+          "pct": 29.7
         },
         {
           "line": "So have you been notified about these benefits yet?",
           "role": "PITCH",
           "df": 45,
-          "pct": 20.2
+          "pct": 20.3
         },
         {
           "line": "Sorry, but you don't seem to qualify for the plans that we have",
           "role": "DISQUALIFY",
           "df": 21,
-          "pct": 9.4
+          "pct": 9.5
         }
       ],
-      "calls": 223,
-      "variants": 83,
+      "calls": 222,
+      "variants": 82,
       "agent_names": [
         [
           "Jacob",
-          76
+          66
         ],
         [
           "Alyssa",
-          63
+          59
         ],
         [
           "Evelyn",
-          40
+          39
         ],
         [
           "Rachel",
-          31
+          29
         ]
       ],
       "states": [
@@ -160,8 +160,8 @@
           21
         ],
         [
-          "oh that s all right that s exactly why i m calling i want to help you ",
-          11
+          "oh that s all right that s exactly why i m calling you re covered unde",
+          13
         ],
         [
           "so you do have medicare part a and b right",
@@ -187,7 +187,7 @@
         ],
         [
           "DC",
-          37
+          36
         ],
         [
           "RAXFER",
@@ -225,10 +225,10 @@
         ],
         [
           "mcc3",
-          23
+          22
         ]
       ],
-      "transfer_rate": 14.3,
+      "transfer_rate": 14.4,
       "examples": [
         {
           "id": "mcc11__A__20260623-160349_9205728278-all",
@@ -256,61 +256,65 @@
           "line": "Good morning, my name is [Agent]",
           "role": "IDENTIFY",
           "df": 9,
-          "pct": 6.8
+          "pct": 6.6
         },
         {
           "line": "My name is [Agent]",
           "role": "IDENTIFY",
-          "df": 109,
-          "pct": 82.6
+          "df": 113,
+          "pct": 83.1
         },
         {
           "line": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for [Year] yet",
           "role": "PITCH",
-          "df": 52,
-          "pct": 39.4
+          "df": 56,
+          "pct": 41.2
         },
         {
           "line": "When that transfer is missing, it can cause delays in your coverage approvals",
           "role": "PITCH",
           "df": 37,
-          "pct": 28.0
+          "pct": 27.2
         },
         {
           "line": "And that can delay your coverage approvals",
           "role": "PITCH",
           "df": 34,
-          "pct": 25.8
+          "pct": 25.0
         },
         {
           "line": "So you do have both part A and part B, right?",
           "role": "QUALIFY",
-          "df": 42,
-          "pct": 31.8
+          "df": 46,
+          "pct": 33.8
         },
         {
           "line": "So to get your file updated, do you have both Medicare Part A and Part B?",
           "role": "QUALIFY",
           "df": 36,
-          "pct": 27.3
+          "pct": 26.5
         },
         {
           "line": "You don't seem to qualify for the plans we have",
           "role": "DISQUALIFY",
           "df": 15,
-          "pct": 11.4
+          "pct": 11.0
         }
       ],
-      "calls": 132,
+      "calls": 136,
       "variants": 20,
       "agent_names": [
         [
           "Cassie",
-          125
+          127
         ]
       ],
       "states": [],
       "qualify_variants": [
+        [
+          "good morning my name is <NAME> so i m calling because your medicare me",
+          20
+        ],
         [
           "hello good morning my name is <NAME> so i m calling because your medic",
           20
@@ -320,16 +324,12 @@
           20
         ],
         [
-          "good morning my name is <NAME> so i m calling because your medicare me",
-          18
+          "hello hello good morning my name is <NAME> so i m calling because your",
+          14
         ],
         [
           "hello good afternoon my name is <NAME> so i m calling because your med",
           14
-        ],
-        [
-          "you don t seem to qualify for the plans we have have a great day",
-          13
         ]
       ],
       "dispo_breakdown": [
@@ -362,6 +362,14 @@
           8
         ],
         [
+          "AICONTACT_MEDICARE-BN",
+          2
+        ],
+        [
+          "BN",
+          2
+        ],
+        [
           "RAXFER",
           1
         ]
@@ -376,27 +384,31 @@
           53
         ],
         [
+          "AICONTACT_MEDICARE",
+          4
+        ],
+        [
           "mcc11",
           3
         ]
       ],
-      "transfer_rate": 0.8,
+      "transfer_rate": 0.7,
       "examples": [
         {
-          "id": "mcc11__LH__20260623-163728_6063483949-all",
-          "text": "calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your cover"
-        },
-        {
-          "id": "mcc11__NI__20260623-163413_6013390542-all",
+          "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BN__20260624-095803_3173154441-all",
           "text": "calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals"
         },
         {
-          "id": "mcc11__NP__20260623-164557_9042753177-all",
-          "text": "calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your cover"
+          "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BN__20260624-102000_8168945659-all",
+          "text": "calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals"
         },
         {
-          "id": "mcc3__A__20260623-093841_3047072475-all",
-          "text": "calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause "
+          "id": "AICONTACT_MEDICARE__BN__20260624-095803_3173154441-all",
+          "text": "calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals"
+        },
+        {
+          "id": "AICONTACT_MEDICARE__BN__20260624-102000_8168945659-all",
+          "text": "calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals"
         }
       ]
     },
@@ -405,44 +417,44 @@
       "template": "we pulled up your medicare profile and there s a note showing your [year] update hasn t been confirmed yet we just need a quick confirmation so your coverage does",
       "full_script": [
         {
-          "line": "Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your [Year] plan update hasn't been confirmed yet",
-          "role": "IDENTIFY",
-          "df": 3,
-          "pct": 16.7
-        },
-        {
           "line": "Hi, this is Chelsea",
           "role": "IDENTIFY",
-          "df": 5,
-          "pct": 27.8
+          "df": 25,
+          "pct": 37.9
+        },
+        {
+          "line": "Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your [Year] plan update hasn't been confirmed yet",
+          "role": "IDENTIFY",
+          "df": 15,
+          "pct": 22.7
         },
         {
           "line": "We pulled up your Medicare profile and there's a note showing your [Year] update hasn't been confirmed yet",
           "role": "PITCH",
-          "df": 10,
-          "pct": 55.6
+          "df": 30,
+          "pct": 45.5
         },
         {
           "line": "Do you have both part A and part B?",
           "role": "QUALIFY",
-          "df": 15,
-          "pct": 83.3
+          "df": 53,
+          "pct": 80.3
         },
         {
-          "line": "It looks like you don't qualify for the plans",
+          "line": "Sorry, it looks like you don't qualify for the plans",
           "role": "DISQUALIFY",
-          "df": 3,
-          "pct": 16.7
+          "df": 10,
+          "pct": 15.2
         },
         {
-          "line": "So you do have Part A and B of Medicare, right?",
+          "line": "So you do have part A and B of Medicare, right?",
           "role": "QUALIFY",
-          "df": 4,
-          "pct": 22.2
+          "df": 12,
+          "pct": 18.2
         }
       ],
-      "calls": 18,
-      "variants": 9,
+      "calls": 66,
+      "variants": 14,
       "agent_names": [
         [
           "Sarah",
@@ -453,48 +465,100 @@
       "qualify_variants": [
         [
           "so you do have part a and b of medicare right",
-          4
+          12
         ],
         [
           "hi this is chelsea we pulled up your medicare profile and there s a no",
-          4
+          10
         ],
         [
-          "hi this is <NAME> we pulled up your medicare profile and there s a not",
-          2
+          "hello hi this is chelsea we pulled up your medicare profile and there ",
+          9
+        ],
+        [
+          "hello hi this is chelsea and i m reaching out because we pulled up you",
+          7
         ],
         [
           "hello hello hi this is chelsea we pulled up your medicare profile and ",
-          2
-        ],
-        [
-          "sorry it looks like you don t qualify for the plans have a great day b",
-          1
+          6
         ]
       ],
       "dispo_breakdown": [
         [
+          "DNQ",
+          11
+        ],
+        [
           "NI",
+          11
+        ],
+        [
+          "AICONTACT_MEDICARE-DNQ",
           6
         ],
         [
-          "DNQ",
+          "AICONTACT_MEDICARE-NI",
           5
+        ],
+        [
+          "DC",
+          4
+        ],
+        [
+          "NP",
+          4
         ],
         [
           "LH",
           4
         ],
         [
-          "NP",
+          "AICONTACT_MEDICARE-DC",
+          3
+        ],
+        [
+          "AICONTACT_MEDICARE-LB",
+          3
+        ],
+        [
+          "LB",
+          3
+        ],
+        [
+          "AICONTACT_MEDICARE-A",
           2
         ],
         [
-          "DC",
+          "AICONTACT_MEDICARE-BDNC",
+          2
+        ],
+        [
+          "AICONTACT_MEDICARE-NP",
+          2
+        ],
+        [
+          "A",
+          2
+        ],
+        [
+          "BDNC",
+          2
+        ],
+        [
+          "AICONTACT_MEDICARE-BN",
+          1
+        ],
+        [
+          "BN",
           1
         ]
       ],
       "campaigns": [
+        [
+          "AICONTACT_MEDICARE",
+          48
+        ],
         [
           "mcc11",
           13
@@ -507,26 +571,26 @@
       "transfer_rate": 0.0,
       "examples": [
         {
-          "id": "mcc11__DC__20260623-162753_5176621149-all",
-          "text": "We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage does"
+          "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-153150_2283377443-all",
+          "text": "Hello now at the tone please record your message when you feel free to go through Medicare profile and there's a note showing your 2026 update hasn't been confi"
         },
         {
-          "id": "mcc11__DNQ__20260623-154806_8653670735-all",
-          "text": "We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage does"
+          "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-154502_8643294788-all",
+          "text": "Hi, this is Chelsea We've got your Medicare profile and there's been no showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so "
         },
         {
-          "id": "mcc11__DNQ__20260623-163033_3863023343-all",
-          "text": "We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage does"
+          "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BDNC__20260624-101237_7022442700-all",
+          "text": "Hi, this is Chelsea We still get their Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation "
         },
         {
-          "id": "mcc11__LH__20260623-161344_7158035049-all",
-          "text": "we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so"
+          "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BDNC__20260624-153934_4173990922-all",
+          "text": "we pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation So your coverage does"
         }
       ]
     },
     {
       "id": 4,
-      "template": "we just need a quick confirmation from you so your coverage doesn t get interrupted",
+      "template": "we just need a quick confirmation from you so your coverage doesn t get interrupted just confirm for me do you have both part a and part b",
       "full_script": [],
       "calls": 1,
       "variants": 1,
@@ -563,7 +627,7 @@
       "examples": [
         {
           "id": "mcc11__A__20260623-153308_4349814901-all",
-          "text": "We just need a quick confirmation from you so your coverage doesn't get interrupted"
+          "text": "We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both Part A and Part B?"
         }
       ]
     },

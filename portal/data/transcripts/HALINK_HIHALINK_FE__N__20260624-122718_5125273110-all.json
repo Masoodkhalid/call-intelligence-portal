@@ -1,0 +1,42 @@
+{
+  "id": "HALINK_HIHALINK_FE__N__20260624-122718_5125273110-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "N",
+  "dispo_label": "No Answer",
+  "date": "2026-06-24",
+  "time": "12:27:18",
+  "phone": "5125273110",
+  "filename": "20260624-122718_5125273110-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-N/20260624-122718_5125273110-all.mp3",
+  "duration": 11.3,
+  "text": "Hello. Can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Hello."
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "Can you hear me?"
+    }
+  ],
+  "word_count": 5,
+  "bot_text": "Hello. Can you hear me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 5
+}

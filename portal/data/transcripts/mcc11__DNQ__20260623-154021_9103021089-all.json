@@ -35,8 +35,12 @@
   "word_count": 67,
   "turns": [
     {
+      "speaker": "CUSTOMER",
+      "text": "Hello, hello, good afternoon, this is Alyssa"
+    },
+    {
       "speaker": "BOT",
-      "text": "Hello, hello, good afternoon, this is Alyssa I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars available on your Medicare account through North Carolina state relief program So have you received any notification about these benefits yet?"
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to three hundred dollars available on your Medicare account through North Carolina state relief program So have you received any notification about these benefits yet?"
     },
     {
       "speaker": "CUSTOMER",

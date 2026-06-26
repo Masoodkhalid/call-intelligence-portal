@@ -89,11 +89,27 @@
     },
     {
       "speaker": "BOT",
-      "text": "Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go on planes You're covered under both Part A and Part B"
+      "text": "Oh, that's all right That's exactly why I'm calling"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Yes Part B Yes Yes You're getting connected to our agent in a minute Thank you so much for holding on This is my cell B How are you doing today? I'm doing fabulous, man I'm going to help you Well, this goal isn't quite about genetic error benefits and savings per year to any credit state like this, Medicare offer you some extra money for the group and groceries and the also grazing all of your benefits So you have Medicare body Yes, sir, I do How old are you? I'm 48 What's your date of birth? $11.29.79 And it's in the 48 Are you on a disability? No, not yet So how did you get Medicare, then? Huh? My dad How do you go? Yeah, my dad was for the government"
+      "text": "I want to help you get these benefits processed before they go on planes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're covered under both Part A and Part B"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes Part B Yes Yes You're getting connected to our agent in a minute Thank you so much for holding on This is my cell B"
+    },
+    {
+      "speaker": "BOT",
+      "text": "How are you doing today?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm doing fabulous, man I'm going to help you Well, this goal isn't quite about genetic error benefits and savings per year to any credit state like this, Medicare offer you some extra money for the group and groceries and the also grazing all of your benefits So you have Medicare body Yes, sir, I do How old are you? I'm 48 What's your date of birth? $11.29.79 And it's in the 48 Are you on a disability? No, not yet So how did you get Medicare, then? Huh? My dad How do you go? Yeah, my dad was for the government"
     }
   ],
   "stages": {

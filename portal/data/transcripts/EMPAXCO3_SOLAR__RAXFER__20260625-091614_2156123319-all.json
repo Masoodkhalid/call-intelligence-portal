@@ -1,0 +1,95 @@
+{
+  "id": "EMPAXCO3_SOLAR__RAXFER__20260625-091614_2156123319-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-25",
+  "time": "09:16:14",
+  "phone": "2156123319",
+  "filename": "20260625-091614_2156123319-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-RAXFER/20260625-091614_2156123319-all.mp3",
+  "duration": 46.3,
+  "text": "Hello. Hello. Hi, my name is Ervin. I'm calling about final expense coverage options available in your area. These plans are designed to help your family with funeral or burial expenses. So can you please confirm? Are you between 40 and 85 years old? Yeah, I am. You're now qualified for the New State Approved Relief Program. Let me connect you with our product specialist. Please stay on the line. Hi. Thanks for holding in the line. This is like the first day coverage. How are you? Hey, buddy. You call me one more time without this coverage. You're going to need this coverage. I want to bury you and your parents and your sister.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello. Hello. Hi, my name is Ervin."
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "I'm calling about final expense coverage options available in your area."
+    },
+    {
+      "start": 9.0,
+      "end": 13.0,
+      "text": "These plans are designed to help your family with funeral or burial expenses."
+    },
+    {
+      "start": 13.0,
+      "end": 19.0,
+      "text": "So can you please confirm? Are you between 40 and 85 years old?"
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": "Yeah, I am."
+    },
+    {
+      "start": 21.0,
+      "end": 26.0,
+      "text": "You're now qualified for the New State Approved Relief Program."
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": "Let me connect you with our product specialist."
+    },
+    {
+      "start": 29.0,
+      "end": 31.0,
+      "text": "Please stay on the line."
+    },
+    {
+      "start": 31.0,
+      "end": 39.0,
+      "text": "Hi. Thanks for holding in the line. This is like the first day coverage. How are you?"
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": "Hey, buddy. You call me one more time without this coverage."
+    },
+    {
+      "start": 42.0,
+      "end": 46.0,
+      "text": "You're going to need this coverage. I want to bury you and your parents and your sister."
+    }
+  ],
+  "word_count": 115,
+  "bot_text": "Hello Hello Hi, my name is Ervin I'm calling about final expense coverage options available in your area These plans are designed to help your family with funeral or burial expenses So can you please confirm? Are you between 40 and 85 years old? Yeah, I am You're now qualified for the New State Approved Relief Program Let me connect you with our product specialist Please stay on the line",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Hello Hi, my name is Ervin I'm calling about final expense coverage options available in your area These plans are designed to help your family with funeral or burial expenses So can you please confirm?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah, I am You're now qualified for the New State Approved Relief Program Let me connect you with our product specialist Please stay on the line"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 70
+}

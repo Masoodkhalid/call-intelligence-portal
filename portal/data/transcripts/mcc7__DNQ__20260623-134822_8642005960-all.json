@@ -95,11 +95,7 @@
     },
     {
       "speaker": "BOT",
-      "text": "Unfortunately, you don't seem to qualify for the plans we're offering"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "Have a wonderful day"
+      "text": "Unfortunately, you don't seem to qualify for the plans we're offering Have a wonderful day"
     }
   ],
   "stages": {

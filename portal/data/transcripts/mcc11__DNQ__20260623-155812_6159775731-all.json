@@ -40,11 +40,11 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "No, I do not"
+      "text": "No, I do not Sorry, it looks like you don't qualify for the plans"
     },
     {
       "speaker": "BOT",
-      "text": "Sorry, it looks like you don't qualify for the plans Have a great day"
+      "text": "Have a great day"
     }
   ],
   "stages": {

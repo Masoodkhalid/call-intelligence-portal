@@ -1,0 +1,97 @@
+{
+  "id": "AICONTACT_MEDICARE__DC__20260624-150312_9728462341-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-24",
+  "time": "15:03:12",
+  "phone": "9728462341",
+  "filename": "20260624-150312_9728462341-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-DC/20260624-150312_9728462341-all.mp3",
+  "duration": 24.91,
+  "text": "Hello? Hello, where are you all? Are you there? Yeah, where are you all? Good afternoon. My name is Rebecca. I helped you with your medical plan before, and now that we're in open enrollment, some new benefits are available for you. I'll help you get those added to your plan, so you have Medicare Part A and B, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 5.38,
+      "text": "Hello, where are you all?"
+    },
+    {
+      "start": 5.38,
+      "end": 6.38,
+      "text": "Are you there?"
+    },
+    {
+      "start": 6.38,
+      "end": 8.82,
+      "text": "Yeah, where are you all?"
+    },
+    {
+      "start": 8.82,
+      "end": 9.82,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 9.82,
+      "end": 10.82,
+      "text": "My name is Rebecca."
+    },
+    {
+      "start": 10.82,
+      "end": 14.38,
+      "text": "I helped you with your medical plan before, and now that we're in open enrollment, some"
+    },
+    {
+      "start": 14.38,
+      "end": 16.14,
+      "text": "new benefits are available for you."
+    },
+    {
+      "start": 16.14,
+      "end": 20.86,
+      "text": "I'll help you get those added to your plan, so you have Medicare Part A and B, right?"
+    }
+  ],
+  "word_count": 60,
+  "bot_text": "Hello? Hello, where are you all? Are you there? Yeah, where are you all? Good afternoon. My name is Rebecca. I helped you with your medical plan before, and now that we're in open enrollment, some new benefits are available for you. I'll help you get those added to your plan, so you have Medicare Part A and B, right?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello, where are you all?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah, where are you all?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon My name is Rebecca"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I helped you with your medical plan before, and now that we're in open enrollment, some new benefits are available for you I'll help you get those added to your plan, so you have Medicare Part A and B, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 60
+}

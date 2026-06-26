@@ -31,11 +31,11 @@
   "turns": [
     {
       "speaker": "CUSTOMER",
-      "text": "What was this?"
+      "text": "What was this? Hello, good afternoon, this is Evelyn"
     },
     {
       "speaker": "BOT",
-      "text": "Hello, good afternoon, this is Evelyn So I'm calling because there are pending grocery and cash benefits worth up to $300"
+      "text": "So I'm calling because there are pending grocery and cash benefits worth up to $300"
     }
   ],
   "stages": {

@@ -58,15 +58,7 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "No"
-    },
-    {
-      "speaker": "BOT",
-      "text": "Hello, good afternoon, this is Alyssa"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "I'm calling because there are pending growth three"
+      "text": "No Hello, good afternoon, this is Alyssa I'm calling because there are pending growth three"
     }
   ],
   "stages": {

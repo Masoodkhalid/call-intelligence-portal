@@ -1,0 +1,47 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BDNC__20260624-094829_9204243095-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-BDNC",
+  "dispo_label": "HALINK_HIHALINK_FE-BDNC",
+  "date": "2026-06-24",
+  "time": "09:48:29",
+  "phone": "9204243095",
+  "filename": "20260624-094829_9204243095-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-BDNC/20260624-094829_9204243095-all.mp3",
+  "duration": 12.24,
+  "text": "\"Hello, can you hear me?\" \"I do hope this.\" \"I do hope this.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "\"Hello, can you hear me?\""
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "\"I do hope this.\""
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "\"I do hope this.\""
+    }
+  ],
+  "word_count": 13,
+  "bot_text": "\"Hello, can you hear me?\" \"I do hope this.\" \"I do hope this.\"",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello, can you hear me?\" \"I do hope this.\" \"I do hope this.\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 13
+}

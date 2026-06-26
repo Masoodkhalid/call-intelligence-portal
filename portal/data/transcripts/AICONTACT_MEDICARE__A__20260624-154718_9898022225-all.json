@@ -1,0 +1,56 @@
+{
+  "id": "AICONTACT_MEDICARE__A__20260624-154718_9898022225-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-24",
+  "time": "15:47:18",
+  "phone": "9898022225",
+  "filename": "20260624-154718_9898022225-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-A/20260624-154718_9898022225-all.mp3",
+  "duration": 13.18,
+  "text": "Hello? At the tell-and-please record your message. When you've finished recording, you may hang up or press 1 for more options. To leave a callback number, press 5.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "At the tell-and-please record your message."
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "When you've finished recording, you may hang up or press 1 for more options."
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "To leave a callback number, press 5."
+    }
+  ],
+  "word_count": 28,
+  "bot_text": "Hello? At the tell-and-please record your message. When you've finished recording, you may hang up or press 1 for more options. To leave a callback number, press 5.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "At the tell-and-please record your message When you've finished recording, you may hang up or press 1 for more options To leave a callback number, press 5"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 28
+}

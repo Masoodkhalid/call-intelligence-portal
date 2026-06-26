@@ -1,0 +1,65 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-124303_4173831396-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-DNQ",
+  "dispo_label": "AICONTACT_MEDICARE-DNQ",
+  "date": "2026-06-24",
+  "time": "12:43:03",
+  "phone": "4173831396",
+  "filename": "20260624-124303_4173831396-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-DNQ/20260624-124303_4173831396-all.mp3",
+  "duration": 28.8,
+  "text": "Hello hello Good morning, my name is Rebecca. I'm calling about I don't care who this is on your account It turns out you qualify for the updated benefits, but they were not no I don't things like I did not no unions upgrade No, no protections. Nope. No, no part a and no, right. Nope. Nope Unfortunately, you don't seem to qualify for the plans. We're good fucking quick on the goddamn number. Leave me to fuck you off",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello hello"
+    },
+    {
+      "start": 4.06,
+      "end": 8.36,
+      "text": "Good morning, my name is Rebecca. I'm calling about I don't care who this is on your account"
+    },
+    {
+      "start": 8.56,
+      "end": 15.88,
+      "text": "It turns out you qualify for the updated benefits, but they were not no I don't things like I did not no unions upgrade"
+    },
+    {
+      "start": 15.88,
+      "end": 21.08,
+      "text": "No, no protections. Nope. No, no part a and no, right. Nope. Nope"
+    },
+    {
+      "start": 23.16,
+      "end": 28.7,
+      "text": "Unfortunately, you don't seem to qualify for the plans. We're good fucking quick on the goddamn number. Leave me to fuck you off"
+    }
+  ],
+  "word_count": 80,
+  "bot_text": "Hello hello Good morning, my name is Rebecca. I'm calling about I don't care who this is on your account It turns out you qualify for the updated benefits, but they were not no I don't things like I did not no unions upgrade No, no protections. Nope. No, no part a and no, right. Nope. Nope Unfortunately, you don't seem to qualify for the plans. We're good fucking quick on the goddamn number. Leave me to fuck you off",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello hello Good morning, my name is Rebecca I'm calling about I don't care who this is on your account It turns out you qualify for the updated benefits, but they were not no I don't things like I did not no unions upgrade No, no protections Nope No, no part a and no, right Nope"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Nope Unfortunately, you don't seem to qualify for the plans"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "We're good fucking quick on the goddamn number Leave me to fuck you off"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_word_count": 80
+}

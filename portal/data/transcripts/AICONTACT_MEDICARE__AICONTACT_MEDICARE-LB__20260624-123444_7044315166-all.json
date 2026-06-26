@@ -1,0 +1,60 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-LB__20260624-123444_7044315166-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-LB",
+  "dispo_label": "AICONTACT_MEDICARE-LB",
+  "date": "2026-06-24",
+  "time": "12:34:44",
+  "phone": "7044315166",
+  "filename": "20260624-123444_7044315166-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-LB/20260624-123444_7044315166-all.mp3",
+  "duration": 16.06,
+  "text": ">> Hello? Are you there? >> Oh look. >> Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.5,
+      "text": ">> Hello? Are you there?"
+    },
+    {
+      "start": 6.5,
+      "end": 9.0,
+      "text": ">> Oh look."
+    },
+    {
+      "start": 9.0,
+      "end": 10.92,
+      "text": ">> Hey, this is Chelsea."
+    },
+    {
+      "start": 10.92,
+      "end": 16.0,
+      "text": "There's a note on your Medicare profile that your 2026 update hasn't been confirmed."
+    }
+  ],
+  "word_count": 27,
+  "bot_text": ">> Hello? Are you there? >> Oh look. >> Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh look"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 27
+}

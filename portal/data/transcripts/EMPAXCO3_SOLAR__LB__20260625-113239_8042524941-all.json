@@ -1,0 +1,37 @@
+{
+  "id": "EMPAXCO3_SOLAR__LB__20260625-113239_8042524941-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "LB",
+  "dispo_label": "Left Blank / No Response",
+  "date": "2026-06-25",
+  "time": "11:32:39",
+  "phone": "8042524941",
+  "filename": "20260625-113239_8042524941-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-LB/20260625-113239_8042524941-all.mp3",
+  "duration": 16.2,
+  "text": "\"Hortio.\" \"Hello.\" \"Quattro.\" \"Dos.\" \"Sinko.\" \"Dos.\" \"Quattro.\" \"Nove.\" \"Quattro.\" \"Uno.\" \"Noesta mispo.\" \"Can you hear me?\" \"The system is sache despois del tono.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.0,
+      "text": "\"Hortio.\" \"Hello.\" \"Quattro.\" \"Dos.\" \"Sinko.\" \"Dos.\" \"Quattro.\" \"Nove.\" \"Quattro.\" \"Uno.\" \"Noesta mispo.\" \"Can you hear me?\" \"The system is sache despois del tono.\""
+    }
+  ],
+  "word_count": 23,
+  "bot_text": "\"Hortio.\" \"Hello.\" \"Quattro.\" \"Dos.\" \"Sinko.\" \"Dos.\" \"Quattro.\" \"Nove.\" \"Quattro.\" \"Uno.\" \"Noesta mispo.\" \"Can you hear me?\" \"The system is sache despois del tono.\"",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hortio.\" \"Hello.\" \"Quattro.\" \"Dos.\" \"Sinko.\" \"Dos.\" \"Quattro.\" \"Nove.\" \"Quattro.\" \"Uno.\" \"Noesta mispo.\" \"Can you hear me?\" \"The system is sache despois del tono.\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 23
+}

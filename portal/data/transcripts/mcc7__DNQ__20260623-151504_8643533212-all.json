@@ -50,8 +50,12 @@
   "word_count": 91,
   "turns": [
     {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello?\" \"Hello?\" \"Hello?\" \"Good afternoon"
+    },
+    {
       "speaker": "BOT",
-      "text": "\"Hello?\" \"Hello?\" \"Hello?\" \"Good afternoon This is Jacob I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina State Relief Program So have you been notified about these benefits yet?\" \"Yes.\" \"Oh, okay, great"
+      "text": "This is Jacob I'm calling because they're appending grocery and cash benefits worth up to $300 available on your Medicare account through South Carolina State Relief Program So have you been notified about these benefits yet?\" \"Yes.\" \"Oh, okay, great"
     },
     {
       "speaker": "CUSTOMER",

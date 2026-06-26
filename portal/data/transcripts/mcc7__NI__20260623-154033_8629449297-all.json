@@ -56,7 +56,11 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program So far, have you received any updates or notifications about this yet? Yes, so I was asking if you've received the notification about the pending credits on your Medicare plan"
+      "text": "Hello Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, so I was asking if you've received the notification about the pending credits on your Medicare plan"
     }
   ],
   "stages": {

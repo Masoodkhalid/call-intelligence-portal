@@ -1,0 +1,75 @@
+{
+  "id": "AICONTACT_MEDICARE__LB__20260624-111810_7738516314-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "LB",
+  "dispo_label": "Left Blank / No Response",
+  "date": "2026-06-24",
+  "time": "11:18:10",
+  "phone": "7738516314",
+  "filename": "20260624-111810_7738516314-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-LB/20260624-111810_7738516314-all.mp3",
+  "duration": 43.85,
+  "text": "Hello. Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you so your coverage doesn't get interrupted. Just confirm for me. Do you have both part A and part B? I'm sorry, but can you speak English? No. I'm sorry. We currently only have English speaking staff available. Have a good day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 14.0,
+      "text": "Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet."
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": "We just need a quick confirmation from you so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 19.0,
+      "end": 23.0,
+      "text": "Just confirm for me. Do you have both part A and part B?"
+    },
+    {
+      "start": 23.0,
+      "end": 32.0,
+      "text": "I'm sorry, but can you speak English?"
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "No."
+    },
+    {
+      "start": 34.0,
+      "end": 41.0,
+      "text": "I'm sorry. We currently only have English speaking staff available. Have a good day."
+    }
+  ],
+  "word_count": 79,
+  "bot_text": "Hello. Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you so your coverage doesn't get interrupted. Just confirm for me. Do you have both part A and part B? I'm sorry, but can you speak English? No. I'm sorry. We currently only have English speaking staff available. Have a good day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both part A and part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm sorry, but can you speak English? No I'm sorry We currently only have English speaking staff available"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a good day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 79
+}

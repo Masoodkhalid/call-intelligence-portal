@@ -76,7 +76,11 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Yes You have qualified for the updates Give me a second to connect to you Thanks for all the line This is Mike Wilson How are you doing today?"
+      "text": "Yes You have qualified for the updates Give me a second to connect to you Thanks for all the line This is Mike Wilson"
+    },
+    {
+      "speaker": "BOT",
+      "text": "How are you doing today?"
     }
   ],
   "stages": {

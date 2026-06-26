@@ -1,0 +1,68 @@
+{
+  "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NI__20260625-104611_3172541671-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "EMPAXCO3_SOLAR-NI",
+  "dispo_label": "EMPAXCO3_SOLAR-NI",
+  "date": "2026-06-25",
+  "time": "10:46:11",
+  "phone": "3172541671",
+  "filename": "20260625-104611_3172541671-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-NI/20260625-104611_3172541671-all.mp3",
+  "duration": 25.49,
+  "text": "Hello. Hello. Hi, my name is Hannah. I'm calling about final expense coverage options available in your area. These plans are designed to help your family with funeral or burial expenses. So can you please confirm, are you between 40 and 85 years old? I'm not interested. Thank you. Have a good day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "Hello. Hello. Hi, my name is Hannah. I'm calling about final expense coverage options available in your area."
+    },
+    {
+      "start": 10.0,
+      "end": 19.0,
+      "text": "These plans are designed to help your family with funeral or burial expenses. So can you please confirm, are you between 40 and 85 years old?"
+    },
+    {
+      "start": 19.0,
+      "end": 23.0,
+      "text": "I'm not interested."
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": "Thank you. Have a good day."
+    }
+  ],
+  "word_count": 53,
+  "bot_text": "Hello. Hello. Hi, my name is Hannah. I'm calling about final expense coverage options available in your area. These plans are designed to help your family with funeral or burial expenses. So can you please confirm, are you between 40 and 85 years old? I'm not interested. Thank you. Have a good day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hi, my name is Hannah"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm calling about final expense coverage options available in your area"
+    },
+    {
+      "speaker": "BOT",
+      "text": "These plans are designed to help your family with funeral or burial expenses So can you please confirm, are you between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm not interested Thank you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a good day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 53
+}

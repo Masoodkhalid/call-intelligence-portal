@@ -1,0 +1,101 @@
+{
+  "id": "HALINK_HIHALINK_FE__BN__20260624-120040_5802228194-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "BN",
+  "dispo_label": "Business Number",
+  "date": "2026-06-24",
+  "time": "12:00:40",
+  "phone": "5802228194",
+  "filename": "20260624-120040_5802228194-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-BN/20260624-120040_5802228194-all.mp3",
+  "duration": 57.53,
+  "text": "Hello. Can you hear me? What do you want? I'm Ethan, and I'm reaching out regarding a cash-back benefit to help out-of-pocket cost of up to $10,000, especially when you're in a hospital. To see if this applies to you, please confirm with a yes or no if you are under the age of 65. Well, can you answer our yes or no while you're using our your phone number? Huh? Answer that question. I totally get why you'd think that. I explain these benefits all day, so I've gotten pretty through that. Anyway, let me get back to the topics so we can move ahead to how much savings you can get with these plans. So, can you confirm you are under the age of 65, right? Can you confirm why are you fucking using your own such a farmer number? You're using your nice, it's a guy that motherfucking your own farmer because it pulls up his own Oklahoma. So, are you really in here in Oklahoma? Yes or no?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello. Can you hear me?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "What do you want?"
+    },
+    {
+      "start": 4.0,
+      "end": 13.0,
+      "text": "I'm Ethan, and I'm reaching out regarding a cash-back benefit to help out-of-pocket cost of up to $10,000, especially when you're in a hospital."
+    },
+    {
+      "start": 13.0,
+      "end": 20.0,
+      "text": "To see if this applies to you, please confirm with a yes or no if you are under the age of 65."
+    },
+    {
+      "start": 20.0,
+      "end": 26.0,
+      "text": "Well, can you answer our yes or no while you're using our your phone number?"
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": "Huh? Answer that question."
+    },
+    {
+      "start": 29.0,
+      "end": 32.0,
+      "text": "I totally get why you'd think that."
+    },
+    {
+      "start": 32.0,
+      "end": 36.0,
+      "text": "I explain these benefits all day, so I've gotten pretty through that."
+    },
+    {
+      "start": 36.0,
+      "end": 42.0,
+      "text": "Anyway, let me get back to the topics so we can move ahead to how much savings you can get with these plans."
+    },
+    {
+      "start": 42.0,
+      "end": 46.0,
+      "text": "So, can you confirm you are under the age of 65, right?"
+    },
+    {
+      "start": 46.0,
+      "end": 49.0,
+      "text": "Can you confirm why are you fucking using your own such a farmer number?"
+    },
+    {
+      "start": 49.0,
+      "end": 52.0,
+      "text": "You're using your nice, it's a guy that motherfucking your own farmer"
+    },
+    {
+      "start": 52.0,
+      "end": 57.0,
+      "text": "because it pulls up his own Oklahoma. So, are you really in here in Oklahoma? Yes or no?"
+    }
+  ],
+  "word_count": 172,
+  "bot_text": "Hello. Can you hear me? What do you want? I'm Ethan, and I'm reaching out regarding a cash-back benefit to help out-of-pocket cost of up to $10,000, especially when you're in a hospital. To see if this applies to you, please confirm with a yes or no if you are under the age of 65. Well, can you answer our yes or no while you're using our your phone number? Huh? Answer that question. I totally get why you'd think that. I explain these benefits all day, so I've gotten pretty through that. Anyway, let me get back to the topics so we can move ahead to how much savings you can get with these plans. So, can you confirm you are under the age of 65, right? Can you confirm why are you fucking using your own such a farmer number? You're using your nice, it's a guy that motherfucking your own farmer because it pulls up his own Oklahoma. So, are you really in here in Oklahoma? Yes or no?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "What do you want? I'm Ethan, and I'm reaching out regarding a cash-back benefit to help out-of-pocket cost of up to $10,000, especially when you're in a hospital To see if this applies to you, please confirm with a yes or no if you are under the age of 65 Well, can you answer our yes or no while you're using our your phone number? Huh? Answer that question I totally get why you'd think that I explain these benefits all day, so I've gotten pretty through that Anyway, let me get back to the topics so we can move ahead to how much savings you can get with these plans So, can you confirm you are under the age of 65, right? Can you confirm why are you fucking using your own such a farmer number? You're using your nice, it's a guy that motherfucking your own farmer because it pulls up his own Oklahoma So, are you really in here in Oklahoma? Yes or no?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 172
+}

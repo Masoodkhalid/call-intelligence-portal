@@ -1,0 +1,61 @@
+{
+  "id": "AICONTACT_MEDICARE__DC__20260624-153511_8108201179-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-24",
+  "time": "15:35:11",
+  "phone": "8108201179",
+  "filename": "20260624-153511_8108201179-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-DC/20260624-153511_8108201179-all.mp3",
+  "duration": 38.02,
+  "text": "Hello? Hello? Are you there? Are you? Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B? I don't give information out on the phone. I don't know who you are or what your value is at the law. Yeah, I completely understand.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.2,
+      "text": "Hello? Hello? Are you there? Are you? Hi, this is Chelsea. We pulled up your Medicare"
+    },
+    {
+      "start": 14.2,
+      "end": 19.92,
+      "text": "profile and there's a note showing your 2026 update hasn't been confirmed yet. We just"
+    },
+    {
+      "start": 19.92,
+      "end": 24.68,
+      "text": "need a quick confirmation so your coverage doesn't get interrupted. Do you have both part"
+    },
+    {
+      "start": 24.68,
+      "end": 32.52,
+      "text": "A and part B? I don't give information out on the phone. I don't know who you are or what"
+    },
+    {
+      "start": 32.52,
+      "end": 38.02,
+      "text": "your value is at the law. Yeah, I completely understand."
+    }
+  ],
+  "word_count": 76,
+  "bot_text": "Hello? Hello? Are you there? Are you? Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B? I don't give information out on the phone. I don't know who you are or what your value is at the law. Yeah, I completely understand.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Are you there? Are you? Hi, this is Chelsea We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both part A and part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I don't give information out on the phone I don't know who you are or what your value is at the law Yeah, I completely understand"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 76
+}

@@ -1,0 +1,126 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-125848_2526077380-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-RAXFER",
+  "dispo_label": "AICONTACT_MEDICARE-RAXFER",
+  "date": "2026-06-24",
+  "time": "12:58:48",
+  "phone": "2526077380",
+  "filename": "20260624-125848_2526077380-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-RAXFER/20260624-125848_2526077380-all.mp3",
+  "duration": 56.88,
+  "text": "Hello? - Hello? - Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? Yeah, sorry about that. I was just asking, do you currently have both Medicare Part A and Part B? Perfect, let me connect you with the Medicare Specialists from North Carolina. - Hello, good morning. Thank you so much, holding on the line. My name is Eric Wilson. How are you doing today? Hello, getting army? Hello.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "Hello?"
+    },
+    {
+      "start": 0.84,
+      "end": 1.66,
+      "text": "- Hello?"
+    },
+    {
+      "start": 3.66,
+      "end": 5.54,
+      "text": "- Hey, this is Chelsea."
+    },
+    {
+      "start": 5.54,
+      "end": 7.7,
+      "text": "There's a note on your Medicare profile"
+    },
+    {
+      "start": 7.7,
+      "end": 11.6,
+      "text": "that your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 11.6,
+      "end": 14.54,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 14.54,
+      "end": 16.42,
+      "text": "Do you have Part A and Part B?"
+    },
+    {
+      "start": 19.62,
+      "end": 21.5,
+      "text": "Yeah, sorry about that."
+    },
+    {
+      "start": 21.5,
+      "end": 22.78,
+      "text": "I was just asking,"
+    },
+    {
+      "start": 22.78,
+      "end": 26.58,
+      "text": "do you currently have both Medicare Part A and Part B?"
+    },
+    {
+      "start": 28.5,
+      "end": 30.34,
+      "text": "Perfect, let me connect you"
+    },
+    {
+      "start": 30.34,
+      "end": 32.82,
+      "text": "with the Medicare Specialists from North Carolina."
+    },
+    {
+      "start": 36.9,
+      "end": 38.02,
+      "text": "- Hello, good morning."
+    },
+    {
+      "start": 38.02,
+      "end": 40.26,
+      "text": "Thank you so much, holding on the line."
+    },
+    {
+      "start": 40.26,
+      "end": 42.7,
+      "text": "My name is Eric Wilson."
+    },
+    {
+      "start": 42.7,
+      "end": 44.0,
+      "text": "How are you doing today?"
+    },
+    {
+      "start": 48.22,
+      "end": 49.5,
+      "text": "Hello, getting army?"
+    },
+    {
+      "start": 52.62,
+      "end": 53.46,
+      "text": "Hello."
+    }
+  ],
+  "word_count": 97,
+  "bot_text": "Hello? Hello? Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B? Yeah, sorry about that I was just asking, do you currently have both Medicare Part A and Part B? Perfect, let me connect you with the Medicare Specialists from North Carolina Hello, good morning",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B? Yeah, sorry about that I was just asking, do you currently have both Medicare Part A and Part B? Perfect, let me connect you with the Medicare Specialists from North Carolina Hello, good morning"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 72
+}

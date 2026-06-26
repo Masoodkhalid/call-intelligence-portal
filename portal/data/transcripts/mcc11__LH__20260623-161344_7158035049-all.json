@@ -46,15 +46,7 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello? Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "Just confirm for me"
-    },
-    {
-      "speaker": "BOT",
-      "text": "Do you have both part A and part B?"
+      "text": "Hello? Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both part A and part B?"
     }
   ],
   "stages": {

@@ -1,0 +1,96 @@
+{
+  "id": "AICONTACT_MEDICARE__A__20260624-154237_2057580658-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-24",
+  "time": "15:42:37",
+  "phone": "2057580658",
+  "filename": "20260624-154237_2057580658-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-A/20260624-154237_2057580658-all.mp3",
+  "duration": 30.74,
+  "text": "Hello? Hello. Good afternoon, my name is Rebecca. I'm calling about a quick eligibility review on your account. It shows you qualify for the updated benefits, but they were never activated, including credits, convenience upgrades, and added protections. So, just to confirm, you have Part A and B, right? Give me a number of your telephone, your name is telephone number. Let me get back with you. Let me call you back. I'm gonna call you babe. Don't call me, don't.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Good afternoon, my name is Rebecca."
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "I'm calling about a quick eligibility review on your account."
+    },
+    {
+      "start": 9.0,
+      "end": 14.0,
+      "text": "It shows you qualify for the updated benefits, but they were never activated, including credits,"
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "convenience upgrades, and added protections."
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "So, just to confirm, you have Part A and B, right?"
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": "Give me a number of your telephone, your name is telephone number."
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "Let me get back with you."
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "Let me call you back."
+    },
+    {
+      "start": 28.0,
+      "end": 29.66,
+      "text": "I'm gonna call you babe."
+    },
+    {
+      "start": 29.66,
+      "end": 30.66,
+      "text": "Don't call me, don't."
+    }
+  ],
+  "word_count": 81,
+  "bot_text": "Hello? Hello. Good afternoon, my name is Rebecca. I'm calling about a quick eligibility review on your account. It shows you qualify for the updated benefits, but they were never activated, including credits, convenience upgrades, and added protections. So, just to confirm, you have Part A and B, right? Give me a number of your telephone, your name is telephone number. Let me get back with you. Let me call you back. I'm gonna call you babe. Don't call me, don't.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Good afternoon, my name is Rebecca I'm calling about a quick eligibility review on your account It shows you qualify for the updated benefits, but they were never activated, including credits, convenience upgrades, and added protections So, just to confirm, you have Part A and B, right? Give me a number of your telephone, your name is telephone number Let me get back with you Let me call you back I'm gonna call you babe Don't call me, don't"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 81
+}

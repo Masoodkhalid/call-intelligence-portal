@@ -1,0 +1,76 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-110625_3035484837-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-RAXFER",
+  "dispo_label": "AICONTACT_MEDICARE-RAXFER",
+  "date": "2026-06-24",
+  "time": "11:06:25",
+  "phone": "3035484837",
+  "filename": "20260624-110625_3035484837-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-RAXFER/20260624-110625_3035484837-all.mp3",
+  "duration": 42.19,
+  "text": "Hello? Hello. Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you so your coverage doesn't get interrupted. Just confirm for me. Do you have both part A and part B? Yes. Perfect. Let me connect you with the Medicare specialist from Colorado. Thanks for connecting. This is Anna. How are you?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 16.0,
+      "text": "Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet."
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "We just need a quick confirmation from you so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 20.0,
+      "end": 25.0,
+      "text": "Just confirm for me. Do you have both part A and part B?"
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "Yes."
+    },
+    {
+      "start": 27.0,
+      "end": 36.0,
+      "text": "Perfect. Let me connect you with the Medicare specialist from Colorado."
+    },
+    {
+      "start": 36.0,
+      "end": 62.0,
+      "text": "Thanks for connecting. This is Anna. How are you?"
+    }
+  ],
+  "word_count": 79,
+  "bot_text": "Hello? Hello Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both part A and part B? Yes Perfect Let me connect you with the Medicare specialist from Colorado Thanks for connecting",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both part A and part B? Yes Perfect Let me connect you with the Medicare specialist from Colorado Thanks for connecting"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 73
+}

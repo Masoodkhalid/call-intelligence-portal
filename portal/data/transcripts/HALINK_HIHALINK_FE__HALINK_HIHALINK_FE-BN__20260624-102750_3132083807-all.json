@@ -1,0 +1,116 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BN__20260624-102750_3132083807-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-BN",
+  "dispo_label": "HALINK_HIHALINK_FE-BN",
+  "date": "2026-06-24",
+  "time": "10:27:50",
+  "phone": "3132083807",
+  "filename": "20260624-102750_3132083807-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-BN/20260624-102750_3132083807-all.mp3",
+  "duration": 62.06,
+  "text": "Hello. Hello. Hey, good morning. James here from Nova Health Care, Michigan. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to check whether you are eligible for this, may I know your age, please? I'm sorry, I couldn't quite catch that. Can you please show your age with me? I'm not going to tell you my age. If I don't know why you're calling me, I have my fluizations, I have all of it. Yeah, I understand your hesitation and I respect your boundaries. But to check your eligibility, I just need some basic information. Our plans offer affordable rates, hospital admission benefits, daily stay support, and ICU benefits. Can you please tell me how old you are? Same age as your mama.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Hey, good morning."
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "James here from Nova Health Care, Michigan."
+    },
+    {
+      "start": 9.0,
+      "end": 14.0,
+      "text": "I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses"
+    },
+    {
+      "start": 14.0,
+      "end": 18.0,
+      "text": "of up to $10,000, especially during a hospital stay."
+    },
+    {
+      "start": 18.0,
+      "end": 23.0,
+      "text": "So to check whether you are eligible for this, may I know your age, please?"
+    },
+    {
+      "start": 23.0,
+      "end": 28.0,
+      "text": "I'm sorry, I couldn't quite catch that."
+    },
+    {
+      "start": 28.0,
+      "end": 31.0,
+      "text": "Can you please show your age with me?"
+    },
+    {
+      "start": 31.0,
+      "end": 33.0,
+      "text": "I'm not going to tell you my age."
+    },
+    {
+      "start": 33.0,
+      "end": 40.0,
+      "text": "If I don't know why you're calling me, I have my fluizations, I have all of it."
+    },
+    {
+      "start": 40.0,
+      "end": 44.0,
+      "text": "Yeah, I understand your hesitation and I respect your boundaries."
+    },
+    {
+      "start": 44.0,
+      "end": 47.0,
+      "text": "But to check your eligibility, I just need some basic information."
+    },
+    {
+      "start": 47.0,
+      "end": 54.0,
+      "text": "Our plans offer affordable rates, hospital admission benefits, daily stay support, and ICU benefits."
+    },
+    {
+      "start": 54.0,
+      "end": 57.0,
+      "text": "Can you please tell me how old you are?"
+    },
+    {
+      "start": 57.0,
+      "end": 59.0,
+      "text": "Same age as your mama."
+    }
+  ],
+  "word_count": 141,
+  "bot_text": "Hello. Hello. Hey, good morning. James here from Nova Health Care, Michigan. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to check whether you are eligible for this, may I know your age, please? I'm sorry, I couldn't quite catch that. Can you please show your age with me? I'm not going to tell you my age. If I don't know why you're calling me, I have my fluizations, I have all of it. Yeah, I understand your hesitation and I respect your boundaries. But to check your eligibility, I just need some basic information. Our plans offer affordable rates, hospital admission benefits, daily stay support, and ICU benefits. Can you please tell me how old you are? Same age as your mama.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hey, good morning James here from Nova Health Care, Michigan I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay So to check whether you are eligible for this, may I know your age, please? I'm sorry, I couldn't quite catch that Can you please show your age with me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm not going to tell you my age If I don't know why you're calling me, I have my fluizations, I have all of it Yeah, I understand your hesitation and I respect your boundaries But to check your eligibility, I just need some basic information Our plans offer affordable rates, hospital admission benefits, daily stay support, and ICU benefits Can you please tell me how old you are? Same age as your mama"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 141
+}

@@ -1,0 +1,73 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DC__20260624-123418_7732539080-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-DC",
+  "dispo_label": "HALINK_HIHALINK_FE-DC",
+  "date": "2026-06-24",
+  "time": "12:34:18",
+  "phone": "7732539080",
+  "filename": "20260624-123418_7732539080-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-DC/20260624-123418_7732539080-all.mp3",
+  "duration": 28.3,
+  "text": "- Hello. - Yes. - Can you hear me? - Yeah, I say hello. - Hey, good morning. James here from Nova Health Care, Illinois. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to check your eligibility, can you please share your age?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "- Hello. - Yes."
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": "- Can you hear me? - Yeah, I say hello."
+    },
+    {
+      "start": 11.0,
+      "end": 16.0,
+      "text": "- Hey, good morning. James here from Nova Health Care, Illinois."
+    },
+    {
+      "start": 16.0,
+      "end": 25.0,
+      "text": "I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay."
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "So to check your eligibility, can you please share your age?"
+    }
+  ],
+  "word_count": 61,
+  "bot_text": "- Hello. - Yes. - Can you hear me? - Yeah, I say hello. - Hey, good morning. James here from Nova Health Care, Illinois. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to check your eligibility, can you please share your age?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah, I say hello"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hey, good morning James here from Nova Health Care, Illinois I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay So to check your eligibility, can you please share your age?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 61
+}

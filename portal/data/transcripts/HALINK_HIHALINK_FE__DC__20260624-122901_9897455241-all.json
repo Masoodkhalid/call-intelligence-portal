@@ -1,0 +1,81 @@
+{
+  "id": "HALINK_HIHALINK_FE__DC__20260624-122901_9897455241-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-24",
+  "time": "12:29:01",
+  "phone": "9897455241",
+  "filename": "20260624-122901_9897455241-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-DC/20260624-122901_9897455241-all.mp3",
+  "duration": 24.55,
+  "text": "-Hello. -Hello. Hey, glad to hear you. I'm James from Nova Health Care, Michigan. I'm calling to let you know about a cashback benefit that may help without a pocket expenses of up to $10,000, especially during a hospital stay. So to check your eligibility, can you please share your age? Nope. Already got to take care.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "-Hello. -Hello."
+    },
+    {
+      "start": 3.84,
+      "end": 5.54,
+      "text": "Hey, glad to hear you."
+    },
+    {
+      "start": 5.54,
+      "end": 8.04,
+      "text": "I'm James from Nova Health Care, Michigan."
+    },
+    {
+      "start": 8.04,
+      "end": 10.56,
+      "text": "I'm calling to let you know about a cashback benefit"
+    },
+    {
+      "start": 10.56,
+      "end": 14.48,
+      "text": "that may help without a pocket expenses of up to $10,000,"
+    },
+    {
+      "start": 14.48,
+      "end": 16.68,
+      "text": "especially during a hospital stay."
+    },
+    {
+      "start": 16.68,
+      "end": 20.52,
+      "text": "So to check your eligibility, can you please share your age?"
+    },
+    {
+      "start": 20.52,
+      "end": 21.72,
+      "text": "Nope."
+    },
+    {
+      "start": 21.72,
+      "end": 24.08,
+      "text": "Already got to take care."
+    }
+  ],
+  "word_count": 57,
+  "bot_text": "-Hello. -Hello. Hey, glad to hear you. I'm James from Nova Health Care, Michigan. I'm calling to let you know about a cashback benefit that may help without a pocket expenses of up to $10,000, especially during a hospital stay. So to check your eligibility, can you please share your age? Nope. Already got to take care.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hey, glad to hear you I'm James from Nova Health Care, Michigan I'm calling to let you know about a cashback benefit that may help without a pocket expenses of up to $10,000, especially during a hospital stay So to check your eligibility, can you please share your age?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Nope Already got to take care"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 57
+}

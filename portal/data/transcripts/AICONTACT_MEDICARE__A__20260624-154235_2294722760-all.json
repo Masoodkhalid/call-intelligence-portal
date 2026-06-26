@@ -1,0 +1,46 @@
+{
+  "id": "AICONTACT_MEDICARE__A__20260624-154235_2294722760-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-24",
+  "time": "15:42:35",
+  "phone": "2294722760",
+  "filename": "20260624-154235_2294722760-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-A/20260624-154235_2294722760-all.mp3",
+  "duration": 10.73,
+  "text": "Hello? You want no sounds? This is a voice now. You don't have to call me back later. Deuces!",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.34,
+      "text": "Hello? You want no sounds? This is a voice now. You don't have to call me back later."
+    },
+    {
+      "start": 5.34,
+      "end": 7.34,
+      "text": "Deuces!"
+    }
+  ],
+  "word_count": 19,
+  "bot_text": "Hello? You want no sounds? This is a voice now. You don't have to call me back later. Deuces!",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You want no sounds? This is a voice now You don't have to call me back later Deuces!"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 19
+}

@@ -1,0 +1,77 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-150035_2513918054-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-RAXFER",
+  "dispo_label": "AICONTACT_MEDICARE-RAXFER",
+  "date": "2026-06-24",
+  "time": "15:00:35",
+  "phone": "2513918054",
+  "filename": "20260624-150035_2513918054-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-RAXFER/20260624-150035_2513918054-all.mp3",
+  "duration": 48.1,
+  "text": "Hello hello Good afternoon, my name is Rebecca We work together on your Medicare plan previously and because it's open enrollment new benefits have become available Let me help you add these benefits to your plan now. You have Medicare Part A and B, right? Yes, I do Awesome, can you tell me your age please You are I'm seven to four years of age. I was 75 and I Got it, please hold while I connect you to the benefits specialist Hey, this is",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "Hello hello"
+    },
+    {
+      "start": 5.12,
+      "end": 7.0,
+      "text": "Good afternoon, my name is Rebecca"
+    },
+    {
+      "start": 7.0,
+      "end": 12.78,
+      "text": "We work together on your Medicare plan previously and because it's open enrollment new benefits have become available"
+    },
+    {
+      "start": 13.28,
+      "end": 19.22,
+      "text": "Let me help you add these benefits to your plan now. You have Medicare Part A and B, right?"
+    },
+    {
+      "start": 20.32,
+      "end": 22.32,
+      "text": "Yes, I do"
+    },
+    {
+      "start": 23.16,
+      "end": 25.16,
+      "text": "Awesome, can you tell me your age please"
+    },
+    {
+      "start": 30.0,
+      "end": 36.08,
+      "text": "You are I'm seven to four years of age. I was 75 and I"
+    },
+    {
+      "start": 38.44,
+      "end": 41.44,
+      "text": "Got it, please hold while I connect you to the benefits specialist"
+    },
+    {
+      "start": 47.24,
+      "end": 49.24,
+      "text": "Hey, this is"
+    }
+  ],
+  "word_count": 85,
+  "bot_text": "Hello hello Good afternoon, my name is Rebecca We work together on your Medicare plan previously and because it's open enrollment new benefits have become available Let me help you add these benefits to your plan now You have Medicare Part A and B, right? Yes, I do Awesome, can you tell me your age please You are I'm seven to four years of age I was 75 and I Got it, please hold while I connect you to the benefits specialist Hey, this is",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello hello Good afternoon, my name is Rebecca We work together on your Medicare plan previously and because it's open enrollment new benefits have become available Let me help you add these benefits to your plan now You have Medicare Part A and B, right? Yes, I do Awesome, can you tell me your age please You are I'm seven to four years of age I was 75 and I Got it, please hold while I connect you to the benefits specialist Hey, this is"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 85
+}

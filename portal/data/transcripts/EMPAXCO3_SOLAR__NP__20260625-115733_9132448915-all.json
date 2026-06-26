@@ -1,0 +1,42 @@
+{
+  "id": "EMPAXCO3_SOLAR__NP__20260625-115733_9132448915-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-25",
+  "time": "11:57:33",
+  "phone": "9132448915",
+  "filename": "20260625-115733_9132448915-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-NP/20260625-115733_9132448915-all.mp3",
+  "duration": 33.19,
+  "text": "\"Hello?\" \"Hello?\" \"Hi, my name is Julia. I'm calling about the final expense insurance options that may help cover funeral, burial, or cremation costs. To check basic eligibility, so can you please confirm, are you between 40 and 85 years old?\" \"Can you hear me?\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 20.0,
+      "text": "\"Hello?\" \"Hello?\" \"Hi, my name is Julia. I'm calling about the final expense insurance options that may help cover funeral, burial, or cremation costs. To check basic eligibility, so can you please confirm, are you between 40 and 85 years old?\""
+    },
+    {
+      "start": 20.0,
+      "end": 28.0,
+      "text": "\"Can you hear me?\""
+    }
+  ],
+  "word_count": 45,
+  "bot_text": "\"Hello?\" \"Hello?\" \"Hi, my name is Julia. I'm calling about the final expense insurance options that may help cover funeral, burial, or cremation costs. To check basic eligibility, so can you please confirm, are you between 40 and 85 years old?\" \"Can you hear me?\"",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello?\" \"Hello?\" \"Hi, my name is Julia I'm calling about the final expense insurance options that may help cover funeral, burial, or cremation costs To check basic eligibility, so can you please confirm, are you between 40 and 85 years old?\" \"Can you hear me?\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 45
+}

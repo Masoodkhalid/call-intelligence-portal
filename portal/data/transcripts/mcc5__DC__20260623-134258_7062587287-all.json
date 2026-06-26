@@ -46,7 +46,15 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello? Hello? Good afternoon, my name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals So you do have both part A and part B, right?"
+      "text": "Hello? Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Good afternoon, my name is Cassie"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet, and that can hold up your coverage approvals So you do have both part A and part B, right?"
     }
   ],
   "stages": {

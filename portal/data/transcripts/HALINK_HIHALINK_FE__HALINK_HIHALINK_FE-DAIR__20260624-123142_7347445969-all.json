@@ -1,0 +1,37 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DAIR__20260624-123142_7347445969-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-DAIR",
+  "dispo_label": "HALINK_HIHALINK_FE-DAIR",
+  "date": "2026-06-24",
+  "time": "12:31:42",
+  "phone": "7347445969",
+  "filename": "20260624-123142_7347445969-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-DAIR/20260624-123142_7347445969-all.mp3",
+  "duration": 0.14,
+  "text": "You",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "You"
+    }
+  ],
+  "word_count": 1,
+  "bot_text": "You",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "You"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 1
+}

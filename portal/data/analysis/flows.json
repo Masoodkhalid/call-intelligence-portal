@@ -1,29 +1,956 @@
 {
-  "A": {
-    "dispo": "A",
-    "label": "Answering Machine",
+  "AICONTACT_MEDICARE-A": {
+    "dispo": "AICONTACT_MEDICARE-A",
+    "label": "AICONTACT_MEDICARE-A",
     "is_win": false,
-    "count": 81,
-    "avg_duration": 23.4,
-    "avg_words": 48.5,
+    "count": 10,
+    "avg_duration": 25.4,
+    "avg_words": 50.8,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 70,
-        "pct": 86.4
+        "count": 10,
+        "pct": 100.0
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 27,
+        "count": 5,
+        "pct": 50.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 5,
+        "pct": 50.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "passward",
+        2
+      ],
+      [
+        "passward yeah, sorry about that",
+        1
+      ],
+      [
+        "login and correct, mailbox",
+        1
+      ],
+      [
+        "hello 911 if this is not an emergency, please leave your name and number i'll be",
+        1
+      ],
+      [
+        "at the tone",
+        1
+      ],
+      [
+        "log in and correct, mailbox",
+        1
+      ],
+      [
+        "so you do have part a and part a or medicare right press 1 to mark your message ",
+        1
+      ],
+      [
+        "you want no sounds? this is a voice now you don't have to call me back later deu",
+        1
+      ],
+      [
+        "good afternoon, my name is rebecca i'm calling about a quick eligibility review ",
+        1
+      ],
+      [
+        "for your message, when you've finished recording you may hang up or press one fo",
+        1
+      ],
+      [
+        "yes",
+        1
+      ],
+      [
+        "to continue recording your message, press 3 accept the recording and send as nor",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "good afternoon, my name is rebecca i'm calling about a quick eligibility review ",
+        1
+      ],
+      [
+        "for your message, when you've finished recording you may hang up or press one fo",
+        1
+      ],
+      [
+        "at the tell-and-please record your message when you've finished recording, you m",
+        1
+      ]
+    ],
+    "example_ids": [
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-145153_2106501600-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-145337_8436075973-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-152820_8172514572-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-153150_2283377443-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-154235_2294722760-all"
+    ]
+  },
+  "AICONTACT_MEDICARE-BDNC": {
+    "dispo": "AICONTACT_MEDICARE-BDNC",
+    "label": "AICONTACT_MEDICARE-BDNC",
+    "is_win": false,
+    "count": 9,
+    "avg_duration": 18.7,
+    "avg_words": 32.4,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 9,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 3,
         "pct": 33.3
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 17,
-        "pct": 21.0
+        "count": 2,
+        "pct": 22.2
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "try our website at www napoleon.com or call back during business hours between 8",
+        1
+      ],
+      [
+        "hello, vicky camp at extension 74360 is that correct?",
+        1
+      ],
+      [
+        "\"hello?\" \"if you are calling from a touchtone phone, please dial the extension n",
+        1
+      ],
+      [
+        "press 1, the registrar press 2, the clinic press 3, for a counselor press 4, the",
+        1
+      ],
+      [
+        "intensive tear unit, this is kyra",
+        1
+      ],
+      [
+        "oh, hello?",
+        1
+      ],
+      [
+        "chelsea what company do you work for so i can give my attorney your name your nu",
+        1
+      ],
+      [
+        "american surety, how may i help you? what kind of bond do you need?",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BDNC__20260624-101237_7022442700-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BDNC__20260624-115047_7209856986-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BDNC__20260624-122609_2149479903-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BDNC__20260624-131938_2565399628-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BDNC__20260624-132412_2815302503-all"
+    ]
+  },
+  "AICONTACT_MEDICARE-BN": {
+    "dispo": "AICONTACT_MEDICARE-BN",
+    "label": "AICONTACT_MEDICARE-BN",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 28.7,
+    "avg_words": 60.2,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 8,
+        "pct": 80.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 8,
+        "pct": 80.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "hello bitch was a popular one",
+        1
+      ],
+      [
+        "what do you want?",
+        1
+      ],
+      [
+        "oh, you're an s but a whore i done told you over and over i do not want to talk ",
+        1
+      ],
+      [
+        "you do got purple panties on with pink polka dots, right?",
+        1
+      ],
+      [
+        "i have x and y",
+        1
+      ],
+      [
+        "yes",
+        1
+      ],
+      [
+        "i helped you with your medical plan before, and now that we're in open enrollmen",
+        1
+      ],
+      [
+        "i was just asking if you have medicare part a and b rebecca, i really don't do t",
+        1
+      ],
+      [
+        "we worked together on your medicare plan previously enrollment new benefits have",
+        1
+      ],
+      [
+        "you ain't pulled up my medicare file, you must have pulled up somebody else's, s",
+        1
+      ],
+      [
+        "\"hello?\" \"i'm sure it's a scientology.\" \"you're going in a dark room, huh?\" \"and",
+        1
+      ],
+      [
+        "there's no chelsea here i think you have the wrong number unless you want to tal",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "oh, you're an s but a whore i done told you over and over i do not want to talk ",
+        1
+      ]
+    ],
+    "example_ids": [
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BN__20260624-085640_7045939399-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BN__20260624-095419_8032704995-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BN__20260624-095803_3173154441-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BN__20260624-102000_8168945659-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BN__20260624-103045_9104869638-all"
+    ]
+  },
+  "AICONTACT_MEDICARE-DAIR": {
+    "dispo": "AICONTACT_MEDICARE-DAIR",
+    "label": "AICONTACT_MEDICARE-DAIR",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 11.1,
+    "avg_words": 4.2,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "to review?",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DAIR__20260624-091548_2566919277-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DAIR__20260624-092026_7209363748-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DAIR__20260624-111258_3145805232-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DAIR__20260624-112733_8703771146-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DAIR__20260624-121305_7065468777-all"
+    ]
+  },
+  "AICONTACT_MEDICARE-DC": {
+    "dispo": "AICONTACT_MEDICARE-DC",
+    "label": "AICONTACT_MEDICARE-DC",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 28.3,
+    "avg_words": 65.3,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 9,
+        "pct": 90.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 9,
+        "pct": 90.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 1,
+        "pct": 10.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "i previously helped you with your medicare plan and since it's open enrollment, ",
+        3
+      ],
+      [
+        "i was just asking if you have medicare part a and b",
+        1
+      ],
+      [
+        "hello, where are you all?",
+        1
+      ],
+      [
+        "yeah, where are you all?",
+        1
+      ],
+      [
+        "i helped you with your medical plan before, and now that we're in open enrollmen",
+        1
+      ],
+      [
+        "that's great i did that same thing yesterday, bro no, we didn't see anything",
+        1
+      ],
+      [
+        "i was just asking, do you, [blank_audio]",
+        1
+      ],
+      [
+        "hi, cowerman, here",
+        1
+      ],
+      [
+        "i don't give information out on the phone i don't know who you are or what your ",
+        1
+      ],
+      [
+        "what time is it? yeah, sorry to catch you at a busy time, but can i have just a ",
+        1
+      ],
+      [
+        "yeah! good afternoon, my name is rebecca, i'm calling about a quick eligibility ",
+        1
+      ],
+      [
+        "you what?",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "i previously helped you with your medicare plan and since it's open enrollment, ",
+        1
+      ],
+      [
+        "what time is it? yeah, sorry to catch you at a busy time, but can i have just a ",
+        1
+      ]
+    ],
+    "example_ids": [
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DC__20260624-144654_2606723087-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DC__20260624-150312_9728462341-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DC__20260624-151938_8438332130-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DC__20260624-152534_3256730057-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DC__20260624-153050_9362588013-all"
+    ]
+  },
+  "AICONTACT_MEDICARE-DNQ": {
+    "dispo": "AICONTACT_MEDICARE-DNQ",
+    "label": "AICONTACT_MEDICARE-DNQ",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 34.6,
+    "avg_words": 79.0,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 9,
+        "pct": 90.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "no sorry, it looks like you don't qualify for the plans",
+        3
+      ],
+      [
+        "yes",
+        2
+      ],
+      [
+        "yes but i'm in the nursing home and i haven't got no report on anything but they",
+        1
+      ],
+      [
+        "no yeah, sorry about that",
+        1
+      ],
+      [
+        "hello hello good morning, my name is rebecca i'm calling about i don't care who ",
+        1
+      ],
+      [
+        "we're good fucking quick on the goddamn number leave me to fuck you off",
+        1
+      ],
+      [
+        "no sorry it looks like you don't qualify for the plans",
+        1
+      ],
+      [
+        "no, i don't sorry, it looks like you don't qualify for the plans",
+        1
+      ],
+      [
+        "we work together on your medicare plan previously and because it's enrollment ne",
+        1
+      ],
+      [
+        "i am not old enough for medicare but if the government would like to give it to ",
+        1
+      ],
+      [
+        "i'm calling about a quick eligibility review on your account it turns out you qu",
+        1
+      ],
+      [
+        "yes awesome, can you tell me your age please me unfortunately, you don't seem to",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "we work together on your medicare plan previously and because it's enrollment ne",
+        1
+      ]
+    ],
+    "example_ids": [
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-123026_8706136526-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-123612_8123183346-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-124303_4173831396-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-131739_7136813270-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-133350_7043094569-all"
+    ]
+  },
+  "AICONTACT_MEDICARE-LB": {
+    "dispo": "AICONTACT_MEDICARE-LB",
+    "label": "AICONTACT_MEDICARE-LB",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 20.0,
+    "avg_words": 27.1,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 5,
+        "pct": 50.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 4,
+        "pct": 40.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "i'm sorry, but can you speak english? no i'm sorry we currently only have englis",
+        1
+      ],
+      [
+        "(speaks in foreign language) (speaks in foreign language) (clears throat) hi, th",
+        1
+      ],
+      [
+        "(speaks in foreign language)",
+        1
+      ],
+      [
+        "oh look",
+        1
+      ],
+      [
+        "i'm calling about a quick eligibility review on your account it turns out you qu",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-LB__20260624-111810_7738516314-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-LB__20260624-121653_7029278415-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-LB__20260624-122709_7067931161-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-LB__20260624-123444_7044315166-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-LB__20260624-130125_2056652691-all"
+    ]
+  },
+  "AICONTACT_MEDICARE-NI": {
+    "dispo": "AICONTACT_MEDICARE-NI",
+    "label": "AICONTACT_MEDICARE-NI",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 40.5,
+    "avg_words": 66.6,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "would you mind sharing what's making you not interested?",
+        1
+      ],
+      [
+        "you're welcome",
+        1
+      ],
+      [
+        "i previously helped you with your medicare plan and since it's open enrollment, ",
+        1
+      ],
+      [
+        "i was just asking if you have medicare part a and b",
+        1
+      ],
+      [
+        "so your coverage doesn't get interrupted you have both part a and part b so you ",
+        1
+      ],
+      [
+        "yeah, sorry about that i was just asking do you currently have both medicare par",
+        1
+      ],
+      [
+        "(speaks in foreign language) - hi, this is chelsea",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "would you mind sharing what's making you not interested?",
+        1
+      ]
+    ],
+    "example_ids": [
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NI__20260624-144837_5632997055-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NI__20260624-145441_3173746967-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NI__20260624-145841_2562213613-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NI__20260624-150823_8167881900-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NI__20260624-150918_7064538154-all"
+    ]
+  },
+  "AICONTACT_MEDICARE-NP": {
+    "dispo": "AICONTACT_MEDICARE-NP",
+    "label": "AICONTACT_MEDICARE-NP",
+    "is_win": false,
+    "count": 11,
+    "avg_duration": 15.6,
+    "avg_words": 31.6,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 90.9
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 11,
+        "pct": 100.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 3,
+        "pct": 27.3
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "yeah, i'm here what do you need?",
+        1
+      ],
+      [
+        "yes hi, this is chelsea and i'm reaching out because we pulled up your medicare ",
+        1
+      ],
+      [
+        "hello wow hi, this is chelsea we pulled up your medicare profile and there's a n",
+        1
+      ],
+      [
+        "do you have any questions?",
+        1
+      ],
+      [
+        "not saying hello again",
+        1
+      ],
+      [
+        "we work together on your medicare plan previously, and because it's open enrollm",
+        1
+      ],
+      [
+        "oh, boy hi, this is chelsea and i'm reaching out because we pulled up your medic",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NP__20260624-143817_6188743162-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NP__20260624-144221_8644922399-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NP__20260624-145733_7627210247-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NP__20260624-145938_7136813270-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NP__20260624-151115_3175973680-all"
+    ]
+  },
+  "AICONTACT_MEDICARE-N": {
+    "dispo": "AICONTACT_MEDICARE-N",
+    "label": "AICONTACT_MEDICARE-N",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 11.2,
+    "avg_words": 4.0,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "thank you",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-N__20260624-130043_5174374747-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-N__20260624-133322_2104332440-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-N__20260624-133918_7208797381-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-N__20260624-143226_2526374870-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-N__20260624-143720_6304066210-all"
+    ]
+  },
+  "AICONTACT_MEDICARE-RAXFER": {
+    "dispo": "AICONTACT_MEDICARE-RAXFER",
+    "label": "AICONTACT_MEDICARE-RAXFER",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 74.2,
+    "avg_words": 77.2,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "hello hi, this is chelsea and i'm reaching out because we pulled up your medicar",
+        2
+      ],
+      [
+        "hello hello good afternoon, my name is rebecca we work together on your medicare",
+        2
+      ],
+      [
+        "hello hello hey, this is chelsea there's a note on your medicare profile that yo",
+        1
+      ],
+      [
+        "i am hi, this is chelsea and i'm reaching out because we pulled up your medicare",
+        1
+      ],
+      [
+        "hey, this is chelsea there's a note on your medicare profile that your 2026 upda",
+        1
+      ],
+      [
+        "hello help me hi, this is chelsea we pulled up your medicare profile and there's",
+        1
+      ],
+      [
+        "hello hi good afternoon, my name is rebecca i'm calling about a quick eligibilit",
+        1
+      ],
+      [
+        "hello hi, this is chelsea, and i'm reaching out because we pulled up your medica",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-103903_6627221636-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-110625_3035484837-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-122715_6015011323-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-125848_2526077380-all",
+      "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-133040_3364699781-all"
+    ]
+  },
+  "A": {
+    "dispo": "A",
+    "label": "Answering Machine",
+    "is_win": false,
+    "count": 110,
+    "avg_duration": 25.1,
+    "avg_words": 52.9,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 99,
+        "pct": 90.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 43,
+        "pct": 39.1
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 29,
+        "pct": 26.4
       },
       {
         "key": "transfer",
@@ -35,136 +962,140 @@
         "key": "disqualify",
         "label": "Disqualified",
         "count": 2,
-        "pct": 2.5
+        "pct": 1.8
       }
     ],
     "top_customer_lines": [
       [
-        "to leave a callback number, press 5",
+        "at the tone",
         4
       ],
       [
-        "at the tell-and-please record your message",
-        3
-      ],
-      [
-        "at the tone",
-        3
-      ],
-      [
-        "at the tell-em, please record your message",
-        2
-      ],
-      [
-        "i couldn't hear you please try again at the tone, please record your message",
-        2
-      ],
-      [
         "to continue recording your message, press 3 accept the recording and send as nor",
+        3
+      ],
+      [
+        "at the tell-and-please record your message when you've finished recording, you m",
+        3
+      ],
+      [
+        "please try again at the tone, please record your message when you've finished re",
+        3
+      ],
+      [
+        "passward",
         2
       ],
       [
-        "at the tone, please record your message",
+        "we didn't get your message either because you were not speaking or because of a ",
         2
       ],
       [
-        "can't take your call now at the tone, please record your message",
+        "thank you",
+        2
+      ],
+      [
+        "to see if you qualify for this, please confirm with a yes or no if you're under ",
+        2
+      ],
+      [
+        "at the tell-em, please record your message when you've finished recording, you m",
+        2
+      ],
+      [
+        "at the tone, please record your message when you've finished recording, you may ",
+        2
+      ],
+      [
+        "can't take your call now at the tone, please record your message when you have f",
         2
       ],
       [
         "we record or add to your message, press 1",
         2
-      ],
-      [
-        "listen, hello i take sure where you have reached fire on my way from my phone pl",
-        1
-      ],
-      [
-        "i'm reaching out because we pulled up your medicare profile as a talent, please ",
-        1
-      ],
-      [
-        "just confirm for me",
-        1
       ]
     ],
     "top_objections": [
       [
-        "if you're a telemarketer, please hang up immediately and take me off your list o",
+        "at the tell-and-please record your message when you've finished recording, you m",
+        3
+      ],
+      [
+        "please try again at the tone, please record your message when you've finished re",
+        3
+      ],
+      [
+        "at the tell-em, please record your message when you've finished recording, you m",
+        2
+      ],
+      [
+        "at the tone, please record your message when you've finished recording, you may ",
+        2
+      ],
+      [
+        "can't take your call now at the tone, please record your message when you have f",
+        2
+      ],
+      [
+        "good afternoon, my name is rebecca i'm calling about a quick eligibility review ",
         1
       ],
       [
-        "hello, is not available record your message at the cone when you are finished, h",
+        "for your message, when you've finished recording you may hang up or press one fo",
         1
       ],
       [
-        "take a call now at the tone please record your message when you've finished reco",
+        "\"dear agree\" \"hello?\" \"nothing has been recorded record your message after the t",
         1
       ],
       [
-        "when you finished recording, simply hang up",
+        "record your message after the beep when you're finished, you may hang up or pres",
         1
       ],
       [
-        "is not available please leave your message after the tone after you have finishe",
-        1
-      ],
-      [
-        "when you had finished recording, simply hang up",
-        1
-      ],
-      [
-        "can't take your call now at the tone, please record your message when you've fin",
-        1
-      ],
-      [
-        "available at the tell and please record your message when you finished recording",
-        1
-      ],
-      [
-        "please leave a message at the tone when finished you may hang up or press pound ",
+        "i'm reaching out regarding a cashback benefit to help with out-of-pocket expense",
         1
       ]
     ],
     "example_ids": [
-      "mcc11__A__20260623-150155_9362225319-all",
-      "mcc11__A__20260623-153308_4349814901-all",
-      "mcc11__A__20260623-153343_2694470209-all",
-      "mcc11__A__20260623-153646_2283271016-all",
-      "mcc11__A__20260623-154202_3468633651-all"
+      "AICONTACT_MEDICARE__A__20260624-145153_2106501600-all",
+      "AICONTACT_MEDICARE__A__20260624-145337_8436075973-all",
+      "AICONTACT_MEDICARE__A__20260624-152820_8172514572-all",
+      "AICONTACT_MEDICARE__A__20260624-153150_2283377443-all",
+      "AICONTACT_MEDICARE__A__20260624-154235_2294722760-all"
     ]
   },
   "BDNC": {
     "dispo": "BDNC",
     "label": "Bad / Do-Not-Call",
     "is_win": false,
-    "count": 81,
-    "avg_duration": 18.6,
-    "avg_words": 31.1,
+    "count": 100,
+    "avg_duration": 18.4,
+    "avg_words": 30.9,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 78,
-        "pct": 96.3
+        "count": 97,
+        "pct": 97.0
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 22,
-        "pct": 27.2
+        "count": 27,
+        "pct": 27.0
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 12,
-        "pct": 14.8
+        "count": 16,
+        "pct": 16.0
       },
       {
         "key": "transfer",
         "label": "Transfer to agent",
         "count": 2,
-        "pct": 2.5
+        "pct": 2.0
       },
       {
         "key": "disqualify",
@@ -179,47 +1110,47 @@
         2
       ],
       [
-        "\"hello?\" \"hello, commander pichon so, what can we get for you?\"",
+        "try our website at www napoleon.com or call back during business hours between 8",
         1
       ],
       [
-        "go the name of the person or department you would like i think you said hello",
+        "hello, vicky camp at extension 74360 is that correct?",
         1
       ],
       [
-        "okay the ciletto just so you know, a lot of members haven't been notified yet an",
+        "\"hello?\" \"if you are calling from a touchtone phone, please dial the extension n",
         1
       ],
       [
-        "thank you for choosing bond this is kathy how may be of service",
+        "press 1, the registrar press 2, the clinic press 3, for a counselor press 4, the",
         1
       ],
       [
-        "nicole is very important to us",
+        "intensive tear unit, this is kyra",
         1
       ],
       [
-        "this is rina can we help you?",
+        "oh, hello?",
         1
       ],
       [
-        "check the road out how can i help you?",
+        "chelsea what company do you work for so i can give my attorney your name your nu",
         1
       ],
       [
-        "check the road out",
+        "american surety, how may i help you? what kind of bond do you need?",
         1
       ],
       [
-        "hello, this is the ambus",
+        "yes, i can hear you how can i assist you today?",
         1
       ],
       [
-        "9-1-1 addressing how can i help you? 9-1-1 addressing",
+        "there are seven matching names alex fleming is that correct?",
         1
       ],
       [
-        "hello, space library may i help you?",
+        "to see if you qualify for this, please confirm with a yes or no if you're under ",
         1
       ]
     ],
@@ -234,26 +1165,137 @@
       ]
     ],
     "example_ids": [
-      "mcc11__BDNC__20260623-143253_3523835303-all",
-      "mcc11__BDNC__20260623-144238_6152985573-all",
-      "mcc11__BDNC__20260623-144246_7029845078-all",
-      "mcc11__BDNC__20260623-145735_2815136073-all",
-      "mcc11__BDNC__20260623-152207_5734431573-all"
+      "AICONTACT_MEDICARE__BDNC__20260624-101237_7022442700-all",
+      "AICONTACT_MEDICARE__BDNC__20260624-115047_7209856986-all",
+      "AICONTACT_MEDICARE__BDNC__20260624-122609_2149479903-all",
+      "AICONTACT_MEDICARE__BDNC__20260624-131938_2565399628-all",
+      "AICONTACT_MEDICARE__BDNC__20260624-132412_2815302503-all"
+    ]
+  },
+  "BN": {
+    "dispo": "BN",
+    "label": "Business Number",
+    "is_win": false,
+    "count": 20,
+    "avg_duration": 35.7,
+    "avg_words": 83.1,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 20,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 17,
+        "pct": 85.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 10,
+        "pct": 50.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "yes",
+        2
+      ],
+      [
+        "hello bitch was a popular one",
+        1
+      ],
+      [
+        "what do you want?",
+        1
+      ],
+      [
+        "oh, you're an s but a whore i done told you over and over i do not want to talk ",
+        1
+      ],
+      [
+        "you do got purple panties on with pink polka dots, right?",
+        1
+      ],
+      [
+        "i have x and y",
+        1
+      ],
+      [
+        "i helped you with your medical plan before, and now that we're in open enrollmen",
+        1
+      ],
+      [
+        "i was just asking if you have medicare part a and b rebecca, i really don't do t",
+        1
+      ],
+      [
+        "we worked together on your medicare plan previously enrollment new benefits have",
+        1
+      ],
+      [
+        "you ain't pulled up my medicare file, you must have pulled up somebody else's, s",
+        1
+      ],
+      [
+        "\"hello?\" \"i'm sure it's a scientology.\" \"you're going in a dark room, huh?\" \"and",
+        1
+      ],
+      [
+        "there's no chelsea here i think you have the wrong number unless you want to tal",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "oh, you're an s but a whore i done told you over and over i do not want to talk ",
+        1
+      ],
+      [
+        "no, i don't want to hear you you just don't need to get this, blah, blah, blah i",
+        1
+      ],
+      [
+        "what do you want? i'm ethan, and i'm reaching out regarding a cash-back benefit ",
+        1
+      ]
+    ],
+    "example_ids": [
+      "AICONTACT_MEDICARE__BN__20260624-085640_7045939399-all",
+      "AICONTACT_MEDICARE__BN__20260624-095419_8032704995-all",
+      "AICONTACT_MEDICARE__BN__20260624-095803_3173154441-all",
+      "AICONTACT_MEDICARE__BN__20260624-102000_8168945659-all",
+      "AICONTACT_MEDICARE__BN__20260624-103045_9104869638-all"
     ]
   },
   "DAIR": {
     "dispo": "DAIR",
     "label": "Dead Air",
     "is_win": false,
-    "count": 80,
-    "avg_duration": 10.3,
-    "avg_words": 3.9,
+    "count": 100,
+    "avg_duration": 10.6,
+    "avg_words": 4.1,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 74,
-        "pct": 92.5
+        "count": 93,
+        "pct": 93.0
       },
       {
         "key": "pitch",
@@ -283,55 +1325,59 @@
     "top_customer_lines": [
       [
         "you",
-        5
+        6
+      ],
+      [
+        "to review?",
+        1
       ]
     ],
     "top_objections": [],
     "example_ids": [
-      "mcc11__DAIR__20260623-140928_3868468708-all",
-      "mcc11__DAIR__20260623-142451_3342079877-all",
-      "mcc11__DAIR__20260623-143104_8135415102-all",
-      "mcc11__DAIR__20260623-150907_8156250644-all",
-      "mcc11__DAIR__20260623-151126_9159103350-all"
+      "AICONTACT_MEDICARE__DAIR__20260624-091548_2566919277-all",
+      "AICONTACT_MEDICARE__DAIR__20260624-092026_7209363748-all",
+      "AICONTACT_MEDICARE__DAIR__20260624-111258_3145805232-all",
+      "AICONTACT_MEDICARE__DAIR__20260624-112733_8703771146-all",
+      "AICONTACT_MEDICARE__DAIR__20260624-121305_7065468777-all"
     ]
   },
   "DC": {
     "dispo": "DC",
     "label": "Disconnected",
     "is_win": false,
-    "count": 80,
-    "avg_duration": 25.2,
-    "avg_words": 47.5,
+    "count": 100,
+    "avg_duration": 25.6,
+    "avg_words": 50.0,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 78,
-        "pct": 97.5
+        "count": 98,
+        "pct": 98.0
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 74,
-        "pct": 92.5
+        "count": 93,
+        "pct": 93.0
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 32,
-        "pct": 40.0
+        "count": 42,
+        "pct": 42.0
       },
       {
         "key": "transfer",
         "label": "Transfer to agent",
         "count": 4,
-        "pct": 5.0
+        "pct": 4.0
       },
       {
         "key": "disqualify",
         "label": "Disqualified",
-        "count": 5,
-        "pct": 6.2
+        "count": 6,
+        "pct": 6.0
       }
     ],
     "top_customer_lines": [
@@ -340,51 +1386,63 @@
         4
       ],
       [
+        "i previously helped you with your medicare plan and since it's open enrollment, ",
+        3
+      ],
+      [
         "yes",
-        4
+        3
+      ],
+      [
+        "good afternoon, this is jacob",
+        2
       ],
       [
         "no sorry",
         2
       ],
       [
-        "we pulled up your medicare profile",
+        "good afternoon, my name is cassie",
+        2
+      ],
+      [
+        "yes so, i was asking if you received the notification about the pending credits ",
+        2
+      ],
+      [
+        "i was just asking if you have medicare part a and b",
         1
       ],
       [
-        "we just need a quick confirmation",
+        "hello, where are you all?",
         1
       ],
       [
-        "what are they speckles?",
+        "yeah, where are you all?",
         1
       ],
       [
-        "i'm calling because there are pending grocery and cash benefits worth",
+        "i helped you with your medical plan before, and now that we're in open enrollmen",
         1
       ],
       [
-        "[inaudible]",
-        1
-      ],
-      [
-        "yes, hello?",
-        1
-      ],
-      [
-        "sorry about that i was asking, do you currently have both medicare part a and pa",
-        1
-      ],
-      [
-        "yes?",
-        1
-      ],
-      [
-        "i'm calling because there are pending grocery and",
+        "that's great i did that same thing yesterday, bro no, we didn't see anything",
         1
       ]
     ],
     "top_objections": [
+      [
+        "i previously helped you with your medicare plan and since it's open enrollment, ",
+        1
+      ],
+      [
+        "what time is it? yeah, sorry to catch you at a busy time, but can i have just a ",
+        1
+      ],
+      [
+        "not interested can you please tell me why you're not interested?",
+        1
+      ],
       [
         "yeah, we've been to this already i already tell you i don't want me",
         1
@@ -395,38 +1453,38 @@
       ]
     ],
     "example_ids": [
-      "mcc11__DC__20260623-161506_4098320848-all",
-      "mcc11__DC__20260623-161938_5313299305-all",
-      "mcc11__DC__20260623-162251_7862003981-all",
-      "mcc11__DC__20260623-162330_4353875042-all",
-      "mcc11__DC__20260623-162350_8034060195-all"
+      "AICONTACT_MEDICARE__DC__20260624-144654_2606723087-all",
+      "AICONTACT_MEDICARE__DC__20260624-150312_9728462341-all",
+      "AICONTACT_MEDICARE__DC__20260624-151938_8438332130-all",
+      "AICONTACT_MEDICARE__DC__20260624-152534_3256730057-all",
+      "AICONTACT_MEDICARE__DC__20260624-153050_9362588013-all"
     ]
   },
   "DNQ": {
     "dispo": "DNQ",
     "label": "Did Not Qualify",
     "is_win": false,
-    "count": 81,
-    "avg_duration": 37.8,
-    "avg_words": 80.6,
+    "count": 111,
+    "avg_duration": 36.8,
+    "avg_words": 80.1,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 80,
-        "pct": 98.8
+        "count": 109,
+        "pct": 98.2
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 81,
+        "count": 111,
         "pct": 100.0
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 75,
-        "pct": 92.6
+        "count": 100,
+        "pct": 90.1
       },
       {
         "key": "transfer",
@@ -437,17 +1495,25 @@
       {
         "key": "disqualify",
         "label": "Disqualified",
-        "count": 70,
-        "pct": 86.4
+        "count": 89,
+        "pct": 80.2
       }
     ],
     "top_customer_lines": [
       [
         "yes",
-        17
+        21
+      ],
+      [
+        "i want to help you get these benefits processed before they go unclaimed",
+        8
       ],
       [
         "yeah",
+        5
+      ],
+      [
+        "no sorry, it looks like you don't qualify for the plans",
         4
       ],
       [
@@ -456,6 +1522,14 @@
       ],
       [
         "no sorry it looks like you don't qualify for the plans",
+        3
+      ],
+      [
+        "so can you please confirm?",
+        2
+      ],
+      [
+        "hey",
         2
       ],
       [
@@ -467,31 +1541,23 @@
         2
       ],
       [
-        "no, i'm not",
+        "and i want to help you get these benefits processed before they go unclaimed",
         2
       ],
       [
-        "sorry, it looks like you don't qualify for the plan",
-        1
-      ],
-      [
-        "\"hello.\" \"are you there?\" \"yeah.\" \"hello",
-        1
-      ],
-      [
-        "you're covered under both part a and part b, yes?\" \"no.\" \"sorry, but you do not ",
-        1
-      ],
-      [
-        "so, boss is not here his name comes tomorrow morning after 8 o'clock i just want",
-        1
-      ],
-      [
-        "i can't agree with you",
-        1
+        "no, i'm not",
+        2
       ]
     ],
     "top_objections": [
+      [
+        "we work together on your medicare plan previously and because it's enrollment ne",
+        1
+      ],
+      [
+        "who is this and what the hell do you want?",
+        1
+      ],
       [
         "have a great day.\" \"then why are you calling me and with the your",
         1
@@ -526,11 +1592,2319 @@
       ]
     ],
     "example_ids": [
-      "mcc11__DNQ__20260623-142559_9568441507-all",
-      "mcc11__DNQ__20260623-151015_2014941996-all",
-      "mcc11__DNQ__20260623-151545_6168241682-all",
-      "mcc11__DNQ__20260623-152223_7322642314-all",
-      "mcc11__DNQ__20260623-153036_7573731827-all"
+      "AICONTACT_MEDICARE__DNQ__20260624-123026_8706136526-all",
+      "AICONTACT_MEDICARE__DNQ__20260624-123612_8123183346-all",
+      "AICONTACT_MEDICARE__DNQ__20260624-124303_4173831396-all",
+      "AICONTACT_MEDICARE__DNQ__20260624-131739_7136813270-all",
+      "AICONTACT_MEDICARE__DNQ__20260624-133350_7043094569-all"
+    ]
+  },
+  "LB": {
+    "dispo": "LB",
+    "label": "Left Blank / No Response",
+    "is_win": false,
+    "count": 30,
+    "avg_duration": 24.0,
+    "avg_words": 38.6,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 28,
+        "pct": 93.3
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 15,
+        "pct": 50.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 7,
+        "pct": 23.3
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "(speaking in foreign language)",
+        2
+      ],
+      [
+        "i'm sorry, but can you speak english? no i'm sorry we currently only have englis",
+        1
+      ],
+      [
+        "(speaks in foreign language) (speaks in foreign language) (clears throat) hi, th",
+        1
+      ],
+      [
+        "(speaks in foreign language)",
+        1
+      ],
+      [
+        "oh look",
+        1
+      ],
+      [
+        "i'm calling about a quick eligibility review on your account it turns out you qu",
+        1
+      ],
+      [
+        "say me",
+        1
+      ],
+      [
+        "[non-english speech] hi this is adeline",
+        1
+      ],
+      [
+        "i'm calling about final events, what are the options available in your area?",
+        1
+      ],
+      [
+        "i know",
+        1
+      ],
+      [
+        "well",
+        1
+      ],
+      [
+        "i'm going to speak english",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "yeah, so that's about your age can you tell me how old you are? uh, percent and ",
+        1
+      ]
+    ],
+    "example_ids": [
+      "AICONTACT_MEDICARE__LB__20260624-111810_7738516314-all",
+      "AICONTACT_MEDICARE__LB__20260624-121653_7029278415-all",
+      "AICONTACT_MEDICARE__LB__20260624-122709_7067931161-all",
+      "AICONTACT_MEDICARE__LB__20260624-123444_7044315166-all",
+      "AICONTACT_MEDICARE__LB__20260624-130125_2056652691-all"
+    ]
+  },
+  "NI": {
+    "dispo": "NI",
+    "label": "Not Interested",
+    "is_win": false,
+    "count": 111,
+    "avg_duration": 39.4,
+    "avg_words": 69.0,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 111,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 104,
+        "pct": 93.7
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 64,
+        "pct": 57.7
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "yes, so i was asking if you've received the notification about the pending credi",
+        7
+      ],
+      [
+        "yes, so i was asking if you received the notification about the pending credits ",
+        5
+      ],
+      [
+        "i'm sorry",
+        4
+      ],
+      [
+        "hey",
+        4
+      ],
+      [
+        "yes",
+        4
+      ],
+      [
+        "yes so i was asking if you received the notification about the pending credits o",
+        4
+      ],
+      [
+        "goodbye",
+        3
+      ],
+      [
+        "i was just asking if you have medicare part a and b",
+        2
+      ],
+      [
+        "could you please confirm if you are between 40 and 85 years old?",
+        2
+      ],
+      [
+        "yeah",
+        2
+      ],
+      [
+        "chris sorry about that i was asking",
+        2
+      ],
+      [
+        "thank you",
+        2
+      ]
+    ],
+    "top_objections": [
+      [
+        "would you mind sharing what's making you not interested?",
+        1
+      ],
+      [
+        "i'm not interested thank you",
+        1
+      ],
+      [
+        "thanks connecting you for now if you can give me just a moment, there's no oblig",
+        1
+      ],
+      [
+        "girl, why are you doing this? girl, why are you doing this? are you doing that, ",
+        1
+      ]
+    ],
+    "example_ids": [
+      "AICONTACT_MEDICARE__NI__20260624-144837_5632997055-all",
+      "AICONTACT_MEDICARE__NI__20260624-145441_3173746967-all",
+      "AICONTACT_MEDICARE__NI__20260624-145841_2562213613-all",
+      "AICONTACT_MEDICARE__NI__20260624-150823_8167881900-all",
+      "AICONTACT_MEDICARE__NI__20260624-150918_7064538154-all"
+    ]
+  },
+  "NP": {
+    "dispo": "NP",
+    "label": "No Pitch (cut early)",
+    "is_win": false,
+    "count": 108,
+    "avg_duration": 23.7,
+    "avg_words": 44.6,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 106,
+        "pct": 98.1
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 99,
+        "pct": 91.7
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 17,
+        "pct": 15.7
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "yes",
+        7
+      ],
+      [
+        "i'm sorry",
+        4
+      ],
+      [
+        "hey",
+        4
+      ],
+      [
+        "i want to help you get these benefits processed before they go unclaimed",
+        4
+      ],
+      [
+        "i'm reaching out because we're running a quick coverage gap audit for folks befo",
+        2
+      ],
+      [
+        "my name is anna",
+        2
+      ],
+      [
+        "yeah, i'm here what do you need?",
+        1
+      ],
+      [
+        "yes hi, this is chelsea and i'm reaching out because we pulled up your medicare ",
+        1
+      ],
+      [
+        "hello wow hi, this is chelsea we pulled up your medicare profile and there's a n",
+        1
+      ],
+      [
+        "do you have any questions?",
+        1
+      ],
+      [
+        "not saying hello again",
+        1
+      ],
+      [
+        "we work together on your medicare plan previously, and because it's open enrollm",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "thanks connecting you for now if you can give me just a moment, there's no oblig",
+        1
+      ]
+    ],
+    "example_ids": [
+      "AICONTACT_MEDICARE__NP__20260624-143817_6188743162-all",
+      "AICONTACT_MEDICARE__NP__20260624-144221_8644922399-all",
+      "AICONTACT_MEDICARE__NP__20260624-145733_7627210247-all",
+      "AICONTACT_MEDICARE__NP__20260624-145938_7136813270-all",
+      "AICONTACT_MEDICARE__NP__20260624-151115_3175973680-all"
+    ]
+  },
+  "N": {
+    "dispo": "N",
+    "label": "No Answer",
+    "is_win": false,
+    "count": 111,
+    "avg_duration": 13.0,
+    "avg_words": 4.8,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 109,
+        "pct": 98.2
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "thank you",
+        1
+      ],
+      [
+        "yes",
+        1
+      ],
+      [
+        "finally",
+        1
+      ],
+      [
+        "oh, hello",
+        1
+      ],
+      [
+        "i am",
+        1
+      ],
+      [
+        "[phone ringing] hello?",
+        1
+      ],
+      [
+        "[phone ringing]",
+        1
+      ],
+      [
+        "(phone ringing) hello?",
+        1
+      ],
+      [
+        "(phone beeps) hello?",
+        1
+      ],
+      [
+        "at the telling, please record your message when you've finished recording you ma",
+        1
+      ],
+      [
+        "hello are you there to review?",
+        1
+      ],
+      [
+        "here we go",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "at the telling, please record your message when you've finished recording you ma",
+        1
+      ]
+    ],
+    "example_ids": [
+      "AICONTACT_MEDICARE__N__20260624-130043_5174374747-all",
+      "AICONTACT_MEDICARE__N__20260624-133322_2104332440-all",
+      "AICONTACT_MEDICARE__N__20260624-133918_7208797381-all",
+      "AICONTACT_MEDICARE__N__20260624-143226_2526374870-all",
+      "AICONTACT_MEDICARE__N__20260624-143720_6304066210-all"
+    ]
+  },
+  "RAXFER": {
+    "dispo": "RAXFER",
+    "label": "Transferred to Agent",
+    "is_win": true,
+    "count": 110,
+    "avg_duration": 163.5,
+    "avg_words": 107.2,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 109,
+        "pct": 99.1
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 106,
+        "pct": 96.4
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 97,
+        "pct": 88.2
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 99,
+        "pct": 90.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 1,
+        "pct": 0.9
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "no oh, that's all right that's exactly why i'm calling i want to help you get th",
+        11
+      ],
+      [
+        "no oh, that's all right that's exactly why i'm calling and i want to help you ge",
+        5
+      ],
+      [
+        "hello hi, this is chelsea, and i'm reaching out because we pulled up your medica",
+        3
+      ],
+      [
+        "hello hi, this is chelsea and i'm reaching out because we pulled up your medicar",
+        2
+      ],
+      [
+        "hello hello good afternoon, my name is rebecca we work together on your medicare",
+        2
+      ],
+      [
+        "hello hello good morning my name is cassie so i'm calling because your medicare ",
+        2
+      ],
+      [
+        "yes good morning my name is cassie so i'm calling because your medicare member p",
+        2
+      ],
+      [
+        "i'm reaching out because we're doing a quick coverage gap audit for people befor",
+        2
+      ],
+      [
+        "good afternoon my name is cassie so i'm calling because your medicare member pro",
+        2
+      ],
+      [
+        "hello hello hey, this is chelsea there's a note on your medicare profile that yo",
+        1
+      ],
+      [
+        "i am hi, this is chelsea and i'm reaching out because we pulled up your medicare",
+        1
+      ],
+      [
+        "hey, this is chelsea there's a note on your medicare profile that your 2026 upda",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "yeah hi, my name is hannah i'm calling about the final expense insurance options",
+        1
+      ],
+      [
+        "yes, i am and they already told me, \"i'm getting everything that i can get here ",
+        1
+      ],
+      [
+        "i just talked to you a lot ago oh, my apologies this is actually the first time ",
+        1
+      ],
+      [
+        "i had you about 15 calls a day about different stuff that i'm supposed to be eli",
+        1
+      ],
+      [
+        "who is this?",
+        1
+      ],
+      [
+        "no, i have it's a scam oh, no this isn't a scam we actually sent you a notificat",
+        1
+      ],
+      [
+        "\"hello?\" \"hello?\" \"yes.\" \"good afternoon this is jacob so, i'm calling because t",
+        1
+      ],
+      [
+        "no oh, that's all right that's exactly why i'm calling and i want to help you ge",
+        1
+      ]
+    ],
+    "example_ids": [
+      "AICONTACT_MEDICARE__RAXFER__20260624-103903_6627221636-all",
+      "AICONTACT_MEDICARE__RAXFER__20260624-110625_3035484837-all",
+      "AICONTACT_MEDICARE__RAXFER__20260624-122715_6015011323-all",
+      "AICONTACT_MEDICARE__RAXFER__20260624-125848_2526077380-all",
+      "AICONTACT_MEDICARE__RAXFER__20260624-133040_3364699781-all"
+    ]
+  },
+  "EMPAXCO3_SOLAR-A": {
+    "dispo": "EMPAXCO3_SOLAR-A",
+    "label": "EMPAXCO3_SOLAR-A",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 27.3,
+    "avg_words": 56.8,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 5,
+        "pct": 50.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 2,
+        "pct": 20.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "i'm calling about the final expense insurance option that may help cover funeral",
+        1
+      ],
+      [
+        "to review, re-record, or add to your message, press 1",
+        1
+      ],
+      [
+        "hi, my name is julia i'm calling about final expense coverage options available ",
+        1
+      ],
+      [
+        "so, can you please confirm?",
+        1
+      ],
+      [
+        "could you please confirm if you are between 40 and 85 years old? is not availabl",
+        1
+      ],
+      [
+        "sarah",
+        1
+      ],
+      [
+        "i'm calling about final expense coverage options available in your area",
+        1
+      ],
+      [
+        "so can you please confirm?",
+        1
+      ],
+      [
+        "it's not available please leave your message after the tone",
+        1
+      ],
+      [
+        "how are very important to me? call me at your earnest convenience as soon as pos",
+        1
+      ],
+      [
+        "thank you nice",
+        1
+      ],
+      [
+        "i'm calling about the final expense insurance options that may help cover funera",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "\"dear agree\" \"hello?\" \"nothing has been recorded record your message after the t",
+        1
+      ],
+      [
+        "record your message after the beep when you're finished, you may hang up or pres",
+        1
+      ],
+      [
+        "please try again at the tone, please record your message when you've finished re",
+        1
+      ]
+    ],
+    "example_ids": [
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-A__20260625-110215_9282735998-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-A__20260625-110554_6015801003-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-A__20260625-111140_8149647253-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-A__20260625-111420_7702891010-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-A__20260625-111618_6012917006-all"
+    ]
+  },
+  "EMPAXCO3_SOLAR-DNQ": {
+    "dispo": "EMPAXCO3_SOLAR-DNQ",
+    "label": "EMPAXCO3_SOLAR-DNQ",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 33.2,
+    "avg_words": 81.8,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 5,
+        "pct": 50.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "so can you please confirm?",
+        2
+      ],
+      [
+        "yes hi, my name is lisa i'm calling because in the recent updates, the governmen",
+        1
+      ],
+      [
+        "hi, my name is emma i'm calling about the final expensive churn option that may ",
+        1
+      ],
+      [
+        "nope could you please confirm, if you are between 40 and 85 years old? no",
+        1
+      ],
+      [
+        "i'm calling because in the recent update, the government has introduced final ex",
+        1
+      ],
+      [
+        "caveas, hello, is a prescription drug used to treat primary hypercholemic period",
+        1
+      ],
+      [
+        "this is ayla",
+        1
+      ],
+      [
+        "what should you tell your health care provider before taking caveas? tell your d",
+        1
+      ],
+      [
+        "what should you know about caveas?",
+        1
+      ],
+      [
+        "and other reactions have happened with sulfonomides, drugs such as caveas, and h",
+        1
+      ],
+      [
+        "yeah, that's what i said",
+        1
+      ],
+      [
+        "depends what do you need? i'm calling about final expense coverage options avail",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-DNQ__20260625-090913_8327562127-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-DNQ__20260625-091241_8303996926-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-DNQ__20260625-091647_4106059428-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-DNQ__20260625-091916_7573372321-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-DNQ__20260625-093723_3142650839-all"
+    ]
+  },
+  "EMPAXCO3_SOLAR-LB": {
+    "dispo": "EMPAXCO3_SOLAR-LB",
+    "label": "EMPAXCO3_SOLAR-LB",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 15.8,
+    "avg_words": 13.6,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 8,
+        "pct": 80.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "(speaking in foreign language)",
+        2
+      ],
+      [
+        "say me",
+        1
+      ],
+      [
+        "[non-english speech] hi this is adeline",
+        1
+      ],
+      [
+        "i'm calling about final events, what are the options available in your area?",
+        1
+      ],
+      [
+        "i know",
+        1
+      ],
+      [
+        "well",
+        1
+      ],
+      [
+        "i'm going to speak english",
+        1
+      ],
+      [
+        "dose cinco nueve cinco tres dose seis quattro dose you have come here immediatel",
+        1
+      ],
+      [
+        "\"hortio.\" \"hello.\" \"quattro.\" \"dos.\" \"sinko.\" \"dos.\" \"quattro.\" \"nove.\" \"quattro",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-LB__20260625-094444_2107600493-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-LB__20260625-095053_9792197613-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-LB__20260625-100237_8653210963-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-LB__20260625-100342_8302670411-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-LB__20260625-104606_9193577200-all"
+    ]
+  },
+  "EMPAXCO3_SOLAR-NI": {
+    "dispo": "EMPAXCO3_SOLAR-NI",
+    "label": "EMPAXCO3_SOLAR-NI",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 35.8,
+    "avg_words": 60.5,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 6,
+        "pct": 60.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 4,
+        "pct": 40.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "could you please confirm if you are between 40 and 85 years old?",
+        2
+      ],
+      [
+        "goodbye",
+        2
+      ],
+      [
+        "hi, my name is emma i'm calling because in the recent episode, the government ha",
+        1
+      ],
+      [
+        "so check if you qualify",
+        1
+      ],
+      [
+        "could you please confirm, if you are between 40 and 85 years old? good okay",
+        1
+      ],
+      [
+        "hi, my name is adeline i'm calling about the final expense insurance option that",
+        1
+      ],
+      [
+        "by me yesterday i'm calling about the final expense insurance options that may h",
+        1
+      ],
+      [
+        "i'm calling about final expense coverage options available in your area",
+        1
+      ],
+      [
+        "i'm not interested thank you",
+        1
+      ],
+      [
+        "you reach baby hello, how are you doing something so saying? luther hi, this is ",
+        1
+      ],
+      [
+        "after you have finished your message you're paying up or to hear more options, p",
+        1
+      ],
+      [
+        "i'm calling because in the recent updates the government has introduced final ex",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "i'm not interested thank you",
+        1
+      ]
+    ],
+    "example_ids": [
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NI__20260625-095245_3363100025-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NI__20260625-095431_9037652382-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NI__20260625-101231_7739837697-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NI__20260625-104611_3172541671-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NI__20260625-105859_8035493795-all"
+    ]
+  },
+  "EMPAXCO3_SOLAR-NP": {
+    "dispo": "EMPAXCO3_SOLAR-NP",
+    "label": "EMPAXCO3_SOLAR-NP",
+    "is_win": false,
+    "count": 8,
+    "avg_duration": 35.5,
+    "avg_words": 50.6,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 8,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 3,
+        "pct": 37.5
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 1,
+        "pct": 12.5
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "hi, my name is adeline i'm calling about the final expense insurance options tha",
+        1
+      ],
+      [
+        "hi, my name is ervin i'm calling about the final expense insurance options that ",
+        1
+      ],
+      [
+        "oh, hey",
+        1
+      ],
+      [
+        "hi, lisa",
+        1
+      ],
+      [
+        "what? i'm calling about final expense coverage option that's available in your a",
+        1
+      ],
+      [
+        "so can you please confirm?",
+        1
+      ],
+      [
+        "i've got the card you call i'm not ready to tell right now so you may send me a ",
+        1
+      ],
+      [
+        "\"hello?\" \"hello?\" \"hi, my name is julia i'm calling about the final expense insu",
+        1
+      ],
+      [
+        "i'm doing good thanks for asking hi, my name is ervin i'm calling about final ex",
+        1
+      ],
+      [
+        "i'm calling because in the recent update, the government has introduced final ex",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NP__20260625-110056_8146526291-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NP__20260625-110636_2154915477-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NP__20260625-110818_6103735988-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NP__20260625-111522_3032875958-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NP__20260625-113708_2814516170-all"
+    ]
+  },
+  "EMPAXCO3_SOLAR-N": {
+    "dispo": "EMPAXCO3_SOLAR-N",
+    "label": "EMPAXCO3_SOLAR-N",
+    "is_win": false,
+    "count": 9,
+    "avg_duration": 15.4,
+    "avg_words": 5.4,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 9,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [],
+    "top_objections": [],
+    "example_ids": [
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-N__20260625-111808_9199281403-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-N__20260625-112220_3149419507-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-N__20260625-112718_5745818449-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-N__20260625-113417_2818092926-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-N__20260625-114227_8166999790-all"
+    ]
+  },
+  "EMPAXCO3_SOLAR-RAXFER": {
+    "dispo": "EMPAXCO3_SOLAR-RAXFER",
+    "label": "EMPAXCO3_SOLAR-RAXFER",
+    "is_win": false,
+    "count": 8,
+    "avg_duration": 51.7,
+    "avg_words": 80.8,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 8,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 7,
+        "pct": 87.5
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 4,
+        "pct": 50.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 8,
+        "pct": 100.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "hello hello hi, my name is ervin i'm calling about final expense coverage option",
+        1
+      ],
+      [
+        "yeah, i am you're now qualified for the new state approved relief program let me",
+        1
+      ],
+      [
+        "hello hello hi, my name is ayla i'm calling because in the recent updates, the g",
+        1
+      ],
+      [
+        "hello hi yes hi, my name is julia i'm calling about final expense coverage optio",
+        1
+      ],
+      [
+        "hello hello my name is eden i'm calling because in the recent updates, the gover",
+        1
+      ],
+      [
+        "i am between 40 and 85 years old perfect you are qualified for the low cost fina",
+        1
+      ],
+      [
+        "hello yes hi, this is adeline how are you doing today? okay nice glad to hear th",
+        1
+      ],
+      [
+        "hello what do you want? hi my name is ayla i'm calling about the final expense i",
+        1
+      ],
+      [
+        "yeah hi, my name is hannah i'm calling about the final expense insurance options",
+        1
+      ],
+      [
+        "yes perfect you're qualified for the low cost final expense insurance plan let m",
+        1
+      ],
+      [
+        "hello yeah my name is eden i'm calling because in the recent updates, the govern",
+        1
+      ],
+      [
+        "yeah perfect you're qualified for the low cost final expense insurance plans let",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "yeah hi, my name is hannah i'm calling about the final expense insurance options",
+        1
+      ]
+    ],
+    "example_ids": [
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RAXFER__20260625-091614_2156123319-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RAXFER__20260625-092659_5124970391-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RAXFER__20260625-092944_8126033429-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RAXFER__20260625-095547_9855420160-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RAXFER__20260625-095839_5707526193-all"
+    ]
+  },
+  "EMPAXCO3_SOLAR-RI": {
+    "dispo": "EMPAXCO3_SOLAR-RI",
+    "label": "EMPAXCO3_SOLAR-RI",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 15.9,
+    "avg_words": 7.8,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "(phone ringing)",
+        2
+      ],
+      [
+        "[phone rings]",
+        1
+      ],
+      [
+        "[phone ringing] [phone ringing] can you hear me? [phone ringing]",
+        1
+      ],
+      [
+        "are you still on the line with me?",
+        1
+      ],
+      [
+        "(phone rings) (phone rings) can you hear me? (phone rings)",
+        1
+      ],
+      [
+        "(beep)",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RI__20260625-094354_8433659112-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RI__20260625-094607_3256465521-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RI__20260625-100722_2257154053-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RI__20260625-111215_6163040636-all",
+      "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RI__20260625-112509_8653078508-all"
+    ]
+  },
+  "RI": {
+    "dispo": "RI",
+    "label": "Re-Inquiry",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 15.9,
+    "avg_words": 7.8,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "(phone ringing)",
+        2
+      ],
+      [
+        "[phone rings]",
+        1
+      ],
+      [
+        "[phone ringing] [phone ringing] can you hear me? [phone ringing]",
+        1
+      ],
+      [
+        "are you still on the line with me?",
+        1
+      ],
+      [
+        "(phone rings) (phone rings) can you hear me? (phone rings)",
+        1
+      ],
+      [
+        "(beep)",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "EMPAXCO3_SOLAR__RI__20260625-094354_8433659112-all",
+      "EMPAXCO3_SOLAR__RI__20260625-094607_3256465521-all",
+      "EMPAXCO3_SOLAR__RI__20260625-100722_2257154053-all",
+      "EMPAXCO3_SOLAR__RI__20260625-111215_6163040636-all",
+      "EMPAXCO3_SOLAR__RI__20260625-112509_8653078508-all"
+    ]
+  },
+  "HALINK_HIHALINK_FE-A": {
+    "dispo": "HALINK_HIHALINK_FE-A",
+    "label": "HALINK_HIHALINK_FE-A",
+    "is_win": false,
+    "count": 9,
+    "avg_duration": 36.9,
+    "avg_words": 90.4,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 9,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 6,
+        "pct": 66.7
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 5,
+        "pct": 55.6
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "to see if you qualify for this, please confirm with a yes or no if you're under ",
+        2
+      ],
+      [
+        "this call is being recorded we're not available right now please leave the messa",
+        1
+      ],
+      [
+        "i'm reaching out regarding cashback benefit to help with auto-pocketing expenses",
+        1
+      ],
+      [
+        "[ inaudible remark ] can't take your phone now",
+        1
+      ],
+      [
+        "the reason i'm reaching out to you please record your message let's know about a",
+        1
+      ],
+      [
+        "can you please confirm if you are under the age of 65? we record or add to your ",
+        1
+      ],
+      [
+        "i'm reaching out regarding a cashback benefit to help with out-of-pocket expense",
+        1
+      ],
+      [
+        "i'll leave your number and i will get back with you as soon as i can thank you",
+        1
+      ],
+      [
+        "to make sure you qualify for this, please confirm with a yes or no if you are un",
+        1
+      ],
+      [
+        "confirm if you are under the age of 65 for add your message press 1 to mark your",
+        1
+      ],
+      [
+        "to review, rerecord or add to your message press 1 to mark your message urgent p",
+        1
+      ],
+      [
+        "this has not detected a message please start recording your message after the to",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "i'm reaching out regarding a cashback benefit to help with out-of-pocket expense",
+        1
+      ]
+    ],
+    "example_ids": [
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-A__20260624-091619_5618051259-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-A__20260624-105245_6626396407-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-A__20260624-105711_2157246035-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-A__20260624-113756_9018643949-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-A__20260624-114455_8439966968-all"
+    ]
+  },
+  "HALINK_HIHALINK_FE-BDNC": {
+    "dispo": "HALINK_HIHALINK_FE-BDNC",
+    "label": "HALINK_HIHALINK_FE-BDNC",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 16.4,
+    "avg_words": 27.8,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 2,
+        "pct": 20.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 2,
+        "pct": 20.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "yes, i can hear you how can i assist you today?",
+        1
+      ],
+      [
+        "there are seven matching names alex fleming is that correct?",
+        1
+      ],
+      [
+        "to see if you qualify for this, please confirm with a yes or no if you're under ",
+        1
+      ],
+      [
+        "\"hello, can you hear me?\" \"i do hope this.\" \"i do hope this.\"",
+        1
+      ],
+      [
+        "hello, can you hear me good morning division of general surgery gabby speaking",
+        1
+      ],
+      [
+        "guardiology",
+        1
+      ],
+      [
+        "hello we're with another customer or we're out of the office our regular hours a",
+        1
+      ],
+      [
+        "what do you want?",
+        1
+      ],
+      [
+        "and make sure you qualify for this please confirm with a yes or no if you are un",
+        1
+      ],
+      [
+        "ball county, just back",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BDNC__20260624-090615_9542087612-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BDNC__20260624-090943_2056385411-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BDNC__20260624-092130_6152697141-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BDNC__20260624-094829_9204243095-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BDNC__20260624-100550_9545385470-all"
+    ]
+  },
+  "HALINK_HIHALINK_FE-BN": {
+    "dispo": "HALINK_HIHALINK_FE-BN",
+    "label": "HALINK_HIHALINK_FE-BN",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 42.8,
+    "avg_words": 106.0,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 9,
+        "pct": 90.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 2,
+        "pct": 20.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "yeah",
+        1
+      ],
+      [
+        "to see if you qualify for this, please confirm with a yes or no if you're under ",
+        1
+      ],
+      [
+        "yes, sure go ahead oh, you want to talk to first? or i'll give you my answer i t",
+        1
+      ],
+      [
+        "there'll be about 50 of these phone calls, just like you, today, again, and ever",
+        1
+      ],
+      [
+        "i could have done some money or fucking business, you're just scamming or i aske",
+        1
+      ],
+      [
+        "sorry, could you please repeat how old you are? i said, would you suck my dick?",
+        1
+      ],
+      [
+        "no, i don't want to hear you you just don't need to get this, blah, blah, blah i",
+        1
+      ],
+      [
+        "i'm not going to tell you my age if i don't know why you're calling me, i have m",
+        1
+      ],
+      [
+        "we got to start this shit again today yeah, i'm sorry to hear that, and i comple",
+        1
+      ],
+      [
+        "you know, you guys are fucking stupid if i had no",
+        1
+      ],
+      [
+        "what do you want? i'm ethan, and i'm reaching out regarding a cash-back benefit ",
+        1
+      ],
+      [
+        "nova healthcare is their motherfucking, dick-suckin', puck-sill! channingers, do",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "no, i don't want to hear you you just don't need to get this, blah, blah, blah i",
+        1
+      ],
+      [
+        "what do you want? i'm ethan, and i'm reaching out regarding a cash-back benefit ",
+        1
+      ]
+    ],
+    "example_ids": [
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BN__20260624-090504_8326879741-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BN__20260624-094557_7856751354-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BN__20260624-101430_8327979925-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BN__20260624-102349_4046255276-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BN__20260624-102750_3132083807-all"
+    ]
+  },
+  "HALINK_HIHALINK_FE-DAIR": {
+    "dispo": "HALINK_HIHALINK_FE-DAIR",
+    "label": "HALINK_HIHALINK_FE-DAIR",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 11.8,
+    "avg_words": 6.1,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 9,
+        "pct": 90.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "you",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DAIR__20260624-091914_8323177052-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DAIR__20260624-094801_2105330861-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DAIR__20260624-101604_2107443936-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DAIR__20260624-112141_8284314522-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DAIR__20260624-113516_9189917509-all"
+    ]
+  },
+  "HALINK_HIHALINK_FE-DC": {
+    "dispo": "HALINK_HIHALINK_FE-DC",
+    "label": "HALINK_HIHALINK_FE-DC",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 26.1,
+    "avg_words": 54.5,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 1,
+        "pct": 10.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "go to check your eligibility",
+        1
+      ],
+      [
+        "nope already got to take care",
+        1
+      ],
+      [
+        "no, i'm not going to share my age",
+        1
+      ],
+      [
+        "yes",
+        1
+      ],
+      [
+        "yeah, i say hello",
+        1
+      ],
+      [
+        "not interested can you please tell me why you're not interested?",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "not interested can you please tell me why you're not interested?",
+        1
+      ]
+    ],
+    "example_ids": [
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DC__20260624-121353_8479336550-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DC__20260624-121710_6085243350-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DC__20260624-122140_2108753682-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DC__20260624-122827_9564875048-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DC__20260624-122901_9897455241-all"
+    ]
+  },
+  "HALINK_HIHALINK_FE-DNQ": {
+    "dispo": "HALINK_HIHALINK_FE-DNQ",
+    "label": "HALINK_HIHALINK_FE-DNQ",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 35.0,
+    "avg_words": 76.1,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 9,
+        "pct": 90.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 10,
+        "pct": 100.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "yes",
+        2
+      ],
+      [
+        "that'd be true sorry, could you please repeat how old you are? pardon me? yes, s",
+        1
+      ],
+      [
+        "who's this?",
+        1
+      ],
+      [
+        "i'm 42 years old sorry",
+        1
+      ],
+      [
+        "89 sorry",
+        1
+      ],
+      [
+        "i know it could call on me",
+        1
+      ],
+      [
+        "yes we're going to be for you",
+        1
+      ],
+      [
+        "92% 100% disabled veteran being taken totally care of 100% by the government, ta",
+        1
+      ],
+      [
+        "who is this and what the hell do you want?",
+        1
+      ],
+      [
+        "so, did you check your eligibility?",
+        1
+      ],
+      [
+        "90 sorry",
+        1
+      ],
+      [
+        "forty-one",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "who is this and what the hell do you want?",
+        1
+      ]
+    ],
+    "example_ids": [
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DNQ__20260624-103230_2699032009-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DNQ__20260624-112605_2525714298-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DNQ__20260624-113821_2174825692-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DNQ__20260624-120900_9362936648-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DNQ__20260624-120948_8049256866-all"
+    ]
+  },
+  "HALINK_HIHALINK_FE-LB": {
+    "dispo": "HALINK_HIHALINK_FE-LB",
+    "label": "HALINK_HIHALINK_FE-LB",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 36.3,
+    "avg_words": 75.2,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 3,
+        "pct": 30.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "(speaking in foreign language) - hey, good morning",
+        1
+      ],
+      [
+        "(speaking in foreign language) - i'm calling to let you know i'm not a cashback ",
+        1
+      ],
+      [
+        "but i'm in the area of the city could you qualify for this?",
+        1
+      ],
+      [
+        "open the name sorry, could you please repeat how old you are? (speaking in forei",
+        1
+      ],
+      [
+        "no, i'd like to hear from you",
+        1
+      ],
+      [
+        "yeah, so that's about your age can you tell me how old you are? uh, percent and ",
+        1
+      ],
+      [
+        "no, mr english, can you finish running? i think i missed that do you speak engli",
+        1
+      ],
+      [
+        "okay, thank you",
+        1
+      ],
+      [
+        "to make sure you qualify for this, please confirm with a yes or no if you are un",
+        1
+      ],
+      [
+        "i'm sorry",
+        1
+      ],
+      [
+        "so we actually have your number here scheduled for a call back we are leading ag",
+        1
+      ],
+      [
+        "sorry, could you please repeat how old you are? i think i missed that do you spe",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "yeah, so that's about your age can you tell me how old you are? uh, percent and ",
+        1
+      ]
+    ],
+    "example_ids": [
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-LB__20260624-090632_8032754473-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-LB__20260624-091447_9566596614-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-LB__20260624-093245_6823339270-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-LB__20260624-093415_3182992022-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-LB__20260624-103646_8066263558-all"
+    ]
+  },
+  "HALINK_HIHALINK_FE-NI": {
+    "dispo": "HALINK_HIHALINK_FE-NI",
+    "label": "HALINK_HIHALINK_FE-NI",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 37.9,
+    "avg_words": 73.2,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 3,
+        "pct": 30.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "i'm sorry",
+        4
+      ],
+      [
+        "hey",
+        3
+      ],
+      [
+        "sorry could you please repeat how old you are? i'm sorry",
+        1
+      ],
+      [
+        "i'm screening calls may i ask you with calling and the reason for your call?",
+        1
+      ],
+      [
+        "thanks connecting you for now if you can give me just a moment, there's no oblig",
+        1
+      ],
+      [
+        "goodbye",
+        1
+      ],
+      [
+        "yeah, so i was asking about your age can you tell me how old you are?",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "thanks connecting you for now if you can give me just a moment, there's no oblig",
+        1
+      ]
+    ],
+    "example_ids": [
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-NI__20260624-114828_2155261344-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-NI__20260624-114933_8172053391-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-NI__20260624-115838_7173862224-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-NI__20260624-115942_3253399244-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-NI__20260624-120140_6159349559-all"
+    ]
+  },
+  "HALINK_HIHALINK_FE-NP": {
+    "dispo": "HALINK_HIHALINK_FE-NP",
+    "label": "HALINK_HIHALINK_FE-NP",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 37.9,
+    "avg_words": 73.2,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 3,
+        "pct": 30.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "i'm sorry",
+        4
+      ],
+      [
+        "hey",
+        3
+      ],
+      [
+        "sorry could you please repeat how old you are? i'm sorry",
+        1
+      ],
+      [
+        "i'm screening calls may i ask you with calling and the reason for your call?",
+        1
+      ],
+      [
+        "thanks connecting you for now if you can give me just a moment, there's no oblig",
+        1
+      ],
+      [
+        "goodbye",
+        1
+      ],
+      [
+        "yeah, so i was asking about your age can you tell me how old you are?",
+        1
+      ]
+    ],
+    "top_objections": [
+      [
+        "thanks connecting you for now if you can give me just a moment, there's no oblig",
+        1
+      ]
+    ],
+    "example_ids": [
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-NP__20260624-114828_2155261344-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-NP__20260624-114933_8172053391-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-NP__20260624-115838_7173862224-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-NP__20260624-115942_3253399244-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-NP__20260624-120140_6159349559-all"
+    ]
+  },
+  "HALINK_HIHALINK_FE-N": {
+    "dispo": "HALINK_HIHALINK_FE-N",
+    "label": "HALINK_HIHALINK_FE-N",
+    "is_win": false,
+    "count": 10,
+    "avg_duration": 12.9,
+    "avg_words": 6.0,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 100.0
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "yes",
+        1
+      ],
+      [
+        "finally",
+        1
+      ],
+      [
+        "oh, hello",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-N__20260624-112103_6187310231-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-N__20260624-114605_9154747549-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-N__20260624-115104_8304886311-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-N__20260624-115130_7316451022-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-N__20260624-115544_9186272098-all"
+    ]
+  },
+  "HALINK_HIHALINK_FE-RAXFER": {
+    "dispo": "HALINK_HIHALINK_FE-RAXFER",
+    "label": "HALINK_HIHALINK_FE-RAXFER",
+    "is_win": false,
+    "count": 11,
+    "avg_duration": 87.5,
+    "avg_words": 170.9,
+    "funnel": [
+      {
+        "key": "greeting",
+        "label": "Greeting",
+        "count": 10,
+        "pct": 90.9
+      },
+      {
+        "key": "pitch",
+        "label": "Pitch / reason for call",
+        "count": 8,
+        "pct": 72.7
+      },
+      {
+        "key": "qualify",
+        "label": "Qualify (Part A & B)",
+        "count": 2,
+        "pct": 18.2
+      },
+      {
+        "key": "transfer",
+        "label": "Transfer to agent",
+        "count": 7,
+        "pct": 63.6
+      },
+      {
+        "key": "disqualify",
+        "label": "Disqualified",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "top_customer_lines": [
+      [
+        "thank you so much for connecting this is mark wilkstrom, who's already saving ho",
+        1
+      ],
+      [
+        "sorry, could you please repeat how old you are? 60 perfect you are qualified for",
+        1
+      ],
+      [
+        "thank you for connecting my name is zach adam how are you doing today? doing goo",
+        1
+      ],
+      [
+        "yeah",
+        1
+      ],
+      [
+        "yes if you can give me just a moment, there's no obligation to buy anything righ",
+        1
+      ],
+      [
+        "thank you so much for connecting this is mark wilson with aridey stephen, how ar",
+        1
+      ],
+      [
+        "what can i do for you?",
+        1
+      ],
+      [
+        "i'm 69 years old perfect you are qualified for the plans just hold on for a seco",
+        1
+      ],
+      [
+        "what?",
+        1
+      ],
+      [
+        "i'm sorry",
+        1
+      ],
+      [
+        "81 perfect you are qualified for the plans just hold on for a second, please her",
+        1
+      ],
+      [
+        "oh, i'm so sorry to catch you at the morning time, but i'm not going to take car",
+        1
+      ]
+    ],
+    "top_objections": [],
+    "example_ids": [
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-RAXFER__20260624-102940_8036263771-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-RAXFER__20260624-103743_9107590629-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-RAXFER__20260624-104837_3343987980-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-RAXFER__20260624-105350_8595532604-all",
+      "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-RAXFER__20260624-112528_4234602126-all"
     ]
   },
   "LH": {
@@ -575,7 +3949,11 @@
     "top_customer_lines": [
       [
         "yes",
-        6
+        4
+      ],
+      [
+        "\"hello?\" \"hello?\" \"hello?\" \"good afternoon",
+        1
       ],
       [
         "hey, chris here",
@@ -583,10 +3961,6 @@
       ],
       [
         "how's life treating you today? so, how's your day going? i need an air condition",
-        1
-      ],
-      [
-        "just confirm for me",
         1
       ],
       [
@@ -599,10 +3973,6 @@
       ],
       [
         "you can amount of money",
-        1
-      ],
-      [
-        "hi, this is chris speaking",
         1
       ],
       [
@@ -619,6 +3989,10 @@
       ],
       [
         "hi, how can i help you?",
+        1
+      ],
+      [
+        "yes so i was asking if you received the notification about the pending credits o",
         1
       ]
     ],
@@ -642,420 +4016,6 @@
       "mcc11__LH__20260623-161344_7158035049-all",
       "mcc11__LH__20260623-161630_9203369689-all",
       "mcc11__LH__20260623-161833_3039377313-all"
-    ]
-  },
-  "NI": {
-    "dispo": "NI",
-    "label": "Not Interested",
-    "is_win": false,
-    "count": 81,
-    "avg_duration": 40.0,
-    "avg_words": 69.9,
-    "funnel": [
-      {
-        "key": "greeting",
-        "label": "Greeting",
-        "count": 81,
-        "pct": 100.0
-      },
-      {
-        "key": "pitch",
-        "label": "Pitch / reason for call",
-        "count": 78,
-        "pct": 96.3
-      },
-      {
-        "key": "qualify",
-        "label": "Qualify (Part A & B)",
-        "count": 47,
-        "pct": 58.0
-      },
-      {
-        "key": "transfer",
-        "label": "Transfer to agent",
-        "count": 0,
-        "pct": 0.0
-      },
-      {
-        "key": "disqualify",
-        "label": "Disqualified",
-        "count": 0,
-        "pct": 0.0
-      }
-    ],
-    "top_customer_lines": [
-      [
-        "yes",
-        11
-      ],
-      [
-        "just confirm for me",
-        3
-      ],
-      [
-        "thank you",
-        3
-      ],
-      [
-        "yeah",
-        2
-      ],
-      [
-        "chris sorry about that i was asking",
-        2
-      ],
-      [
-        "sorry, you got cut off",
-        2
-      ],
-      [
-        "i'm sorry, but can you speak english? well, i really want to help you get this t",
-        1
-      ],
-      [
-        "let's talk about this some other time thanks",
-        1
-      ],
-      [
-        "so, speak your time please",
-        1
-      ],
-      [
-        "yes oh, okay, great so the notification has all the details and i just want to h",
-        1
-      ],
-      [
-        "mm-hmm",
-        1
-      ],
-      [
-        "mm-hmm let's talk about this some other time thanks",
-        1
-      ]
-    ],
-    "top_objections": [
-      [
-        "girl, why are you doing this? girl, why are you doing this? are you doing that, ",
-        1
-      ]
-    ],
-    "example_ids": [
-      "mcc11__NI__20260623-161710_8158831059-all",
-      "mcc11__NI__20260623-161952_2104001133-all",
-      "mcc11__NI__20260623-162236_5039540499-all",
-      "mcc11__NI__20260623-162252_8649090243-all",
-      "mcc11__NI__20260623-162313_7024006077-all"
-    ]
-  },
-  "NP": {
-    "dispo": "NP",
-    "label": "No Pitch (cut early)",
-    "is_win": false,
-    "count": 79,
-    "avg_duration": 21.8,
-    "avg_words": 42.2,
-    "funnel": [
-      {
-        "key": "greeting",
-        "label": "Greeting",
-        "count": 78,
-        "pct": 98.7
-      },
-      {
-        "key": "pitch",
-        "label": "Pitch / reason for call",
-        "count": 75,
-        "pct": 94.9
-      },
-      {
-        "key": "qualify",
-        "label": "Qualify (Part A & B)",
-        "count": 10,
-        "pct": 12.7
-      },
-      {
-        "key": "transfer",
-        "label": "Transfer to agent",
-        "count": 0,
-        "pct": 0.0
-      },
-      {
-        "key": "disqualify",
-        "label": "Disqualified",
-        "count": 0,
-        "pct": 0.0
-      }
-    ],
-    "top_customer_lines": [
-      [
-        "yes",
-        6
-      ],
-      [
-        "i'm reaching out because we're running a quick coverage gap audit for folks befo",
-        2
-      ],
-      [
-        "\"hello?\" \"i'm in home.\" \"are you there?\" \"what do you want?\" \"hi, this is sarah ",
-        1
-      ],
-      [
-        "yeah, i can help you",
-        1
-      ],
-      [
-        "i have medicaid",
-        1
-      ],
-      [
-        "i have medicaid oh, that's okay you can still qualify, and i just want to help y",
-        1
-      ],
-      [
-        "and we actually",
-        1
-      ],
-      [
-        "thank you i'm happy to have",
-        1
-      ],
-      [
-        "\"hello?\" \"yeah!\" \"hi, this is sarah",
-        1
-      ],
-      [
-        "good bye",
-        1
-      ],
-      [
-        "no, would you just send them to me?",
-        1
-      ],
-      [
-        "yeah hi, this is chelsea and i'm reaching out because we pulled up your",
-        1
-      ]
-    ],
-    "top_objections": [],
-    "example_ids": [
-      "mcc11__NP__20260623-161648_5613523426-all",
-      "mcc11__NP__20260623-161926_2564178211-all",
-      "mcc11__NP__20260623-163249_7348333185-all",
-      "mcc11__NP__20260623-163251_3528150605-all",
-      "mcc11__NP__20260623-163904_3133757343-all"
-    ]
-  },
-  "N": {
-    "dispo": "N",
-    "label": "No Answer",
-    "is_win": false,
-    "count": 82,
-    "avg_duration": 12.9,
-    "avg_words": 4.7,
-    "funnel": [
-      {
-        "key": "greeting",
-        "label": "Greeting",
-        "count": 80,
-        "pct": 97.6
-      },
-      {
-        "key": "pitch",
-        "label": "Pitch / reason for call",
-        "count": 0,
-        "pct": 0.0
-      },
-      {
-        "key": "qualify",
-        "label": "Qualify (Part A & B)",
-        "count": 0,
-        "pct": 0.0
-      },
-      {
-        "key": "transfer",
-        "label": "Transfer to agent",
-        "count": 0,
-        "pct": 0.0
-      },
-      {
-        "key": "disqualify",
-        "label": "Disqualified",
-        "count": 0,
-        "pct": 0.0
-      }
-    ],
-    "top_customer_lines": [
-      [
-        "i am",
-        1
-      ],
-      [
-        "[phone ringing] hello?",
-        1
-      ],
-      [
-        "[phone ringing]",
-        1
-      ],
-      [
-        "(phone ringing) hello?",
-        1
-      ],
-      [
-        "(phone beeps) hello?",
-        1
-      ],
-      [
-        "at the telling, please record your message",
-        1
-      ],
-      [
-        "hello are you there to review?",
-        1
-      ],
-      [
-        "here we go",
-        1
-      ],
-      [
-        "hello, chris?",
-        1
-      ]
-    ],
-    "top_objections": [],
-    "example_ids": [
-      "mcc11__N__20260623-153459_9036455499-all",
-      "mcc11__N__20260623-154341_4237282554-all",
-      "mcc11__N__20260623-154656_2052606340-all",
-      "mcc11__N__20260623-155136_7758131318-all",
-      "mcc11__N__20260623-155322_3347235097-all"
-    ]
-  },
-  "RAXFER": {
-    "dispo": "RAXFER",
-    "label": "Transferred to Agent",
-    "is_win": true,
-    "count": 81,
-    "avg_duration": 195.9,
-    "avg_words": 104.9,
-    "funnel": [
-      {
-        "key": "greeting",
-        "label": "Greeting",
-        "count": 81,
-        "pct": 100.0
-      },
-      {
-        "key": "pitch",
-        "label": "Pitch / reason for call",
-        "count": 81,
-        "pct": 100.0
-      },
-      {
-        "key": "qualify",
-        "label": "Qualify (Part A & B)",
-        "count": 81,
-        "pct": 100.0
-      },
-      {
-        "key": "transfer",
-        "label": "Transfer to agent",
-        "count": 74,
-        "pct": 91.4
-      },
-      {
-        "key": "disqualify",
-        "label": "Disqualified",
-        "count": 1,
-        "pct": 1.2
-      }
-    ],
-    "top_customer_lines": [
-      [
-        "no oh, that's all right that's exactly why i'm calling i want to help you get th",
-        11
-      ],
-      [
-        "no oh, that's all right that's exactly why i'm calling and i want to help you ge",
-        5
-      ],
-      [
-        "hello hi, this is chelsea, and i'm reaching out because we pulled up your medica",
-        2
-      ],
-      [
-        "hello hello good morning my name is cassie so i'm calling because your medicare ",
-        2
-      ],
-      [
-        "yes good morning my name is cassie so i'm calling because your medicare member p",
-        2
-      ],
-      [
-        "i'm reaching out because we're doing a quick coverage gap audit for people befor",
-        2
-      ],
-      [
-        "yes you have qualified for the updates give me a second to connect to you thank ",
-        2
-      ],
-      [
-        "good afternoon my name is cassie so i'm calling because your medicare member pro",
-        2
-      ],
-      [
-        "no, not yet",
-        1
-      ],
-      [
-        "yes part b yes yes you're getting connected to our agent in a minute thank you s",
-        1
-      ],
-      [
-        "\"hello?\" \"hello?\" \"good afternoon this is jacob so, i'm calling because there ar",
-        1
-      ],
-      [
-        "no, just one call oh, i'm really sorry about that i'm just here to make sure you",
-        1
-      ]
-    ],
-    "top_objections": [
-      [
-        "yes, i am and they already told me, \"i'm getting everything that i can get here ",
-        1
-      ],
-      [
-        "i just talked to you a lot ago oh, my apologies this is actually the first time ",
-        1
-      ],
-      [
-        "i had you about 15 calls a day about different stuff that i'm supposed to be eli",
-        1
-      ],
-      [
-        "who is this?",
-        1
-      ],
-      [
-        "no, i have it's a scam oh, no this isn't a scam we actually sent you a notificat",
-        1
-      ],
-      [
-        "\"hello?\" \"hello?\" \"yes.\" \"good afternoon this is jacob so, i'm calling because t",
-        1
-      ],
-      [
-        "no oh, that's all right that's exactly why i'm calling and i want to help you ge",
-        1
-      ]
-    ],
-    "example_ids": [
-      "mcc11__RAXFER__20260623-152232_8153024599-all",
-      "mcc11__RAXFER__20260623-153243_8132306976-all",
-      "mcc11__RAXFER__20260623-153924_2526400206-all",
-      "mcc11__RAXFER__20260623-154103_2537199298-all",
-      "mcc11__RAXFER__20260623-154124_8033420340-all"
     ]
   }
 }

@@ -50,11 +50,7 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Yes"
-    },
-    {
-      "speaker": "BOT",
-      "text": "So I was asking if you've received the notification about the [BLANK_AUDIO]"
+      "text": "Yes So I was asking if you've received the notification about the [BLANK_AUDIO]"
     }
   ],
   "stages": {

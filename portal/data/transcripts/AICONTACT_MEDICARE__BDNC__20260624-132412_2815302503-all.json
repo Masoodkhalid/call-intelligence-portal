@@ -1,0 +1,51 @@
+{
+  "id": "AICONTACT_MEDICARE__BDNC__20260624-132412_2815302503-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-24",
+  "time": "13:24:12",
+  "phone": "2815302503",
+  "filename": "20260624-132412_2815302503-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-BDNC/20260624-132412_2815302503-all.mp3",
+  "duration": 13.03,
+  "text": "Hello? Press 1, the registrar press 2, the clinic press 3, for a counselor press 4, the cafeteria press 5, our parent center press 3.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 10.38,
+      "text": "Press 1, the registrar press 2, the clinic press 3, for a counselor press 4, the cafeteria"
+    },
+    {
+      "start": 10.38,
+      "end": 13.02,
+      "text": "press 5, our parent center press 3."
+    }
+  ],
+  "word_count": 25,
+  "bot_text": "Hello? Press 1, the registrar press 2, the clinic press 3, for a counselor press 4, the cafeteria press 5, our parent center press 3.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Press 1, the registrar press 2, the clinic press 3, for a counselor press 4, the cafeteria press 5, our parent center press 3"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 25
+}

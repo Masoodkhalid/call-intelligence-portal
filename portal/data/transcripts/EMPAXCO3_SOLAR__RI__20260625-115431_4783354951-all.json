@@ -1,0 +1,61 @@
+{
+  "id": "EMPAXCO3_SOLAR__RI__20260625-115431_4783354951-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "RI",
+  "dispo_label": "Re-Inquiry",
+  "date": "2026-06-25",
+  "time": "11:54:31",
+  "phone": "4783354951",
+  "filename": "20260625-115431_4783354951-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-RI/20260625-115431_4783354951-all.mp3",
+  "duration": 15.62,
+  "text": "Hello? (phone rings) (phone rings) Can you hear me? (phone rings)",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "(phone rings)"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "(phone rings)"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "(phone rings)"
+    }
+  ],
+  "word_count": 11,
+  "bot_text": "Hello? (phone rings) (phone rings) Can you hear me? (phone rings)",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "(phone rings) (phone rings) Can you hear me? (phone rings)"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 11
+}

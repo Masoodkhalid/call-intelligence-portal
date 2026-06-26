@@ -1,0 +1,56 @@
+{
+  "id": "EMPAXCO3_SOLAR__A__20260625-114311_3344510430-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-25",
+  "time": "11:43:11",
+  "phone": "3344510430",
+  "filename": "20260625-114311_3344510430-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-A/20260625-114311_3344510430-all.mp3",
+  "duration": 19.94,
+  "text": "Hello? I couldn't hear you. Please try again. At the tone, please record your message. When you've finished recording, simply hang up or press pound for further options.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": "I couldn't hear you. Please try again."
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "At the tone, please record your message."
+    },
+    {
+      "start": 13.0,
+      "end": 19.0,
+      "text": "When you've finished recording, simply hang up or press pound for further options."
+    }
+  ],
+  "word_count": 28,
+  "bot_text": "Hello? I couldn't hear you. Please try again. At the tone, please record your message. When you've finished recording, simply hang up or press pound for further options.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? I couldn't hear you"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Please try again At the tone, please record your message When you've finished recording, simply hang up or press pound for further options"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 28
+}

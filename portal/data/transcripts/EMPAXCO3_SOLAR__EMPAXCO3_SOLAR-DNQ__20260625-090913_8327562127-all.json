@@ -1,0 +1,93 @@
+{
+  "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-DNQ__20260625-090913_8327562127-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "EMPAXCO3_SOLAR-DNQ",
+  "dispo_label": "EMPAXCO3_SOLAR-DNQ",
+  "date": "2026-06-25",
+  "time": "09:09:13",
+  "phone": "8327562127",
+  "filename": "20260625-090913_8327562127-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-DNQ/20260625-090913_8327562127-all.mp3",
+  "duration": 27.07,
+  "text": "Hello? Yes. Hi, my name is Lisa. I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. To check if you qualify, so can you please confirm? Are you between 40 and 85 years old? No. Sorry, you don't seem to be qualified for the benefits plans that I have.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Yes."
+    },
+    {
+      "start": 2.0,
+      "end": 5.3,
+      "text": "Hi, my name is Lisa."
+    },
+    {
+      "start": 5.3,
+      "end": 10.32,
+      "text": "I'm calling because in the recent updates, the government has introduced final expense"
+    },
+    {
+      "start": 10.32,
+      "end": 15.44,
+      "text": "insurance plans at a highly subsidized rate that you may qualify for."
+    },
+    {
+      "start": 15.44,
+      "end": 18.64,
+      "text": "To check if you qualify, so can you please confirm?"
+    },
+    {
+      "start": 18.64,
+      "end": 21.84,
+      "text": "Are you between 40 and 85 years old?"
+    },
+    {
+      "start": 21.84,
+      "end": 22.84,
+      "text": "No."
+    },
+    {
+      "start": 22.84,
+      "end": 27.84,
+      "text": "Sorry, you don't seem to be qualified for the benefits plans that I have."
+    }
+  ],
+  "word_count": 65,
+  "bot_text": "Hello? Yes. Hi, my name is Lisa. I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. To check if you qualify, so can you please confirm? Are you between 40 and 85 years old? No. Sorry, you don't seem to be qualified for the benefits plans that I have.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes Hi, my name is Lisa I'm calling because in the recent updates, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for To check if you qualify, so can you please confirm?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, you don't seem to be qualified for the benefits plans that I have"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 65
+}

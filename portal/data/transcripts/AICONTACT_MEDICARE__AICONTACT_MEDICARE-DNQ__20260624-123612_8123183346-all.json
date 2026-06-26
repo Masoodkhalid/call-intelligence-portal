@@ -1,0 +1,113 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-123612_8123183346-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-DNQ",
+  "dispo_label": "AICONTACT_MEDICARE-DNQ",
+  "date": "2026-06-24",
+  "time": "12:36:12",
+  "phone": "8123183346",
+  "filename": "20260624-123612_8123183346-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-DNQ/20260624-123612_8123183346-all.mp3",
+  "duration": 40.1,
+  "text": "Hello? Hello. Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B? No. Yeah, sorry about that. I was just asking, do you currently have both Medicare part A and part B? No. Sorry, it looks like you don't qualify for the plans. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.2,
+      "end": 2.74,
+      "text": "Hello."
+    },
+    {
+      "start": 2.74,
+      "end": 7.1,
+      "text": "Hi, this is Chelsea."
+    },
+    {
+      "start": 7.1,
+      "end": 12.04,
+      "text": "We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been"
+    },
+    {
+      "start": 12.04,
+      "end": 13.68,
+      "text": "confirmed yet."
+    },
+    {
+      "start": 13.68,
+      "end": 17.74,
+      "text": "We just need a quick confirmation so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 17.74,
+      "end": 21.12,
+      "text": "Do you have both part A and part B?"
+    },
+    {
+      "start": 21.12,
+      "end": 22.76,
+      "text": "No."
+    },
+    {
+      "start": 22.76,
+      "end": 25.96,
+      "text": "Yeah, sorry about that."
+    },
+    {
+      "start": 25.96,
+      "end": 32.1,
+      "text": "I was just asking, do you currently have both Medicare part A and part B?"
+    },
+    {
+      "start": 32.1,
+      "end": 33.06,
+      "text": "No."
+    },
+    {
+      "start": 33.06,
+      "end": 37.8,
+      "text": "Sorry, it looks like you don't qualify for the plans."
+    },
+    {
+      "start": 37.8,
+      "end": 38.56,
+      "text": "Have a great day."
+    }
+  ],
+  "word_count": 80,
+  "bot_text": "Hello? Hello. Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B? No. Yeah, sorry about that. I was just asking, do you currently have both Medicare part A and part B? No. Sorry, it looks like you don't qualify for the plans. Have a great day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello Hi, this is Chelsea We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both part A and part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No Yeah, sorry about that"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I was just asking, do you currently have both Medicare part A and part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No Sorry, it looks like you don't qualify for the plans"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_word_count": 80
+}

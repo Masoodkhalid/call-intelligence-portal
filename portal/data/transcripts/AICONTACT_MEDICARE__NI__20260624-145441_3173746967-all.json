@@ -1,0 +1,60 @@
+{
+  "id": "AICONTACT_MEDICARE__NI__20260624-145441_3173746967-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-24",
+  "time": "14:54:41",
+  "phone": "3173746967",
+  "filename": "20260624-145441_3173746967-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-NI/20260624-145441_3173746967-all.mp3",
+  "duration": 35.57,
+  "text": "Hello? Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have part A and part B? Would you mind sharing what's making you not interested? Are you there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.16,
+      "text": "Hello? Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update"
+    },
+    {
+      "start": 8.16,
+      "end": 14.4,
+      "text": "hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have part A and"
+    },
+    {
+      "start": 14.4,
+      "end": 23.6,
+      "text": "part B? Would you mind sharing what's making you not interested?"
+    },
+    {
+      "start": 27.92,
+      "end": 35.2,
+      "text": "Are you there?"
+    }
+  ],
+  "word_count": 49,
+  "bot_text": "Hello? Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have part A and part B? Would you mind sharing what's making you not interested? Are you there?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have part A and part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Would you mind sharing what's making you not interested?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 49
+}

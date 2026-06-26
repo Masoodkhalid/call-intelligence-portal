@@ -45,8 +45,12 @@
   "word_count": 93,
   "turns": [
     {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello?\" \"Good afternoon, this is Jacob"
+    },
+    {
       "speaker": "BOT",
-      "text": "\"Hello?\" \"Good afternoon, this is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Colorado State Relief Program"
+      "text": "So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Colorado State Relief Program"
     },
     {
       "speaker": "CUSTOMER",

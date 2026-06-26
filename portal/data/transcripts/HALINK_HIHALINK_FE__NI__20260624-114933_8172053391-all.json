@@ -1,0 +1,68 @@
+{
+  "id": "HALINK_HIHALINK_FE__NI__20260624-114933_8172053391-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-24",
+  "time": "11:49:33",
+  "phone": "8172053391",
+  "filename": "20260624-114933_8172053391-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-NI/20260624-114933_8172053391-all.mp3",
+  "duration": 38.16,
+  "text": "Hello. Hey. Good morning. James here from ANOVA Healthcare Texas. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during hot days, right now. So to check whether you are eligible for the way that way, I know your age, please. Sorry. Could you please repeat how old you are? I'm sorry. I couldn't quite catch that. Can you please show your age with me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.0,
+      "text": "Hello. Hey. Good morning. James here from ANOVA Healthcare Texas. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during hot days, right now."
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "text": "So to check whether you are eligible for the way that way, I know your age, please."
+    },
+    {
+      "start": 20.0,
+      "end": 27.0,
+      "text": "Sorry. Could you please repeat how old you are?"
+    },
+    {
+      "start": 27.0,
+      "end": 33.0,
+      "text": "I'm sorry. I couldn't quite catch that. Can you please show your age with me?"
+    }
+  ],
+  "word_count": 77,
+  "bot_text": "Hello. Hey. Good morning. James here from ANOVA Healthcare Texas. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during hot days, right now. So to check whether you are eligible for the way that way, I know your age, please. Sorry. Could you please repeat how old you are? I'm sorry. I couldn't quite catch that. Can you please show your age with me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good morning James here from ANOVA Healthcare Texas I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during hot days, right now So to check whether you are eligible for the way that way, I know your age, please"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Sorry Could you please repeat how old you are? I'm sorry"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I couldn't quite catch that Can you please show your age with me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 77
+}

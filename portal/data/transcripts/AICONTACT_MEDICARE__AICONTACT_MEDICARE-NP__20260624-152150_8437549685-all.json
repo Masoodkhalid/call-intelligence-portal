@@ -1,0 +1,66 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NP__20260624-152150_8437549685-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-NP",
+  "dispo_label": "AICONTACT_MEDICARE-NP",
+  "date": "2026-06-24",
+  "time": "15:21:50",
+  "phone": "8437549685",
+  "filename": "20260624-152150_8437549685-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-NP/20260624-152150_8437549685-all.mp3",
+  "duration": 16.56,
+  "text": "Hello. Hello. Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have any questions?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Hey, this is Chelsea."
+    },
+    {
+      "start": 7.0,
+      "end": 13.0,
+      "text": "There's a note on your Medicare profile that your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 13.0,
+      "end": 16.0,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Do you have any questions?"
+    }
+  ],
+  "word_count": 35,
+  "bot_text": "Hello. Hello. Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have any questions?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Do you have any questions?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 35
+}

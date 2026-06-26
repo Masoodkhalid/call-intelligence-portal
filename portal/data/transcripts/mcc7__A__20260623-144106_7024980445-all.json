@@ -58,7 +58,15 @@
     },
     {
       "speaker": "BOT",
-      "text": "So I'm calling because there are pending rotary and cash benefits worth up to three hundred dollars available on your Medicare account through Nevada State Relief Program So have you received any notification about these benefits yet? Yes, so I was asking if you received the notification about your menu credits on your Medicare plan? To mark your message urgent press 2 To mark your message private press 3 To send your message as is press pound Are you"
+      "text": "So I'm calling because there are pending rotary and cash benefits worth up to three hundred dollars available on your Medicare account through Nevada State Relief Program So have you received any notification about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, so I was asking if you received the notification about your menu credits on your Medicare plan?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To mark your message urgent press 2 To mark your message private press 3 To send your message as is press pound Are you"
     }
   ],
   "stages": {

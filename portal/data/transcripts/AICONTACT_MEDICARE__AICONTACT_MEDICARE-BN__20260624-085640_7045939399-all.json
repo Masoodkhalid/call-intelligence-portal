@@ -1,0 +1,37 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BN__20260624-085640_7045939399-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-BN",
+  "dispo_label": "AICONTACT_MEDICARE-BN",
+  "date": "2026-06-24",
+  "time": "08:56:40",
+  "phone": "7045939399",
+  "filename": "20260624-085640_7045939399-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-BN/20260624-085640_7045939399-all.mp3",
+  "duration": 12.17,
+  "text": "Hello bitch was a popular one",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "Hello bitch was a popular one"
+    }
+  ],
+  "word_count": 6,
+  "bot_text": "Hello bitch was a popular one",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello bitch was a popular one"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 6
+}

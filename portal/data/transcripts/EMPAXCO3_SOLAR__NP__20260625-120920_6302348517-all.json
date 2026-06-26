@@ -1,0 +1,60 @@
+{
+  "id": "EMPAXCO3_SOLAR__NP__20260625-120920_6302348517-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-25",
+  "time": "12:09:20",
+  "phone": "6302348517",
+  "filename": "20260625-120920_6302348517-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-NP/20260625-120920_6302348517-all.mp3",
+  "duration": 37.8,
+  "text": "Hello? Hi, this is Lisa. How are you doing today? I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. To check if you qualify, so can you please confirm, are you between 40 and 85 years old? Can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.72,
+      "text": "Hello? Hi, this is Lisa. How are you doing today? I'm calling because in the recent update,"
+    },
+    {
+      "start": 9.72,
+      "end": 14.72,
+      "text": "the government has introduced final expense insurance plans at a highly subsidized rate"
+    },
+    {
+      "start": 14.72,
+      "end": 20.44,
+      "text": "that you may qualify for. To check if you qualify, so can you please confirm, are you"
+    },
+    {
+      "start": 20.44,
+      "end": 32.84,
+      "text": "between 40 and 85 years old? Can you hear me?"
+    }
+  ],
+  "word_count": 57,
+  "bot_text": "Hello? Hi, this is Lisa. How are you doing today? I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. To check if you qualify, so can you please confirm, are you between 40 and 85 years old? Can you hear me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hi, this is Lisa How are you doing today?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for To check if you qualify, so can you please confirm, are you between 40 and 85 years old?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 57
+}

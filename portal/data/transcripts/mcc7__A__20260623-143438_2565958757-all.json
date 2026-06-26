@@ -91,7 +91,15 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello Hello Good afternoon Good afternoon This is Melissa When you finished recording-- I'm calling you because there are pending groceries and trash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program So have you been notified about these benefits yet? Yes, so I was asking if you received the notification about the funding credits on your Medicare plan Message urgent, press 2 To mark your message private, press 3 To send your message as is, press pound Are you still there?"
+      "text": "Hello Hello Good afternoon Good afternoon This is Melissa When you finished recording-- I'm calling you because there are pending groceries and trash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program So have you been notified about these benefits yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, so I was asking if you received the notification about the funding credits on your Medicare plan"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Message urgent, press 2 To mark your message private, press 3 To send your message as is, press pound Are you still there?"
     }
   ],
   "stages": {

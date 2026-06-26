@@ -66,7 +66,15 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello? Hello? Hey, good evening, my name is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program So far, have you received any updates or notifications about this yet?"
+      "text": "Hello? Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey, good evening, my name is Alyssa"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program So far, have you received any updates or notifications about this yet?"
     },
     {
       "speaker": "CUSTOMER",

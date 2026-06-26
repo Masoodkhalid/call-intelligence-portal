@@ -1,0 +1,47 @@
+{
+  "id": "AICONTACT_MEDICARE__BDNC__20260624-131938_2565399628-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-24",
+  "time": "13:19:38",
+  "phone": "2565399628",
+  "filename": "20260624-131938_2565399628-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-BDNC/20260624-131938_2565399628-all.mp3",
+  "duration": 13.9,
+  "text": "\"Hello?\" \"If you are calling from a touchtone phone, please dial the extension number you wish to reach, or dial zero for assistance. If you are calling from a rotary dial phone, please stay in the line for assistance.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "\"Hello?\""
+    },
+    {
+      "start": 1.0,
+      "end": 7.0,
+      "text": "\"If you are calling from a touchtone phone, please dial the extension number you wish to reach, or dial zero for assistance."
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": "If you are calling from a rotary dial phone, please stay in the line for assistance.\""
+    }
+  ],
+  "word_count": 39,
+  "bot_text": "\"Hello?\" \"If you are calling from a touchtone phone, please dial the extension number you wish to reach, or dial zero for assistance. If you are calling from a rotary dial phone, please stay in the line for assistance.\"",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello?\" \"If you are calling from a touchtone phone, please dial the extension number you wish to reach, or dial zero for assistance If you are calling from a rotary dial phone, please stay in the line for assistance.\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 39
+}

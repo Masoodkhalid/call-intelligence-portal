@@ -1,0 +1,71 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BDNC__20260624-101237_7022442700-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-BDNC",
+  "dispo_label": "AICONTACT_MEDICARE-BDNC",
+  "date": "2026-06-24",
+  "time": "10:12:37",
+  "phone": "7022442700",
+  "filename": "20260624-101237_7022442700-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-BDNC/20260624-101237_7022442700-all.mp3",
+  "duration": 39.89,
+  "text": "Hello? Are you there? Hi, this is Chelsea. We still get their Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Try our website at www. Napoleon.com or call back during business hours between 8am, 2pm, 6pm, Pacific, time Monday through Friday. If you are already a CenturyLink customer, or you are-",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "text": "Are you there?"
+    },
+    {
+      "start": 11.5,
+      "end": 13.5,
+      "text": "Hi, this is Chelsea."
+    },
+    {
+      "start": 13.5,
+      "end": 19.5,
+      "text": "We still get their Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet."
+    },
+    {
+      "start": 19.5,
+      "end": 23.0,
+      "text": "We just need a quick confirmation so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 23.0,
+      "end": 37.0,
+      "text": "Try our website at www. Napoleon.com or call back during business hours between 8am, 2pm, 6pm, Pacific, time Monday through Friday."
+    },
+    {
+      "start": 37.0,
+      "end": 39.88,
+      "text": "If you are already a CenturyLink customer, or you are-"
+    }
+  ],
+  "word_count": 69,
+  "bot_text": "Hello? Are you there? Hi, this is Chelsea. We still get their Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Try our website at www. Napoleon.com or call back during business hours between 8am, 2pm, 6pm, Pacific, time Monday through Friday. If you are already a CenturyLink customer, or you are-",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there? Hi, this is Chelsea We still get their Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Try our website at www Napoleon.com or call back during business hours between 8am, 2pm, 6pm, Pacific, time Monday through Friday If you are already a CenturyLink customer, or you are"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 69
+}

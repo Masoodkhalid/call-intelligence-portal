@@ -63,11 +63,7 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Yes"
-    },
-    {
-      "speaker": "BOT",
-      "text": "So I was asking if you received the notification about the pending credits on your Medicare plan"
+      "text": "Yes So I was asking if you received the notification about the pending credits on your Medicare plan"
     }
   ],
   "stages": {

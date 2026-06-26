@@ -1,0 +1,56 @@
+{
+  "id": "AICONTACT_MEDICARE__BDNC__20260624-153934_4173990922-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-24",
+  "time": "15:39:34",
+  "phone": "4173990922",
+  "filename": "20260624-153934_4173990922-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-BDNC/20260624-153934_4173990922-all.mp3",
+  "duration": 36.14,
+  "text": "Hello, well gonna help you out Hi, this is Chelsea we pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation. So your coverage doesn't get interrupted. Do you have both part a and part B? Chelsea what company do you work for so I can give my attorney your name your number and the company you're working for",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.52,
+      "text": "Hello, well gonna help you out"
+    },
+    {
+      "start": 7.56,
+      "end": 15.32,
+      "text": "Hi, this is Chelsea we pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet"
+    },
+    {
+      "start": 15.72,
+      "end": 22.32,
+      "text": "We just need a quick confirmation. So your coverage doesn't get interrupted. Do you have both part a and part B?"
+    },
+    {
+      "start": 24.4,
+      "end": 32.42,
+      "text": "Chelsea what company do you work for so I can give my attorney your name your number and the company you're working for"
+    }
+  ],
+  "word_count": 72,
+  "bot_text": "Hello, well gonna help you out Hi, this is Chelsea we pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation. So your coverage doesn't get interrupted. Do you have both part a and part B? Chelsea what company do you work for so I can give my attorney your name your number and the company you're working for",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, well gonna help you out Hi, this is Chelsea we pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation So your coverage doesn't get interrupted Do you have both part a and part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Chelsea what company do you work for so I can give my attorney your name your number and the company you're working for"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 72
+}

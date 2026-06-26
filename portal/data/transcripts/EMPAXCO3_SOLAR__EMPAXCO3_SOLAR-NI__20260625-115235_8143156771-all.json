@@ -1,0 +1,57 @@
+{
+  "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NI__20260625-115235_8143156771-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "EMPAXCO3_SOLAR-NI",
+  "dispo_label": "EMPAXCO3_SOLAR-NI",
+  "date": "2026-06-25",
+  "time": "11:52:35",
+  "phone": "8143156771",
+  "filename": "20260625-115235_8143156771-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-NI/20260625-115235_8143156771-all.mp3",
+  "duration": 37.8,
+  "text": "\"Hello?\" \"Hello.\" \"What do you want?\" \"Hi, my name is Emma. I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. So, check if you qualify. So, can you please confirm, are you between 40 and 85 years old?\" \"Why?\" \"Could you please confirm, if you are between 40 and 85 years old?\" \"Why, you want to know how I am?\" \"Thanks for your time. Goodbye.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.96,
+      "text": "\"Hello?\" \"Hello.\" \"What do you want?\" \"Hi, my name is Emma. I'm calling because"
+    },
+    {
+      "start": 9.96,
+      "end": 15.68,
+      "text": "in the recent update, the government has introduced final expense insurance plans at a highly subsidized"
+    },
+    {
+      "start": 15.68,
+      "end": 21.04,
+      "text": "rate that you may qualify for. So, check if you qualify. So, can you please confirm,"
+    },
+    {
+      "start": 21.04,
+      "end": 29.24,
+      "text": "are you between 40 and 85 years old?\" \"Why?\" \"Could you please confirm, if you are between"
+    },
+    {
+      "start": 29.24,
+      "end": 36.96,
+      "text": "40 and 85 years old?\" \"Why, you want to know how I am?\" \"Thanks for your time. Goodbye.\""
+    }
+  ],
+  "word_count": 81,
+  "bot_text": "\"Hello?\" \"Hello.\" \"What do you want?\" \"Hi, my name is Emma. I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for. So, check if you qualify. So, can you please confirm, are you between 40 and 85 years old?\" \"Why?\" \"Could you please confirm, if you are between 40 and 85 years old?\" \"Why, you want to know how I am?\" \"Thanks for your time. Goodbye.\"",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello?\" \"Hello.\" \"What do you want?\" \"Hi, my name is Emma I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for So, check if you qualify So, can you please confirm, are you between 40 and 85 years old?\" \"Why?\" \"Could you please confirm, if you are between 40 and 85 years old?\" \"Why, you want to know how I am?\" \"Thanks for your time Goodbye.\""
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 81
+}

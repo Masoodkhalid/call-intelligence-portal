@@ -60,8 +60,12 @@
   "word_count": 128,
   "turns": [
     {
+      "speaker": "CUSTOMER",
+      "text": "\"Hello?\" \"Hello?\" \"Hey, good evening"
+    },
+    {
       "speaker": "BOT",
-      "text": "\"Hello?\" \"Hello?\" \"Hey, good evening My name is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program"
+      "text": "My name is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Florida State Relief Program"
     },
     {
       "speaker": "CUSTOMER",

@@ -96,7 +96,15 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "My name is Anna How are you doing today? Okay I'm so glad to hear that So I'm calling from Crescent Health Services And with the Medicare updates, you might now qualify for new benefits"
+      "text": "My name is Anna"
+    },
+    {
+      "speaker": "BOT",
+      "text": "How are you doing today?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Okay I'm so glad to hear that So I'm calling from Crescent Health Services And with the Medicare updates, you might now qualify for new benefits"
     }
   ],
   "stages": {

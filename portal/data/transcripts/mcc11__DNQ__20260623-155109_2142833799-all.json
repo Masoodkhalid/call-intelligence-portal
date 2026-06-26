@@ -78,11 +78,11 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "No, thank you"
+      "text": "No, thank you Sorry, it looks like you don't qualify for the plans"
     },
     {
       "speaker": "BOT",
-      "text": "Sorry, it looks like you don't qualify for the plans Have a great day"
+      "text": "Have a great day"
     },
     {
       "speaker": "CUSTOMER",

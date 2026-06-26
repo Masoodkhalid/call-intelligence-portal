@@ -1,0 +1,42 @@
+{
+  "id": "AICONTACT_MEDICARE__BDNC__20260624-115047_7209856986-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-24",
+  "time": "11:50:47",
+  "phone": "7209856986",
+  "filename": "20260624-115047_7209856986-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-BDNC/20260624-115047_7209856986-all.mp3",
+  "duration": 10.94,
+  "text": "Hello. Hello. Can you help you? Hello?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.56,
+      "text": "Hello. Hello. Can you help you?"
+    },
+    {
+      "start": 9.06,
+      "end": 11.06,
+      "text": "Hello?"
+    }
+  ],
+  "word_count": 7,
+  "bot_text": "Hello. Hello. Can you help you? Hello?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Can you help you? Hello?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 7
+}

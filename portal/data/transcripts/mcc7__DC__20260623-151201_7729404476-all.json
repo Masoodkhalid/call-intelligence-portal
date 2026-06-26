@@ -54,7 +54,15 @@
     },
     {
       "speaker": "BOT",
-      "text": "Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B"
+      "text": "Oh, that's all right That's exactly why I'm calling"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "And I want to help you get these benefits processed before they go unclaimed"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're covered under both Part A and Part B"
     },
     {
       "speaker": "CUSTOMER",

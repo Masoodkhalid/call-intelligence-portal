@@ -1,0 +1,71 @@
+{
+  "id": "HALINK_HIHALINK_FE__LB__20260624-110325_3614133693-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "LB",
+  "dispo_label": "Left Blank / No Response",
+  "date": "2026-06-24",
+  "time": "11:03:25",
+  "phone": "3614133693",
+  "filename": "20260624-110325_3614133693-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-LB/20260624-110325_3614133693-all.mp3",
+  "duration": 31.97,
+  "text": "Hello, can you hear me? I'm Ethan from Nova Health Care, Texas. The reason I'm reaching out to you is to let you know about a cashback benefit to help out-of-pocket costs of up to $10,000, especially when you're in a hospital. To make sure you qualify for this, please confirm with a yes or no if you are under the age of 65. I'm not sure.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.28,
+      "text": "Hello, can you hear me?"
+    },
+    {
+      "start": 5.28,
+      "end": 7.58,
+      "text": "I'm Ethan from Nova Health Care, Texas."
+    },
+    {
+      "start": 7.58,
+      "end": 11.76,
+      "text": "The reason I'm reaching out to you is to let you know about a cashback benefit to help"
+    },
+    {
+      "start": 11.76,
+      "end": 17.36,
+      "text": "out-of-pocket costs of up to $10,000, especially when you're in a hospital."
+    },
+    {
+      "start": 17.36,
+      "end": 22.32,
+      "text": "To make sure you qualify for this, please confirm with a yes or no if you are under the age"
+    },
+    {
+      "start": 22.32,
+      "end": 23.32,
+      "text": "of 65."
+    },
+    {
+      "start": 23.32,
+      "end": 31.92,
+      "text": "I'm not sure."
+    }
+  ],
+  "word_count": 67,
+  "bot_text": "Hello, can you hear me? I'm Ethan from Nova Health Care, Texas. The reason I'm reaching out to you is to let you know about a cashback benefit to help out-of-pocket costs of up to $10,000, especially when you're in a hospital. To make sure you qualify for this, please confirm with a yes or no if you are under the age of 65. I'm not sure.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, can you hear me? I'm Ethan from Nova Health Care, Texas The reason I'm reaching out to you is to let you know about a cashback benefit to help out-of-pocket costs of up to $10,000, especially when you're in a hospital"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To make sure you qualify for this, please confirm with a yes or no if you are under the age of 65 I'm not sure"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 67
+}

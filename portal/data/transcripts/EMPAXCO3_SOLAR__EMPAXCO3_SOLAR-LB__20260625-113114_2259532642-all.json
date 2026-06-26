@@ -1,0 +1,106 @@
+{
+  "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-LB__20260625-113114_2259532642-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "EMPAXCO3_SOLAR-LB",
+  "dispo_label": "EMPAXCO3_SOLAR-LB",
+  "date": "2026-06-25",
+  "time": "11:31:14",
+  "phone": "2259532642",
+  "filename": "20260625-113114_2259532642-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-LB/20260625-113114_2259532642-all.mp3",
+  "duration": 14.18,
+  "text": "Hello. Dose. Cinco. Nueve. Cinco. Tres. Dose. Seis. Quattro. Dose. You have come here immediately. What's the word? Dethysumensake. Despoise.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Dose."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Cinco."
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Nueve."
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Cinco."
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Tres."
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Dose."
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Seis."
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Quattro."
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Dose."
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "You have come here immediately."
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "What's the word?"
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "Dethysumensake."
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "Despoise."
+    }
+  ],
+  "word_count": 20,
+  "bot_text": "Hello. Dose. Cinco. Nueve. Cinco. Tres. Dose. Seis. Quattro. Dose. You have come here immediately. What's the word? Dethysumensake. Despoise.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Dose Cinco Nueve Cinco Tres Dose Seis Quattro Dose You have come here immediately What's the word? Dethysumensake Despoise"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 20
+}

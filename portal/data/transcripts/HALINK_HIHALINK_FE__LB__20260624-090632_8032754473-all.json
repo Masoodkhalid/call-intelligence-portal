@@ -1,0 +1,37 @@
+{
+  "id": "HALINK_HIHALINK_FE__LB__20260624-090632_8032754473-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "LB",
+  "dispo_label": "Left Blank / No Response",
+  "date": "2026-06-24",
+  "time": "09:06:32",
+  "phone": "8032754473",
+  "filename": "20260624-090632_8032754473-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-LB/20260624-090632_8032754473-all.mp3",
+  "duration": 13.9,
+  "text": "Hey, good morning. James here from Nova Healthcare, South Carolina. I'm calling to let you know about a cashback benefit that can help with out-of-pocket expenses of up there.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.0,
+      "text": "Hey, good morning. James here from Nova Healthcare, South Carolina. I'm calling to let you know about a cashback benefit that can help with out-of-pocket expenses of up there."
+    }
+  ],
+  "word_count": 29,
+  "bot_text": "Hey, good morning. James here from Nova Healthcare, South Carolina. I'm calling to let you know about a cashback benefit that can help with out-of-pocket expenses of up there.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, good morning James here from Nova Healthcare, South Carolina I'm calling to let you know about a cashback benefit that can help with out-of-pocket expenses of up there"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 29
+}

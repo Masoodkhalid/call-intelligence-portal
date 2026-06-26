@@ -1,0 +1,46 @@
+{
+  "id": "AICONTACT_MEDICARE__BDNC__20260624-142842_8124854216-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-24",
+  "time": "14:28:42",
+  "phone": "8124854216",
+  "filename": "20260624-142842_8124854216-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-BDNC/20260624-142842_8124854216-all.mp3",
+  "duration": 9.86,
+  "text": "Hello? Intensive tear unit, this is Kyra.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Intensive tear unit, this is Kyra."
+    }
+  ],
+  "word_count": 7,
+  "bot_text": "Hello? Intensive tear unit, this is Kyra.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Intensive tear unit, this is Kyra"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 7
+}

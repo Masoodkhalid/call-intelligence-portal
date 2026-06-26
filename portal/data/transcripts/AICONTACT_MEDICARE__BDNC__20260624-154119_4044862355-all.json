@@ -1,0 +1,46 @@
+{
+  "id": "AICONTACT_MEDICARE__BDNC__20260624-154119_4044862355-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "BDNC",
+  "dispo_label": "Bad / Do-Not-Call",
+  "date": "2026-06-24",
+  "time": "15:41:19",
+  "phone": "4044862355",
+  "filename": "20260624-154119_4044862355-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-BDNC/20260624-154119_4044862355-all.mp3",
+  "duration": 9.5,
+  "text": "Hello? American surety, how may I help you? What kind of bond do you need?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 7.0,
+      "text": "American surety, how may I help you? What kind of bond do you need?"
+    }
+  ],
+  "word_count": 15,
+  "bot_text": "Hello? American surety, how may I help you? What kind of bond do you need?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "American surety, how may I help you? What kind of bond do you need?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 15
+}

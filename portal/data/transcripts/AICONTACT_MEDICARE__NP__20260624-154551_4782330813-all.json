@@ -1,0 +1,51 @@
+{
+  "id": "AICONTACT_MEDICARE__NP__20260624-154551_4782330813-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-24",
+  "time": "15:45:51",
+  "phone": "4782330813",
+  "filename": "20260624-154551_4782330813-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-NP/20260624-154551_4782330813-all.mp3",
+  "duration": 13.75,
+  "text": "Hello. Oh, boy. Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Oh, boy."
+    },
+    {
+      "start": 5.0,
+      "end": 14.0,
+      "text": "Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your."
+    }
+  ],
+  "word_count": 25,
+  "bot_text": "Hello. Oh, boy. Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, boy Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 25
+}

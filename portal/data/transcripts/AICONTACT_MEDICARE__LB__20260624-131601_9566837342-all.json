@@ -1,0 +1,37 @@
+{
+  "id": "AICONTACT_MEDICARE__LB__20260624-131601_9566837342-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "LB",
+  "dispo_label": "Left Blank / No Response",
+  "date": "2026-06-24",
+  "time": "13:16:01",
+  "phone": "9566837342",
+  "filename": "20260624-131601_9566837342-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-LB/20260624-131601_9566837342-all.mp3",
+  "duration": 9.65,
+  "text": "Hello",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello"
+    }
+  ],
+  "word_count": 1,
+  "bot_text": "Hello",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 1
+}

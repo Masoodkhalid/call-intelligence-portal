@@ -1,0 +1,122 @@
+{
+  "id": "HALINK_HIHALINK_FE__RAXFER__20260624-121402_2562709433-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-24",
+  "time": "12:14:02",
+  "phone": "2562709433",
+  "filename": "20260624-121402_2562709433-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-RAXFER/20260624-121402_2562709433-all.mp3",
+  "duration": 61.27,
+  "text": "Thank you so much for holding on. This is Tony Brown. How are you? I'm here to forge this book. You have to try to listen. Go ahead. I'm listening. What do you want? I'm talking with Robert. Haggins Boston, right? That's close enough. Great. Tony Green, you just transferred over me regarding about the hospital. And then if you cash back, program, it will get 10,000 cash back. Just very qualifying purpose. How old are you? 85. I'm talking with Mr. Robert. Pardon? I'm talking with Robert, right? Yes. Okay. In the age of 85, you do taking care of everything by yourself. What did you say?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Thank you so much for holding on. This is Tony Brown. How are you?"
+    },
+    {
+      "start": 6.0,
+      "end": 12.0,
+      "text": "I'm here to forge this book. You have to try to listen."
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "Go ahead. I'm listening."
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": "What do you want?"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "I'm talking with Robert."
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "Haggins Boston, right?"
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": "That's close enough."
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "Great."
+    },
+    {
+      "start": 28.0,
+      "end": 33.0,
+      "text": "Tony Green, you just transferred over me regarding about the hospital."
+    },
+    {
+      "start": 33.0,
+      "end": 37.0,
+      "text": "And then if you cash back, program, it will get 10,000 cash back."
+    },
+    {
+      "start": 37.0,
+      "end": 40.0,
+      "text": "Just very qualifying purpose. How old are you?"
+    },
+    {
+      "start": 40.0,
+      "end": 42.0,
+      "text": "85."
+    },
+    {
+      "start": 42.0,
+      "end": 45.0,
+      "text": "I'm talking with Mr. Robert."
+    },
+    {
+      "start": 45.0,
+      "end": 48.0,
+      "text": "Pardon?"
+    },
+    {
+      "start": 48.0,
+      "end": 51.0,
+      "text": "I'm talking with Robert, right?"
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "text": "Yes."
+    },
+    {
+      "start": 52.0,
+      "end": 57.0,
+      "text": "Okay. In the age of 85, you do taking care of everything by yourself."
+    },
+    {
+      "start": 57.0,
+      "end": 62.0,
+      "text": "What did you say?"
+    }
+  ],
+  "word_count": 108,
+  "bot_text": "Thank you so much for holding on. This is Tony Brown. How are you? I'm here to forge this book. You have to try to listen. Go ahead. I'm listening. What do you want? I'm talking with Robert. Haggins Boston, right? That's close enough. Great. Tony Green, you just transferred over me regarding about the hospital. And then if you cash back, program, it will get 10,000 cash back. Just very qualifying purpose. How old are you? 85. I'm talking with Mr. Robert. Pardon? I'm talking with Robert, right? Yes. Okay. In the age of 85, you do taking care of everything by yourself. What did you say?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Thank you so much for holding on This is Tony Brown How are you? I'm here to forge this book You have to try to listen Go ahead I'm listening What do you want? I'm talking with Robert Haggins Boston, right? That's close enough Great Tony Green, you just transferred over me regarding about the hospital And then if you cash back, program, it will get 10,000 cash back Just very qualifying purpose How old are you? 85 I'm talking with Mr Robert Pardon? I'm talking with Robert, right? Yes Okay In the age of 85, you do taking care of everything by yourself What did you say?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 108
+}

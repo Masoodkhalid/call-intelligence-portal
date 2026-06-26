@@ -66,11 +66,11 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello? Hello?"
+      "text": "Hello? Hello? Hi, this is Chris speaking Are you doing good?"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Hi, this is Chris speaking Are you doing good? All right That's so good to hear So while I have you here real quick, do you have both Part A and Part B of Medicare?"
+      "text": "All right That's so good to hear So while I have you here real quick, do you have both Part A and Part B of Medicare?"
     },
     {
       "speaker": "BOT",

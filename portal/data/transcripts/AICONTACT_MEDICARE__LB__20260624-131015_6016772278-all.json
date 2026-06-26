@@ -1,0 +1,80 @@
+{
+  "id": "AICONTACT_MEDICARE__LB__20260624-131015_6016772278-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "LB",
+  "dispo_label": "Left Blank / No Response",
+  "date": "2026-06-24",
+  "time": "13:10:15",
+  "phone": "6016772278",
+  "filename": "20260624-131015_6016772278-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-LB/20260624-131015_6016772278-all.mp3",
+  "duration": 32.54,
+  "text": "Hello? Are you there? Good afternoon. My name is Rebecca. I'm calling about a quick eligibility review on your account. It turns out you qualify for the updated benefits, but they were never activated. Things like credits, convenience upgrades, and added protections. So you have Part A and B, right? [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Good afternoon. My name is Rebecca."
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "I'm calling about a quick eligibility review on your account."
+    },
+    {
+      "start": 14.0,
+      "end": 18.0,
+      "text": "It turns out you qualify for the updated benefits, but they were never activated."
+    },
+    {
+      "start": 18.0,
+      "end": 23.0,
+      "text": "Things like credits, convenience upgrades, and added protections."
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": "So you have Part A and B, right?"
+    },
+    {
+      "start": 30.0,
+      "end": 39.04,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 51,
+  "bot_text": "Hello? Are you there? Good afternoon. My name is Rebecca. I'm calling about a quick eligibility review on your account. It turns out you qualify for the updated benefits, but they were never activated. Things like credits, convenience upgrades, and added protections. So you have Part A and B, right? [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there? Good afternoon My name is Rebecca"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm calling about a quick eligibility review on your account It turns out you qualify for the updated benefits, but they were never activated Things like credits, convenience upgrades, and added protections"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you have Part A and B, right? [BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 51
+}

@@ -60,11 +60,11 @@
     },
     {
       "speaker": "BOT",
-      "text": "Good afternoon This is Evelyn So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program So have you been notified about these benefits yet?\" \"No.\" \"Oh, that's all right That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed"
+      "text": "Good afternoon This is Evelyn So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Michigan State Relief Program So have you been notified about these benefits yet?\" \"No.\" \"Oh, that's all right That's exactly why I'm calling"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "You're covered under both Part A and Part B, yes?\" \"No.\" \"Sorry, but you do not seem to qualify for the plans that we have"
+      "text": "I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B, yes?\" \"No.\" \"Sorry, but you do not seem to qualify for the plans that we have"
     },
     {
       "speaker": "BOT",

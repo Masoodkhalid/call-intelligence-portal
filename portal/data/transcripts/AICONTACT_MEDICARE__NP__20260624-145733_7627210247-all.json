@@ -1,0 +1,42 @@
+{
+  "id": "AICONTACT_MEDICARE__NP__20260624-145733_7627210247-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-24",
+  "time": "14:57:33",
+  "phone": "7627210247",
+  "filename": "20260624-145733_7627210247-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-NP/20260624-145733_7627210247-all.mp3",
+  "duration": 14.54,
+  "text": "Hello hello Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello hello"
+    },
+    {
+      "start": 5.1,
+      "end": 14.5,
+      "text": "Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet"
+    }
+  ],
+  "word_count": 31,
+  "bot_text": "Hello hello Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello hello Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 31
+}

@@ -12,21 +12,24 @@ import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import common as C       # noqa: E402
+import fetch_sheet       # noqa: E402
 import transcribe        # noqa: E402
 import analyze           # noqa: E402
 import discover          # noqa: E402
 import script_agent      # noqa: E402
 
 
-def run(skip_scripts=False):
+def run(skip_scripts=False, skip_fetch=False):
     t0 = time.time()
     print("=" * 60)
     print(f"DAILY RUN @ {datetime.datetime.now().isoformat(timespec='seconds')}")
     print("=" * 60)
 
-    new = transcribe.run()
-    summary = analyze.run()
-    discover.run()
+    if not skip_fetch:
+        fetch_sheet.run()          # pull new recordings from Google Sheet
+    new = transcribe.run()         # transcribe any new files
+    summary = analyze.run()        # re-analyse all transcripts
+    discover.run()                 # detect scripts & flows
     if not skip_scripts:
         script_agent.run()
 
@@ -42,4 +45,7 @@ def run(skip_scripts=False):
 
 
 if __name__ == "__main__":
-    run(skip_scripts="--no-scripts" in sys.argv[1:])
+    run(
+        skip_scripts="--no-scripts" in sys.argv[1:],
+        skip_fetch="--no-fetch" in sys.argv[1:],
+    )

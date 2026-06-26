@@ -1,0 +1,98 @@
+{
+  "id": "HALINK_HIHALINK_FE__NI__20260624-121809_2603672257-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-24",
+  "time": "12:18:09",
+  "phone": "2603672257",
+  "filename": "20260624-121809_2603672257-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-NI/20260624-121809_2603672257-all.mp3",
+  "duration": 38.23,
+  "text": ">> Hello. >> Goodbye. >> Hey, glad to hear you. I'm James from Nova Health Care, Indiana. I'm calling to let you know about a cashback benefit that can help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to see if you qualify for this, can you please share your age? I'm sorry. I couldn't quite catch that. Can you please share your age with me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": ">> Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": ">> Goodbye."
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": ">> Hey, glad to hear you."
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "I'm James from Nova Health Care, Indiana."
+    },
+    {
+      "start": 9.0,
+      "end": 14.4,
+      "text": "I'm calling to let you know about a cashback benefit that can help with out-of-pocket expenses"
+    },
+    {
+      "start": 14.4,
+      "end": 18.68,
+      "text": "of up to $10,000, especially during a hospital stay."
+    },
+    {
+      "start": 18.68,
+      "end": 27.28,
+      "text": "So to see if you qualify for this, can you please share your age?"
+    },
+    {
+      "start": 27.28,
+      "end": 28.28,
+      "text": "I'm sorry."
+    },
+    {
+      "start": 28.28,
+      "end": 29.48,
+      "text": "I couldn't quite catch that."
+    },
+    {
+      "start": 29.48,
+      "end": 30.78,
+      "text": "Can you please share your age with me?"
+    }
+  ],
+  "word_count": 71,
+  "bot_text": ">> Hello. >> Goodbye. >> Hey, glad to hear you. I'm James from Nova Health Care, Indiana. I'm calling to let you know about a cashback benefit that can help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to see if you qualify for this, can you please share your age? I'm sorry. I couldn't quite catch that. Can you please share your age with me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Goodbye"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hey, glad to hear you I'm James from Nova Health Care, Indiana I'm calling to let you know about a cashback benefit that can help with out-of-pocket expenses of up to $10,000, especially during a hospital stay So to see if you qualify for this, can you please share your age?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm sorry"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I couldn't quite catch that Can you please share your age with me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 71
+}

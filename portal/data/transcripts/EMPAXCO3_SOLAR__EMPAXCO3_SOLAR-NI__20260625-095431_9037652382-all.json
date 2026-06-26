@@ -1,0 +1,76 @@
+{
+  "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NI__20260625-095431_9037652382-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "EMPAXCO3_SOLAR-NI",
+  "dispo_label": "EMPAXCO3_SOLAR-NI",
+  "date": "2026-06-25",
+  "time": "09:54:31",
+  "phone": "9037652382",
+  "filename": "20260625-095431_9037652382-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-NI/20260625-095431_9037652382-all.mp3",
+  "duration": 36.65,
+  "text": "Hello. Hi, my name is Adeline. I'm calling about the final expense insurance option that may help cover funeral, burial, or cremation costs. To check basic eligibility, so can you please confirm, are you between 40 and 85 years old? Could you please confirm, if you are between 40 and 85 years old, make sure you try to get by.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Hi, my name is Adeline."
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "I'm calling about the final expense insurance option"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "that may help cover funeral, burial, or cremation costs."
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "To check basic eligibility, so can you please confirm,"
+    },
+    {
+      "start": 16.0,
+      "end": 19.0,
+      "text": "are you between 40 and 85 years old?"
+    },
+    {
+      "start": 19.0,
+      "end": 29.0,
+      "text": "Could you please confirm, if you are between 40 and 85 years old,"
+    },
+    {
+      "start": 29.0,
+      "end": 36.0,
+      "text": "make sure you try to get by."
+    }
+  ],
+  "word_count": 60,
+  "bot_text": "Hello. Hi, my name is Adeline. I'm calling about the final expense insurance option that may help cover funeral, burial, or cremation costs. To check basic eligibility, so can you please confirm, are you between 40 and 85 years old? Could you please confirm, if you are between 40 and 85 years old, make sure you try to get by.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Adeline I'm calling about the final expense insurance option that may help cover funeral, burial, or cremation costs To check basic eligibility, so can you please confirm, are you between 40 and 85 years old? Could you please confirm, if you are between 40 and 85 years old, make sure you try to get by"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 60
+}

@@ -46,7 +46,15 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello? Hello Good afternoon, this is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So have you received any notification about these benefits yet?"
+      "text": "Hello? Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Good afternoon, this is Jacob"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So have you received any notification about these benefits yet?"
     }
   ],
   "stages": {

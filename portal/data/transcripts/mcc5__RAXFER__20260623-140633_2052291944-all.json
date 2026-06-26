@@ -138,7 +138,15 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Yes You have qualified for the updates Give me a second to connect to you Thank you so much for holding This is Sean Murphy How were you? Good God bless you This call is in regards to about Medicare benefits You do have Part A and B of Medicare Yes Perfect, ma'am So this is a special enrollment period 2026 All the Medicare benefits are just updated now where you will be qualified to get more help on the dental vision, healthy food allowance, and money back as well Are you just on Medicare A and B or you also have Medicaid? Medicare And God forbid you have any chronic illness like diabetes or heart issues and COPD And do you have a flex card for the healthy food groceries and utilities or you don't have that? Yes You don't have it, okay? So these are amazing benefits ma'am that you will be qualified for now at $0 cost and we can help you to get help on the dental vision, hearing, co-pays Do you pay a co-pays right now on the prescriptions and your doctor visits? No And what's the injury insurance are you with? United Healthcare, Humana, Enna? My daughter takes care about there Your daughter is your legal power of attorney? Yes, and I don't know You really thought, you know,"
+      "text": "Yes You have qualified for the updates Give me a second to connect to you Thank you so much for holding This is Sean Murphy How were you? Good God bless you This call is in regards to about Medicare benefits"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You do have Part A and B of Medicare"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes Perfect, ma'am So this is a special enrollment period 2026 All the Medicare benefits are just updated now where you will be qualified to get more help on the dental vision, healthy food allowance, and money back as well Are you just on Medicare A and B or you also have Medicaid? Medicare And God forbid you have any chronic illness like diabetes or heart issues and COPD And do you have a flex card for the healthy food groceries and utilities or you don't have that? Yes You don't have it, okay? So these are amazing benefits ma'am that you will be qualified for now at $0 cost and we can help you to get help on the dental vision, hearing, co-pays Do you pay a co-pays right now on the prescriptions and your doctor visits? No And what's the injury insurance are you with? United Healthcare, Humana, Enna? My daughter takes care about there Your daughter is your legal power of attorney? Yes, and I don't know You really thought, you know,"
     }
   ],
   "stages": {

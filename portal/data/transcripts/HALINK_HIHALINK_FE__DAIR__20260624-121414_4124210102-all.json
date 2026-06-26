@@ -1,0 +1,42 @@
+{
+  "id": "HALINK_HIHALINK_FE__DAIR__20260624-121414_4124210102-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "DAIR",
+  "dispo_label": "Dead Air",
+  "date": "2026-06-24",
+  "time": "12:14:14",
+  "phone": "4124210102",
+  "filename": "20260624-121414_4124210102-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-DAIR/20260624-121414_4124210102-all.mp3",
+  "duration": 14.11,
+  "text": "Hello? Can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Can you hear me?"
+    }
+  ],
+  "word_count": 5,
+  "bot_text": "Hello? Can you hear me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 5
+}

@@ -1,0 +1,147 @@
+{
+  "id": "AICONTACT_MEDICARE__RAXFER__20260624-150531_5863405574-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-24",
+  "time": "15:05:31",
+  "phone": "5863405574",
+  "filename": "20260624-150531_5863405574-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-RAXFER/20260624-150531_5863405574-all.mp3",
+  "duration": 54.29,
+  "text": "- Hello. - Hi. - Good afternoon, my name is Rebecca. I'm calling about a quick eligibility review on your account. It shows you qualify for the updated benefits, but they were never activated, including credits, convenience upgrades, and added protections. So I can get those added for you at no cost. You have Part A and B, right? - You see a credit that updates your credit. - Just confirming, do you currently have both Medicare Part A and B? - Yes. - Awesome. Can you tell me your age, please? - I'm 66 today. - Got it. Please hold while I connect you to the benefits specialist. - Hi, my name is Daniel. I'm calling you from home health care. How are you doing today? - I'm all right, I'm not in it.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "- Hello."
+    },
+    {
+      "start": 2.6,
+      "end": 3.44,
+      "text": "- Hi."
+    },
+    {
+      "start": 4.7,
+      "end": 6.8,
+      "text": "- Good afternoon, my name is Rebecca."
+    },
+    {
+      "start": 6.8,
+      "end": 9.72,
+      "text": "I'm calling about a quick eligibility review on your account."
+    },
+    {
+      "start": 9.72,
+      "end": 12.04,
+      "text": "It shows you qualify for the updated benefits,"
+    },
+    {
+      "start": 12.04,
+      "end": 13.48,
+      "text": "but they were never activated,"
+    },
+    {
+      "start": 13.48,
+      "end": 15.84,
+      "text": "including credits, convenience upgrades,"
+    },
+    {
+      "start": 15.84,
+      "end": 17.36,
+      "text": "and added protections."
+    },
+    {
+      "start": 17.36,
+      "end": 20.28,
+      "text": "So I can get those added for you at no cost."
+    },
+    {
+      "start": 20.28,
+      "end": 22.72,
+      "text": "You have Part A and B, right?"
+    },
+    {
+      "start": 22.72,
+      "end": 25.36,
+      "text": "- You see a credit that updates your credit."
+    },
+    {
+      "start": 26.96,
+      "end": 28.44,
+      "text": "- Just confirming, do you currently have"
+    },
+    {
+      "start": 28.44,
+      "end": 30.74,
+      "text": "both Medicare Part A and B?"
+    },
+    {
+      "start": 30.74,
+      "end": 31.58,
+      "text": "- Yes."
+    },
+    {
+      "start": 33.64,
+      "end": 36.04,
+      "text": "- Awesome. Can you tell me your age, please?"
+    },
+    {
+      "start": 36.04,
+      "end": 37.8,
+      "text": "- I'm 66 today."
+    },
+    {
+      "start": 39.96,
+      "end": 40.8,
+      "text": "- Got it."
+    },
+    {
+      "start": 40.8,
+      "end": 41.64,
+      "text": "Please hold while I connect you"
+    },
+    {
+      "start": 41.64,
+      "end": 42.88,
+      "text": "to the benefits specialist."
+    },
+    {
+      "start": 47.0,
+      "end": 48.08,
+      "text": "- Hi, my name is Daniel."
+    },
+    {
+      "start": 48.08,
+      "end": 49.76,
+      "text": "I'm calling you from home health care."
+    },
+    {
+      "start": 49.76,
+      "end": 51.48,
+      "text": "How are you doing today?"
+    },
+    {
+      "start": 51.48,
+      "end": 52.92,
+      "text": "- I'm all right, I'm not in it."
+    }
+  ],
+  "word_count": 135,
+  "bot_text": "Hello Hi Good afternoon, my name is Rebecca I'm calling about a quick eligibility review on your account It shows you qualify for the updated benefits, but they were never activated, including credits, convenience upgrades, and added protections So I can get those added for you at no cost You have Part A and B, right? You see a credit that updates your credit Just confirming, do you currently have both Medicare Part A and B? Yes Awesome Can you tell me your age, please? I'm 66 today Got it Please hold while I connect you to the benefits specialist Hi, my name is Daniel",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Hi Good afternoon, my name is Rebecca I'm calling about a quick eligibility review on your account It shows you qualify for the updated benefits, but they were never activated, including credits, convenience upgrades, and added protections So I can get those added for you at no cost You have Part A and B, right? You see a credit that updates your credit Just confirming, do you currently have both Medicare Part A and B? Yes Awesome Can you tell me your age, please? I'm 66 today Got it Please hold while I connect you to the benefits specialist Hi, my name is Daniel"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 105
+}

@@ -61,7 +61,11 @@
     },
     {
       "speaker": "BOT",
-      "text": "Oh, that's alright That's exactly why I'm calling I want to help you get these benefits processed before they go unclaimed"
+      "text": "Oh, that's alright That's exactly why I'm calling"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I want to help you get these benefits processed before they go unclaimed"
     }
   ],
   "stages": {

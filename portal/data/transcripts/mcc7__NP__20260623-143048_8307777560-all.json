@@ -46,7 +46,15 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "\"Hello?\" \"Hello?\" \"Good afternoon This is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So have you received any notification about these benefits yet?\" \"No.\" \"Oh, that's all right That's exactly why I'm calling And I want to help you get these benefits processed before they go unclaimed You're covered under both Part A and Part B.\""
+      "text": "\"Hello?\" \"Hello?\" \"Good afternoon This is Jacob So I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Texas State Relief Program So have you received any notification about these benefits yet?\" \"No.\" \"Oh, that's all right That's exactly why I'm calling"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "And I want to help you get these benefits processed before they go unclaimed"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You're covered under both Part A and Part B.\""
     }
   ],
   "stages": {

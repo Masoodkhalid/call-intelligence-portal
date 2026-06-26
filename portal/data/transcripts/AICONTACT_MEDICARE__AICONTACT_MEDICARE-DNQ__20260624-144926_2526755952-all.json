@@ -1,0 +1,75 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-144926_2526755952-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-DNQ",
+  "dispo_label": "AICONTACT_MEDICARE-DNQ",
+  "date": "2026-06-24",
+  "time": "14:49:26",
+  "phone": "2526755952",
+  "filename": "20260624-144926_2526755952-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-DNQ/20260624-144926_2526755952-all.mp3",
+  "duration": 38.09,
+  "text": "Hello. Hello. Hi. This is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you so your coverage doesn't get interrupted. This is confirmed for me. Do you have both Part A and Part B? I am not old enough for Medicare. But if the government would like to give it to me, I will take it. But I'm not old enough. Sorry. It looks like you don't qualify for the plans. Have a good day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Hi."
+    },
+    {
+      "start": 6.0,
+      "end": 16.0,
+      "text": "This is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet."
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "We just need a quick confirmation from you so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 20.0,
+      "end": 34.0,
+      "text": "This is confirmed for me. Do you have both Part A and Part B? I am not old enough for Medicare. But if the government would like to give it to me, I will take it. But I'm not old enough."
+    },
+    {
+      "start": 34.0,
+      "end": 38.0,
+      "text": "Sorry. It looks like you don't qualify for the plans. Have a good day."
+    }
+  ],
+  "word_count": 100,
+  "bot_text": "Hello. Hello. Hi. This is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you so your coverage doesn't get interrupted. This is confirmed for me. Do you have both Part A and Part B? I am not old enough for Medicare. But if the government would like to give it to me, I will take it. But I'm not old enough. Sorry. It looks like you don't qualify for the plans. Have a good day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hi This is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted This is confirmed for me Do you have both Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I am not old enough for Medicare But if the government would like to give it to me, I will take it But I'm not old enough Sorry It looks like you don't qualify for the plans"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a good day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 100
+}

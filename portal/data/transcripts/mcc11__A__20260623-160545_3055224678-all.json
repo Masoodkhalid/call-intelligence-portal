@@ -26,11 +26,7 @@
   "turns": [
     {
       "speaker": "CUSTOMER",
-      "text": "At available, at the tell-and-please record your message"
-    },
-    {
-      "speaker": "BOT",
-      "text": "When you've finished recording, you may hang up or press 1 for more options"
+      "text": "At available, at the tell-and-please record your message When you've finished recording, you may hang up or press 1 for more options"
     }
   ],
   "stages": {

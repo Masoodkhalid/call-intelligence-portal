@@ -1,0 +1,63 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DC__20260624-154958_2057777639-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-DC",
+  "dispo_label": "AICONTACT_MEDICARE-DC",
+  "date": "2026-06-24",
+  "time": "15:49:58",
+  "phone": "2057777639",
+  "filename": "20260624-154958_2057777639-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-DC/20260624-154958_2057777639-all.mp3",
+  "duration": 24.05,
+  "text": "Hello. Hello. Good afternoon. My name is Rebecca. I previously helped you with your Medicare plan and since it's open enrollment, there are new benefits available now. Let me help you get these added to your plan. So you do have Medicare Part A and B, right? No, I don't. Unfortunately, you don't seem to qualify for the plans we're offering. Have a wonderful day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "Hello. Hello. Good afternoon. My name is Rebecca. I previously helped you with your Medicare plan and since it's open enrollment, there are new benefits available now."
+    },
+    {
+      "start": 12.0,
+      "end": 20.0,
+      "text": "Let me help you get these added to your plan. So you do have Medicare Part A and B, right? No, I don't."
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": "Unfortunately, you don't seem to qualify for the plans we're offering. Have a wonderful day."
+    }
+  ],
+  "word_count": 65,
+  "bot_text": "Hello. Hello. Good afternoon. My name is Rebecca. I previously helped you with your Medicare plan and since it's open enrollment, there are new benefits available now. Let me help you get these added to your plan. So you do have Medicare Part A and B, right? No, I don't. Unfortunately, you don't seem to qualify for the plans we're offering. Have a wonderful day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon My name is Rebecca"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I previously helped you with your Medicare plan and since it's open enrollment, there are new benefits available now Let me help you get these added to your plan"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you do have Medicare Part A and B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, I don't"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Unfortunately, you don't seem to qualify for the plans we're offering Have a wonderful day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_word_count": 65
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NP__20260624-151115_3175973680-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-NP",
+  "dispo_label": "AICONTACT_MEDICARE-NP",
+  "date": "2026-06-24",
+  "time": "15:11:15",
+  "phone": "3175973680",
+  "filename": "20260624-151115_3175973680-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-NP/20260624-151115_3175973680-all.mp3",
+  "duration": 18.0,
+  "text": "Hello Wow Hi, this is Chelsea we pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello Wow"
+    },
+    {
+      "start": 4.74,
+      "end": 12.5,
+      "text": "Hi, this is Chelsea we pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet"
+    },
+    {
+      "start": 12.88,
+      "end": 17.88,
+      "text": "We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both?"
+    }
+  ],
+  "word_count": 40,
+  "bot_text": "Hello Wow Hi, this is Chelsea we pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Wow Hi, this is Chelsea we pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 40
+}

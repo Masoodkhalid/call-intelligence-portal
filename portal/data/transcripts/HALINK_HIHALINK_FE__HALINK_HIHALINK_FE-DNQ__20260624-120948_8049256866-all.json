@@ -1,0 +1,113 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DNQ__20260624-120948_8049256866-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-DNQ",
+  "dispo_label": "HALINK_HIHALINK_FE-DNQ",
+  "date": "2026-06-24",
+  "time": "12:09:48",
+  "phone": "8049256866",
+  "filename": "20260624-120948_8049256866-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-DNQ/20260624-120948_8049256866-all.mp3",
+  "duration": 37.08,
+  "text": "Hello. Yes. We're going to be for you. Hey, glad to hear you. I'm James from Nova Healthcare, Virginia. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital today. So to check your eligibility, can you please share your age? 92% 100% disabled veteran being taken totally care of 100% by the government, taking care of totally. Sorry. You don't seem to qualify for the benefit plans I have. Have a good day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Yes."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "We're going to be for you."
+    },
+    {
+      "start": 4.0,
+      "end": 6.72,
+      "text": "Hey, glad to hear you."
+    },
+    {
+      "start": 6.72,
+      "end": 10.0,
+      "text": "I'm James from Nova Healthcare, Virginia."
+    },
+    {
+      "start": 10.0,
+      "end": 14.88,
+      "text": "I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses"
+    },
+    {
+      "start": 14.88,
+      "end": 19.28,
+      "text": "of up to $10,000, especially during a hospital today."
+    },
+    {
+      "start": 19.28,
+      "end": 22.44,
+      "text": "So to check your eligibility, can you please share your age?"
+    },
+    {
+      "start": 22.44,
+      "end": 28.8,
+      "text": "92% 100% disabled veteran being taken totally care of 100% by the government, taking care"
+    },
+    {
+      "start": 28.8,
+      "end": 29.8,
+      "text": "of totally."
+    },
+    {
+      "start": 29.8,
+      "end": 30.8,
+      "text": "Sorry."
+    },
+    {
+      "start": 30.8,
+      "end": 35.96,
+      "text": "You don't seem to qualify for the benefit plans I have."
+    },
+    {
+      "start": 35.96,
+      "end": 36.52,
+      "text": "Have a good day."
+    }
+  ],
+  "word_count": 88,
+  "bot_text": "Hello. Yes. We're going to be for you. Hey, glad to hear you. I'm James from Nova Healthcare, Virginia. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital today. So to check your eligibility, can you please share your age? 92% 100% disabled veteran being taken totally care of 100% by the government, taking care of totally. Sorry. You don't seem to qualify for the benefit plans I have. Have a good day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes We're going to be for you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hey, glad to hear you I'm James from Nova Healthcare, Virginia I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital today So to check your eligibility, can you please share your age?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "92% 100% disabled veteran being taken totally care of 100% by the government, taking care of totally Sorry"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You don't seem to qualify for the benefit plans I have Have a good day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_word_count": 88
+}

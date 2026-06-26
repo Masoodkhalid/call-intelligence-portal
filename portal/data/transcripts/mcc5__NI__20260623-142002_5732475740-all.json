@@ -78,15 +78,7 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "No, I haven't Yes"
-    },
-    {
-      "speaker": "BOT",
-      "text": "So I was asking if you've received the notification about the pending credits on your Medicare plan?"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "I don't have Medicare"
+      "text": "No, I haven't Yes So I was asking if you've received the notification about the pending credits on your Medicare plan? I don't have Medicare"
     }
   ],
   "stages": {

@@ -1,0 +1,104 @@
+{
+  "id": "HALINK_HIHALINK_FE__A__20260624-114455_8439966968-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-24",
+  "time": "11:44:55",
+  "phone": "8439966968",
+  "filename": "20260624-114455_8439966968-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-A/20260624-114455_8439966968-all.mp3",
+  "duration": 32.54,
+  "text": "Hello, can you hear me? Can you hear me? Oh. I'm Ethan from Nova Healthcare South Carolina. I'm reaching out regarding a cashback benefit to help with out-of-pocket expenses. Oh man. $10,000. And a gap. Especially during a hospital stay. To see if you qualify for this is confirmed with a yes or no if you're under the age of 55. You may hang up or press pound to review or re-record your message. Do you want a cool reference?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello, can you hear me?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Oh."
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "I'm Ethan from Nova Healthcare South Carolina."
+    },
+    {
+      "start": 9.0,
+      "end": 13.0,
+      "text": "I'm reaching out regarding a cashback benefit to help with out-of-pocket expenses."
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "Oh man."
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "$10,000."
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "And a gap."
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "Especially during a hospital stay."
+    },
+    {
+      "start": 17.0,
+      "end": 23.0,
+      "text": "To see if you qualify for this is confirmed with a yes or no if you're under the age of 55."
+    },
+    {
+      "start": 23.0,
+      "end": 28.0,
+      "text": "You may hang up or press pound to review or re-record your message."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "Do you want a cool reference?"
+    }
+  ],
+  "word_count": 80,
+  "bot_text": "Hello, can you hear me? Can you hear me? Oh. I'm Ethan from Nova Healthcare South Carolina. I'm reaching out regarding a cashback benefit to help with out-of-pocket expenses. Oh man. $10,000. And a gap. Especially during a hospital stay. To see if you qualify for this is confirmed with a yes or no if you're under the age of 55. You may hang up or press pound to review or re-record your message. Do you want a cool reference?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, can you hear me? Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I'm Ethan from Nova Healthcare South Carolina"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm reaching out regarding a cashback benefit to help with out-of-pocket expenses Oh man $10,000 And a gap Especially during a hospital stay To see if you qualify for this is confirmed with a yes or no if you're under the age of 55 You may hang up or press pound to review or re-record your message Do you want a cool reference?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 80
+}

@@ -31,11 +31,11 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello? Hello? Good afternoon My name is Sophie"
+      "text": "Hello? Hello? Good afternoon My name is Sophie You doing okay?"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "You doing okay? Fine That's great My goal is to help you fully optimize your Medicare benefits during the 2026 Special Enrollment"
+      "text": "Fine That's great My goal is to help you fully optimize your Medicare benefits during the 2026 Special Enrollment"
     }
   ],
   "stages": {

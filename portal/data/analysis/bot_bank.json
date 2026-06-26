@@ -1,57 +1,93 @@
 {
-  "threshold": 9,
+  "threshold": 16,
   "lines": [
     [
-      "good afternoon",
-      188
-    ],
-    [
       "are you there",
-      180
+      244
     ],
     [
-      "this is <NAME>",
-      147
+      "good afternoon",
+      200
     ],
     [
       "my name is <NAME>",
-      126
+      152
+    ],
+    [
+      "this is <NAME>",
+      149
+    ],
+    [
+      "can you hear me",
+      120
     ],
     [
       "good morning",
-      69
+      87
+    ],
+    [
+      "have a great day",
+      77
+    ],
+    [
+      "hey good morning",
+      66
     ],
     [
       "so i m calling because there are pending grocery and cash benefits worth up to <NUM> available on your medicare account through <STATE> state relief program",
       66
     ],
     [
-      "have a great day",
-      65
+      "so i m calling because your medicare member profile hasn t been transferred into medicare s national database for <YEAR> yet",
+      56
     ],
     [
       "so far have you received any updates or notifications about this yet",
       55
     ],
     [
+      "do you have both part a and part b",
+      54
+    ],
+    [
       "so have you received any notification about these benefits yet",
       54
     ],
     [
-      "so i m calling because your medicare member profile hasn t been transferred into medicare s national database for <YEAR> yet",
-      52
+      "james here from nova health care <STATE>",
+      50
+    ],
+    [
+      "so to check your eligibility can you please share your age",
+      50
+    ],
+    [
+      "so you do have both part a and part b right",
+      49
+    ],
+    [
+      "i m calling to let you know about a cashback benefit that may help with out of pocket expenses of up to <NUM> <NUM> especially during a hospital stay",
+      48
     ],
     [
       "so have you been notified about these benefits yet",
       45
     ],
     [
-      "so you do have both part a and part b right",
-      45
+      "blank audio",
+      43
+    ],
+    [
+      "we just need a quick confirmation so your coverage doesn t get interrupted",
+      41
     ],
     [
       "i m calling because there are pending grocery and cash benefits worth up to <NUM> available on your medicare account through <STATE> state relief program",
       41
+    ],
+    [
+      "there s a note on your medicare profile that your <YEAR> update hasn t been confirmed",
+      38
     ],
     [
       "when that transfer is missing it can cause delays in your coverage approvals",
@@ -62,28 +98,100 @@
       38
     ],
     [
+      "how are you doing today",
+      37
+    ],
+    [
+      "just a quick confirmation from you and we re all set",
+      36
+    ],
+    [
+      "hello can you hear me",
+      36
+    ],
+    [
       "so to get your file updated do you have both medicare part a and part b",
       36
+    ],
+    [
+      "hey this is chelsea",
+      34
+    ],
+    [
+      "we pulled up your medicare profile and there s a note showing your <YEAR> update hasn t been confirmed yet",
+      34
     ],
     [
       "and that can delay your coverage approvals",
       34
     ],
     [
+      "do you have part a and part b",
+      31
+    ],
+    [
+      "so to check whether you are eligible for this may i know your age please",
+      30
+    ],
+    [
       "hey are you still there",
       29
     ],
     [
-      "can you hear me",
+      "hi this is chelsea",
       28
+    ],
+    [
+      "are you between <NUM> and <NUM> years old",
+      28
+    ],
+    [
+      "have a good day",
+      26
+    ],
+    [
+      "hey glad to hear you",
+      26
+    ],
+    [
+      "can you please share your age with me",
+      26
+    ],
+    [
+      "i couldn t quite catch that",
+      24
     ],
     [
       "i was just asking you do have both part a and part b of medicare right",
       24
     ],
     [
+      "so you do have part a and b of medicare right",
+      22
+    ],
+    [
+      "we just need a quick confirmation from you so your coverage doesn t get interrupted",
+      22
+    ],
+    [
+      "thank you for your time",
+      22
+    ],
+    [
+      "so to see if you qualify for this can you please share your age",
+      22
+    ],
+    [
       "uh are you there",
       22
+    ],
+    [
+      "and that can hold up your coverage approvals",
+      21
+    ],
+    [
+      "to mark your message private press <NUM>",
+      21
     ],
     [
       "that s exactly why i m calling",
@@ -98,120 +206,48 @@
       21
     ],
     [
+      "james here from nova healthcare <STATE>",
+      20
+    ],
+    [
       "i can verify it real quick",
       19
     ],
     [
-      "there s a note on your medicare profile that your <YEAR> update hasn t been confirmed",
+      "to mark your message urgent press <NUM>",
       18
+    ],
+    [
+      "i m calling to let you know about a cashback benefit that can help with out of pocket expenses of up to <NUM> <NUM> especially during a hospital stay",
+      18
+    ],
+    [
+      "to send your message as is press pound",
+      17
     ],
     [
       "oh that s all right",
       17
     ],
     [
-      "and that can hold up your coverage approvals",
-      17
-    ],
-    [
-      "do you have both part a and part b",
+      "just confirm for me",
       16
     ],
     [
-      "just a quick confirmation from you and we re all set",
+      "these plans are designed to help your family with funeral or burial expenses",
+      16
+    ],
+    [
+      "sorry you don t seem to be qualified for the benefits plans that i have",
+      16
+    ],
+    [
+      "i m sorry i couldn t quite catch that",
       16
     ],
     [
       "my name is sophie",
       16
-    ],
-    [
-      "do you have part a and part b",
-      15
-    ],
-    [
-      "so i m calling because they re appending grocery and cash benefits worth up to <NUM> available on your medicare account through <STATE> state relief program",
-      15
-    ],
-    [
-      "i want to help you get these benefits processed before they go unclaimed",
-      15
-    ],
-    [
-      "you don t seem to qualify for the plans we have",
-      15
-    ],
-    [
-      "to mark your message private press <NUM>",
-      13
-    ],
-    [
-      "blank audio",
-      13
-    ],
-    [
-      "hi good morning",
-      13
-    ],
-    [
-      "we pulled up your medicare profile and there s a note showing your <YEAR> update hasn t been confirmed yet",
-      12
-    ],
-    [
-      "hello good afternoon",
-      12
-    ],
-    [
-      "when you ve finished recording you may hang up or press <NUM> for more options",
-      11
-    ],
-    [
-      "to send your message as is press pound",
-      11
-    ],
-    [
-      "we just need a quick confirmation so your coverage doesn t get interrupted",
-      11
-    ],
-    [
-      "hello hello good afternoon",
-      11
-    ],
-    [
-      "to mark your message urgent press <NUM>",
-      10
-    ],
-    [
-      "hey this is chelsea",
-      10
-    ],
-    [
-      "you re covered under both part a and part b yes",
-      10
-    ],
-    [
-      "so i was asking if you received the notification about the pending credits on your medicare plan",
-      10
-    ],
-    [
-      "good afternoon this is <NAME>",
-      9
-    ],
-    [
-      "so i m calling because they re pending grocery and cash benefits worth up to <NUM> available on your medicare account through <STATE> state relief program",
-      9
-    ],
-    [
-      "are you still there",
-      9
-    ],
-    [
-      "good morning my name is <NAME>",
-      9
-    ],
-    [
-      "sorry you don t seem to qualify for the plans we have",
-      9
     ]
   ]
 }

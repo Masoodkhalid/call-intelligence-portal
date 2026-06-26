@@ -1,0 +1,86 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BN__20260624-151812_8157444404-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-BN",
+  "dispo_label": "AICONTACT_MEDICARE-BN",
+  "date": "2026-06-24",
+  "time": "15:18:12",
+  "phone": "8157444404",
+  "filename": "20260624-151812_8157444404-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-BN/20260624-151812_8157444404-all.mp3",
+  "duration": 32.69,
+  "text": "Hello? Hello? Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? There's no Chelsea here. I think you have the wrong number. Unless you want to talk to Scott, you dialed the wrong number. You",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Hey, this is Chelsea."
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": "There's a note on your Medicare profile that your 2026 update hasn't been confirmed."
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "Just a quick confirmation from you and we're all set."
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "Do you have Part A and Part B?"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "There's no Chelsea here."
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "I think you have the wrong number."
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": "Unless you want to talk to Scott, you dialed the wrong number."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "You"
+    }
+  ],
+  "word_count": 62,
+  "bot_text": "Hello? Hello? Hey, this is Chelsea. There's a note on your Medicare profile that your 2026 update hasn't been confirmed. Just a quick confirmation from you and we're all set. Do you have Part A and Part B? There's no Chelsea here. I think you have the wrong number. Unless you want to talk to Scott, you dialed the wrong number. You",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Hey, this is Chelsea There's a note on your Medicare profile that your 2026 update hasn't been confirmed Just a quick confirmation from you and we're all set Do you have Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "There's no Chelsea here I think you have the wrong number Unless you want to talk to Scott, you dialed the wrong number You"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 62
+}

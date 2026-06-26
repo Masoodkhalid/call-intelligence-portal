@@ -1,0 +1,173 @@
+{
+  "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-DNQ__20260625-091916_7573372321-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "EMPAXCO3_SOLAR-DNQ",
+  "dispo_label": "EMPAXCO3_SOLAR-DNQ",
+  "date": "2026-06-25",
+  "time": "09:19:16",
+  "phone": "7573372321",
+  "filename": "20260625-091916_7573372321-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-DNQ/20260625-091916_7573372321-all.mp3",
+  "duration": 62.35,
+  "text": "Caveas, hello, is a prescription drug used to treat primary hypercholemic periodic paralysis, primary hypocolemic periodic paralysis, and other similar diseases. Important. Hi. This is Ayla. How are you doing today? What should you tell your health care provider before taking Caveas? Tell your doctor if you're allergic to diet or family. I'm calling to go to a final look for other coverage options available in your CTI doses of aspirin. Or if you have family with a funeral or burial of your pregnant, plan to become pregnant. Or you can be 40 and 8 or 5 years old. What should you know about Caveas? If you are between 40 and 8 or 5 years old. And other reactions have happened with sulfonomides, drugs such as Caveas, and have sometimes been fatal. Stop taking Caveas at the first sign of skin rash, swelling, physical craving, or any other unexpected side effect or reaction, and call 911 right away. Well you're sorry. You don't seem to be qualified for another health care provider instructing. Thank you for your talking aspirin.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.22,
+      "text": "Caveas, hello, is a prescription drug used to treat primary hypercholemic periodic paralysis,"
+    },
+    {
+      "start": 8.22,
+      "end": 13.16,
+      "text": "primary hypocolemic periodic paralysis, and other similar diseases."
+    },
+    {
+      "start": 13.16,
+      "end": 14.16,
+      "text": "Important."
+    },
+    {
+      "start": 14.16,
+      "end": 15.16,
+      "text": "Hi."
+    },
+    {
+      "start": 15.16,
+      "end": 16.16,
+      "text": "This is Ayla."
+    },
+    {
+      "start": 16.16,
+      "end": 17.16,
+      "text": "How are you doing today?"
+    },
+    {
+      "start": 17.16,
+      "end": 20.72,
+      "text": "What should you tell your health care provider before taking Caveas?"
+    },
+    {
+      "start": 20.72,
+      "end": 22.4,
+      "text": "Tell your doctor if you're allergic to diet or family."
+    },
+    {
+      "start": 22.4,
+      "end": 26.24,
+      "text": "I'm calling to go to a final look for other coverage options available in your CTI doses"
+    },
+    {
+      "start": 26.24,
+      "end": 27.24,
+      "text": "of aspirin."
+    },
+    {
+      "start": 27.24,
+      "end": 31.96,
+      "text": "Or if you have family with a funeral or burial of your pregnant, plan to become pregnant."
+    },
+    {
+      "start": 31.96,
+      "end": 35.44,
+      "text": "Or you can be 40 and 8 or 5 years old."
+    },
+    {
+      "start": 35.44,
+      "end": 36.68,
+      "text": "What should you know about Caveas?"
+    },
+    {
+      "start": 36.68,
+      "end": 39.22,
+      "text": "If you are between 40 and 8 or 5 years old."
+    },
+    {
+      "start": 39.22,
+      "end": 44.48,
+      "text": "And other reactions have happened with sulfonomides, drugs such as Caveas, and have sometimes"
+    },
+    {
+      "start": 44.48,
+      "end": 45.88,
+      "text": "been fatal."
+    },
+    {
+      "start": 45.88,
+      "end": 51.48,
+      "text": "Stop taking Caveas at the first sign of skin rash, swelling, physical craving, or any other"
+    },
+    {
+      "start": 51.48,
+      "end": 56.72,
+      "text": "unexpected side effect or reaction, and call 911 right away."
+    },
+    {
+      "start": 56.72,
+      "end": 57.72,
+      "text": "Well you're sorry."
+    },
+    {
+      "start": 57.72,
+      "end": 61.0,
+      "text": "You don't seem to be qualified for another health care provider instructing."
+    },
+    {
+      "start": 61.0,
+      "end": 62.32,
+      "text": "Thank you for your talking aspirin."
+    }
+  ],
+  "word_count": 179,
+  "bot_text": "Caveas, hello, is a prescription drug used to treat primary hypercholemic periodic paralysis, primary hypocolemic periodic paralysis, and other similar diseases. Important. Hi. This is Ayla. How are you doing today? What should you tell your health care provider before taking Caveas? Tell your doctor if you're allergic to diet or family. I'm calling to go to a final look for other coverage options available in your CTI doses of aspirin. Or if you have family with a funeral or burial of your pregnant, plan to become pregnant. Or you can be 40 and 8 or 5 years old. What should you know about Caveas? If you are between 40 and 8 or 5 years old. And other reactions have happened with sulfonomides, drugs such as Caveas, and have sometimes been fatal. Stop taking Caveas at the first sign of skin rash, swelling, physical craving, or any other unexpected side effect or reaction, and call 911 right away. Well you're sorry. You don't seem to be qualified for another health care provider instructing. Thank you for your talking aspirin.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Caveas, hello, is a prescription drug used to treat primary hypercholemic periodic paralysis, primary hypocolemic periodic paralysis, and other similar diseases Important"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is Ayla"
+    },
+    {
+      "speaker": "BOT",
+      "text": "How are you doing today?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "What should you tell your health care provider before taking Caveas? Tell your doctor if you're allergic to diet or family I'm calling to go to a final look for other coverage options available in your CTI doses of aspirin Or if you have family with a funeral or burial of your pregnant, plan to become pregnant"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Or you can be 40 and 8 or 5 years old"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "What should you know about Caveas?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "If you are between 40 and 8 or 5 years old"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "And other reactions have happened with sulfonomides, drugs such as Caveas, and have sometimes been fatal Stop taking Caveas at the first sign of skin rash, swelling, physical craving, or any other unexpected side effect or reaction, and call 911 right away Well you're sorry You don't seem to be qualified for another health care provider instructing"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Thank you for your talking aspirin"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 179
+}

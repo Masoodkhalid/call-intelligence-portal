@@ -1,0 +1,61 @@
+{
+  "id": "HALINK_HIHALINK_FE__A__20260624-091619_5618051259-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-24",
+  "time": "09:16:19",
+  "phone": "5618051259",
+  "filename": "20260624-091619_5618051259-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-A/20260624-091619_5618051259-all.mp3",
+  "duration": 19.01,
+  "text": "Hello, can you hear me? Can you hear me? This call is being recorded. We're not available right now. Please leave the message after the beep.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello, can you hear me?"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "This call is being recorded."
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "We're not available right now."
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Please leave the message after the beep."
+    }
+  ],
+  "word_count": 26,
+  "bot_text": "Hello, can you hear me? Can you hear me? This call is being recorded. We're not available right now. Please leave the message after the beep.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, can you hear me? Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This call is being recorded We're not available right now Please leave the message after the beep"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 26
+}

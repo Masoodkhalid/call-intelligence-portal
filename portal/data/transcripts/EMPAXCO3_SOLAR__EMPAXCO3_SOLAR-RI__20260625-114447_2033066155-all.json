@@ -1,0 +1,46 @@
+{
+  "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RI__20260625-114447_2033066155-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "EMPAXCO3_SOLAR-RI",
+  "dispo_label": "EMPAXCO3_SOLAR-RI",
+  "date": "2026-06-25",
+  "time": "11:44:47",
+  "phone": "2033066155",
+  "filename": "20260625-114447_2033066155-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-RI/20260625-114447_2033066155-all.mp3",
+  "duration": 11.95,
+  "text": "Hello? Are you still on the line with me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "Are you still on the line with me?"
+    }
+  ],
+  "word_count": 9,
+  "bot_text": "Hello? Are you still on the line with me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Are you still on the line with me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 9
+}

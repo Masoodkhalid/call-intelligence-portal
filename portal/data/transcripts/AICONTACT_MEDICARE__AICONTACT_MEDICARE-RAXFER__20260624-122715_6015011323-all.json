@@ -1,0 +1,156 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-122715_6015011323-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-RAXFER",
+  "dispo_label": "AICONTACT_MEDICARE-RAXFER",
+  "date": "2026-06-24",
+  "time": "12:27:15",
+  "phone": "6015011323",
+  "filename": "20260624-122715_6015011323-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-RAXFER/20260624-122715_6015011323-all.mp3",
+  "duration": 108.79,
+  "text": ">> Hello? Are you there? >> I am. >> Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you so your coverage doesn't get interrupted. Just confirm for me. Do you have both Part A and Part B? >> Yes. >> Perfect. Let me connect you with a Medicare specialist from Mississippi. >> Hi, this is John with Calm Health here, how are you doing today? >> I'm not doing well, but... >> I've got less map. Well, as you know, the state has just expanded the subsidized program. They're largely nurse, get a professional caregiver in your own home and how old are you? >> 76. >> Okay, so after you're 76, you're living in your own home or in nursing facility? >> My own home. >> Your own home. Okay. >> And ready to go down there? >> 39180. >> 39180. >> That's correct, ma'am. And my name is Jason Jordan, how do you pronounce your version last name? >> Stephanie Ferguson. >> Now, let me ask you a question. I have an agent. >> You have a supervisor? Okay. - Yeah, I do.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": ">> Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": ">> I am."
+    },
+    {
+      "start": 12.0,
+      "end": 23.0,
+      "text": ">> Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet."
+    },
+    {
+      "start": 23.0,
+      "end": 27.0,
+      "text": "We just need a quick confirmation from you so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 27.0,
+      "end": 32.0,
+      "text": "Just confirm for me. Do you have both Part A and Part B?"
+    },
+    {
+      "start": 32.0,
+      "end": 35.0,
+      "text": ">> Yes."
+    },
+    {
+      "start": 35.0,
+      "end": 41.0,
+      "text": ">> Perfect. Let me connect you with a Medicare specialist from Mississippi."
+    },
+    {
+      "start": 41.0,
+      "end": 48.0,
+      "text": ">> Hi, this is John with Calm Health here, how are you doing today?"
+    },
+    {
+      "start": 48.0,
+      "end": 51.0,
+      "text": ">> I'm not doing well, but..."
+    },
+    {
+      "start": 51.0,
+      "end": 57.0,
+      "text": ">> I've got less map. Well, as you know, the state has just expanded the subsidized program."
+    },
+    {
+      "start": 57.0,
+      "end": 63.0,
+      "text": "They're largely nurse, get a professional caregiver in your own home and how old are you?"
+    },
+    {
+      "start": 63.0,
+      "end": 66.0,
+      "text": ">> 76."
+    },
+    {
+      "start": 66.0,
+      "end": 73.0,
+      "text": ">> Okay, so after you're 76, you're living in your own home or in nursing facility?"
+    },
+    {
+      "start": 73.0,
+      "end": 75.0,
+      "text": ">> My own home."
+    },
+    {
+      "start": 75.0,
+      "end": 78.0,
+      "text": ">> Your own home. Okay."
+    },
+    {
+      "start": 78.0,
+      "end": 81.0,
+      "text": ">> And ready to go down there?"
+    },
+    {
+      "start": 81.0,
+      "end": 83.0,
+      "text": ">> 39180."
+    },
+    {
+      "start": 83.0,
+      "end": 88.0,
+      "text": ">> 39180."
+    },
+    {
+      "start": 88.0,
+      "end": 94.0,
+      "text": ">> That's correct, ma'am. And my name is Jason Jordan, how do you pronounce your version last name?"
+    },
+    {
+      "start": 94.0,
+      "end": 98.0,
+      "text": ">> Stephanie Ferguson."
+    },
+    {
+      "start": 98.0,
+      "end": 104.0,
+      "text": ">> Now, let me ask you a question. I have an agent."
+    },
+    {
+      "start": 104.0,
+      "end": 107.0,
+      "text": ">> You have a supervisor? Okay."
+    },
+    {
+      "start": 107.0,
+      "end": 107.84,
+      "text": "- Yeah, I do."
+    }
+  ],
+  "word_count": 213,
+  "bot_text": "Hello? Are you there? I am Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both Part A and Part B? Yes Perfect Let me connect you with a Medicare specialist from Mississippi Hi, this is John with Calm Health here, how are you doing today?",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I am Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both Part A and Part B? Yes Perfect Let me connect you with a Medicare specialist from Mississippi Hi, this is John with Calm Health here, how are you doing today?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 87
+}

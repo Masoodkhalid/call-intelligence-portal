@@ -55,11 +55,7 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "I'm sorry but can you speak English? Oh I just want to make sure you're aware because a lot of people in your area haven't heard about these yet and I want to help you get them processed in time"
-    },
-    {
-      "speaker": "BOT",
-      "text": "You're covered under part A and part B aren't you?"
+      "text": "I'm sorry but can you speak English? Oh I just want to make sure you're aware because a lot of people in your area haven't heard about these yet and I want to help you get them processed in time You're covered under part A and part B aren't you?"
     }
   ],
   "stages": {

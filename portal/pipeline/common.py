@@ -31,25 +31,37 @@ DISPOSITIONS = {
     "DC":      ("Disconnected", False),
     "BDNC":    ("Bad / Do-Not-Call", False),
     "DAIR":    ("Dead Air", False),
+    "BN":      ("Business Number", False),
+    "LB":      ("Left Blank / No Response", False),
+    "RI":      ("Re-Inquiry", False),
     "RAXFER":  ("Transferred to Agent", True),
 }
 
 # Folder-name fragments -> normalised code
 _DISPO_ALIASES = {
     "DEADAIR": "DAIR",
-    "DAIR": "DAIR",
-    "RAXFER": "RAXFER",
-    "BNDC": "BDNC",
-    "BDNC": "BDNC",
+    "DAIR":    "DAIR",
+    "RAXFER":  "RAXFER",
+    "BNDC":    "BDNC",
+    "BDNC":    "BDNC",
+    "RAXFER":  "RAXFER",
 }
 
 
 def normalize_dispo(folder_name):
-    """mcc3-A -> A ; mcc3DNQ -> DNQ ; mcc7-deadair -> DAIR."""
-    name = folder_name
-    name = re.sub(r"^mcc\d+", "", name)      # strip campaign prefix
-    name = name.lstrip("-").strip()
-    code = name.upper()
+    """Extract the disposition code from any folder naming convention.
+
+    Handles both old-style (mcc3-A, mcc3DNQ, mcc3-deadair) and new-style
+    (AICONTACT_MEDICARE-LB, EMPAXCO3_SOLAR-RAXFER) by taking the segment
+    after the LAST hyphen, then mapping through aliases.
+    """
+    name = folder_name.strip()
+    if "-" in name:
+        # take everything after the last hyphen
+        code = name.rsplit("-", 1)[-1].upper()
+    else:
+        # old style with no hyphen: mcc3DNQ -> DNQ
+        code = re.sub(r"^mcc\d+", "", name).upper()
     return _DISPO_ALIASES.get(code, code)
 
 
@@ -118,9 +130,12 @@ def load_json(path, default=None):
 
 
 def save_json(path, obj):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
     tmp = path + ".tmp"
     with open(tmp, "w") as f:
         json.dump(obj, f, indent=2)
+        f.flush()
+        os.fsync(f.fileno())
     os.replace(tmp, path)
 
 

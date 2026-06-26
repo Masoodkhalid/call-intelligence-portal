@@ -1,0 +1,118 @@
+{
+  "id": "EMPAXCO3_SOLAR__NP__20260625-113708_2814516170-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-25",
+  "time": "11:37:08",
+  "phone": "2814516170",
+  "filename": "20260625-113708_2814516170-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-NP/20260625-113708_2814516170-all.mp3",
+  "duration": 63.94,
+  "text": "Oh, hey. Hello. Hi, Lisa. How are you doing today? What? I'm calling about final expense coverage option that's available in your area. These plans are designed to help your family with funeral or burial expenses. So can you please confirm? Are you between 40 and 85 years old? I've got the card you call. I'm not ready to tell right now. So you may send me a voice note and I'm probably never going to open, but you can still send it to me. Okay, I'll try to answer. Okay. Bye. It will only take about 30 seconds to explain how this could benefit you and your family. Let me ask you this. So, what's your age? Are you somewhere between 40 and 85? Can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.76,
+      "text": "Oh, hey. Hello. Hi, Lisa. How are you doing today?"
+    },
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "text": "What?"
+    },
+    {
+      "start": 8.98,
+      "end": 13.54,
+      "text": "I'm calling about final expense coverage option that's available in your area."
+    },
+    {
+      "start": 14.16,
+      "end": 19.9,
+      "text": "These plans are designed to help your family with funeral or burial expenses. So can you please confirm?"
+    },
+    {
+      "start": 19.9,
+      "end": 23.02,
+      "text": "Are you between 40 and 85 years old?"
+    },
+    {
+      "start": 23.68,
+      "end": 31.72,
+      "text": "I've got the card you call. I'm not ready to tell right now. So you may send me a voice note and I'm probably never going to open, but you can still send it to me."
+    },
+    {
+      "start": 31.72,
+      "end": 35.18,
+      "text": "Okay, I'll try to answer. Okay. Bye."
+    },
+    {
+      "start": 35.18,
+      "end": 40.62,
+      "text": "It will only take about 30 seconds to explain how this could benefit you and your family."
+    },
+    {
+      "start": 42.2,
+      "end": 48.0,
+      "text": "Let me ask you this. So, what's your age? Are you somewhere between 40 and 85?"
+    },
+    {
+      "start": 53.68,
+      "end": 59.18,
+      "text": "Can you hear me?"
+    }
+  ],
+  "word_count": 129,
+  "bot_text": "Oh, hey. Hello. Hi, Lisa. How are you doing today? What? I'm calling about final expense coverage option that's available in your area. These plans are designed to help your family with funeral or burial expenses. So can you please confirm? Are you between 40 and 85 years old? I've got the card you call. I'm not ready to tell right now. So you may send me a voice note and I'm probably never going to open, but you can still send it to me. Okay, I'll try to answer. Okay. Bye. It will only take about 30 seconds to explain how this could benefit you and your family. Let me ask you this. So, what's your age? Are you somewhere between 40 and 85? Can you hear me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, hey"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, Lisa"
+    },
+    {
+      "speaker": "BOT",
+      "text": "How are you doing today?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "What? I'm calling about final expense coverage option that's available in your area"
+    },
+    {
+      "speaker": "BOT",
+      "text": "These plans are designed to help your family with funeral or burial expenses"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "So can you please confirm?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I've got the card you call I'm not ready to tell right now So you may send me a voice note and I'm probably never going to open, but you can still send it to me Okay, I'll try to answer Okay Bye It will only take about 30 seconds to explain how this could benefit you and your family Let me ask you this So, what's your age?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you somewhere between 40 and 85? Can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 129
+}

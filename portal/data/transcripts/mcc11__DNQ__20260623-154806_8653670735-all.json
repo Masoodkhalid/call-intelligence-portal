@@ -70,11 +70,11 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "No"
+      "text": "No Sorry, it looks like you don't qualify for the plans"
     },
     {
       "speaker": "BOT",
-      "text": "Sorry, it looks like you don't qualify for the plans Have a great day [BLANK_AUDIO]"
+      "text": "Have a great day [BLANK_AUDIO]"
     }
   ],
   "stages": {

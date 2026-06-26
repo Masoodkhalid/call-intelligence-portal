@@ -1,0 +1,37 @@
+{
+  "id": "AICONTACT_MEDICARE__N__20260624-130043_5174374747-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "N",
+  "dispo_label": "No Answer",
+  "date": "2026-06-24",
+  "time": "13:00:43",
+  "phone": "5174374747",
+  "filename": "20260624-130043_5174374747-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-N/20260624-130043_5174374747-all.mp3",
+  "duration": 11.45,
+  "text": "Hello, are you there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.2,
+      "text": "Hello, are you there?"
+    }
+  ],
+  "word_count": 4,
+  "bot_text": "Hello, are you there?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, are you there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 4
+}

@@ -26,11 +26,11 @@
   "turns": [
     {
       "speaker": "CUSTOMER",
-      "text": "At the telling, please record your message"
+      "text": "At the telling, please record your message When you've finished recording you may hang up or press 1 for more options"
     },
     {
       "speaker": "BOT",
-      "text": "When you've finished recording you may hang up or press 1 for more options Can you hear me?"
+      "text": "Can you hear me?"
     }
   ],
   "stages": {

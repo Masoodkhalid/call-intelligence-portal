@@ -31,11 +31,11 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello? Hello? Good afternoon My name is Sophie"
+      "text": "Hello? Hello? Good afternoon My name is Sophie You doing okay?"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "You doing okay? Yeah, you doing all right? Yeah I'm doing good Thanks for asking I'm excited to chat about how we can enhance your Medicare coverage and maximize your benefits for the 2026 Special Enrollment To kick things off, you currently have both Part A and B of Medicare"
+      "text": "Yeah, you doing all right? Yeah I'm doing good Thanks for asking I'm excited to chat about how we can enhance your Medicare coverage and maximize your benefits for the 2026 Special Enrollment To kick things off, you currently have both Part A and B of Medicare"
     }
   ],
   "stages": {

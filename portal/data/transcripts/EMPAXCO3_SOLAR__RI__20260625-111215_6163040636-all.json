@@ -1,0 +1,37 @@
+{
+  "id": "EMPAXCO3_SOLAR__RI__20260625-111215_6163040636-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "RI",
+  "dispo_label": "Re-Inquiry",
+  "date": "2026-06-25",
+  "time": "11:12:15",
+  "phone": "6163040636",
+  "filename": "20260625-111215_6163040636-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-RI/20260625-111215_6163040636-all.mp3",
+  "duration": 16.78,
+  "text": "Hello. Can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 17.0,
+      "text": "Hello. Can you hear me?"
+    }
+  ],
+  "word_count": 5,
+  "bot_text": "Hello. Can you hear me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 5
+}

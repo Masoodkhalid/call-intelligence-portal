@@ -1,0 +1,69 @@
+{
+  "id": "EMPAXCO3_SOLAR__NI__20260625-113830_3043690298-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-25",
+  "time": "11:38:30",
+  "phone": "3043690298",
+  "filename": "20260625-113830_3043690298-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-NI/20260625-113830_3043690298-all.mp3",
+  "duration": 35.71,
+  "text": "Hi, this is Adeline. How are you doing today? I thought this said \"Diana\". I'm calling about final expense coverage options available in your area. These plans are designed to help your family with funeral or burial expenses. So can you please confirm, are you between 40 and 85 years old? Can you confirm, are you \"Diana\" or \"Adeline\"? Could you please confirm if you are between 40 and 85 years old? Excuse me, thank you, bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.2,
+      "text": "Hi, this is Adeline. How are you doing today? I thought this said \"Diana\". I'm calling"
+    },
+    {
+      "start": 12.2,
+      "end": 16.94,
+      "text": "about final expense coverage options available in your area. These plans are designed to"
+    },
+    {
+      "start": 16.94,
+      "end": 22.6,
+      "text": "help your family with funeral or burial expenses. So can you please confirm, are you between"
+    },
+    {
+      "start": 22.6,
+      "end": 28.68,
+      "text": "40 and 85 years old? Can you confirm, are you \"Diana\" or \"Adeline\"? Could you please"
+    },
+    {
+      "start": 28.68,
+      "end": 35.46,
+      "text": "confirm if you are between 40 and 85 years old? Excuse me, thank you, bye."
+    }
+  ],
+  "word_count": 77,
+  "bot_text": "Hi, this is Adeline. How are you doing today? I thought this said \"Diana\". I'm calling about final expense coverage options available in your area. These plans are designed to help your family with funeral or burial expenses. So can you please confirm, are you between 40 and 85 years old? Can you confirm, are you \"Diana\" or \"Adeline\"? Could you please confirm if you are between 40 and 85 years old? Excuse me, thank you, bye.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hi, this is Adeline How are you doing today?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I thought this said \"Diana\" I'm calling about final expense coverage options available in your area"
+    },
+    {
+      "speaker": "BOT",
+      "text": "These plans are designed to help your family with funeral or burial expenses So can you please confirm, are you between 40 and 85 years old?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Can you confirm, are you \"Diana\" or \"Adeline\"? Could you please confirm if you are between 40 and 85 years old? Excuse me, thank you, bye"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 77
+}

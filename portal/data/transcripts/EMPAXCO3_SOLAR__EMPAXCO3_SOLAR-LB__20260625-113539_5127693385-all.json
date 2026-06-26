@@ -1,0 +1,52 @@
+{
+  "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-LB__20260625-113539_5127693385-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "EMPAXCO3_SOLAR-LB",
+  "dispo_label": "EMPAXCO3_SOLAR-LB",
+  "date": "2026-06-25",
+  "time": "11:35:39",
+  "phone": "5127693385",
+  "filename": "20260625-113539_5127693385-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-LB/20260625-113539_5127693385-all.mp3",
+  "duration": 24.48,
+  "text": "Hello? Did you hear me? Hi, this is Eden. How are you doing today?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Did you hear me?"
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "Hi, this is Eden."
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "How are you doing today?"
+    }
+  ],
+  "word_count": 14,
+  "bot_text": "Hello? Did you hear me? Hi, this is Eden. How are you doing today?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Did you hear me? Hi, this is Eden How are you doing today?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 14
+}

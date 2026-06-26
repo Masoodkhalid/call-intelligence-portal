@@ -1,68 +1,160 @@
 {
-  "count": 15,
+  "count": 19,
   "flows": [
     {
       "signature": "greeting",
-      "calls": 282,
-      "pct": 35.0,
+      "calls": 508,
+      "pct": 36.4,
       "dispo_breakdown": [
         [
           "N",
-          80
+          109
         ],
         [
           "DAIR",
-          74
+          93
         ],
         [
           "BDNC",
-          55
+          69
         ],
         [
           "A",
-          40
+          53
         ],
         [
           "LH",
           23
         ],
         [
-          "DC",
-          4
+          "LB",
+          13
         ],
         [
-          "NI",
-          3
+          "AICONTACT_MEDICARE-DAIR",
+          10
+        ],
+        [
+          "AICONTACT_MEDICARE-N",
+          10
+        ],
+        [
+          "EMPAXCO3_SOLAR-RI",
+          10
+        ],
+        [
+          "RI",
+          10
+        ],
+        [
+          "HALINK_HIHALINK_FE-N",
+          10
+        ],
+        [
+          "EMPAXCO3_SOLAR-N",
+          9
+        ],
+        [
+          "HALINK_HIHALINK_FE-DAIR",
+          9
+        ],
+        [
+          "EMPAXCO3_SOLAR-LB",
+          8
         ],
         [
           "NP",
+          8
+        ],
+        [
+          "HALINK_HIHALINK_FE-BDNC",
+          8
+        ],
+        [
+          "NI",
+          7
+        ],
+        [
+          "AICONTACT_MEDICARE-BDNC",
+          6
+        ],
+        [
+          "AICONTACT_MEDICARE-A",
+          5
+        ],
+        [
+          "AICONTACT_MEDICARE-LB",
+          5
+        ],
+        [
+          "DC",
+          5
+        ],
+        [
+          "EMPAXCO3_SOLAR-A",
+          5
+        ],
+        [
+          "EMPAXCO3_SOLAR-NP",
+          5
+        ],
+        [
+          "EMPAXCO3_SOLAR-NI",
+          4
+        ],
+        [
+          "BN",
           3
+        ],
+        [
+          "HALINK_HIHALINK_FE-A",
+          3
+        ],
+        [
+          "AICONTACT_MEDICARE-BN",
+          2
+        ],
+        [
+          "HALINK_HIHALINK_FE-RAXFER",
+          2
+        ],
+        [
+          "RAXFER",
+          2
+        ],
+        [
+          "AICONTACT_MEDICARE-DC",
+          1
+        ],
+        [
+          "HALINK_HIHALINK_FE-BN",
+          1
         ]
       ],
-      "transfer_rate": 0.0,
+      "transfer_rate": 0.4,
       "examples": [
-        "mcc11__A__20260623-150155_9362225319-all",
-        "mcc11__A__20260623-153646_2283271016-all",
-        "mcc11__A__20260623-154202_3468633651-all",
-        "mcc11__A__20260623-154644_3132126964-all"
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-145337_8436075973-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-154235_2294722760-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-154427_5173661382-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-154619_6183187546-all"
       ]
     },
     {
       "signature": "greeting \u2192 pitch",
-      "calls": 181,
-      "pct": 22.5,
+      "calls": 295,
+      "pct": 21.1,
       "dispo_breakdown": [
         [
           "NP",
-          65
+          81
         ],
         [
           "DC",
-          40
+          48
         ],
         [
           "NI",
-          31
+          39
         ],
         [
           "LH",
@@ -70,33 +162,101 @@
         ],
         [
           "A",
-          10
+          14
         ],
         [
           "BDNC",
-          10
+          11
         ],
         [
           "DNQ",
+          11
+        ],
+        [
+          "HALINK_HIHALINK_FE-DC",
+          8
+        ],
+        [
+          "AICONTACT_MEDICARE-NP",
+          7
+        ],
+        [
+          "LB",
+          7
+        ],
+        [
+          "HALINK_HIHALINK_FE-NI",
+          7
+        ],
+        [
+          "HALINK_HIHALINK_FE-NP",
+          7
+        ],
+        [
+          "BN",
           6
+        ],
+        [
+          "HALINK_HIHALINK_FE-BN",
+          6
+        ],
+        [
+          "HALINK_HIHALINK_FE-LB",
+          6
+        ],
+        [
+          "EMPAXCO3_SOLAR-DNQ",
+          5
+        ],
+        [
+          "EMPAXCO3_SOLAR-A",
+          3
+        ],
+        [
+          "EMPAXCO3_SOLAR-NP",
+          2
+        ],
+        [
+          "HALINK_HIHALINK_FE-RAXFER",
+          2
+        ],
+        [
+          "RAXFER",
+          2
+        ],
+        [
+          "AICONTACT_MEDICARE-BDNC",
+          1
+        ],
+        [
+          "AICONTACT_MEDICARE-LB",
+          1
+        ],
+        [
+          "EMPAXCO3_SOLAR-NI",
+          1
+        ],
+        [
+          "HALINK_HIHALINK_FE-A",
+          1
         ]
       ],
-      "transfer_rate": 0.0,
+      "transfer_rate": 0.7,
       "examples": [
-        "mcc11__A__20260623-160349_9205728278-all",
-        "mcc11__BDNC__20260623-154700_8645857711-all",
-        "mcc11__DC__20260623-161506_4098320848-all",
-        "mcc11__DC__20260623-161938_5313299305-all"
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BDNC__20260624-101237_7022442700-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-LB__20260624-123444_7044315166-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NP__20260624-143817_6188743162-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NP__20260624-144221_8644922399-all"
       ]
     },
     {
       "signature": "greeting \u2192 pitch \u2192 qualify",
-      "calls": 153,
-      "pct": 19.0,
+      "calls": 291,
+      "pct": 20.8,
       "dispo_breakdown": [
         [
           "NI",
-          46
+          62
         ],
         [
           "LH",
@@ -104,45 +264,141 @@
         ],
         [
           "DC",
-          24
+          33
         ],
         [
           "A",
-          17
-        ],
-        [
-          "BDNC",
-          11
+          28
         ],
         [
           "NP",
+          16
+        ],
+        [
+          "BDNC",
+          15
+        ],
+        [
+          "DNQ",
+          10
+        ],
+        [
+          "AICONTACT_MEDICARE-NI",
           9
+        ],
+        [
+          "BN",
+          9
+        ],
+        [
+          "AICONTACT_MEDICARE-DC",
+          8
+        ],
+        [
+          "AICONTACT_MEDICARE-BN",
+          7
+        ],
+        [
+          "LB",
+          7
         ],
         [
           "RAXFER",
           6
         ],
         [
-          "DNQ",
+          "EMPAXCO3_SOLAR-DNQ",
+          5
+        ],
+        [
+          "HALINK_HIHALINK_FE-A",
+          5
+        ],
+        [
+          "AICONTACT_MEDICARE-A",
           4
+        ],
+        [
+          "AICONTACT_MEDICARE-LB",
+          4
+        ],
+        [
+          "EMPAXCO3_SOLAR-NI",
+          4
+        ],
+        [
+          "AICONTACT_MEDICARE-NP",
+          3
+        ],
+        [
+          "HALINK_HIHALINK_FE-LB",
+          3
+        ],
+        [
+          "HALINK_HIHALINK_FE-NI",
+          3
+        ],
+        [
+          "HALINK_HIHALINK_FE-NP",
+          3
+        ],
+        [
+          "AICONTACT_MEDICARE-BDNC",
+          2
+        ],
+        [
+          "EMPAXCO3_SOLAR-A",
+          2
+        ],
+        [
+          "HALINK_HIHALINK_FE-BDNC",
+          2
+        ],
+        [
+          "HALINK_HIHALINK_FE-BN",
+          2
+        ],
+        [
+          "AICONTACT_MEDICARE-DNQ",
+          1
+        ],
+        [
+          "EMPAXCO3_SOLAR-NP",
+          1
+        ],
+        [
+          "HALINK_HIHALINK_FE-DC",
+          1
         ]
       ],
-      "transfer_rate": 3.9,
+      "transfer_rate": 2.1,
       "examples": [
-        "mcc11__A__20260623-153308_4349814901-all",
-        "mcc11__A__20260623-160539_3128522314-all",
-        "mcc11__A__20260623-160712_7656676257-all",
-        "mcc11__BDNC__20260623-144238_6152985573-all"
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-145153_2106501600-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-152820_8172514572-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-153150_2283377443-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-154502_8643294788-all"
       ]
     },
     {
       "signature": "greeting \u2192 pitch \u2192 qualify \u2192 transfer",
-      "calls": 75,
-      "pct": 9.3,
+      "calls": 107,
+      "pct": 7.7,
       "dispo_breakdown": [
         [
           "RAXFER",
-          72
+          88
+        ],
+        [
+          "AICONTACT_MEDICARE-RAXFER",
+          10
+        ],
+        [
+          "EMPAXCO3_SOLAR-RAXFER",
+          4
+        ],
+        [
+          "HALINK_HIHALINK_FE-RAXFER",
+          2
         ],
         [
           "DC",
@@ -153,44 +409,56 @@
           1
         ]
       ],
-      "transfer_rate": 96.0,
+      "transfer_rate": 82.2,
       "examples": [
-        "mcc11__RAXFER__20260623-153243_8132306976-all",
-        "mcc11__RAXFER__20260623-153924_2526400206-all",
-        "mcc11__RAXFER__20260623-154103_2537199298-all",
-        "mcc11__RAXFER__20260623-154124_8033420340-all"
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-103903_6627221636-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-110625_3035484837-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-122715_6015011323-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-125848_2526077380-all"
       ]
     },
     {
       "signature": "greeting \u2192 pitch \u2192 qualify \u2192 disqualify",
-      "calls": 69,
-      "pct": 8.6,
+      "calls": 103,
+      "pct": 7.4,
       "dispo_breakdown": [
         [
           "DNQ",
-          63
+          79
+        ],
+        [
+          "AICONTACT_MEDICARE-DNQ",
+          8
+        ],
+        [
+          "HALINK_HIHALINK_FE-DNQ",
+          8
         ],
         [
           "DC",
-          5
+          6
+        ],
+        [
+          "AICONTACT_MEDICARE-DC",
+          1
         ],
         [
           "RAXFER",
           1
         ]
       ],
-      "transfer_rate": 1.4,
+      "transfer_rate": 1.0,
       "examples": [
-        "mcc11__DNQ__20260623-142559_9568441507-all",
-        "mcc11__DNQ__20260623-151015_2014941996-all",
-        "mcc11__DNQ__20260623-151545_6168241682-all",
-        "mcc11__DNQ__20260623-152223_7322642314-all"
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DC__20260624-154958_2057777639-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-123026_8706136526-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-123612_8123183346-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-124303_4173831396-all"
       ]
     },
     {
       "signature": "(no speech)",
-      "calls": 23,
-      "pct": 2.9,
+      "calls": 29,
+      "pct": 2.1,
       "dispo_breakdown": [
         [
           "A",
@@ -198,15 +466,27 @@
         ],
         [
           "DAIR",
-          6
+          7
         ],
         [
           "BDNC",
           3
         ],
         [
+          "EMPAXCO3_SOLAR-LB",
+          2
+        ],
+        [
+          "LB",
+          2
+        ],
+        [
           "N",
           2
+        ],
+        [
+          "HALINK_HIHALINK_FE-DAIR",
+          1
         ],
         [
           "LH",
@@ -215,101 +495,256 @@
       ],
       "transfer_rate": 0.0,
       "examples": [
-        "mcc11__A__20260623-155129_5633918990-all",
-        "mcc11__A__20260623-160545_3055224678-all",
-        "mcc11__A__20260623-160606_3134913697-all",
-        "mcc11__A__20260623-161507_2293288853-all"
+        "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-LB__20260625-094444_2107600493-all",
+        "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-LB__20260625-104606_9193577200-all",
+        "EMPAXCO3_SOLAR__LB__20260625-094444_2107600493-all",
+        "EMPAXCO3_SOLAR__LB__20260625-104606_9193577200-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 pitch \u2192 transfer",
+      "calls": 14,
+      "pct": 1.0,
+      "dispo_breakdown": [
+        [
+          "RAXFER",
+          7
+        ],
+        [
+          "HALINK_HIHALINK_FE-RAXFER",
+          4
+        ],
+        [
+          "EMPAXCO3_SOLAR-RAXFER",
+          3
+        ]
+      ],
+      "transfer_rate": 50.0,
+      "examples": [
+        "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RAXFER__20260625-091614_2156123319-all",
+        "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RAXFER__20260625-092944_8126033429-all",
+        "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RAXFER__20260625-112616_2315803053-all",
+        "EMPAXCO3_SOLAR__RAXFER__20260625-091614_2156123319-all"
       ]
     },
     {
       "signature": "greeting \u2192 pitch \u2192 qualify \u2192 disqualify \u2192 objection",
-      "calls": 7,
-      "pct": 0.9,
+      "calls": 11,
+      "pct": 0.8,
       "dispo_breakdown": [
         [
           "DNQ",
-          7
+          9
+        ],
+        [
+          "AICONTACT_MEDICARE-DNQ",
+          1
+        ],
+        [
+          "HALINK_HIHALINK_FE-DNQ",
+          1
         ]
       ],
       "transfer_rate": 0.0,
       "examples": [
-        "mcc11__DNQ__20260623-160845_8132838523-all",
-        "mcc3__DNQ__20260623-113513_9843822933-all",
-        "mcc3__DNQ__20260623-113956_7022385303-all",
-        "mcc3__DNQ__20260623-120212_8502921336-all"
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-144058_7208128041-all",
+        "AICONTACT_MEDICARE__DNQ__20260624-144058_7208128041-all",
+        "HALINK_HIHALINK_FE__DNQ__20260624-121053_7154563895-all",
+        "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DNQ__20260624-121053_7154563895-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 pitch \u2192 qualify \u2192 objection",
+      "calls": 9,
+      "pct": 0.6,
+      "dispo_breakdown": [
+        [
+          "NI",
+          2
+        ],
+        [
+          "AICONTACT_MEDICARE-A",
+          1
+        ],
+        [
+          "AICONTACT_MEDICARE-BN",
+          1
+        ],
+        [
+          "AICONTACT_MEDICARE-NI",
+          1
+        ],
+        [
+          "A",
+          1
+        ],
+        [
+          "BN",
+          1
+        ],
+        [
+          "DC",
+          1
+        ],
+        [
+          "LH",
+          1
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-154237_2057580658-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-BN__20260624-095419_8032704995-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NI__20260624-145441_3173746967-all",
+        "AICONTACT_MEDICARE__A__20260624-154237_2057580658-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 pitch \u2192 objection",
+      "calls": 8,
+      "pct": 0.6,
+      "dispo_breakdown": [
+        [
+          "EMPAXCO3_SOLAR-NI",
+          1
+        ],
+        [
+          "NI",
+          1
+        ],
+        [
+          "BN",
+          1
+        ],
+        [
+          "DC",
+          1
+        ],
+        [
+          "HALINK_HIHALINK_FE-BN",
+          1
+        ],
+        [
+          "HALINK_HIHALINK_FE-DC",
+          1
+        ],
+        [
+          "HALINK_HIHALINK_FE-LB",
+          1
+        ],
+        [
+          "LB",
+          1
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-NI__20260625-104611_3172541671-all",
+        "EMPAXCO3_SOLAR__NI__20260625-104611_3172541671-all",
+        "HALINK_HIHALINK_FE__BN__20260624-120040_5802228194-all",
+        "HALINK_HIHALINK_FE__DC__20260624-123616_6622951991-all"
+      ]
+    },
+    {
+      "signature": "pitch",
+      "calls": 5,
+      "pct": 0.4,
+      "dispo_breakdown": [
+        [
+          "NP",
+          2
+        ],
+        [
+          "DC",
+          2
+        ],
+        [
+          "AICONTACT_MEDICARE-NP",
+          1
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-NP__20260624-153244_2315575608-all",
+        "AICONTACT_MEDICARE__NP__20260624-153244_2315575608-all",
+        "mcc11__DC__20260623-162518_3034527800-all",
+        "mcc3__DC__20260623-113814_8625968872-all"
       ]
     },
     {
       "signature": "greeting \u2192 transfer",
-      "calls": 3,
+      "calls": 5,
       "pct": 0.4,
       "dispo_breakdown": [
         [
           "DC",
           2
+        ],
+        [
+          "EMPAXCO3_SOLAR-RAXFER",
+          1
+        ],
+        [
+          "RAXFER",
+          1
         ],
         [
           "BDNC",
           1
         ]
       ],
-      "transfer_rate": 0.0,
+      "transfer_rate": 20.0,
       "examples": [
+        "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RAXFER__20260625-104701_5737230161-all",
+        "EMPAXCO3_SOLAR__RAXFER__20260625-104701_5737230161-all",
         "mcc11__BDNC__20260623-155840_2707535288-all",
-        "mcc11__DC__20260623-163109_7732804157-all",
-        "mcc5__DC__20260623-134027_2054479241-all"
+        "mcc11__DC__20260623-163109_7732804157-all"
       ]
     },
     {
-      "signature": "pitch",
-      "calls": 3,
-      "pct": 0.4,
+      "signature": "pitch \u2192 qualify \u2192 disqualify",
+      "calls": 2,
+      "pct": 0.1,
       "dispo_breakdown": [
         [
-          "DC",
-          2
+          "DNQ",
+          1
         ],
         [
-          "NP",
+          "HALINK_HIHALINK_FE-DNQ",
           1
         ]
       ],
       "transfer_rate": 0.0,
       "examples": [
-        "mcc11__DC__20260623-162518_3034527800-all",
-        "mcc3__DC__20260623-113814_8625968872-all",
-        "mcc7__NP__20260623-160035_9192929587-all"
+        "HALINK_HIHALINK_FE__DNQ__20260624-121859_3368180276-all",
+        "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-DNQ__20260624-121859_3368180276-all"
       ]
     },
     {
-      "signature": "greeting \u2192 pitch \u2192 qualify \u2192 objection",
-      "calls": 3,
-      "pct": 0.4,
+      "signature": "transfer",
+      "calls": 2,
+      "pct": 0.1,
       "dispo_breakdown": [
         [
-          "NI",
+          "HALINK_HIHALINK_FE-RAXFER",
           1
         ],
         [
-          "DC",
-          1
-        ],
-        [
-          "LH",
+          "RAXFER",
           1
         ]
       ],
-      "transfer_rate": 0.0,
+      "transfer_rate": 50.0,
       "examples": [
-        "mcc3__NI__20260623-123345_3526341484-all",
-        "mcc7__DC__20260623-150749_3054095232-all",
-        "mcc7__LH__20260623-143758_4358829334-all"
+        "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-RAXFER__20260624104727_8001_9416315618726797-all",
+        "HALINK_HIHALINK_FE__RAXFER__20260624104727_8001_9416315618726797-all"
       ]
     },
     {
       "signature": "greeting \u2192 disqualify",
       "calls": 2,
-      "pct": 0.2,
+      "pct": 0.1,
       "dispo_breakdown": [
         [
           "A",
@@ -325,7 +760,7 @@
     {
       "signature": "greeting \u2192 pitch \u2192 qualify \u2192 transfer \u2192 objection",
       "calls": 2,
-      "pct": 0.2,
+      "pct": 0.1,
       "dispo_breakdown": [
         [
           "RAXFER",

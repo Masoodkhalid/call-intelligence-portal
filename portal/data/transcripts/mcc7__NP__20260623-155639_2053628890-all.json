@@ -30,7 +30,15 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "My name is Anna How are you doing today? I'm good How are you? So how's your day going? I'm doing great Thanks I'm calling about the updated Medicare plans You may now qualify"
+      "text": "My name is Anna"
+    },
+    {
+      "speaker": "BOT",
+      "text": "How are you doing today?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm good How are you? So how's your day going? I'm doing great Thanks I'm calling about the updated Medicare plans You may now qualify"
     }
   ],
   "stages": {

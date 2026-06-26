@@ -61,7 +61,11 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello? Hello? Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program So far, have you received any updates or notifications about this yet? Yeah, so I was asking if you received the notification about the pending credits on your Medicare plan?"
+      "text": "Hello? Hello? Good afternoon This is Jacob So, I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through Alabama State Relief Program So far, have you received any updates or notifications about this yet?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah, so I was asking if you received the notification about the pending credits on your Medicare plan?"
     }
   ],
   "stages": {

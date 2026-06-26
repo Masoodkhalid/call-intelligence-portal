@@ -1,0 +1,69 @@
+{
+  "id": "AICONTACT_MEDICARE__DC__20260624-144654_2606723087-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "DC",
+  "dispo_label": "Disconnected",
+  "date": "2026-06-24",
+  "time": "14:46:54",
+  "phone": "2606723087",
+  "filename": "20260624-144654_2606723087-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-DC/20260624-144654_2606723087-all.mp3",
+  "duration": 28.08,
+  "text": "Hello? Hello? Good afternoon. My name is Rebecca. I previously helped you with your Medicare plan. And since it's open enrollment, there are new benefits available now. Let me help you get these added to your plan, so you do have Medicare Part A and B, right? Can you hear me? I was just asking if you have Medicare Part A and B.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello? Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Good afternoon. My name is Rebecca. I previously helped you with your Medicare plan."
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "And since it's open enrollment, there are new benefits available now."
+    },
+    {
+      "start": 12.0,
+      "end": 22.0,
+      "text": "Let me help you get these added to your plan, so you do have Medicare Part A and B, right?"
+    },
+    {
+      "start": 22.0,
+      "end": 28.0,
+      "text": "Can you hear me? I was just asking if you have Medicare Part A and B."
+    }
+  ],
+  "word_count": 63,
+  "bot_text": "Hello? Hello? Good afternoon. My name is Rebecca. I previously helped you with your Medicare plan. And since it's open enrollment, there are new benefits available now. Let me help you get these added to your plan, so you do have Medicare Part A and B, right? Can you hear me? I was just asking if you have Medicare Part A and B.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good afternoon My name is Rebecca"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I previously helped you with your Medicare plan And since it's open enrollment, there are new benefits available now Let me help you get these added to your plan, so you do have Medicare Part A and B, right?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I was just asking if you have Medicare Part A and B"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 63
+}

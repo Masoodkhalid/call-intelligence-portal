@@ -1,0 +1,114 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-151558_2523713718-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-DNQ",
+  "dispo_label": "AICONTACT_MEDICARE-DNQ",
+  "date": "2026-06-24",
+  "time": "15:15:58",
+  "phone": "2523713718",
+  "filename": "20260624-151558_2523713718-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-DNQ/20260624-151558_2523713718-all.mp3",
+  "duration": 51.34,
+  "text": "- Hello? - Yeah. - Hello? - Hi, this is Kelsey. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B? - No mail. Sure, just a couple of quick questions to confirm your eligibility and I'll get you to the right agent. Do you have Medicare part A and B? - No mail. It won't take long. Just a couple of quick details to see if you qualify, that's all. So you do have Medicare part A and B, right? - No. Sorry, it looks like you don't qualify for the plans. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "- Hello? - Yeah."
+    },
+    {
+      "start": 4.0,
+      "end": 6.72,
+      "text": "- Hello? - Hi, this is Kelsey."
+    },
+    {
+      "start": 6.72,
+      "end": 11.84,
+      "text": "We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been"
+    },
+    {
+      "start": 11.84,
+      "end": 16.72,
+      "text": "confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 17.36,
+      "end": 21.52,
+      "text": "Do you have both part A and part B? - No mail."
+    },
+    {
+      "start": 23.44,
+      "end": 28.24,
+      "text": "Sure, just a couple of quick questions to confirm your eligibility and I'll get you to the right"
+    },
+    {
+      "start": 28.24,
+      "end": 32.8,
+      "text": "agent. Do you have Medicare part A and B? - No mail."
+    },
+    {
+      "start": 34.96,
+      "end": 39.12,
+      "text": "It won't take long. Just a couple of quick details to see if you qualify, that's all."
+    },
+    {
+      "start": 39.12,
+      "end": 43.2,
+      "text": "So you do have Medicare part A and B, right? - No."
+    },
+    {
+      "start": 45.6,
+      "end": 51.12,
+      "text": "Sorry, it looks like you don't qualify for the plans. Have a great day."
+    }
+  ],
+  "word_count": 126,
+  "bot_text": "- Hello? - Yeah. - Hello? - Hi, this is Kelsey. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B? - No mail. Sure, just a couple of quick questions to confirm your eligibility and I'll get you to the right agent. Do you have Medicare part A and B? - No mail. It won't take long. Just a couple of quick details to see if you qualify, that's all. So you do have Medicare part A and B, right? - No. Sorry, it looks like you don't qualify for the plans. Have a great day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hi, this is Kelsey We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both part A and part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No mail Sure, just a couple of quick questions to confirm your eligibility and I'll get you to the right agent"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Do you have Medicare part A and B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No mail It won't take long Just a couple of quick details to see if you qualify, that's all"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So you do have Medicare part A and B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No Sorry, it looks like you don't qualify for the plans"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_word_count": 126
+}

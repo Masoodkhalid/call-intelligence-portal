@@ -1,0 +1,75 @@
+{
+  "id": "HALINK_HIHALINK_FE__A__20260624-105245_6626396407-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "A",
+  "dispo_label": "Answering Machine",
+  "date": "2026-06-24",
+  "time": "10:52:45",
+  "phone": "6626396407",
+  "filename": "20260624-105245_6626396407-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-A/20260624-105245_6626396407-all.mp3",
+  "duration": 30.74,
+  "text": "Hello, can you hear me? I'm Ethan from Nova Health Care for Mississippi. I'm reaching out regarding cashback benefit to help with auto-pocketing expenses. We have up to $10,000, especially during a hospital. Sorry, mailbox is full to send an SMF from the patients, or no, if you're under the age of 65. To send an SMF notification, press 5. [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello, can you hear me?"
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "I'm Ethan from Nova Health Care for Mississippi."
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "I'm reaching out regarding cashback benefit to help with auto-pocketing expenses."
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "We have up to $10,000, especially during a hospital."
+    },
+    {
+      "start": 14.0,
+      "end": 21.0,
+      "text": "Sorry, mailbox is full to send an SMF from the patients, or no, if you're under the age of 65."
+    },
+    {
+      "start": 24.0,
+      "end": 27.0,
+      "text": "To send an SMF notification, press 5."
+    },
+    {
+      "start": 30.0,
+      "end": 40.0,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 61,
+  "bot_text": "Hello, can you hear me? I'm Ethan from Nova Health Care for Mississippi. I'm reaching out regarding cashback benefit to help with auto-pocketing expenses. We have up to $10,000, especially during a hospital. Sorry, mailbox is full to send an SMF from the patients, or no, if you're under the age of 65. To send an SMF notification, press 5. [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, can you hear me? I'm Ethan from Nova Health Care for Mississippi"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm reaching out regarding cashback benefit to help with auto-pocketing expenses We have up to $10,000, especially during a hospital Sorry, mailbox is full to send an SMF from the patients, or no, if you're under the age of 65 To send an SMF notification, press 5"
+    },
+    {
+      "speaker": "BOT",
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 61
+}

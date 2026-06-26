@@ -41,15 +41,11 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello? Uh, are you there?"
+      "text": "Hello? Uh, are you there? I couldn't hear you"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "I couldn't hear you Please try again At the tone, please record your message"
-    },
-    {
-      "speaker": "BOT",
-      "text": "When you've finished recording, simply hang up or press pound for further options"
+      "text": "Please try again At the tone, please record your message When you've finished recording, simply hang up or press pound for further options"
     }
   ],
   "stages": {

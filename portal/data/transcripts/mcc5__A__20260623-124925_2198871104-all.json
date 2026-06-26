@@ -35,11 +35,7 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Can't take your call now At the tone, please record your message"
-    },
-    {
-      "speaker": "BOT",
-      "text": "When you have finished recording, simply hang up or press the pound key for further options"
+      "text": "Can't take your call now At the tone, please record your message When you have finished recording, simply hang up or press the pound key for further options"
     }
   ],
   "stages": {

@@ -26,11 +26,7 @@
   "turns": [
     {
       "speaker": "CUSTOMER",
-      "text": "Right now, leave your name and tell them to record your message"
-    },
-    {
-      "speaker": "BOT",
-      "text": "When you've finished recording, you may hang up or press 1 for more options"
+      "text": "Right now, leave your name and tell them to record your message When you've finished recording, you may hang up or press 1 for more options"
     }
   ],
   "stages": {

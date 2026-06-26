@@ -1,0 +1,46 @@
+{
+  "id": "HALINK_HIHALINK_FE__BN__20260624-101430_8327979925-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "BN",
+  "dispo_label": "Business Number",
+  "date": "2026-06-24",
+  "time": "10:14:30",
+  "phone": "8327979925",
+  "filename": "20260624-101430_8327979925-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-BN/20260624-101430_8327979925-all.mp3",
+  "duration": 33.34,
+  "text": "Hey, good morning. James here from Nova Health Care, Texas. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So, to check whether you are eligible for this, may I know your age, please? Sorry, could you please repeat how old you are? I said, would you suck my dick?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 20.0,
+      "text": "Hey, good morning. James here from Nova Health Care, Texas. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So, to check whether you are eligible for this, may I know your age, please?"
+    },
+    {
+      "start": 20.0,
+      "end": 30.0,
+      "text": "Sorry, could you please repeat how old you are? I said, would you suck my dick?"
+    }
+  ],
+  "word_count": 66,
+  "bot_text": "Hey, good morning. James here from Nova Health Care, Texas. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So, to check whether you are eligible for this, may I know your age, please? Sorry, could you please repeat how old you are? I said, would you suck my dick?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, good morning James here from Nova Health Care, Texas I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay So, to check whether you are eligible for this, may I know your age, please?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Sorry, could you please repeat how old you are? I said, would you suck my dick?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 66
+}

@@ -1,0 +1,56 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-A__20260624-122327_8038185610-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-A",
+  "dispo_label": "HALINK_HIHALINK_FE-A",
+  "date": "2026-06-24",
+  "time": "12:23:27",
+  "phone": "8038185610",
+  "filename": "20260624-122327_8038185610-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-A/20260624-122327_8038185610-all.mp3",
+  "duration": 10.08,
+  "text": "- Hello, can you hear me? - Hello, can you hear me? - This has not detected a message. Please start recording your message after the town.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "- Hello, can you hear me?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "- Hello, can you hear me?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.56,
+      "text": "- This has not detected a message."
+    },
+    {
+      "start": 3.56,
+      "end": 6.34,
+      "text": "Please start recording your message after the town."
+    }
+  ],
+  "word_count": 27,
+  "bot_text": "- Hello, can you hear me? - Hello, can you hear me? - This has not detected a message. Please start recording your message after the town.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, can you hear me? Hello, can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This has not detected a message Please start recording your message after the town"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 27
+}

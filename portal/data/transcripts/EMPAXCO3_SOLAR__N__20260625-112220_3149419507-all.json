@@ -1,0 +1,42 @@
+{
+  "id": "EMPAXCO3_SOLAR__N__20260625-112220_3149419507-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "N",
+  "dispo_label": "No Answer",
+  "date": "2026-06-25",
+  "time": "11:22:20",
+  "phone": "3149419507",
+  "filename": "20260625-112220_3149419507-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-N/20260625-112220_3149419507-all.mp3",
+  "duration": 17.64,
+  "text": "Hello? Mmm, can you hear me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Mmm, can you hear me?"
+    }
+  ],
+  "word_count": 6,
+  "bot_text": "Hello? Mmm, can you hear me?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Mmm, can you hear me?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 6
+}

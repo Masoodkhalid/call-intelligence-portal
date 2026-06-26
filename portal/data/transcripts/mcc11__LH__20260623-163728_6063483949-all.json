@@ -26,15 +26,7 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "Hi, this is Chris speaking"
-    },
-    {
-      "speaker": "BOT",
-      "text": "I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your coverage approvals So, to get your file updated, do you have both Medicare Part A and Part B?"
+      "text": "Hello Hi, this is Chris speaking I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet, and that can delay your coverage approvals So, to get your file updated, do you have both Medicare Part A and Part B?"
     }
   ],
   "stages": {

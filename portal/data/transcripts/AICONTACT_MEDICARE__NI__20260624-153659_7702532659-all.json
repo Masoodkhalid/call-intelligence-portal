@@ -1,0 +1,75 @@
+{
+  "id": "AICONTACT_MEDICARE__NI__20260624-153659_7702532659-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-24",
+  "time": "15:36:59",
+  "phone": "7702532659",
+  "filename": "20260624-153659_7702532659-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-NI/20260624-153659_7702532659-all.mp3",
+  "duration": 83.59,
+  "text": "Hello, are you there? Hi, this is Chelsea we pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation. So your coverage doesn't get interrupted. Do you have both part a and part B? Yeah, sorry about that. I was just asking do you currently have both Medicare part a and part B Yeah, I completely understand I just need your age to check eligibility nothing else I promise so you do have Medicare part a and B, right? Oh, I'm sorry. I won't take much of your time. I just have a few quick updates about the new 2026 Medicare benefits if you're open to it. Let's discuss this at a more convenient time. Thank you. Have a nice day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "Hello, are you there?"
+    },
+    {
+      "start": 9.72,
+      "end": 17.48,
+      "text": "Hi, this is Chelsea we pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet"
+    },
+    {
+      "start": 17.88,
+      "end": 24.48,
+      "text": "We just need a quick confirmation. So your coverage doesn't get interrupted. Do you have both part a and part B?"
+    },
+    {
+      "start": 31.0,
+      "end": 39.14,
+      "text": "Yeah, sorry about that. I was just asking do you currently have both Medicare part a and part B"
+    },
+    {
+      "start": 43.64,
+      "end": 51.96,
+      "text": "Yeah, I completely understand I just need your age to check eligibility nothing else I promise so you do have Medicare part a and B, right?"
+    },
+    {
+      "start": 60.2,
+      "end": 68.36,
+      "text": "Oh, I'm sorry. I won't take much of your time. I just have a few quick updates about the new 2026 Medicare benefits if you're open to it."
+    },
+    {
+      "start": 77.16,
+      "end": 81.64,
+      "text": "Let's discuss this at a more convenient time. Thank you. Have a nice day."
+    }
+  ],
+  "word_count": 134,
+  "bot_text": "Hello, are you there? Hi, this is Chelsea we pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation. So your coverage doesn't get interrupted. Do you have both part a and part B? Yeah, sorry about that. I was just asking do you currently have both Medicare part a and part B Yeah, I completely understand I just need your age to check eligibility nothing else I promise so you do have Medicare part a and B, right? Oh, I'm sorry. I won't take much of your time. I just have a few quick updates about the new 2026 Medicare benefits if you're open to it. Let's discuss this at a more convenient time. Thank you. Have a nice day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, are you there? Hi, this is Chelsea we pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation So your coverage doesn't get interrupted Do you have both part a and part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah, sorry about that I was just asking do you currently have both Medicare part a and part B Yeah, I completely understand I just need your age to check eligibility nothing else I promise so you do have Medicare part a and B, right? Oh, I'm sorry I won't take much of your time I just have a few quick updates about the new 2026 Medicare benefits if you're open to it Let's discuss this at a more convenient time Thank you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Have a nice day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 134
+}

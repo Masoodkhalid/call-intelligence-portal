@@ -83,7 +83,23 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Yes Who are you looking for? You haven't caught my phone three times Who are you looking for? Oh, I'm so sorry about that But I want you to know this is actually the first time I'm calling you"
+      "text": "Yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Who are you looking for?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You haven't caught my phone three times"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Who are you looking for?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, I'm so sorry about that But I want you to know this is actually the first time I'm calling you"
     }
   ],
   "stages": {

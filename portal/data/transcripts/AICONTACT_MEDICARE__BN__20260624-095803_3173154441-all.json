@@ -1,0 +1,71 @@
+{
+  "id": "AICONTACT_MEDICARE__BN__20260624-095803_3173154441-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "BN",
+  "dispo_label": "Business Number",
+  "date": "2026-06-24",
+  "time": "09:58:03",
+  "phone": "3173154441",
+  "filename": "20260624-095803_3173154441-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-BN/20260624-095803_3173154441-all.mp3",
+  "duration": 32.33,
+  "text": "- Hello. - Hello. - Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So you do have both part A and part B, right? - You do got purple panties on with pink polka dots, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.32,
+      "text": "- Hello. - Hello."
+    },
+    {
+      "start": 4.32,
+      "end": 6.72,
+      "text": "- Good morning. My name is Cassie."
+    },
+    {
+      "start": 6.72,
+      "end": 12.4,
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred"
+    },
+    {
+      "start": 12.4,
+      "end": 16.32,
+      "text": "into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 16.32,
+      "end": 19.44,
+      "text": "And that can hold up your coverage approvals."
+    },
+    {
+      "start": 19.44,
+      "end": 24.48,
+      "text": "So you do have both part A and part B, right?"
+    },
+    {
+      "start": 24.48,
+      "end": 29.92,
+      "text": "- You do got purple panties on with pink polka dots, right?"
+    }
+  ],
+  "word_count": 60,
+  "bot_text": "- Hello. - Hello. - Good morning. My name is Cassie. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that can hold up your coverage approvals. So you do have both part A and part B, right? - You do got purple panties on with pink polka dots, right?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good morning My name is Cassie So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet And that can hold up your coverage approvals So you do have both part A and part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You do got purple panties on with pink polka dots, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 60
+}

@@ -1,0 +1,126 @@
+{
+  "id": "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-143633_5735354114-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "AICONTACT_MEDICARE-RAXFER",
+  "dispo_label": "AICONTACT_MEDICARE-RAXFER",
+  "date": "2026-06-24",
+  "time": "14:36:33",
+  "phone": "5735354114",
+  "filename": "20260624-143633_5735354114-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-RAXFER/20260624-143633_5735354114-all.mp3",
+  "duration": 77.62,
+  "text": "- Hello? - Hello. - Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet. We just need a quick confirmation from you so your coverage doesn't get interrupted. Just confirm for me. Do you have both Part A and Part B? - Yes. - Perfect. Let me connect you with the Medicare specialist from Missouri. - I'm 31. - Hi, this is Henry with Home Healthcare. How are you doing today? - Good. - Well, let me tell you the reason of my call is just to let you know the state has just expended a subsidized program that will help seniors to get a professional caregiver in their own homes. It's basically staying dependent programs so people can remain safe, comfortable and in control of their day of living. So just to confirm how old are you? - 31.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "- Hello? - Hello."
+    },
+    {
+      "start": 3.04,
+      "end": 9.84,
+      "text": "- Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile"
+    },
+    {
+      "start": 9.84,
+      "end": 15.68,
+      "text": "and there's a note here showing your 2026 plan update hasn't been confirmed yet."
+    },
+    {
+      "start": 15.68,
+      "end": 19.84,
+      "text": "We just need a quick confirmation from you so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 19.84,
+      "end": 20.84,
+      "text": "Just confirm for me."
+    },
+    {
+      "start": 20.84,
+      "end": 24.68,
+      "text": "Do you have both Part A and Part B?"
+    },
+    {
+      "start": 24.68,
+      "end": 26.08,
+      "text": "- Yes."
+    },
+    {
+      "start": 26.08,
+      "end": 32.2,
+      "text": "- Perfect. Let me connect you with the Medicare specialist from Missouri."
+    },
+    {
+      "start": 32.2,
+      "end": 37.12,
+      "text": "- I'm 31."
+    },
+    {
+      "start": 37.12,
+      "end": 47.76,
+      "text": "- Hi, this is Henry with Home Healthcare. How are you doing today?"
+    },
+    {
+      "start": 47.76,
+      "end": 48.76,
+      "text": "- Good."
+    },
+    {
+      "start": 48.76,
+      "end": 55.44,
+      "text": "- Well, let me tell you the reason of my call is just to let you know the state has just"
+    },
+    {
+      "start": 55.44,
+      "end": 61.0,
+      "text": "expended a subsidized program that will help seniors to get a professional caregiver in"
+    },
+    {
+      "start": 61.0,
+      "end": 62.04,
+      "text": "their own homes."
+    },
+    {
+      "start": 62.04,
+      "end": 68.4,
+      "text": "It's basically staying dependent programs so people can remain safe, comfortable and in"
+    },
+    {
+      "start": 68.4,
+      "end": 70.44,
+      "text": "control of their day of living."
+    },
+    {
+      "start": 70.44,
+      "end": 73.2,
+      "text": "So just to confirm how old are you?"
+    },
+    {
+      "start": 73.2,
+      "end": 75.2,
+      "text": "- 31."
+    }
+  ],
+  "word_count": 160,
+  "bot_text": "Hello? Hello Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both Part A and Part B? Yes Perfect Let me connect you with the Medicare specialist from Missouri I'm 31",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Hi, this is Chelsea and I'm reaching out because we pulled up your Medicare profile and there's a note here showing your 2026 plan update hasn't been confirmed yet We just need a quick confirmation from you so your coverage doesn't get interrupted Just confirm for me Do you have both Part A and Part B? Yes Perfect Let me connect you with the Medicare specialist from Missouri I'm 31"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 72
+}

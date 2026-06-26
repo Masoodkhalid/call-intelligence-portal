@@ -40,15 +40,7 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "At the tell-em, please record your message"
-    },
-    {
-      "speaker": "BOT",
-      "text": "When you've finished recording, you may hang up or press 1 for more options"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "To leave a callback number, press 5"
+      "text": "At the tell-em, please record your message When you've finished recording, you may hang up or press 1 for more options To leave a callback number, press 5"
     }
   ],
   "stages": {

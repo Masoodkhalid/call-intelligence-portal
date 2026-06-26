@@ -1,0 +1,67 @@
+{
+  "id": "AICONTACT_MEDICARE__LB__20260624-132518_3364760274-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "LB",
+  "dispo_label": "Left Blank / No Response",
+  "date": "2026-06-24",
+  "time": "13:25:18",
+  "phone": "3364760274",
+  "filename": "20260624-132518_3364760274-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-LB/20260624-132518_3364760274-all.mp3",
+  "duration": 27.43,
+  "text": "Hello. Hello. Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 7.64,
+      "text": "Hi, this is Chelsea."
+    },
+    {
+      "start": 7.64,
+      "end": 12.6,
+      "text": "We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been"
+    },
+    {
+      "start": 12.6,
+      "end": 14.2,
+      "text": "confirmed yet."
+    },
+    {
+      "start": 14.2,
+      "end": 18.26,
+      "text": "We just need a quick confirmation so your coverage doesn't get interrupted."
+    },
+    {
+      "start": 18.26,
+      "end": 20.6,
+      "text": "Do you have both part A and part B?"
+    }
+  ],
+  "word_count": 45,
+  "bot_text": "Hello. Hello. Hi, this is Chelsea. We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet. We just need a quick confirmation so your coverage doesn't get interrupted. Do you have both part A and part B?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Hi, this is Chelsea We pulled up your Medicare profile and there's a note showing your 2026 update hasn't been confirmed yet We just need a quick confirmation so your coverage doesn't get interrupted Do you have both part A and part B?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 45
+}

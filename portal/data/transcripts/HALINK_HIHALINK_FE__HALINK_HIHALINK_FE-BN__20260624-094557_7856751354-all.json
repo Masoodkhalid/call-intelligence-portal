@@ -1,0 +1,134 @@
+{
+  "id": "HALINK_HIHALINK_FE__HALINK_HIHALINK_FE-BN__20260624-094557_7856751354-all",
+  "campaign": "HALINK_HIHALINK_FE",
+  "dispo": "HALINK_HIHALINK_FE-BN",
+  "dispo_label": "HALINK_HIHALINK_FE-BN",
+  "date": "2026-06-24",
+  "time": "09:45:57",
+  "phone": "7856751354",
+  "filename": "20260624-094557_7856751354-all.mp3",
+  "rel_path": "mcc/HALINK_HIHALINK_FE/HALINK_HIHALINK_FE-BN/20260624-094557_7856751354-all.mp3",
+  "duration": 60.98,
+  "text": "Hello? Hello. Hey, good morning. James here from Nova Health Care, Kansas. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to check whether you are eligible for this, may I know your age, please? There'll be about 50 of these phone calls, just like you, today, again, and every day for the last three, four months. Don't you ever give up? Yeah, I completely understand how frustrating that can be. But this is my first time reaching out. We are leading aggregators of hospital indemnity plans, and we offer more than just basic hospital stay support. So things like affordable rates, hospital admission benefits, daily stay support, and ICU benefits. Can you please tell me your age? I could have done some money or fucking business, you're just scamming or I asked for information. Get a fucking real job.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Hey, good morning."
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "James here from Nova Health Care, Kansas."
+    },
+    {
+      "start": 8.0,
+      "end": 12.88,
+      "text": "I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses"
+    },
+    {
+      "start": 12.88,
+      "end": 17.02,
+      "text": "of up to $10,000, especially during a hospital stay."
+    },
+    {
+      "start": 17.02,
+      "end": 21.0,
+      "text": "So to check whether you are eligible for this, may I know your age, please?"
+    },
+    {
+      "start": 21.0,
+      "end": 27.0,
+      "text": "There'll be about 50 of these phone calls, just like you, today, again, and every day"
+    },
+    {
+      "start": 27.0,
+      "end": 29.0,
+      "text": "for the last three, four months."
+    },
+    {
+      "start": 29.0,
+      "end": 31.0,
+      "text": "Don't you ever give up?"
+    },
+    {
+      "start": 31.0,
+      "end": 34.0,
+      "text": "Yeah, I completely understand how frustrating that can be."
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "text": "But this is my first time reaching out."
+    },
+    {
+      "start": 36.0,
+      "end": 42.0,
+      "text": "We are leading aggregators of hospital indemnity plans, and we offer more than just basic hospital"
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "text": "stay support."
+    },
+    {
+      "start": 43.0,
+      "end": 50.0,
+      "text": "So things like affordable rates, hospital admission benefits, daily stay support, and ICU benefits."
+    },
+    {
+      "start": 50.0,
+      "end": 52.0,
+      "text": "Can you please tell me your age?"
+    },
+    {
+      "start": 52.0,
+      "end": 59.0,
+      "text": "I could have done some money or fucking business, you're just scamming or I asked for information."
+    },
+    {
+      "start": 59.0,
+      "end": 61.0,
+      "text": "Get a fucking real job."
+    }
+  ],
+  "word_count": 157,
+  "bot_text": "Hello? Hello. Hey, good morning. James here from Nova Health Care, Kansas. I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay. So to check whether you are eligible for this, may I know your age, please? There'll be about 50 of these phone calls, just like you, today, again, and every day for the last three, four months. Don't you ever give up? Yeah, I completely understand how frustrating that can be. But this is my first time reaching out. We are leading aggregators of hospital indemnity plans, and we offer more than just basic hospital stay support. So things like affordable rates, hospital admission benefits, daily stay support, and ICU benefits. Can you please tell me your age? I could have done some money or fucking business, you're just scamming or I asked for information. Get a fucking real job.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello Hey, good morning James here from Nova Health Care, Kansas I'm calling to let you know about a cashback benefit that may help with out-of-pocket expenses of up to $10,000, especially during a hospital stay So to check whether you are eligible for this, may I know your age, please?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "There'll be about 50 of these phone calls, just like you, today, again, and every day for the last three, four months Don't you ever give up? Yeah, I completely understand how frustrating that can be But this is my first time reaching out We are leading aggregators of hospital indemnity plans, and we offer more than just basic hospital stay support So things like affordable rates, hospital admission benefits, daily stay support, and ICU benefits"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you please tell me your age?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I could have done some money or fucking business, you're just scamming or I asked for information Get a fucking real job"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 157
+}

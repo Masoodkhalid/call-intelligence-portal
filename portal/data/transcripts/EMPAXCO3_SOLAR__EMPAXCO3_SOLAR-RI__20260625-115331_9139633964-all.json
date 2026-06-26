@@ -1,0 +1,51 @@
+{
+  "id": "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RI__20260625-115331_9139633964-all",
+  "campaign": "EMPAXCO3_SOLAR",
+  "dispo": "EMPAXCO3_SOLAR-RI",
+  "dispo_label": "EMPAXCO3_SOLAR-RI",
+  "date": "2026-06-25",
+  "time": "11:53:31",
+  "phone": "9139633964",
+  "filename": "20260625-115331_9139633964-all.mp3",
+  "rel_path": "mcc/EMPAXCO3_SOLAR/EMPAXCO3_SOLAR-RI/20260625-115331_9139633964-all.mp3",
+  "duration": 16.34,
+  "text": "Hello. Can you hear me? (phone ringing)",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 13.0,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 13.0,
+      "end": 15.66,
+      "text": "(phone ringing)"
+    }
+  ],
+  "word_count": 7,
+  "bot_text": "Hello. Can you hear me? (phone ringing)",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "(phone ringing)"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 7
+}

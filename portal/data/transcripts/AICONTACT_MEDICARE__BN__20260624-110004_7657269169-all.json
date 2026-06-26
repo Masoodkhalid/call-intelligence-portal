@@ -1,0 +1,76 @@
+{
+  "id": "AICONTACT_MEDICARE__BN__20260624-110004_7657269169-all",
+  "campaign": "AICONTACT_MEDICARE",
+  "dispo": "BN",
+  "dispo_label": "Business Number",
+  "date": "2026-06-24",
+  "time": "11:00:04",
+  "phone": "7657269169",
+  "filename": "20260624-110004_7657269169-all.mp3",
+  "rel_path": "mcc/AICONTACT_MEDICARE/AICONTACT_MEDICARE-BN/20260624-110004_7657269169-all.mp3",
+  "duration": 39.31,
+  "text": "Hello good morning. My name is Rebecca. We worked together on your Medicare plan previously Enrollment new benefits have become available. Let me help you a robot your plan now a robot Medicare part a robot a robot you a robot Thanks for the heads on you a robot might be acting up I just want to quickly check your eligibility for the current Medicare benefits Are you a robot are you currently enrolled in Medicare part a and b? Hey, bitch. Are you a robot? Bitch are you",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.46,
+      "text": "Hello good morning. My name is Rebecca. We worked together on your Medicare plan previously"
+    },
+    {
+      "start": 7.84,
+      "end": 15.7,
+      "text": "Enrollment new benefits have become available. Let me help you a robot your plan now a robot Medicare part a robot"
+    },
+    {
+      "start": 17.2,
+      "end": 19.2,
+      "text": "a robot you a robot"
+    },
+    {
+      "start": 21.12,
+      "end": 23.64,
+      "text": "Thanks for the heads on you a robot might be acting up"
+    },
+    {
+      "start": 23.64,
+      "end": 27.4,
+      "text": "I just want to quickly check your eligibility for the current Medicare benefits"
+    },
+    {
+      "start": 27.4,
+      "end": 32.08,
+      "text": "Are you a robot are you currently enrolled in Medicare part a and b?"
+    },
+    {
+      "start": 32.92,
+      "end": 34.92,
+      "text": "Hey, bitch. Are you a robot?"
+    },
+    {
+      "start": 38.16,
+      "end": 40.16,
+      "text": "Bitch are you"
+    }
+  ],
+  "word_count": 89,
+  "bot_text": "Hello good morning. My name is Rebecca. We worked together on your Medicare plan previously Enrollment new benefits have become available. Let me help you a robot your plan now a robot Medicare part a robot a robot you a robot Thanks for the heads on you a robot might be acting up I just want to quickly check your eligibility for the current Medicare benefits Are you a robot are you currently enrolled in Medicare part a and b? Hey, bitch. Are you a robot? Bitch are you",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello good morning My name is Rebecca"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "We worked together on your Medicare plan previously Enrollment new benefits have become available Let me help you a robot your plan now a robot Medicare part a robot a robot you a robot Thanks for the heads on you a robot might be acting up I just want to quickly check your eligibility for the current Medicare benefits Are you a robot are you currently enrolled in Medicare part a and b? Hey, bitch Are you a robot? Bitch are you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 89
+}
