@@ -1,0 +1,68 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-180314_9513968025-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-26",
+  "time": "18:03:14",
+  "phone": "9513968025",
+  "filename": "20260626-180314_9513968025-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NP/20260626-180314_9513968025-all.mp3",
+  "duration": 20.23,
+  "text": "Hey, how are you doing? It's Caroline calling from Wellness Direct, thanks for picking up. I do what? Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints. To see if you qualify for this, do you have medication?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "start": 3.42,
+      "end": 9.76,
+      "text": "It's Caroline calling from Wellness Direct, thanks for picking up."
+    },
+    {
+      "start": 9.76,
+      "end": 10.76,
+      "text": "I do what?"
+    },
+    {
+      "start": 10.76,
+      "end": 16.36,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints."
+    },
+    {
+      "start": 16.36,
+      "end": 20.18,
+      "text": "To see if you qualify for this, do you have medication?"
+    }
+  ],
+  "word_count": 43,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey, how are you doing? It's Caroline calling from Wellness Direct, thanks for picking up. I do what? Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints. To see if you qualify for this, do you have medication?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "It's Caroline calling from Wellness Direct, thanks for picking up I do what? Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To see if you qualify for this, do you have medication?"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 43
+}

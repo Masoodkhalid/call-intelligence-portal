@@ -48,9 +48,9 @@
     }
   ],
   "word_count": 46,
-  "company": "Empaxco3",
-  "bot_company": "Unknown",
-  "campaign_name": "Fe",
+  "company": "empaxco3",
+  "bot_company": "REEV",
+  "campaign_name": "FE",
   "bot_text": "Hello? Hello, this is Tita Box and please call me back when you can. Bye. Hi, this is Eden. How are you doing today? Record your message after the beep. When you're finished, you may hang up or press pound to review or re-record your message.",
   "post_transfer_trimmed": false,
   "turns": [

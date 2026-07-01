@@ -81,7 +81,15 @@
   "turns": [
     {
       "speaker": "BOT",
-      "text": "Hello? Hello? Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program So have you received any notification about these benefits yet? Hello? Oh, that's all right That's exactly why I'm calling"
+      "text": "Hello? Hello? Hello Good afternoon This is Alyssa I'm calling because there are pending grocery and cash benefits worth up to $300 available on your Medicare account through New Jersey State Relief Program So have you received any notification about these benefits yet? Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, that's all right"
+    },
+    {
+      "speaker": "BOT",
+      "text": "That's exactly why I'm calling"
     },
     {
       "speaker": "CUSTOMER",

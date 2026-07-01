@@ -1,0 +1,99 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-172927_6058508327-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-26",
+  "time": "17:29:27",
+  "phone": "6058508327",
+  "filename": "20260626-172927_6058508327-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-RAXFER/20260626-172927_6058508327-all.mp3",
+  "duration": 58.18,
+  "text": "Hey, how are you doing? Fine. It's Nancy calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints. To see if you qualify for this, do you have Medicare Part A and B? Yeah. Okay, I'm going to connect you with a specialist right now. Hold tight for just a second please. Good afternoon. How are you? Fine. I'm with health care solutions on a recorded line. The reason where we are calling you is just to let you know about a Pracolist diabetic meter. You have diabetes. Oh, yes, I got one message here that coming one day. I guess they can know you don't need to. Hello.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Fine."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "It's Nancy calling from Wellness Direct. Thanks for picking up."
+    },
+    {
+      "start": 10.0,
+      "end": 16.0,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints."
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "To see if you qualify for this, do you have Medicare Part A and B?"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 23.0,
+      "end": 29.0,
+      "text": "Okay, I'm going to connect you with a specialist right now. Hold tight for just a second please."
+    },
+    {
+      "start": 31.0,
+      "end": 36.0,
+      "text": "Good afternoon. How are you?"
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "Fine."
+    },
+    {
+      "start": 38.0,
+      "end": 47.0,
+      "text": "I'm with health care solutions on a recorded line. The reason where we are calling you is just to let you know about a Pracolist diabetic meter. You have diabetes."
+    },
+    {
+      "start": 47.0,
+      "end": 53.0,
+      "text": "Oh, yes, I got one message here that coming one day. I guess they can know you don't need to."
+    },
+    {
+      "start": 53.0,
+      "end": 60.0,
+      "text": "Hello."
+    }
+  ],
+  "word_count": 121,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey, how are you doing? Fine It's Nancy calling from Wellness Direct Thanks for picking up Actually, there's a painless glucose monitor that tracks your sugar all day No fingerprints To see if you qualify for this, do you have Medicare Part A and B? Yeah Okay, I'm going to connect you with a specialist right now Hold tight for just a second please",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Fine It's Nancy calling from Wellness Direct Thanks for picking up Actually, there's a painless glucose monitor that tracks your sugar all day No fingerprints To see if you qualify for this, do you have Medicare Part A and B? Yeah Okay, I'm going to connect you with a specialist right now Hold tight for just a second please"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 64
+}

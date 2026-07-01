@@ -1,0 +1,77 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-172817_4122950998-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-26",
+  "time": "17:28:17",
+  "phone": "4122950998",
+  "filename": "20260626-172817_4122950998-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-DNQ/20260626-172817_4122950998-all.mp3",
+  "duration": 27.43,
+  "text": "Hello. Hello. Hi, this is Samantha with U.S. medical supplies. I hope I caught you at a good time. Who are you looking for? I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Ah, do you have diabetes? No, I don't. I don't have that. That's good. Take care now.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Hello. Hello. Hi, this is Samantha with U.S. medical supplies. I hope I caught you at a good time."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Who are you looking for?"
+    },
+    {
+      "start": 10.0,
+      "end": 17.0,
+      "text": "I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger."
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "text": "Ah, do you have diabetes?"
+    },
+    {
+      "start": 21.0,
+      "end": 25.0,
+      "text": "No, I don't. I don't have that."
+    },
+    {
+      "start": 25.0,
+      "end": 27.0,
+      "text": "That's good. Take care now."
+    }
+  ],
+  "word_count": 59,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello. Hello. Hi, this is Samantha with U.S. medical supplies. I hope I caught you at a good time. Who are you looking for? I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Ah, do you have diabetes? No, I don't. I don't have that. That's good. Take care now.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, this is Samantha with U.S medical supplies I hope I caught you at a good time"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Who are you looking for?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm calling about the continuous glucose monitor It lets you track your blood sugar without pricking your finger Ah, do you have diabetes? No, I don't I don't have that That's good Take care now"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 59
+}

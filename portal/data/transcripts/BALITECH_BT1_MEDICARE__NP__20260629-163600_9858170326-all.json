@@ -1,0 +1,45 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__NP__20260629-163600_9858170326-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-29",
+  "time": "16:36:00",
+  "phone": "9858170326",
+  "filename": "20260629-163600_9858170326-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-NP/20260629-163600_9858170326-all.mp3",
+  "duration": 18.29,
+  "text": "Hello. Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 17.0,
+      "text": "Hello. Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "And that can delay your coverage."
+    }
+  ],
+  "word_count": 35,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "Hello. Hello. Good afternoon. My name is Cassie. So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet. And that can delay your coverage.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon My name is Cassie So I'm calling because your Medicare member profile is showing it hasn't been transferred into Medicare's national database for 2026 yet And that can delay your coverage"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 35
+}

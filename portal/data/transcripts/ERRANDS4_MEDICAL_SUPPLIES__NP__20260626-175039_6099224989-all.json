@@ -1,0 +1,73 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-175039_6099224989-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-26",
+  "time": "17:50:39",
+  "phone": "6099224989",
+  "filename": "20260626-175039_6099224989-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NP/20260626-175039_6099224989-all.mp3",
+  "duration": 21.6,
+  "text": "Hey, how are you doing? It's Adrianne calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No finger prick. To see if you qualify for this, do you have Medicare Pro?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "It's Adrianne calling from Wellness Direct."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Thanks for picking up."
+    },
+    {
+      "start": 8.0,
+      "end": 16.0,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day."
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "No finger prick."
+    },
+    {
+      "start": 18.0,
+      "end": 22.0,
+      "text": "To see if you qualify for this, do you have Medicare Pro?"
+    }
+  ],
+  "word_count": 42,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey, how are you doing? It's Adrianne calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No finger prick. To see if you qualify for this, do you have Medicare Pro?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "It's Adrianne calling from Wellness Direct Thanks for picking up Actually, there's a painless glucose monitor that tracks your sugar all day No finger prick"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To see if you qualify for this, do you have Medicare Pro?"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 42
+}

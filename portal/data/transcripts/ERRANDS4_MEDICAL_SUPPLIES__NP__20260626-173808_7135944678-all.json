@@ -1,0 +1,70 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-173808_7135944678-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-26",
+  "time": "17:38:08",
+  "phone": "7135944678",
+  "filename": "20260626-173808_7135944678-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NP/20260626-173808_7135944678-all.mp3",
+  "duration": 16.7,
+  "text": "Hey, how are you? I'm doing great. It's Jennifer calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints. To see if you qualify for this.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hey, how are you?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "I'm doing great."
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "It's Jennifer calling from Wellness Direct."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Thanks for picking up."
+    },
+    {
+      "start": 7.0,
+      "end": 13.0,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day."
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "No fingerprints."
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "To see if you qualify for this."
+    }
+  ],
+  "word_count": 38,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey, how are you? I'm doing great. It's Jennifer calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints. To see if you qualify for this.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey, how are you? I'm doing great It's Jennifer calling from Wellness Direct Thanks for picking up Actually, there's a painless glucose monitor that tracks your sugar all day No fingerprints To see if you qualify for this"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 38
+}

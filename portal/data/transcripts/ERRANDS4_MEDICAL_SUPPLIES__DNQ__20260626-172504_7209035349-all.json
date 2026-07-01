@@ -1,0 +1,74 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-172504_7209035349-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-26",
+  "time": "17:25:04",
+  "phone": "7209035349",
+  "filename": "20260626-172504_7209035349-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-DNQ/20260626-172504_7209035349-all.mp3",
+  "duration": 42.84,
+  "text": "Hello? Hi, this is Nancy with U.S. medical supplies. Hope I caught you at a good time. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Do you have diabetes? No, not that I know of. No, so I'm assuming that, which you're sorry, I didn't touch that. Just a simple yes or no. Do you currently have diabetes? No. That's good. Take care now.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Hello? Hi, this is Nancy with U.S. medical supplies. Hope I caught you at a good time."
+    },
+    {
+      "start": 8.0,
+      "end": 16.0,
+      "text": "I'm calling about the continuous glucose monitor. It lets you track your blood sugar without"
+    },
+    {
+      "start": 16.0,
+      "end": 21.0,
+      "text": "pricking your finger. Do you have diabetes?"
+    },
+    {
+      "start": 21.0,
+      "end": 32.0,
+      "text": "No, not that I know of. No, so I'm assuming that, which you're sorry, I didn't touch that."
+    },
+    {
+      "start": 32.0,
+      "end": 37.0,
+      "text": "Just a simple yes or no. Do you currently have diabetes?"
+    },
+    {
+      "start": 37.0,
+      "end": 40.0,
+      "text": "No."
+    },
+    {
+      "start": 40.0,
+      "end": 43.0,
+      "text": "That's good. Take care now."
+    }
+  ],
+  "word_count": 74,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello? Hi, this is Nancy with U.S. medical supplies. Hope I caught you at a good time. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Do you have diabetes? No, not that I know of. No, so I'm assuming that, which you're sorry, I didn't touch that. Just a simple yes or no. Do you currently have diabetes? No. That's good. Take care now.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, this is Nancy with U.S medical supplies Hope I caught you at a good time I'm calling about the continuous glucose monitor It lets you track your blood sugar without pricking your finger Do you have diabetes? No, not that I know of No, so I'm assuming that, which you're sorry, I didn't touch that Just a simple yes or no Do you currently have diabetes? No That's good Take care now"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 74
+}

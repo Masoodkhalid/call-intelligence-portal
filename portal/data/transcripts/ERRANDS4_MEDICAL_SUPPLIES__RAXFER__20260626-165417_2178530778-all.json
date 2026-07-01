@@ -1,0 +1,80 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-165417_2178530778-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-26",
+  "time": "16:54:17",
+  "phone": "2178530778",
+  "filename": "20260626-165417_2178530778-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-RAXFER/20260626-165417_2178530778-all.mp3",
+  "duration": 41.9,
+  "text": "\"Hey, how are you doing?\" \"It's Adriana calling from Wellness Direct. Thanks for picking up.\" \"Actually, there's a painless glucose monitor that tracks your sugar all day.\" \"No finger prick.\" \"To see if you qualify for this, do you have Medicare Part A and B?\" \"Yes.\" \"Okay, I'm going to connect you with a specialist right now. Hold tight for just a second, please.\" \"The number you have dialed is not in service. Please check the number and try again. Goodbye.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "\"Hey, how are you doing?\""
+    },
+    {
+      "start": 2.0,
+      "end": 7.0,
+      "text": "\"It's Adriana calling from Wellness Direct. Thanks for picking up.\""
+    },
+    {
+      "start": 10.0,
+      "end": 16.0,
+      "text": "\"Actually, there's a painless glucose monitor that tracks your sugar all day.\""
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "\"No finger prick.\""
+    },
+    {
+      "start": 18.0,
+      "end": 23.0,
+      "text": "\"To see if you qualify for this, do you have Medicare Part A and B?\""
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "text": "\"Yes.\""
+    },
+    {
+      "start": 25.0,
+      "end": 29.0,
+      "text": "\"Okay, I'm going to connect you with a specialist right now."
+    },
+    {
+      "start": 29.0,
+      "end": 31.0,
+      "text": "Hold tight for just a second, please.\""
+    },
+    {
+      "start": 36.0,
+      "end": 42.0,
+      "text": "\"The number you have dialed is not in service. Please check the number and try again. Goodbye.\""
+    }
+  ],
+  "word_count": 81,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "\"Hey, how are you doing?\" \"It's Adriana calling from Wellness Direct Thanks for picking up.\" \"Actually, there's a painless glucose monitor that tracks your sugar all day.\" \"No finger prick.\" \"To see if you qualify for this, do you have Medicare Part A and B?\" \"Yes.\" \"Okay, I'm going to connect you with a specialist right now Hold tight for just a second, please.\" \"The number you have dialed is not in service",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hey, how are you doing?\" \"It's Adriana calling from Wellness Direct Thanks for picking up.\" \"Actually, there's a painless glucose monitor that tracks your sugar all day.\" \"No finger prick.\" \"To see if you qualify for this, do you have Medicare Part A and B?\" \"Yes.\" \"Okay, I'm going to connect you with a specialist right now Hold tight for just a second, please.\" \"The number you have dialed is not in service"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 73
+}

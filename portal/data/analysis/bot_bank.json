@@ -1,17 +1,17 @@
 {
-  "threshold": 17,
+  "threshold": 18,
   "lines": [
     [
       "are you there",
-      244
+      253
     ],
     [
       "good afternoon",
-      200
+      214
     ],
     [
       "my name is <NAME>",
-      152
+      154
     ],
     [
       "this is <NAME>",
@@ -19,7 +19,7 @@
     ],
     [
       "can you hear me",
-      140
+      147
     ],
     [
       "good morning",
@@ -27,7 +27,7 @@
     ],
     [
       "have a great day",
-      77
+      82
     ],
     [
       "hey good morning",
@@ -39,6 +39,10 @@
     ],
     [
       "so i m calling because your medicare member profile hasn t been transferred into medicare s national database for <YEAR> yet",
+      58
+    ],
+    [
+      "do you have both part a and part b",
       56
     ],
     [
@@ -46,12 +50,12 @@
       55
     ],
     [
-      "do you have both part a and part b",
+      "so have you received any notification about these benefits yet",
       54
     ],
     [
-      "so have you received any notification about these benefits yet",
-      54
+      "blank audio",
+      52
     ],
     [
       "how are you doing today",
@@ -74,10 +78,6 @@
       48
     ],
     [
-      "blank audio",
-      45
-    ],
-    [
       "so have you been notified about these benefits yet",
       45
     ],
@@ -94,15 +94,15 @@
       41
     ],
     [
-      "there s a note on your medicare profile that your <YEAR> update hasn t been confirmed",
-      38
+      "so i m calling because your medicare member profile is showing it hasn t been transferred into medicare s national database for <YEAR> yet",
+      39
     ],
     [
       "when that transfer is missing it can cause delays in your coverage approvals",
-      38
+      39
     ],
     [
-      "so i m calling because your medicare member profile is showing it hasn t been transferred into medicare s national database for <YEAR> yet",
+      "there s a note on your medicare profile that your <YEAR> update hasn t been confirmed",
       38
     ],
     [
@@ -248,10 +248,6 @@
     [
       "i m calling to let you know about a cashback benefit that can help with out of pocket expenses of up to <NUM> <NUM> especially during a hospital stay",
       18
-    ],
-    [
-      "oh that s all right",
-      17
     ]
   ]
 }

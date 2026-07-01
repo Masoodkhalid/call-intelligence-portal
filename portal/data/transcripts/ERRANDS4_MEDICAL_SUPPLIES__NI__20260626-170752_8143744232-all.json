@@ -1,0 +1,55 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NI__20260626-170752_8143744232-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-26",
+  "time": "17:07:52",
+  "phone": "8143744232",
+  "filename": "20260626-170752_8143744232-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NI/20260626-170752_8143744232-all.mp3",
+  "duration": 37.66,
+  "text": "theater hello call back when we can um hi this is nancy with us medical supplies uh hope i caught you at a good time um i'm calling about the continuous glucose monitor it lets you track your blood sugar without pricking your finger ah do you have diabetes sorry i didn't catch that um just a simple yes or no uh do you currently have diabetes",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.96,
+      "text": "theater hello call back when we can um hi this is nancy with us medical supplies uh hope i"
+    },
+    {
+      "start": 6.96,
+      "end": 14.88,
+      "text": "caught you at a good time um i'm calling about the continuous glucose monitor it lets you track"
+    },
+    {
+      "start": 14.88,
+      "end": 22.32,
+      "text": "your blood sugar without pricking your finger ah do you have diabetes"
+    },
+    {
+      "start": 26.24,
+      "end": 38.08,
+      "text": "sorry i didn't catch that um just a simple yes or no uh do you currently have diabetes"
+    }
+  ],
+  "word_count": 67,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "theater hello call back when we can um hi this is nancy with us medical supplies uh hope i caught you at a good time um i'm calling about the continuous glucose monitor it lets you track your blood sugar without pricking your finger ah do you have diabetes sorry i didn't catch that um just a simple yes or no uh do you currently have diabetes",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "theater hello call back when we can um hi this is nancy with us medical supplies uh hope i caught you at a good time um i'm calling about the continuous glucose monitor it lets you track your blood sugar without pricking your finger ah do you have diabetes sorry i didn't catch that um just a simple yes or no uh do you currently have diabetes"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 67
+}

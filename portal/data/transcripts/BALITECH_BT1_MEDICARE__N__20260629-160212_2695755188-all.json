@@ -1,0 +1,45 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__N__20260629-160212_2695755188-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "N",
+  "dispo_label": "No Answer",
+  "date": "2026-06-29",
+  "time": "16:02:12",
+  "phone": "2695755188",
+  "filename": "20260629-160212_2695755188-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-N/20260629-160212_2695755188-all.mp3",
+  "duration": 13.18,
+  "text": "Hello? Are you there?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Are you there?"
+    }
+  ],
+  "word_count": 4,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "Hello? Are you there?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 4
+}

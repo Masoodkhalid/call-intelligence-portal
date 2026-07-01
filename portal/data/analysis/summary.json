@@ -1,19 +1,19 @@
 {
-  "total_calls": 1471,
-  "transfers": 147,
-  "transfer_rate": 10.0,
+  "total_calls": 1553,
+  "transfers": 168,
+  "transfer_rate": 10.8,
   "dispo_counts": {
     "A": 149,
     "BDNC": 119,
     "BN": 40,
     "DAIR": 120,
     "DC": 120,
-    "DNQ": 151,
+    "DNQ": 167,
     "LB": 70,
-    "NI": 151,
-    "NP": 145,
-    "N": 149,
-    "RAXFER": 147,
+    "NI": 169,
+    "NP": 166,
+    "N": 155,
+    "RAXFER": 168,
     "RI": 30,
     "LH": 80
   },
@@ -57,30 +57,27 @@
         "RAXFER": 20
       }
     },
-    "Empaxco3": {
-      "count": 75,
+    "balitech-bt1": {
+      "count": 37,
       "wins": 8,
-      "transfer_rate": 10.7,
+      "transfer_rate": 21.6,
       "campaigns": [
-        "Fe"
+        "Medicare"
       ],
       "bot_companies": [
-        "Unknown"
+        "Confinality"
       ],
       "dispo_counts": {
-        "A": 10,
-        "DNQ": 10,
-        "LB": 10,
-        "NI": 10,
+        "DNQ": 7,
+        "NI": 8,
         "NP": 8,
-        "N": 9,
-        "RAXFER": 8,
-        "RI": 10
+        "N": 6,
+        "RAXFER": 8
       }
     },
     "empaxco3": {
-      "count": 150,
-      "wins": 16,
+      "count": 225,
+      "wins": 24,
       "transfer_rate": 10.7,
       "campaigns": [
         "FE"
@@ -89,14 +86,31 @@
         "REEV"
       ],
       "dispo_counts": {
-        "A": 20,
-        "DNQ": 20,
-        "LB": 20,
-        "NI": 20,
-        "NP": 16,
-        "N": 18,
-        "RAXFER": 16,
-        "RI": 20
+        "A": 30,
+        "DNQ": 30,
+        "LB": 30,
+        "NI": 30,
+        "NP": 24,
+        "N": 27,
+        "RAXFER": 24,
+        "RI": 30
+      }
+    },
+    "errands4": {
+      "count": 45,
+      "wins": 13,
+      "transfer_rate": 28.9,
+      "campaigns": [
+        "Medical Supplies"
+      ],
+      "bot_companies": [
+        "ISPER"
+      ],
+      "dispo_counts": {
+        "DNQ": 9,
+        "NI": 10,
+        "NP": 13,
+        "RAXFER": 13
       }
     },
     "Halink(Hihalink)": {
@@ -217,10 +231,11 @@
     }
   },
   "all_companies": [
-    "Empaxco3",
     "Halink(Hihalink)",
     "aicontact",
+    "balitech-bt1",
     "empaxco3",
+    "errands4",
     "mcc11",
     "mcc3",
     "mcc5",
@@ -228,13 +243,13 @@
   ],
   "all_campaigns": [
     "FE",
-    "Fe",
+    "Medical Supplies",
     "Medicare"
   ],
   "all_bot_companies": [
     "Confinality",
-    "REEV",
-    "Unknown"
+    "ISPER",
+    "REEV"
   ],
-  "avg_duration": 36.3
+  "avg_duration": 36.7
 }

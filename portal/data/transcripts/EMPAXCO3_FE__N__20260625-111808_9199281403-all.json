@@ -23,9 +23,9 @@
     }
   ],
   "word_count": 7,
-  "company": "Empaxco3",
-  "bot_company": "Unknown",
-  "campaign_name": "Fe",
+  "company": "empaxco3",
+  "bot_company": "REEV",
+  "campaign_name": "FE",
   "bot_text": "Hello? *clears throat* Can you hear me?",
   "post_transfer_trimmed": false,
   "turns": [

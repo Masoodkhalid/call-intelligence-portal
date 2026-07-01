@@ -1,0 +1,119 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-165113_2607024080-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-26",
+  "time": "16:51:13",
+  "phone": "2607024080",
+  "filename": "20260626-165113_2607024080-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-RAXFER/20260626-165113_2607024080-all.mp3",
+  "duration": 65.16,
+  "text": "Hey, how are you doing? It's Samantha calling for a wellness track. Thanks for picking up. You're welcome. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints. To see if you qualify for this, do you have Medicare Part A and B? I do. Okay. I'm going to connect you with a specialist right now. Hold tight for just a second, please. Hi, my name is Samantha, health care patient on the court, and I, how are you? Oh, I'm good. I just heard I don't have to prick my finger anymore and can have a pain-free glucose monitor with my medicate. So you have Medicare and Medicaid both to just Medicaid. I've been pricking my finger.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "It's Samantha calling for a wellness track."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Thanks for picking up."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "You're welcome."
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day."
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "No fingerprints."
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "text": "To see if you qualify for this, do you have Medicare Part A and B?"
+    },
+    {
+      "start": 22.0,
+      "end": 29.0,
+      "text": "I do."
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "text": "Okay."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "I'm going to connect you with a specialist right now."
+    },
+    {
+      "start": 32.0,
+      "end": 38.0,
+      "text": "Hold tight for just a second, please."
+    },
+    {
+      "start": 38.0,
+      "end": 49.0,
+      "text": "Hi, my name is Samantha, health care patient on the court, and I, how are you?"
+    },
+    {
+      "start": 49.0,
+      "end": 51.0,
+      "text": "Oh, I'm good."
+    },
+    {
+      "start": 51.0,
+      "end": 57.0,
+      "text": "I just heard I don't have to prick my finger anymore and can have a pain-free glucose monitor with my medicate."
+    },
+    {
+      "start": 57.0,
+      "end": 62.0,
+      "text": "So you have Medicare and Medicaid both to just Medicaid."
+    },
+    {
+      "start": 62.0,
+      "end": 65.0,
+      "text": "I've been pricking my finger."
+    }
+  ],
+  "word_count": 122,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey, how are you doing? It's Samantha calling for a wellness track Thanks for picking up You're welcome Actually, there's a painless glucose monitor that tracks your sugar all day No fingerprints To see if you qualify for this, do you have Medicare Part A and B? I do Okay I'm going to connect you with a specialist right now Hold tight for just a second, please",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "It's Samantha calling for a wellness track Thanks for picking up You're welcome Actually, there's a painless glucose monitor that tracks your sugar all day No fingerprints To see if you qualify for this, do you have Medicare Part A and B? I do Okay I'm going to connect you with a specialist right now Hold tight for just a second, please"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 67
+}

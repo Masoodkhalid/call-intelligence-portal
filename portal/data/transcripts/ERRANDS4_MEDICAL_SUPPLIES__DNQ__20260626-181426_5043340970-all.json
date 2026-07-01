@@ -1,0 +1,160 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-181426_5043340970-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-26",
+  "time": "18:14:26",
+  "phone": "5043340970",
+  "filename": "20260626-181426_5043340970-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-DNQ/20260626-181426_5043340970-all.mp3",
+  "duration": 39.67,
+  "text": "Hey, how are you doing? Good. I'm being fine. How are you? It's Harper calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints. To see if you qualify for this, do you have Medicare Part A and B? I am not that bad. I see. I am not. Sorry about that. I missed what you said. Just need a quick yes or no. Do you have Medicare Part A and B? No. I don't. I don't think you're doing this Friday. Appreciate your time. Enjoy your day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "start": 1.76,
+      "end": 2.76,
+      "text": "Good."
+    },
+    {
+      "start": 2.76,
+      "end": 3.76,
+      "text": "I'm being fine."
+    },
+    {
+      "start": 3.76,
+      "end": 4.76,
+      "text": "How are you?"
+    },
+    {
+      "start": 4.76,
+      "end": 5.76,
+      "text": "It's Harper calling from Wellness Direct."
+    },
+    {
+      "start": 5.76,
+      "end": 7.6,
+      "text": "Thanks for picking up."
+    },
+    {
+      "start": 7.6,
+      "end": 13.5,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day."
+    },
+    {
+      "start": 13.5,
+      "end": 14.5,
+      "text": "No fingerprints."
+    },
+    {
+      "start": 14.5,
+      "end": 19.12,
+      "text": "To see if you qualify for this, do you have Medicare Part A and B?"
+    },
+    {
+      "start": 19.12,
+      "end": 21.04,
+      "text": "I am not that bad."
+    },
+    {
+      "start": 21.04,
+      "end": 23.04,
+      "text": "I see."
+    },
+    {
+      "start": 23.04,
+      "end": 24.04,
+      "text": "I am not."
+    },
+    {
+      "start": 24.04,
+      "end": 25.04,
+      "text": "Sorry about that."
+    },
+    {
+      "start": 25.04,
+      "end": 26.04,
+      "text": "I missed what you said."
+    },
+    {
+      "start": 26.04,
+      "end": 27.68,
+      "text": "Just need a quick yes or no."
+    },
+    {
+      "start": 27.68,
+      "end": 30.08,
+      "text": "Do you have Medicare Part A and B?"
+    },
+    {
+      "start": 30.08,
+      "end": 31.08,
+      "text": "No."
+    },
+    {
+      "start": 31.08,
+      "end": 32.08,
+      "text": "I don't."
+    },
+    {
+      "start": 32.08,
+      "end": 37.2,
+      "text": "I don't think you're doing this Friday."
+    },
+    {
+      "start": 37.2,
+      "end": 38.44,
+      "text": "Appreciate your time."
+    },
+    {
+      "start": 38.44,
+      "end": 39.2,
+      "text": "Enjoy your day."
+    }
+  ],
+  "word_count": 100,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey, how are you doing? Good. I'm being fine. How are you? It's Harper calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints. To see if you qualify for this, do you have Medicare Part A and B? I am not that bad. I see. I am not. Sorry about that. I missed what you said. Just need a quick yes or no. Do you have Medicare Part A and B? No. I don't. I don't think you're doing this Friday. Appreciate your time. Enjoy your day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Good I'm being fine How are you? It's Harper calling from Wellness Direct Thanks for picking up Actually, there's a painless glucose monitor that tracks your sugar all day No fingerprints"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To see if you qualify for this, do you have Medicare Part A and B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I am not that bad I see I am not Sorry about that I missed what you said Just need a quick yes or no"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Do you have Medicare Part A and B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No I don't I don't think you're doing this Friday Appreciate your time Enjoy your day"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 100
+}

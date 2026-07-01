@@ -1,0 +1,80 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NI__20260626-181426_9362756630-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-26",
+  "time": "18:14:26",
+  "phone": "9362756630",
+  "filename": "20260626-181426_9362756630-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NI/20260626-181426_9362756630-all.mp3",
+  "duration": 28.01,
+  "text": "Hey. How are you doing? It's Nancy calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints. To see if you qualify for this, do you have Medicare Part A and B? I don't lay them down. Find your prick here. [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hey. How are you doing? It's Nancy calling from Wellness Direct. Thanks for picking up."
+    },
+    {
+      "start": 7.0,
+      "end": 15.0,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints."
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "text": "To see if you qualify for this, do you have Medicare Part A and B?"
+    },
+    {
+      "start": 20.0,
+      "end": 26.0,
+      "text": "I don't lay them down. Find your prick here."
+    },
+    {
+      "start": 26.0,
+      "end": 36.0,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 54,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey. How are you doing? It's Nancy calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints. To see if you qualify for this, do you have Medicare Part A and B? I don't lay them down. Find your prick here. [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey"
+    },
+    {
+      "speaker": "BOT",
+      "text": "How are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "It's Nancy calling from Wellness Direct Thanks for picking up Actually, there's a painless glucose monitor that tracks your sugar all day No fingerprints"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To see if you qualify for this, do you have Medicare Part A and B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I don't lay them down Find your prick here"
+    },
+    {
+      "speaker": "BOT",
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 54
+}

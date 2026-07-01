@@ -1,0 +1,180 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NI__20260626-165652_7186744310-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-26",
+  "time": "16:56:52",
+  "phone": "7186744310",
+  "filename": "20260626-165652_7186744310-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NI/20260626-165652_7186744310-all.mp3",
+  "duration": 42.34,
+  "text": "Hello. Hello. Who are you? Hi. This is Nancy with U.S. Medical Supplies. I hope I caught you at a good time. Who are you? I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Ah. Do you have diabetes? Yes, I can. I don't know. Sorry. I didn't catch that. Just a simple yes or no. Ah. Do you currently have diabetes? You already. Okay. Yeah. Bye. Bye. Bye. Bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Who are you?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Hi."
+    },
+    {
+      "start": 4.0,
+      "end": 5.52,
+      "text": "This is Nancy with U.S. Medical Supplies."
+    },
+    {
+      "start": 5.52,
+      "end": 8.92,
+      "text": "I hope I caught you at a good time."
+    },
+    {
+      "start": 8.92,
+      "end": 11.0,
+      "text": "Who are you?"
+    },
+    {
+      "start": 11.0,
+      "end": 13.28,
+      "text": "I'm calling about the continuous glucose monitor."
+    },
+    {
+      "start": 13.28,
+      "end": 17.12,
+      "text": "It lets you track your blood sugar without pricking your finger."
+    },
+    {
+      "start": 17.12,
+      "end": 18.12,
+      "text": "Ah."
+    },
+    {
+      "start": 18.12,
+      "end": 20.76,
+      "text": "Do you have diabetes?"
+    },
+    {
+      "start": 20.76,
+      "end": 23.28,
+      "text": "Yes, I can."
+    },
+    {
+      "start": 23.28,
+      "end": 25.08,
+      "text": "I don't know."
+    },
+    {
+      "start": 25.08,
+      "end": 26.08,
+      "text": "Sorry."
+    },
+    {
+      "start": 26.08,
+      "end": 27.08,
+      "text": "I didn't catch that."
+    },
+    {
+      "start": 27.08,
+      "end": 29.28,
+      "text": "Just a simple yes or no."
+    },
+    {
+      "start": 29.28,
+      "end": 30.28,
+      "text": "Ah."
+    },
+    {
+      "start": 30.28,
+      "end": 32.94,
+      "text": "Do you currently have diabetes?"
+    },
+    {
+      "start": 32.94,
+      "end": 34.94,
+      "text": "You already."
+    },
+    {
+      "start": 34.94,
+      "end": 35.94,
+      "text": "Okay."
+    },
+    {
+      "start": 35.94,
+      "end": 36.94,
+      "text": "Yeah."
+    },
+    {
+      "start": 36.94,
+      "end": 37.94,
+      "text": "Bye."
+    },
+    {
+      "start": 37.94,
+      "end": 38.94,
+      "text": "Bye."
+    },
+    {
+      "start": 38.94,
+      "end": 39.94,
+      "text": "Bye."
+    },
+    {
+      "start": 39.94,
+      "end": 39.94,
+      "text": "Bye."
+    }
+  ],
+  "word_count": 79,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello. Hello. Who are you? Hi. This is Nancy with U.S. Medical Supplies. I hope I caught you at a good time. Who are you? I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Ah. Do you have diabetes? Yes, I can. I don't know. Sorry. I didn't catch that. Just a simple yes or no. Ah. Do you currently have diabetes? You already. Okay. Yeah. Bye. Bye. Bye. Bye.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Who are you?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hi"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is Nancy with U.S Medical Supplies I hope I caught you at a good time Who are you? I'm calling about the continuous glucose monitor It lets you track your blood sugar without pricking your finger Ah Do you have diabetes? Yes, I can I don't know Sorry"
+    },
+    {
+      "speaker": "BOT",
+      "text": "I didn't catch that"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Just a simple yes or no Ah Do you currently have diabetes? You already Okay Yeah Bye Bye Bye Bye"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 79
+}

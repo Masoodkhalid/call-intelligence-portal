@@ -1,0 +1,54 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__NP__20260629-160931_9802516322-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-29",
+  "time": "16:09:31",
+  "phone": "9802516322",
+  "filename": "20260629-160931_9802516322-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-NP/20260629-160931_9802516322-all.mp3",
+  "duration": 14.83,
+  "text": "Hello? Hello? Good evening. My name is Lena. I'm just checking something as per our records from your local county in the state of North Carolina. So just quickly confirm, both part A and B are-",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello? Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 12.0,
+      "text": "Good evening. My name is Lena. I'm just checking something as per our records from your local county in the state of North Carolina."
+    },
+    {
+      "start": 12.0,
+      "end": 14.84,
+      "text": "So just quickly confirm, both part A and B are-"
+    }
+  ],
+  "word_count": 36,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "Hello? Hello? Good evening. My name is Lena. I'm just checking something as per our records from your local county in the state of North Carolina. So just quickly confirm, both part A and B are-",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good evening"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Lena I'm just checking something as per our records from your local county in the state of North Carolina So just quickly confirm, both part A and B are"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 36
+}

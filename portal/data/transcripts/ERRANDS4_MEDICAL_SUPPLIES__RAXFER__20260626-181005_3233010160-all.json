@@ -1,0 +1,82 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-181005_3233010160-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-26",
+  "time": "18:10:05",
+  "phone": "3233010160",
+  "filename": "20260626-181005_3233010160-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-RAXFER/20260626-181005_3233010160-all.mp3",
+  "duration": 80.93,
+  "text": "Hello. Yes. Hi, this is Samantha with U.S. medical supplies. I hope I caught you at a good time. Okay. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Do you have diabetes? Yes. Okay. Let me grab a specialist real quick. Hang on just a second. Hello. This is Mark from healthcare solutions on recorded line. How are you? I'm fine. Well, I've called you about a diabetic monitor and do you have diabetes? Yes. And do you would check insulin? Yes. Which insulin is that? Lantas? Humor log? No, but log? No, only. And that is how many times in the day do you check the Lantas?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Hello. Yes. Hi, this is Samantha with U.S. medical supplies. I hope I caught you at a good time."
+    },
+    {
+      "start": 8.0,
+      "end": 17.0,
+      "text": "Okay. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger."
+    },
+    {
+      "start": 17.0,
+      "end": 37.0,
+      "text": "Do you have diabetes? Yes. Okay. Let me grab a specialist real quick. Hang on just a second."
+    },
+    {
+      "start": 37.0,
+      "end": 44.0,
+      "text": "Hello. This is Mark from healthcare solutions on recorded line. How are you?"
+    },
+    {
+      "start": 44.0,
+      "end": 56.0,
+      "text": "I'm fine. Well, I've called you about a diabetic monitor and do you have diabetes? Yes."
+    },
+    {
+      "start": 56.0,
+      "end": 72.0,
+      "text": "And do you would check insulin? Yes. Which insulin is that? Lantas? Humor log? No, but log? No, only."
+    },
+    {
+      "start": 72.0,
+      "end": 85.0,
+      "text": "And that is how many times in the day do you check the Lantas?"
+    }
+  ],
+  "word_count": 118,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello. Yes. Hi, this is Samantha with U.S. medical supplies. I hope I caught you at a good time. Okay. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Do you have diabetes? Yes. Okay. Let me grab a specialist real quick. Hang on just a second. Hello. This is Mark from healthcare solutions on recorded line. How are you? I'm fine. Well, I've called you about a diabetic monitor and do you have diabetes? Yes. And do you would check insulin? Yes. Which insulin is that? Lantas? Humor log? No, but log? No, only. And that is how many times in the day do you check the Lantas?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes Hi, this is Samantha with U.S medical supplies I hope I caught you at a good time Okay I'm calling about the continuous glucose monitor It lets you track your blood sugar without pricking your finger Do you have diabetes? Yes Okay Let me grab a specialist real quick Hang on just a second"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is Mark from healthcare solutions on recorded line How are you? I'm fine Well, I've called you about a diabetic monitor and do you have diabetes? Yes And do you would check insulin? Yes Which insulin is that? Lantas? Humor log? No, but log? No, only And that is how many times in the day do you check the Lantas?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 118
+}

@@ -1,0 +1,106 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__NI__20260629-165316_2676607006-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-29",
+  "time": "16:53:16",
+  "phone": "2676607006",
+  "filename": "20260629-165316_2676607006-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-NI/20260629-165316_2676607006-all.mp3",
+  "duration": 42.12,
+  "text": "Hello? I won't be going anywhere for quite some time. However, feel free to leave this place. Good evening. My name is Julia. Just don't get into that. I'm just checking something as for our records from your local county in the state of Pennsylvania. And this will be quick. So you're currently enrolled in Medicare Part A and B, correct? I'm sorry, but can you speak English? [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 3.84,
+      "text": "I won't be going anywhere for quite some time."
+    },
+    {
+      "start": 3.84,
+      "end": 6.88,
+      "text": "However, feel free to leave this place."
+    },
+    {
+      "start": 6.88,
+      "end": 7.88,
+      "text": "Good evening."
+    },
+    {
+      "start": 7.88,
+      "end": 8.88,
+      "text": "My name is Julia."
+    },
+    {
+      "start": 8.88,
+      "end": 9.88,
+      "text": "Just don't get into that."
+    },
+    {
+      "start": 9.88,
+      "end": 16.0,
+      "text": "I'm just checking something as for our records from your local county in the state of Pennsylvania."
+    },
+    {
+      "start": 16.0,
+      "end": 17.24,
+      "text": "And this will be quick."
+    },
+    {
+      "start": 17.24,
+      "end": 21.56,
+      "text": "So you're currently enrolled in Medicare Part A and B, correct?"
+    },
+    {
+      "start": 21.56,
+      "end": 29.84,
+      "text": "I'm sorry, but can you speak English?"
+    },
+    {
+      "start": 29.84,
+      "end": 38.84,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 69,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "Hello? I won't be going anywhere for quite some time. However, feel free to leave this place. Good evening. My name is Julia. Just don't get into that. I'm just checking something as for our records from your local county in the state of Pennsylvania. And this will be quick. So you're currently enrolled in Medicare Part A and B, correct? I'm sorry, but can you speak English? [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I won't be going anywhere for quite some time However, feel free to leave this place"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good evening"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Julia Just don't get into that I'm just checking something as for our records from your local county in the state of Pennsylvania And this will be quick So you're currently enrolled in Medicare Part A and B, correct? I'm sorry, but can you speak English?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 69
+}

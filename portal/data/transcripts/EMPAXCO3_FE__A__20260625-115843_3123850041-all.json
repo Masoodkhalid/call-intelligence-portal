@@ -28,9 +28,9 @@
     }
   ],
   "word_count": 9,
-  "company": "Empaxco3",
-  "bot_company": "Unknown",
-  "campaign_name": "Fe",
+  "company": "empaxco3",
+  "bot_company": "REEV",
+  "campaign_name": "FE",
   "bot_text": "Hello? Can't take your call now. At the time...",
   "post_transfer_trimmed": false,
   "turns": [

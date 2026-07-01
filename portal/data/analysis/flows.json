@@ -537,27 +537,27 @@
     "dispo": "DNQ",
     "label": "Did Not Qualify",
     "is_win": false,
-    "count": 151,
-    "avg_duration": 36.1,
-    "avg_words": 80.0,
+    "count": 167,
+    "avg_duration": 35.7,
+    "avg_words": 78.8,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 148,
-        "pct": 98.0
+        "count": 161,
+        "pct": 96.4
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 151,
-        "pct": 100.0
+        "count": 161,
+        "pct": 96.4
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 130,
-        "pct": 86.1
+        "count": 146,
+        "pct": 87.4
       },
       {
         "key": "transfer",
@@ -568,8 +568,8 @@
       {
         "key": "disqualify",
         "label": "Disqualified",
-        "count": 108,
-        "pct": 71.5
+        "count": 113,
+        "pct": 67.7
       }
     ],
     "top_customer_lines": [
@@ -602,7 +602,15 @@
         4
       ],
       [
+        "my name is julia i'm just checking something as per our records from your local ",
+        4
+      ],
+      [
         "thank you",
+        4
+      ],
+      [
+        "no oh, that's all right",
         4
       ],
       [
@@ -611,14 +619,6 @@
       ],
       [
         "yes hi, my name is lisa",
-        3
-      ],
-      [
-        "hi, my name is emma i'm calling about the final expensive churn option that may ",
-        3
-      ],
-      [
-        "my name is emma",
         3
       ]
     ],
@@ -779,33 +779,33 @@
     "dispo": "NI",
     "label": "Not Interested",
     "is_win": false,
-    "count": 151,
-    "avg_duration": 38.9,
-    "avg_words": 68.0,
+    "count": 169,
+    "avg_duration": 38.6,
+    "avg_words": 67.7,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 151,
-        "pct": 100.0
+        "count": 166,
+        "pct": 98.2
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 136,
-        "pct": 90.1
+        "count": 148,
+        "pct": 87.6
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 85,
-        "pct": 56.3
+        "count": 102,
+        "pct": 60.4
       },
       {
         "key": "transfer",
         "label": "Transfer to agent",
-        "count": 0,
-        "pct": 0.0
+        "count": 1,
+        "pct": 0.6
       },
       {
         "key": "disqualify",
@@ -820,12 +820,12 @@
         8
       ],
       [
-        "i'm sorry",
+        "hey",
         8
       ],
       [
-        "hey",
-        7
+        "i'm sorry",
+        8
       ],
       [
         "yes, so i was asking if you've received the notification about the pending credi",
@@ -852,7 +852,7 @@
         3
       ],
       [
-        "so check if you qualify",
+        "okay, all right so check if you qualify",
         3
       ],
       [
@@ -894,27 +894,27 @@
     "dispo": "NP",
     "label": "No Pitch (cut early)",
     "is_win": false,
-    "count": 145,
-    "avg_duration": 25.3,
-    "avg_words": 46.3,
+    "count": 166,
+    "avg_duration": 24.3,
+    "avg_words": 44.9,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 142,
-        "pct": 97.9
+        "count": 154,
+        "pct": 92.8
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 126,
-        "pct": 86.9
+        "count": 133,
+        "pct": 80.1
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 25,
-        "pct": 17.2
+        "count": 34,
+        "pct": 20.5
       },
       {
         "key": "transfer",
@@ -931,16 +931,16 @@
     ],
     "top_customer_lines": [
       [
-        "i'm sorry",
-        8
-      ],
-      [
         "hey",
-        7
+        9
       ],
       [
         "yes",
-        7
+        8
+      ],
+      [
+        "i'm sorry",
+        8
       ],
       [
         "i want to help you get these benefits processed before they go unclaimed",
@@ -997,27 +997,27 @@
     "dispo": "N",
     "label": "No Answer",
     "is_win": false,
-    "count": 149,
-    "avg_duration": 13.1,
-    "avg_words": 4.9,
+    "count": 155,
+    "avg_duration": 13.2,
+    "avg_words": 5.2,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 147,
+        "count": 153,
         "pct": 98.7
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 0,
-        "pct": 0.0
+        "count": 1,
+        "pct": 0.6
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 0,
-        "pct": 0.0
+        "count": 1,
+        "pct": 0.6
       },
       {
         "key": "transfer",
@@ -1050,6 +1050,14 @@
         2
       ],
       [
+        "my name is lina i'm just checking something from our records from your local cou",
+        1
+      ],
+      [
+        "to review",
+        1
+      ],
+      [
         "i am",
         1
       ],
@@ -1072,14 +1080,6 @@
       [
         "at the telling, please record your message when you've finished recording you ma",
         1
-      ],
-      [
-        "hello are you there to review?",
-        1
-      ],
-      [
-        "here we go",
-        1
       ]
     ],
     "top_objections": [
@@ -1100,39 +1100,39 @@
     "dispo": "RAXFER",
     "label": "Transferred to Agent",
     "is_win": true,
-    "count": 147,
-    "avg_duration": 139.6,
-    "avg_words": 107.1,
+    "count": 168,
+    "avg_duration": 134.3,
+    "avg_words": 107.0,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 145,
-        "pct": 98.6
+        "count": 161,
+        "pct": 95.8
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
-        "count": 138,
-        "pct": 93.9
+        "count": 154,
+        "pct": 91.7
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
-        "count": 117,
-        "pct": 79.6
+        "count": 138,
+        "pct": 82.1
       },
       {
         "key": "transfer",
         "label": "Transfer to agent",
-        "count": 132,
-        "pct": 89.8
+        "count": 152,
+        "pct": 90.5
       },
       {
         "key": "disqualify",
         "label": "Disqualified",
         "count": 1,
-        "pct": 0.7
+        "pct": 0.6
       }
     ],
     "top_customer_lines": [
@@ -1157,6 +1157,14 @@
         4
       ],
       [
+        "yeah",
+        3
+      ],
+      [
+        "good afternoon my name is cassie so i'm calling because your medicare member pro",
+        3
+      ],
+      [
         "hello hello hi, my name is ervin i'm calling about final expense coverage option",
         3
       ],
@@ -1175,20 +1183,20 @@
       [
         "i am between 40 and 85 years old perfect you are qualified for the low cost fina",
         3
-      ],
-      [
-        "hello yes hi, this is adeline how are you doing today?",
-        3
-      ],
-      [
-        "i'm 83 perfect you're qualified for the low cost final expense insurance plan le",
-        3
       ]
     ],
     "top_objections": [
       [
         "yeah hi, my name is hannah i'm calling about the final expense insurance options",
         3
+      ],
+      [
+        "yes good evening my name is julia i'm just checking something as per our records",
+        1
+      ],
+      [
+        "hello who is this? good evening this is cassie speaking so, i'm calling because ",
+        1
       ],
       [
         "yes, i am and they already told me, \"i'm getting everything that i can get here ",
@@ -1396,7 +1404,7 @@
         1
       ],
       [
-        "no thank you",
+        "no thank you oh, that's all right",
         1
       ],
       [

@@ -1,0 +1,69 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__NP__20260629-171721_6234404989-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-29",
+  "time": "17:17:21",
+  "phone": "6234404989",
+  "filename": "20260629-171721_6234404989-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-NP/20260629-171721_6234404989-all.mp3",
+  "duration": 16.85,
+  "text": "Hello. Hello. Good afternoon. My name is Lena. I'm just checking something from our records from your local county in the state of Arizona. So just quickly confirm both part A and B of your Medicare are currently active, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "My name is Lena."
+    },
+    {
+      "start": 6.0,
+      "end": 11.0,
+      "text": "I'm just checking something from our records from your local county in the state of Arizona."
+    },
+    {
+      "start": 11.0,
+      "end": 16.0,
+      "text": "So just quickly confirm both part A and B of your Medicare are currently active, right?"
+    }
+  ],
+  "word_count": 40,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "Hello. Hello. Good afternoon. My name is Lena. I'm just checking something from our records from your local county in the state of Arizona. So just quickly confirm both part A and B of your Medicare are currently active, right?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Lena I'm just checking something from our records from your local county in the state of Arizona So just quickly confirm both part A and B of your Medicare are currently active, right?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 40
+}

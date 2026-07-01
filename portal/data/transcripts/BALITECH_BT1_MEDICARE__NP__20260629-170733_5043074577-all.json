@@ -1,0 +1,72 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__NP__20260629-170733_5043074577-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-29",
+  "time": "17:07:33",
+  "phone": "5043074577",
+  "filename": "20260629-170733_5043074577-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-NP/20260629-170733_5043074577-all.mp3",
+  "duration": 12.46,
+  "text": "Hello. Thank you. Thank you. Are you there? No, get all you there.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Thank you."
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Thank you."
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "No, get all you there."
+    }
+  ],
+  "word_count": 13,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "Hello. Thank you. Thank you. Are you there? No, get all you there.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Thank you Thank you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No, get all you there"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 13
+}

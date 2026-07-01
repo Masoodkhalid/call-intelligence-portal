@@ -1,0 +1,71 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__DNQ__20260629-143829_9089940600-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-29",
+  "time": "14:38:29",
+  "phone": "9089940600",
+  "filename": "20260629-143829_9089940600-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-DNQ/20260629-143829_9089940600-all.mp3",
+  "duration": 28.66,
+  "text": "Hello? Yes? Good afternoon. My name is Julia. I'm just checking something as per our records from your local county in the state of New Jersey. And this will take a quick 30 seconds. Are you currently enrolled in Medicare Part A and B? No. Sorry, but you do not seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello? Yes?"
+    },
+    {
+      "start": 4.0,
+      "end": 12.0,
+      "text": "Good afternoon. My name is Julia. I'm just checking something as per our records from your local county in the state of New Jersey."
+    },
+    {
+      "start": 12.0,
+      "end": 19.0,
+      "text": "And this will take a quick 30 seconds. Are you currently enrolled in Medicare Part A and B?"
+    },
+    {
+      "start": 19.0,
+      "end": 27.0,
+      "text": "No. Sorry, but you do not seem to qualify for the plans that we have. Have a great day."
+    }
+  ],
+  "word_count": 63,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "Hello? Yes? Good afternoon. My name is Julia. I'm just checking something as per our records from your local county in the state of New Jersey. And this will take a quick 30 seconds. Are you currently enrolled in Medicare Part A and B? No. Sorry, but you do not seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Julia I'm just checking something as per our records from your local county in the state of New Jersey And this will take a quick 30 seconds Are you currently enrolled in Medicare Part A and B? No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you do not seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_word_count": 63
+}

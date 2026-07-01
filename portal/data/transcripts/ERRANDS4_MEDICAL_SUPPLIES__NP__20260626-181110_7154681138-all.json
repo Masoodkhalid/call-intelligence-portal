@@ -1,0 +1,62 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-181110_7154681138-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-26",
+  "time": "18:11:10",
+  "phone": "7154681138",
+  "filename": "20260626-181110_7154681138-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NP/20260626-181110_7154681138-all.mp3",
+  "duration": 18.22,
+  "text": "Hey. How are you doing? It's Jennifer calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No finger pricks. To see if you qualify for this, do you have Medicare Part A and Part A?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.96,
+      "text": "Hey. How are you doing? It's Jennifer calling from Wellness Direct. Thanks for picking up."
+    },
+    {
+      "start": 6.96,
+      "end": 14.1,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day. No finger"
+    },
+    {
+      "start": 14.1,
+      "end": 18.18,
+      "text": "pricks. To see if you qualify for this, do you have Medicare Part A and Part A?"
+    }
+  ],
+  "word_count": 46,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey. How are you doing? It's Jennifer calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No finger pricks. To see if you qualify for this, do you have Medicare Part A and Part A?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey"
+    },
+    {
+      "speaker": "BOT",
+      "text": "How are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "It's Jennifer calling from Wellness Direct Thanks for picking up Actually, there's a painless glucose monitor that tracks your sugar all day No finger pricks"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To see if you qualify for this, do you have Medicare Part A and Part A?"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 46
+}

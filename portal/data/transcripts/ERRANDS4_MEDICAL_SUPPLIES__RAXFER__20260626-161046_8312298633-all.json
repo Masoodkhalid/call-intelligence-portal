@@ -1,0 +1,90 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-161046_8312298633-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-26",
+  "time": "16:10:46",
+  "phone": "8312298633",
+  "filename": "20260626-161046_8312298633-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-RAXFER/20260626-161046_8312298633-all.mp3",
+  "duration": 43.49,
+  "text": "Hello. Hey, this is Samantha over at Nova Health Care. Got a quick second? Yeah, what happened? So, I'm just calling to make sure you're getting the new monthly grocery and OTC allowance on your Medicare plan. I just got to check real quick. Do you have both Part A and Part B? Yeah, I got to get everything. Great. Let me get a specialist on the line to finish this up. One moment. Yeah, hi. This is Mark from Health Care Solutions on an accorded line. How are you?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello. Hey, this is Samantha over at Nova Health Care. Got a quick second?"
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Yeah, what happened?"
+    },
+    {
+      "start": 10.0,
+      "end": 16.0,
+      "text": "So, I'm just calling to make sure you're getting the new monthly grocery and OTC allowance on your Medicare plan."
+    },
+    {
+      "start": 16.0,
+      "end": 22.0,
+      "text": "I just got to check real quick. Do you have both Part A and Part B?"
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "text": "Yeah, I got to get everything."
+    },
+    {
+      "start": 27.0,
+      "end": 34.0,
+      "text": "Great. Let me get a specialist on the line to finish this up. One moment."
+    },
+    {
+      "start": 34.0,
+      "end": 41.0,
+      "text": "Yeah, hi. This is Mark from Health Care Solutions on an accorded line. How are you?"
+    }
+  ],
+  "word_count": 90,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello. Hey, this is Samantha over at Nova Health Care. Got a quick second? Yeah, what happened? So, I'm just calling to make sure you're getting the new monthly grocery and OTC allowance on your Medicare plan. I just got to check real quick. Do you have both Part A and Part B? Yeah, I got to get everything. Great. Let me get a specialist on the line to finish this up. One moment. Yeah, hi. This is Mark from Health Care Solutions on an accorded line. How are you?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey, this is Samantha over at Nova Health Care Got a quick second? Yeah, what happened? So, I'm just calling to make sure you're getting the new monthly grocery and OTC allowance on your Medicare plan I just got to check real quick"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Do you have both Part A and Part B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah, I got to get everything Great Let me get a specialist on the line to finish this up"
+    },
+    {
+      "speaker": "BOT",
+      "text": "One moment"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah, hi This is Mark from Health Care Solutions on an accorded line How are you?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 90
+}

@@ -1,0 +1,80 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-173403_5028263049-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-26",
+  "time": "17:34:03",
+  "phone": "5028263049",
+  "filename": "20260626-173403_5028263049-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-RAXFER/20260626-173403_5028263049-all.mp3",
+  "duration": 85.9,
+  "text": "Hello. Hey, how are you doing? Oh, I'm just calling from Wellness Direct. Thanks for picking up. Okay, looking actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints. To see if you qualify for this, do you have Medicare Part A and B? Yes. Okay. I'm going to connect you with a specialist right now. Hold tight for just a second, please. Good afternoon. This is Janelle Healthcare Solutions on a recorded flying, how are you doing? Oh, how are you? I'm being great in this college to inform you about the particular diabetic meter for yourself. Are you diabetic? I'm high school, I'm dealing, I'm in my dad's coming to protect my sugar readily. Okay, and what about the insulin? Do you take the short of insulin? No, I do not.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.44,
+      "text": "Hello. Hey, how are you doing? Oh, I'm just calling from Wellness Direct. Thanks for picking up."
+    },
+    {
+      "start": 10.4,
+      "end": 15.52,
+      "text": "Okay, looking actually, there's a painless glucose monitor that tracks your sugar all day."
+    },
+    {
+      "start": 15.52,
+      "end": 22.16,
+      "text": "No fingerprints. To see if you qualify for this, do you have Medicare Part A and B? Yes."
+    },
+    {
+      "start": 24.96,
+      "end": 32.08,
+      "text": "Okay. I'm going to connect you with a specialist right now. Hold tight for just a second, please."
+    },
+    {
+      "start": 55.6,
+      "end": 61.84,
+      "text": "Good afternoon. This is Janelle Healthcare Solutions on a recorded flying, how are you doing?"
+    },
+    {
+      "start": 62.88,
+      "end": 67.6,
+      "text": "Oh, how are you? I'm being great in this college to inform you about the"
+    },
+    {
+      "start": 67.6,
+      "end": 74.72,
+      "text": "particular diabetic meter for yourself. Are you diabetic? I'm high school, I'm dealing, I'm in"
+    },
+    {
+      "start": 75.76,
+      "end": 81.6,
+      "text": "my dad's coming to protect my sugar readily. Okay, and what about the insulin? Do you take"
+    },
+    {
+      "start": 81.6,
+      "end": 86.88,
+      "text": "the short of insulin? No, I do not."
+    }
+  ],
+  "word_count": 137,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello Hey, how are you doing? Oh, I'm just calling from Wellness Direct Thanks for picking up Okay, looking actually, there's a painless glucose monitor that tracks your sugar all day No fingerprints To see if you qualify for this, do you have Medicare Part A and B? Yes Okay I'm going to connect you with a specialist right now Hold tight for just a second, please",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Hey, how are you doing? Oh, I'm just calling from Wellness Direct Thanks for picking up Okay, looking actually, there's a painless glucose monitor that tracks your sugar all day No fingerprints To see if you qualify for this, do you have Medicare Part A and B? Yes Okay I'm going to connect you with a specialist right now Hold tight for just a second, please"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 67
+}

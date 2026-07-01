@@ -1,14 +1,14 @@
 {
-  "count": 19,
+  "count": 22,
   "flows": [
     {
       "signature": "greeting",
-      "calls": 549,
-      "pct": 37.3,
+      "calls": 559,
+      "pct": 36.0,
       "dispo_breakdown": [
         [
           "N",
-          147
+          152
         ],
         [
           "DAIR",
@@ -36,11 +36,11 @@
         ],
         [
           "NP",
-          18
+          22
         ],
         [
           "NI",
-          15
+          16
         ],
         [
           "BN",
@@ -64,13 +64,71 @@
       ]
     },
     {
+      "signature": "greeting \u2192 pitch \u2192 qualify",
+      "calls": 316,
+      "pct": 20.3,
+      "dispo_breakdown": [
+        [
+          "NI",
+          90
+        ],
+        [
+          "DC",
+          42
+        ],
+        [
+          "A",
+          41
+        ],
+        [
+          "LH",
+          36
+        ],
+        [
+          "NP",
+          25
+        ],
+        [
+          "DNQ",
+          23
+        ],
+        [
+          "BDNC",
+          19
+        ],
+        [
+          "BN",
+          18
+        ],
+        [
+          "LB",
+          14
+        ],
+        [
+          "RAXFER",
+          7
+        ],
+        [
+          "N",
+          1
+        ]
+      ],
+      "transfer_rate": 2.2,
+      "examples": [
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-145153_2106501600-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-152820_8172514572-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-153150_2283377443-all",
+        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-154502_8643294788-all"
+      ]
+    },
+    {
       "signature": "greeting \u2192 pitch",
-      "calls": 306,
-      "pct": 20.8,
+      "calls": 310,
+      "pct": 20.0,
       "dispo_breakdown": [
         [
           "NP",
-          99
+          103
         ],
         [
           "DC",
@@ -118,78 +176,28 @@
       ]
     },
     {
-      "signature": "greeting \u2192 pitch \u2192 qualify",
-      "calls": 303,
-      "pct": 20.6,
-      "dispo_breakdown": [
-        [
-          "NI",
-          82
-        ],
-        [
-          "DC",
-          42
-        ],
-        [
-          "A",
-          41
-        ],
-        [
-          "LH",
-          36
-        ],
-        [
-          "NP",
-          24
-        ],
-        [
-          "DNQ",
-          21
-        ],
-        [
-          "BDNC",
-          19
-        ],
-        [
-          "BN",
-          18
-        ],
-        [
-          "LB",
-          14
-        ],
-        [
-          "RAXFER",
-          6
-        ]
-      ],
-      "transfer_rate": 2.0,
-      "examples": [
-        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-145153_2106501600-all",
-        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-152820_8172514572-all",
-        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-153150_2283377443-all",
-        "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-154502_8643294788-all"
-      ]
-    },
-    {
       "signature": "greeting \u2192 pitch \u2192 qualify \u2192 transfer",
-      "calls": 111,
-      "pct": 7.5,
+      "calls": 120,
+      "pct": 7.7,
       "dispo_breakdown": [
         [
           "RAXFER",
-          108
+          116
         ],
         [
           "DC",
           2
         ],
         [
+          "NI",
+          1
+        ],
+        [
           "BDNC",
           1
         ]
       ],
-      "transfer_rate": 97.3,
+      "transfer_rate": 96.7,
       "examples": [
         "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-103903_6627221636-all",
         "AICONTACT_MEDICARE__AICONTACT_MEDICARE-RAXFER__20260624-110625_3035484837-all",
@@ -199,12 +207,12 @@
     },
     {
       "signature": "greeting \u2192 pitch \u2192 qualify \u2192 disqualify",
-      "calls": 103,
+      "calls": 108,
       "pct": 7.0,
       "dispo_breakdown": [
         [
           "DNQ",
-          95
+          100
         ],
         [
           "DC",
@@ -215,7 +223,7 @@
           1
         ]
       ],
-      "transfer_rate": 1.0,
+      "transfer_rate": 0.9,
       "examples": [
         "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DC__20260624-154958_2057777639-all",
         "AICONTACT_MEDICARE__AICONTACT_MEDICARE-DNQ__20260624-123026_8706136526-all",
@@ -225,8 +233,8 @@
     },
     {
       "signature": "(no speech)",
-      "calls": 31,
-      "pct": 2.1,
+      "calls": 35,
+      "pct": 2.3,
       "dispo_breakdown": [
         [
           "A",
@@ -239,6 +247,10 @@
         [
           "LB",
           6
+        ],
+        [
+          "NP",
+          4
         ],
         [
           "BDNC",
@@ -264,7 +276,7 @@
     {
       "signature": "greeting \u2192 pitch \u2192 transfer",
       "calls": 17,
-      "pct": 1.2,
+      "pct": 1.1,
       "dispo_breakdown": [
         [
           "RAXFER",
@@ -277,6 +289,32 @@
         "EMPAXCO3_FE__RAXFER__20260625-092944_8126033429-all",
         "EMPAXCO3_FE__RAXFER__20260625-112616_2315803053-all",
         "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RAXFER__20260625-091614_2156123319-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 qualify",
+      "calls": 15,
+      "pct": 1.0,
+      "dispo_breakdown": [
+        [
+          "DNQ",
+          6
+        ],
+        [
+          "NI",
+          5
+        ],
+        [
+          "NP",
+          4
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "BALITECH_BT1_MEDICARE__NP__20260629-160931_9802516322-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-172400_2073529355-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-172504_7209035349-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-172817_4122950998-all"
       ]
     },
     {
@@ -362,6 +400,32 @@
       ]
     },
     {
+      "signature": "pitch \u2192 qualify",
+      "calls": 9,
+      "pct": 0.6,
+      "dispo_breakdown": [
+        [
+          "DNQ",
+          4
+        ],
+        [
+          "NI",
+          3
+        ],
+        [
+          "NP",
+          2
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-174609_5015175741-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-180528_8582882459-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-181426_5043340970-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__NI__20260626-162858_2694781107-all"
+      ]
+    },
+    {
       "signature": "greeting \u2192 transfer",
       "calls": 6,
       "pct": 0.4,
@@ -407,6 +471,77 @@
         "AICONTACT_MEDICARE__NP__20260624-153244_2315575608-all",
         "mcc11__DC__20260623-162518_3034527800-all",
         "mcc3__DC__20260623-113814_8625968872-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 qualify \u2192 transfer",
+      "calls": 5,
+      "pct": 0.3,
+      "dispo_breakdown": [
+        [
+          "RAXFER",
+          5
+        ]
+      ],
+      "transfer_rate": 100.0,
+      "examples": [
+        "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-164351_4154992391-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-170222_8596463611-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-174602_5103815993-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-181005_3233010160-all"
+      ]
+    },
+    {
+      "signature": "pitch \u2192 qualify \u2192 transfer",
+      "calls": 5,
+      "pct": 0.3,
+      "dispo_breakdown": [
+        [
+          "RAXFER",
+          5
+        ]
+      ],
+      "transfer_rate": 100.0,
+      "examples": [
+        "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-165113_2607024080-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-165417_2178530778-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-171928_9785352110-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-172248_3364560038-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 pitch \u2192 qualify \u2192 transfer \u2192 objection",
+      "calls": 4,
+      "pct": 0.3,
+      "dispo_breakdown": [
+        [
+          "RAXFER",
+          4
+        ]
+      ],
+      "transfer_rate": 100.0,
+      "examples": [
+        "BALITECH_BT1_MEDICARE__RAXFER__20260629-164327_2167859003-all",
+        "BALITECH_BT1_MEDICARE__RAXFER__20260629-170616_5024881450-all",
+        "mcc7__RAXFER__20260623-152352_5616294116-all",
+        "mcc7__RAXFER__20260623-160638_3525844452-all"
+      ]
+    },
+    {
+      "signature": "qualify",
+      "calls": 3,
+      "pct": 0.2,
+      "dispo_breakdown": [
+        [
+          "NP",
+          3
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-173650_7323064550-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-173808_7135944678-all",
+        "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-180314_9513968025-all"
       ]
     },
     {
@@ -458,22 +593,6 @@
       ]
     },
     {
-      "signature": "greeting \u2192 pitch \u2192 qualify \u2192 transfer \u2192 objection",
-      "calls": 2,
-      "pct": 0.1,
-      "dispo_breakdown": [
-        [
-          "RAXFER",
-          2
-        ]
-      ],
-      "transfer_rate": 100.0,
-      "examples": [
-        "mcc7__RAXFER__20260623-152352_5616294116-all",
-        "mcc7__RAXFER__20260623-160638_3525844452-all"
-      ]
-    },
-    {
       "signature": "greeting \u2192 objection",
       "calls": 1,
       "pct": 0.1,
@@ -486,36 +605,6 @@
       "transfer_rate": 0.0,
       "examples": [
         "mcc11__A__20260623-153343_2694470209-all"
-      ]
-    },
-    {
-      "signature": "greeting \u2192 qualify",
-      "calls": 1,
-      "pct": 0.1,
-      "dispo_breakdown": [
-        [
-          "NP",
-          1
-        ]
-      ],
-      "transfer_rate": 0.0,
-      "examples": [
-        "mcc11__NP__20260623-164814_3056852875-all"
-      ]
-    },
-    {
-      "signature": "pitch \u2192 qualify",
-      "calls": 1,
-      "pct": 0.1,
-      "dispo_breakdown": [
-        [
-          "DNQ",
-          1
-        ]
-      ],
-      "transfer_rate": 0.0,
-      "examples": [
-        "mcc3__DNQ__20260623-114746_7347312265-all"
       ]
     }
   ]

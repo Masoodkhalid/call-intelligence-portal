@@ -1,0 +1,153 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-180528_8582882459-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-26",
+  "time": "18:05:28",
+  "phone": "8582882459",
+  "filename": "20260626-180528_8582882459-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-DNQ/20260626-180528_8582882459-all.mp3",
+  "duration": 35.21,
+  "text": "Hey, how are you doing? I'm fine. It's Harper calling from Wellness Direct. Thanks for picking up. Thank you. Can you hear me? Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints. To see if you qualify for this, do you have Medicare Part A and B? I know. I don't. Sorry about that. I missed what you said. Just need a quick yes or no. Do you have Medicare Part A and B? No. No, I don't. I appreciate your time. Enjoy your day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "start": 2.6,
+      "end": 3.6,
+      "text": "I'm fine."
+    },
+    {
+      "start": 3.6,
+      "end": 5.48,
+      "text": "It's Harper calling from Wellness Direct."
+    },
+    {
+      "start": 5.48,
+      "end": 7.12,
+      "text": "Thanks for picking up."
+    },
+    {
+      "start": 7.12,
+      "end": 8.12,
+      "text": "Thank you."
+    },
+    {
+      "start": 8.12,
+      "end": 9.64,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 9.64,
+      "end": 14.92,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints."
+    },
+    {
+      "start": 14.92,
+      "end": 19.12,
+      "text": "To see if you qualify for this, do you have Medicare Part A and B?"
+    },
+    {
+      "start": 19.12,
+      "end": 20.12,
+      "text": "I know."
+    },
+    {
+      "start": 20.12,
+      "end": 21.12,
+      "text": "I don't."
+    },
+    {
+      "start": 21.12,
+      "end": 24.12,
+      "text": "Sorry about that."
+    },
+    {
+      "start": 24.12,
+      "end": 25.12,
+      "text": "I missed what you said."
+    },
+    {
+      "start": 25.12,
+      "end": 27.08,
+      "text": "Just need a quick yes or no."
+    },
+    {
+      "start": 27.08,
+      "end": 30.44,
+      "text": "Do you have Medicare Part A and B?"
+    },
+    {
+      "start": 30.44,
+      "end": 31.44,
+      "text": "No."
+    },
+    {
+      "start": 31.44,
+      "end": 32.92,
+      "text": "No, I don't."
+    },
+    {
+      "start": 32.92,
+      "end": 33.92,
+      "text": "I appreciate your time."
+    },
+    {
+      "start": 33.92,
+      "end": 34.84,
+      "text": "Enjoy your day."
+    }
+  ],
+  "word_count": 90,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey, how are you doing? I'm fine. It's Harper calling from Wellness Direct. Thanks for picking up. Thank you. Can you hear me? Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints. To see if you qualify for this, do you have Medicare Part A and B? I know. I don't. Sorry about that. I missed what you said. Just need a quick yes or no. Do you have Medicare Part A and B? No. No, I don't. I appreciate your time. Enjoy your day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm fine It's Harper calling from Wellness Direct Thanks for picking up Thank you"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you hear me?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To see if you qualify for this, do you have Medicare Part A and B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I know I don't Sorry about that I missed what you said Just need a quick yes or no"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Do you have Medicare Part A and B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "No No, I don't I appreciate your time Enjoy your day"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 90
+}

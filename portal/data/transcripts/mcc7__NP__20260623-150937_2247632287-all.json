@@ -57,11 +57,11 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "No"
+      "text": "No Oh, that's alright"
     },
     {
       "speaker": "BOT",
-      "text": "Oh, that's alright That's exactly why I'm calling"
+      "text": "That's exactly why I'm calling"
     },
     {
       "speaker": "CUSTOMER",

@@ -33,9 +33,9 @@
     }
   ],
   "word_count": 9,
-  "company": "Empaxco3",
-  "bot_company": "Unknown",
-  "campaign_name": "Fe",
+  "company": "empaxco3",
+  "bot_company": "REEV",
+  "campaign_name": "FE",
   "bot_text": "Hello? [phone rings] Can you hear me? [phone rings]",
   "post_transfer_trimmed": false,
   "turns": [

@@ -1,0 +1,45 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-174312_3478136259-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-26",
+  "time": "17:43:12",
+  "phone": "3478136259",
+  "filename": "20260626-174312_3478136259-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NP/20260626-174312_3478136259-all.mp3",
+  "duration": 16.99,
+  "text": "\"Hey, how are you doing?\" \"I'm doing okay.\" \"It's Caroline calling from Wellness Direct. Thanks for picking up.\" \"Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints.\"",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "\"Hey, how are you doing?\" \"I'm doing okay.\" \"It's Caroline calling from Wellness Direct. Thanks for picking up.\""
+    },
+    {
+      "start": 10.0,
+      "end": 17.0,
+      "text": "\"Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints.\""
+    }
+  ],
+  "word_count": 32,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "\"Hey, how are you doing?\" \"I'm doing okay.\" \"It's Caroline calling from Wellness Direct. Thanks for picking up.\" \"Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints.\"",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hey, how are you doing?\" \"I'm doing okay.\" \"It's Caroline calling from Wellness Direct Thanks for picking up.\" \"Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints.\""
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 32
+}

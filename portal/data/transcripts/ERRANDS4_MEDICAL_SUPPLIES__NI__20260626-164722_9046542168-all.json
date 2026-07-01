@@ -1,0 +1,95 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NI__20260626-164722_9046542168-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-26",
+  "time": "16:47:22",
+  "phone": "9046542168",
+  "filename": "20260626-164722_9046542168-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NI/20260626-164722_9046542168-all.mp3",
+  "duration": 40.97,
+  "text": "Hello. Hey, how you doing? It's Jennifer going from Walness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints. To see if you qualify for this, do you have Medicare Part A and B? You have visitors from Uranus? Sorry about that, I missed what you said. Just need a quick yes or no. Do you have Medicare Part A and B? Do you have visitors in Uranus?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello. Hey, how you doing?"
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "It's Jennifer going from Walness Direct. Thanks for picking up."
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints."
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": "To see if you qualify for this, do you have Medicare Part A and B?"
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "You have visitors from Uranus?"
+    },
+    {
+      "start": 27.0,
+      "end": 29.0,
+      "text": "Sorry about that, I missed what you said."
+    },
+    {
+      "start": 29.0,
+      "end": 33.0,
+      "text": "Just need a quick yes or no. Do you have Medicare Part A and B?"
+    },
+    {
+      "start": 34.0,
+      "end": 37.0,
+      "text": "Do you have visitors in Uranus?"
+    }
+  ],
+  "word_count": 78,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello. Hey, how you doing? It's Jennifer going from Walness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints. To see if you qualify for this, do you have Medicare Part A and B? You have visitors from Uranus? Sorry about that, I missed what you said. Just need a quick yes or no. Do you have Medicare Part A and B? Do you have visitors in Uranus?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey, how you doing? It's Jennifer going from Walness Direct Thanks for picking up Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To see if you qualify for this, do you have Medicare Part A and B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You have visitors from Uranus? Sorry about that, I missed what you said Just need a quick yes or no"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Do you have Medicare Part A and B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Do you have visitors in Uranus?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 78
+}

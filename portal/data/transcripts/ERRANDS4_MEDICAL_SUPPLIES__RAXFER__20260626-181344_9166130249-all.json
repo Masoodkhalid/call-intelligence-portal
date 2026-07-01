@@ -1,0 +1,134 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-181344_9166130249-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-26",
+  "time": "18:13:44",
+  "phone": "9166130249",
+  "filename": "20260626-181344_9166130249-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-RAXFER/20260626-181344_9166130249-all.mp3",
+  "duration": 53.71,
+  "text": "Hello? Hi, this is Harper with U.S. medical supplies. I hope I caught you at a good time. Yeah, medical supplies. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Do you have diabetes? Yeah. Okay, let me grab a specialist real quick. Hang on just a second. Wait a minute, wait a minute. What are we talking about here? This is Eric from Health Air Solutions on a recorded line. How are you? Also, I'm just confused. What the hell do you guys want? Well, this call is about Pracular's diabetic meter freestyle labor at three. Do you have diabetes? I don't need that.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 1.0,
+      "end": 5.0,
+      "text": "Hi, this is Harper with U.S. medical supplies."
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "I hope I caught you at a good time."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Yeah, medical supplies."
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": "I'm calling about the continuous glucose monitor."
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "It lets you track your blood sugar without pricking your finger."
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "Do you have diabetes?"
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 23.0,
+      "end": 27.0,
+      "text": "Okay, let me grab a specialist real quick."
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "text": "Hang on just a second."
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "Wait a minute, wait a minute."
+    },
+    {
+      "start": 30.0,
+      "end": 33.0,
+      "text": "What are we talking about here?"
+    },
+    {
+      "start": 33.0,
+      "end": 36.0,
+      "text": "This is Eric from Health Air Solutions on a recorded line."
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "How are you?"
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "text": "Also, I'm just confused."
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": "What the hell do you guys want?"
+    },
+    {
+      "start": 42.0,
+      "end": 46.0,
+      "text": "Well, this call is about Pracular's diabetic meter freestyle labor at three."
+    },
+    {
+      "start": 46.0,
+      "end": 51.0,
+      "text": "Do you have diabetes?"
+    },
+    {
+      "start": 51.0,
+      "end": 54.0,
+      "text": "I don't need that."
+    }
+  ],
+  "word_count": 114,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello? Hi, this is Harper with U.S. medical supplies. I hope I caught you at a good time. Yeah, medical supplies. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Do you have diabetes? Yeah. Okay, let me grab a specialist real quick. Hang on just a second. Wait a minute, wait a minute. What are we talking about here? This is Eric from Health Air Solutions on a recorded line. How are you? Also, I'm just confused. What the hell do you guys want? Well, this call is about Pracular's diabetic meter freestyle labor at three. Do you have diabetes? I don't need that.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, this is Harper with U.S medical supplies I hope I caught you at a good time Yeah, medical supplies I'm calling about the continuous glucose monitor It lets you track your blood sugar without pricking your finger Do you have diabetes? Yeah Okay, let me grab a specialist real quick Hang on just a second Wait a minute, wait a minute What are we talking about here? This is Eric from Health Air Solutions on a recorded line How are you? Also, I'm just confused What the hell do you guys want? Well, this call is about Pracular's diabetic meter freestyle labor at three Do you have diabetes? I don't need that"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 114
+}

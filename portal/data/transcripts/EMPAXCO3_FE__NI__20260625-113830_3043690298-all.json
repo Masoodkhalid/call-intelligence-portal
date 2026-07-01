@@ -38,9 +38,9 @@
     }
   ],
   "word_count": 77,
-  "company": "Empaxco3",
-  "bot_company": "Unknown",
-  "campaign_name": "Fe",
+  "company": "empaxco3",
+  "bot_company": "REEV",
+  "campaign_name": "FE",
   "bot_text": "Hi, this is Adeline. How are you doing today? I thought this said \"Diana\". I'm calling about final expense coverage options available in your area. These plans are designed to help your family with funeral or burial expenses. So can you please confirm, are you between 40 and 85 years old? Can you confirm, are you \"Diana\" or \"Adeline\"? Could you please confirm if you are between 40 and 85 years old? Excuse me, thank you, bye.",
   "post_transfer_trimmed": false,
   "turns": [

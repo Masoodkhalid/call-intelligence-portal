@@ -103,11 +103,11 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "No Thank you"
+      "text": "No Thank you Oh, that's all right"
     },
     {
       "speaker": "BOT",
-      "text": "Oh, that's all right That's exactly why I'm calling"
+      "text": "That's exactly why I'm calling"
     },
     {
       "speaker": "CUSTOMER",

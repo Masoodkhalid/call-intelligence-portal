@@ -1,0 +1,74 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-175322_4803568445-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-26",
+  "time": "17:53:22",
+  "phone": "4803568445",
+  "filename": "20260626-175322_4803568445-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NP/20260626-175322_4803568445-all.mp3",
+  "duration": 17.57,
+  "text": "Hello. Hi. This is Samantha with U.S. medical supplies. I hope I caught you at a good time. What do you want? I'm calling about the continuous glucose monitor. It lets you track your blood trigger without pricking your finger.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hi."
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "This is Samantha with U.S. medical supplies."
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "I hope I caught you at a good time."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "What do you want?"
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "I'm calling about the continuous glucose monitor."
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "It lets you track your blood trigger without pricking your finger."
+    }
+  ],
+  "word_count": 40,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello. Hi. This is Samantha with U.S. medical supplies. I hope I caught you at a good time. What do you want? I'm calling about the continuous glucose monitor. It lets you track your blood trigger without pricking your finger.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hi"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is Samantha with U.S medical supplies I hope I caught you at a good time What do you want? I'm calling about the continuous glucose monitor It lets you track your blood trigger without pricking your finger"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 40
+}

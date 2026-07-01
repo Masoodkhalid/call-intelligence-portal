@@ -1,0 +1,84 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-172143_5598878824-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-26",
+  "time": "17:21:43",
+  "phone": "5598878824",
+  "filename": "20260626-172143_5598878824-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NP/20260626-172143_5598878824-all.mp3",
+  "duration": 17.86,
+  "text": "Hey, how are you doing? Good. It's terrible. I'm calling from Wellness Direct. Thanks for picking up. Uh-huh. Actually, there's a painless glucose monitor that tracks your sugar all day. I don't know if these are nuts. to see if you--",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "start": 2.56,
+      "end": 3.56,
+      "text": "Good."
+    },
+    {
+      "start": 3.56,
+      "end": 4.56,
+      "text": "It's terrible."
+    },
+    {
+      "start": 4.56,
+      "end": 5.56,
+      "text": "I'm calling from Wellness Direct."
+    },
+    {
+      "start": 5.56,
+      "end": 8.64,
+      "text": "Thanks for picking up."
+    },
+    {
+      "start": 8.64,
+      "end": 9.64,
+      "text": "Uh-huh."
+    },
+    {
+      "start": 9.64,
+      "end": 15.28,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day."
+    },
+    {
+      "start": 15.28,
+      "end": 17.36,
+      "text": "I don't know if these are nuts."
+    },
+    {
+      "start": 17.36,
+      "end": 19.34,
+      "text": "to see if you--"
+    }
+  ],
+  "word_count": 41,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey, how are you doing? Good. It's terrible. I'm calling from Wellness Direct. Thanks for picking up. Uh-huh. Actually, there's a painless glucose monitor that tracks your sugar all day. I don't know if these are nuts. to see if you--",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Good It's terrible I'm calling from Wellness Direct Thanks for picking up Uh-huh Actually, there's a painless glucose monitor that tracks your sugar all day I don't know if these are nuts to see if you"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 41
+}

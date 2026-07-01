@@ -1,0 +1,73 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__DNQ__20260629-163115_9196565241-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-29",
+  "time": "16:31:15",
+  "phone": "9196565241",
+  "filename": "20260629-163115_9196565241-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-DNQ/20260629-163115_9196565241-all.mp3",
+  "duration": 26.93,
+  "text": "Hello. Hello. Good evening. My name is Lena. I am just checking something as per our records from your local county in the state of North Carolina. So just quickly confirm both part A and B of your Medicare are currently active, right? No. Sorry, but you do not seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello. Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 12.0,
+      "text": "Good evening. My name is Lena. I am just checking something as per our records from your local county in the state of North Carolina."
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "text": "So just quickly confirm both part A and B of your Medicare are currently active, right?"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "No."
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": "Sorry, but you do not seem to qualify for the plans that we have."
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "Have a great day."
+    }
+  ],
+  "word_count": 62,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "Hello. Hello. Good evening. My name is Lena. I am just checking something as per our records from your local county in the state of North Carolina. So just quickly confirm both part A and B of your Medicare are currently active, right? No. Sorry, but you do not seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good evening"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Lena I am just checking something as per our records from your local county in the state of North Carolina So just quickly confirm both part A and B of your Medicare are currently active, right? No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you do not seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_word_count": 62
+}

@@ -1,0 +1,132 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-170222_8596463611-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-26",
+  "time": "17:02:22",
+  "phone": "8596463611",
+  "filename": "20260626-170222_8596463611-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-RAXFER/20260626-170222_8596463611-all.mp3",
+  "duration": 60.05,
+  "text": "Hello. Hello. Hi, this is Jennifer with US Medical Supplies. I hope I caught you at a good time. Sure. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without fricking your finger. Yes. Do you have diabetes? I do. Okay, let me grab a specialist real quick. Hang on just a second. Hello. Hey, this is Sam from Healthcare Solutions on a recorded line. Hi, doing. I'm doing great. You. I'm doing good. Thank you. This is your call. This is a non-prick continuous glucose monitor. Does you have diabetes? I do. Do you inject in Celine? I don't. You don't? No, that's a good one.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Hello. Hello. Hi, this is Jennifer with US Medical Supplies. I hope I caught you at a good time."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Sure."
+    },
+    {
+      "start": 10.0,
+      "end": 17.0,
+      "text": "I'm calling about the continuous glucose monitor. It lets you track your blood sugar without fricking your finger."
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "text": "Yes."
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "Do you have diabetes?"
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "I do."
+    },
+    {
+      "start": 23.0,
+      "end": 29.0,
+      "text": "Okay, let me grab a specialist real quick."
+    },
+    {
+      "start": 29.0,
+      "end": 31.0,
+      "text": "Hang on just a second."
+    },
+    {
+      "start": 31.0,
+      "end": 35.0,
+      "text": "Hello."
+    },
+    {
+      "start": 35.0,
+      "end": 40.0,
+      "text": "Hey, this is Sam from Healthcare Solutions on a recorded line. Hi, doing."
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "text": "I'm doing great."
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "text": "You."
+    },
+    {
+      "start": 42.0,
+      "end": 49.0,
+      "text": "I'm doing good. Thank you. This is your call. This is a non-prick continuous glucose monitor. Does you have diabetes?"
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "text": "I do."
+    },
+    {
+      "start": 50.0,
+      "end": 53.0,
+      "text": "Do you inject in Celine?"
+    },
+    {
+      "start": 53.0,
+      "end": 55.0,
+      "text": "I don't."
+    },
+    {
+      "start": 55.0,
+      "end": 60.0,
+      "text": "You don't? No, that's a good one."
+    }
+  ],
+  "word_count": 112,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello. Hello. Hi, this is Jennifer with US Medical Supplies. I hope I caught you at a good time. Sure. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without fricking your finger. Yes. Do you have diabetes? I do. Okay, let me grab a specialist real quick. Hang on just a second. Hello. Hey, this is Sam from Healthcare Solutions on a recorded line. Hi, doing. I'm doing great. You. I'm doing good. Thank you. This is your call. This is a non-prick continuous glucose monitor. Does you have diabetes? I do. Do you inject in Celine? I don't. You don't? No, that's a good one.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, this is Jennifer with US Medical Supplies I hope I caught you at a good time Sure I'm calling about the continuous glucose monitor It lets you track your blood sugar without fricking your finger Yes Do you have diabetes? I do Okay, let me grab a specialist real quick Hang on just a second"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey, this is Sam from Healthcare Solutions on a recorded line Hi, doing I'm doing great You I'm doing good Thank you This is your call This is a non-prick continuous glucose monitor Does you have diabetes? I do Do you inject in Celine? I don't You don't? No, that's a good one"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 112
+}

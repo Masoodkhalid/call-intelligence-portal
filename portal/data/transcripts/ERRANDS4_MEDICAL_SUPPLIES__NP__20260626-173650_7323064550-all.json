@@ -1,0 +1,78 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-173650_7323064550-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-26",
+  "time": "17:36:50",
+  "phone": "7323064550",
+  "filename": "20260626-173650_7323064550-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NP/20260626-173650_7323064550-all.mp3",
+  "duration": 18.79,
+  "text": "Hey, how are you doing? I'm good. It's Samantha calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints. To see if you qualify for this, do you have any questions?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "I'm good."
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "It's Samantha calling from Wellness Direct."
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Thanks for picking up."
+    },
+    {
+      "start": 7.0,
+      "end": 15.0,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day."
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "No fingerprints."
+    },
+    {
+      "start": 16.0,
+      "end": 19.0,
+      "text": "To see if you qualify for this, do you have any questions?"
+    }
+  ],
+  "word_count": 43,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey, how are you doing? I'm good. It's Samantha calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints. To see if you qualify for this, do you have any questions?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm good It's Samantha calling from Wellness Direct Thanks for picking up Actually, there's a painless glucose monitor that tracks your sugar all day No fingerprints"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To see if you qualify for this, do you have any questions?"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 43
+}

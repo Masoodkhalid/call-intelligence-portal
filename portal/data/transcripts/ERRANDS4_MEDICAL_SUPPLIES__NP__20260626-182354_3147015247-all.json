@@ -1,0 +1,54 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-182354_3147015247-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-26",
+  "time": "18:23:54",
+  "phone": "3147015247",
+  "filename": "20260626-182354_3147015247-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NP/20260626-182354_3147015247-all.mp3",
+  "duration": 14.54,
+  "text": "Hey, how are you doing? It's Caroline calling for wellness direct, thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar off.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "start": 2.84,
+      "end": 7.36,
+      "text": "It's Caroline calling for wellness direct, thanks for picking up."
+    },
+    {
+      "start": 7.36,
+      "end": 14.56,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar off."
+    }
+  ],
+  "word_count": 26,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey, how are you doing? It's Caroline calling for wellness direct, thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar off.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "It's Caroline calling for wellness direct, thanks for picking up Actually, there's a painless glucose monitor that tracks your sugar off"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 26
+}

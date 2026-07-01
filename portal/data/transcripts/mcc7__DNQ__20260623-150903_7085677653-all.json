@@ -111,11 +111,11 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "No, I have not"
+      "text": "No, I have not Oh, that's all right"
     },
     {
       "speaker": "BOT",
-      "text": "Oh, that's all right That's exactly why I'm calling"
+      "text": "That's exactly why I'm calling"
     },
     {
       "speaker": "CUSTOMER",

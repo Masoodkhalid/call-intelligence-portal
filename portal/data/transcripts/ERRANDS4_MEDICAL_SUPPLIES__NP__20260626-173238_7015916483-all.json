@@ -1,0 +1,93 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-173238_7015916483-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-26",
+  "time": "17:32:38",
+  "phone": "7015916483",
+  "filename": "20260626-173238_7015916483-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NP/20260626-173238_7015916483-all.mp3",
+  "duration": 19.22,
+  "text": "Hello, how are you doing? Okay. It's Nancy calling from Wellness Direct. Thanks for picking up. Yeah. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprint. Yeah. To see if you qualify for this. [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello, how are you doing?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Okay."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "It's Nancy calling from Wellness Direct."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Thanks for picking up."
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 9.0,
+      "end": 15.0,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day."
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "No fingerprint."
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "To see if you qualify for this."
+    },
+    {
+      "start": 19.0,
+      "end": 29.0,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 40,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello, how are you doing? Okay. It's Nancy calling from Wellness Direct. Thanks for picking up. Yeah. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprint. Yeah. To see if you qualify for this. [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello, how are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Okay It's Nancy calling from Wellness Direct Thanks for picking up Yeah Actually, there's a painless glucose monitor that tracks your sugar all day No fingerprint Yeah To see if you qualify for this"
+    },
+    {
+      "speaker": "BOT",
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 40
+}

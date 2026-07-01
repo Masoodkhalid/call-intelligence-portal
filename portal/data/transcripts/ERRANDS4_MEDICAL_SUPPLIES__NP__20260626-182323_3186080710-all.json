@@ -1,0 +1,44 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-182323_3186080710-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-26",
+  "time": "18:23:23",
+  "phone": "3186080710",
+  "filename": "20260626-182323_3186080710-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NP/20260626-182323_3186080710-all.mp3",
+  "duration": 9.58,
+  "text": ">> Hello. Hi. This is Samantha with U.S. medical supplies. I hope I caught you at a good time.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": ">> Hello. Hi. This is Samantha with U.S. medical supplies. I hope I caught you at a good time."
+    }
+  ],
+  "word_count": 19,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": ">> Hello. Hi. This is Samantha with U.S. medical supplies. I hope I caught you at a good time.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hi"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "This is Samantha with U.S medical supplies I hope I caught you at a good time"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 19
+}

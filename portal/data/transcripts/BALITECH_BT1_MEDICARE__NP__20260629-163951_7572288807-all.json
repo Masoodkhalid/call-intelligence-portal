@@ -1,0 +1,63 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__NP__20260629-163951_7572288807-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-29",
+  "time": "16:39:51",
+  "phone": "7572288807",
+  "filename": "20260629-163951_7572288807-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-NP/20260629-163951_7572288807-all.mp3",
+  "duration": 14.98,
+  "text": "- Hello. - Hello. - Good evening. - I'm so happy. - Speaking. - So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "- Hello. - Hello."
+    },
+    {
+      "start": 2.72,
+      "end": 6.28,
+      "text": "- Good evening. - I'm so happy."
+    },
+    {
+      "start": 6.28,
+      "end": 12.92,
+      "text": "- Speaking. - So I'm calling because your Medicare member profile hasn't been transferred"
+    },
+    {
+      "start": 12.92,
+      "end": 14.92,
+      "text": "into Medicare's national database."
+    }
+  ],
+  "word_count": 29,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "- Hello. - Hello. - Good evening. - I'm so happy. - Speaking. - So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good evening"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I'm so happy Speaking"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 29
+}

@@ -28,9 +28,9 @@
     }
   ],
   "word_count": 26,
-  "company": "Empaxco3",
-  "bot_company": "Unknown",
-  "campaign_name": "Fe",
+  "company": "empaxco3",
+  "bot_company": "REEV",
+  "campaign_name": "FE",
   "bot_text": "\"Dear Agree\" \"Hello?\" \"Nothing has been recorded. Record your message after the tone. Simply hang up when done. Or, for delivery options, press the pound sign.\"",
   "post_transfer_trimmed": false,
   "turns": [

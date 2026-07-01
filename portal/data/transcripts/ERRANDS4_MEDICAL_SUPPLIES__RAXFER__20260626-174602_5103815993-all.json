@@ -1,0 +1,152 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-174602_5103815993-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-26",
+  "time": "17:46:02",
+  "phone": "5103815993",
+  "filename": "20260626-174602_5103815993-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-RAXFER/20260626-174602_5103815993-all.mp3",
+  "duration": 110.3,
+  "text": "Hello. Hello. Hi, this is Samantha with U.S. medical supplies. I hope I caught you at a good time. Yes, it was okay. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Do you have diabetes? I have diabetes, but I don't just take pills for it. I don't have to stick myself or anything. Okay. Let me grab a specialist real quick. Hang on just a second. Hello. Hello. Hey, good to have you in the line. This is Sam with healthcare solutions on a recorded line. How is your day going so far? Anything okay? So far, so crazy. Okay, I'm really glad. So basically I was here to share some information about a freestyle Libre 3. It is a continuous glucose monitor that you don't have to pick your fingers with anymore to check your blood sugar readings. Just to make sure one thing, do you currently have diabetes at the moment? Yes, I have diabetes. I don't give myself shots or anything, but I take pills for the diabetes. Okay, so you're only taking pills, no insulin, no injections, nothing like that, correct? No. No. All right, no problem at all. In that case, I would say you're a healthy person. Your diabetes are well under control. And I really, really appreciate your time on the phone call, okay? Thank you very much. Okay, thank you. Bye. All right, all right.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Hello. Hello. Hi, this is Samantha with U.S. medical supplies. I hope I caught you at a good time."
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "Yes, it was okay."
+    },
+    {
+      "start": 11.0,
+      "end": 18.0,
+      "text": "I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger."
+    },
+    {
+      "start": 18.0,
+      "end": 21.0,
+      "text": "Do you have diabetes?"
+    },
+    {
+      "start": 21.0,
+      "end": 32.0,
+      "text": "I have diabetes, but I don't just take pills for it. I don't have to stick myself or anything."
+    },
+    {
+      "start": 32.0,
+      "end": 39.0,
+      "text": "Okay. Let me grab a specialist real quick. Hang on just a second."
+    },
+    {
+      "start": 39.0,
+      "end": 47.0,
+      "text": "Hello. Hello."
+    },
+    {
+      "start": 47.0,
+      "end": 53.0,
+      "text": "Hey, good to have you in the line. This is Sam with healthcare solutions on a recorded line."
+    },
+    {
+      "start": 53.0,
+      "end": 57.0,
+      "text": "How is your day going so far? Anything okay?"
+    },
+    {
+      "start": 57.0,
+      "end": 60.0,
+      "text": "So far, so crazy."
+    },
+    {
+      "start": 60.0,
+      "end": 68.0,
+      "text": "Okay, I'm really glad. So basically I was here to share some information about a freestyle Libre 3."
+    },
+    {
+      "start": 68.0,
+      "end": 76.0,
+      "text": "It is a continuous glucose monitor that you don't have to pick your fingers with anymore to check your blood sugar readings."
+    },
+    {
+      "start": 76.0,
+      "end": 82.0,
+      "text": "Just to make sure one thing, do you currently have diabetes at the moment?"
+    },
+    {
+      "start": 82.0,
+      "end": 91.0,
+      "text": "Yes, I have diabetes. I don't give myself shots or anything, but I take pills for the diabetes."
+    },
+    {
+      "start": 91.0,
+      "end": 96.0,
+      "text": "Okay, so you're only taking pills, no insulin, no injections, nothing like that, correct?"
+    },
+    {
+      "start": 96.0,
+      "end": 97.0,
+      "text": "No."
+    },
+    {
+      "start": 97.0,
+      "end": 98.0,
+      "text": "No."
+    },
+    {
+      "start": 98.0,
+      "end": 103.0,
+      "text": "All right, no problem at all. In that case, I would say you're a healthy person. Your diabetes are well under control."
+    },
+    {
+      "start": 103.0,
+      "end": 107.0,
+      "text": "And I really, really appreciate your time on the phone call, okay? Thank you very much."
+    },
+    {
+      "start": 107.0,
+      "end": 109.0,
+      "text": "Okay, thank you. Bye."
+    },
+    {
+      "start": 109.0,
+      "end": 110.0,
+      "text": "All right, all right."
+    }
+  ],
+  "word_count": 244,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello. Hello. Hi, this is Samantha with U.S. medical supplies. I hope I caught you at a good time. Yes, it was okay. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Do you have diabetes? I have diabetes, but I don't just take pills for it. I don't have to stick myself or anything. Okay. Let me grab a specialist real quick. Hang on just a second. Hello. Hello. Hey, good to have you in the line. This is Sam with healthcare solutions on a recorded line. How is your day going so far? Anything okay? So far, so crazy. Okay, I'm really glad. So basically I was here to share some information about a freestyle Libre 3. It is a continuous glucose monitor that you don't have to pick your fingers with anymore to check your blood sugar readings. Just to make sure one thing, do you currently have diabetes at the moment? Yes, I have diabetes. I don't give myself shots or anything, but I take pills for the diabetes. Okay, so you're only taking pills, no insulin, no injections, nothing like that, correct? No. No. All right, no problem at all. In that case, I would say you're a healthy person. Your diabetes are well under control. And I really, really appreciate your time on the phone call, okay? Thank you very much. Okay, thank you. Bye. All right, all right.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, this is Samantha with U.S medical supplies I hope I caught you at a good time Yes, it was okay I'm calling about the continuous glucose monitor It lets you track your blood sugar without pricking your finger Do you have diabetes? I have diabetes, but I don't just take pills for it I don't have to stick myself or anything Okay Let me grab a specialist real quick Hang on just a second"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey, good to have you in the line This is Sam with healthcare solutions on a recorded line How is your day going so far? Anything okay? So far, so crazy Okay, I'm really glad So basically I was here to share some information about a freestyle Libre 3 It is a continuous glucose monitor that you don't have to pick your fingers with anymore to check your blood sugar readings Just to make sure one thing, do you currently have diabetes at the moment? Yes, I have diabetes I don't give myself shots or anything, but I take pills for the diabetes Okay, so you're only taking pills, no insulin, no injections, nothing like that, correct? No No All right, no problem at all In that case, I would say you're a healthy person Your diabetes are well under control And I really, really appreciate your time on the phone call, okay? Thank you very much Okay, thank you Bye All right, all right"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 244
+}

@@ -53,15 +53,7 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "No, you have the wrong number Thank you"
-    },
-    {
-      "speaker": "BOT",
-      "text": "Oh, that's all right"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "That's exactly"
+      "text": "No, you have the wrong number Thank you Oh, that's all right That's exactly"
     }
   ],
   "stages": {

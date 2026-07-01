@@ -1,0 +1,86 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__NI__20260629-163255_2152220809-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-29",
+  "time": "16:32:55",
+  "phone": "2152220809",
+  "filename": "20260629-163255_2152220809-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-NI/20260629-163255_2152220809-all.mp3",
+  "duration": 34.85,
+  "text": "- Hello? - Nelson. Good evening. My name is Julia. I'm just checking something as per our records from your local county in the state of Pennsylvania. So just quickly, both Part A and B of your Medicare are currently active, right? Can you hear me? I was asking if you have Part A and B of Medicare. [BLANK_AUDIO]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "- Hello? - Nelson."
+    },
+    {
+      "start": 3.64,
+      "end": 6.16,
+      "text": "Good evening. My name is Julia."
+    },
+    {
+      "start": 6.16,
+      "end": 12.0,
+      "text": "I'm just checking something as per our records from your local county in the state of Pennsylvania."
+    },
+    {
+      "start": 12.0,
+      "end": 18.88,
+      "text": "So just quickly, both Part A and B of your Medicare are currently active, right?"
+    },
+    {
+      "start": 22.4,
+      "end": 24.32,
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 24.32,
+      "end": 27.92,
+      "text": "I was asking if you have Part A and B of Medicare."
+    },
+    {
+      "start": 30.0,
+      "end": 37.0,
+      "text": "[BLANK_AUDIO]"
+    }
+  ],
+  "word_count": 59,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "- Hello? - Nelson. Good evening. My name is Julia. I'm just checking something as per our records from your local county in the state of Pennsylvania. So just quickly, both Part A and B of your Medicare are currently active, right? Can you hear me? I was asking if you have Part A and B of Medicare. [BLANK_AUDIO]",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Nelson"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good evening"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Julia I'm just checking something as per our records from your local county in the state of Pennsylvania So just quickly, both Part A and B of your Medicare are currently active, right?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Can you hear me? I was asking if you have Part A and B of Medicare [BLANK_AUDIO]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 59
+}

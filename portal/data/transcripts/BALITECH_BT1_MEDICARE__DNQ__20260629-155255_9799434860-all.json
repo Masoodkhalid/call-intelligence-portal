@@ -1,0 +1,88 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__DNQ__20260629-155255_9799434860-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-29",
+  "time": "15:52:55",
+  "phone": "9799434860",
+  "filename": "20260629-155255_9799434860-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-DNQ/20260629-155255_9799434860-all.mp3",
+  "duration": 28.8,
+  "text": "Hello? Hello? Good afternoon. My name is Lina. I'm just checking something as per our records from your local county in the state of Texas. So just quickly confirm both Part A and B of your Medicare are currently active, right? No. Sorry, but you do not seem to qualify for the plans that we have. Have a great day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "My name is Lina."
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "I'm just checking something as per our records from your local county in the state of Texas."
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "text": "So just quickly confirm both Part A and B of your Medicare are currently active, right?"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "No."
+    },
+    {
+      "start": 20.0,
+      "end": 26.0,
+      "text": "Sorry, but you do not seem to qualify for the plans that we have."
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "Have a great day."
+    }
+  ],
+  "word_count": 60,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "Hello? Hello? Good afternoon. My name is Lina. I'm just checking something as per our records from your local county in the state of Texas. So just quickly confirm both Part A and B of your Medicare are currently active, right? No. Sorry, but you do not seem to qualify for the plans that we have. Have a great day.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Hello? Good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Lina I'm just checking something as per our records from your local county in the state of Texas So just quickly confirm both Part A and B of your Medicare are currently active, right? No"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, but you do not seem to qualify for the plans that we have Have a great day"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": true
+  },
+  "bot_word_count": 60
+}

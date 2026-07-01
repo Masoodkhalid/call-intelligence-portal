@@ -1,0 +1,92 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__NI__20260629-154602_9106747084-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-29",
+  "time": "15:46:02",
+  "phone": "9106747084",
+  "filename": "20260629-154602_9106747084-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-NI/20260629-154602_9106747084-all.mp3",
+  "duration": 36.29,
+  "text": ">> Good afternoon. My name is Lena. I am just checking something as per our records from your local county in the state of North Carolina. And this will be quick. So, you are currently enrolled in Medicare Part A and B, correct? >> Well, I was asking if you're both Part A and B of Medicare. Lena, what is that? >> Let's talk about this another time, thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.6,
+      "text": ">> Good afternoon."
+    },
+    {
+      "start": 6.6,
+      "end": 8.0,
+      "text": "My name is Lena."
+    },
+    {
+      "start": 8.0,
+      "end": 13.6,
+      "text": "I am just checking something as per our records from your local county in the state"
+    },
+    {
+      "start": 13.6,
+      "end": 14.6,
+      "text": "of North Carolina."
+    },
+    {
+      "start": 14.6,
+      "end": 16.0,
+      "text": "And this will be quick."
+    },
+    {
+      "start": 16.0,
+      "end": 20.6,
+      "text": "So, you are currently enrolled in Medicare Part A and B, correct?"
+    },
+    {
+      "start": 20.6,
+      "end": 29.0,
+      "text": ">> Well, I was asking if you're both Part A and B of Medicare."
+    },
+    {
+      "start": 29.0,
+      "end": 32.6,
+      "text": "Lena, what is that?"
+    },
+    {
+      "start": 32.6,
+      "end": 34.6,
+      "text": ">> Let's talk about this another time, thank you."
+    }
+  ],
+  "word_count": 70,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": ">> Good afternoon. My name is Lena. I am just checking something as per our records from your local county in the state of North Carolina. And this will be quick. So, you are currently enrolled in Medicare Part A and B, correct? >> Well, I was asking if you're both Part A and B of Medicare. Lena, what is that? >> Let's talk about this another time, thank you.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Lena I am just checking something as per our records from your local county in the state of North Carolina And this will be quick So, you are currently enrolled in Medicare Part A and B, correct?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Well, I was asking if you're both Part A and B of Medicare"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Lena, what is that? Let's talk about this another time, thank you"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 70
+}

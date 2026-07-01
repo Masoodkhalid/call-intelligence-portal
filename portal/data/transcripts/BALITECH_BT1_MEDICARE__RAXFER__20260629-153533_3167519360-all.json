@@ -1,0 +1,128 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__RAXFER__20260629-153533_3167519360-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-29",
+  "time": "15:35:33",
+  "phone": "3167519360",
+  "filename": "20260629-153533_3167519360-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-RAXFER/20260629-153533_3167519360-all.mp3",
+  "duration": 49.32,
+  "text": "Hello? Are you there? Yes, I am here. Good afternoon. Are you there? Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. Okay, then transfer in here. You do have both part A and part B, right? Yes. You do qualify forwarding you to our supervisor now. No, you're not.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 3.0,
+      "end": 8.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "Yes, I am here."
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Are you there?"
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "Cassie."
+    },
+    {
+      "start": 17.0,
+      "end": 26.0,
+      "text": "So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 26.0,
+      "end": 32.0,
+      "text": "When that transfer is missing, it can cause delays in your coverage approvals."
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "Okay, then transfer in here."
+    },
+    {
+      "start": 34.0,
+      "end": 38.0,
+      "text": "You do have both part A and part B, right?"
+    },
+    {
+      "start": 38.0,
+      "end": 41.0,
+      "text": "Yes."
+    },
+    {
+      "start": 41.0,
+      "end": 45.0,
+      "text": "You do qualify forwarding you to our supervisor now."
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": "No, you're not."
+    }
+  ],
+  "word_count": 73,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "Hello? Are you there? Yes, I am here. Good afternoon. Are you there? Cassie. So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. When that transfer is missing, it can cause delays in your coverage approvals. Okay, then transfer in here. You do have both part A and part B, right? Yes. You do qualify forwarding you to our supervisor now. No, you're not.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes, I am here"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Cassie"
+    },
+    {
+      "speaker": "BOT",
+      "text": "So, I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet When that transfer is missing, it can cause delays in your coverage approvals"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Okay, then transfer in here"
+    },
+    {
+      "speaker": "BOT",
+      "text": "You do have both part A and part B, right?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yes You do qualify forwarding you to our supervisor now No, you're not"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 73
+}

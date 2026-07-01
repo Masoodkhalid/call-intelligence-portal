@@ -99,6 +99,7 @@ def call_id(campaign, dispo, filename):
 # Definitive per-folder metadata — sourced from the Google Sheet (ground truth).
 # Key = exact folder name under mcc/; values override any heuristic parsing.
 _FOLDER_META = {
+    # ---- existing clients ------------------------------------------------
     "HALINK_HIHALINK_FE": {
         "company":      "Halink(Hihalink)",
         "bot_company":  "Confinality",
@@ -109,10 +110,26 @@ _FOLDER_META = {
         "bot_company":  "Confinality",
         "campaign_name":"Medicare",
     },
-    "EMPAXCO3_SOLAR": {
+    "EMPAXCO3_SOLAR": {       # legacy folder name — same client as EMPAXCO3_FE
         "company":      "empaxco3",
         "bot_company":  "REEV",
         "campaign_name":"FE",
+    },
+    "EMPAXCO3_FE": {
+        "company":      "empaxco3",
+        "bot_company":  "REEV",
+        "campaign_name":"FE",
+    },
+    # ---- new clients added to sheet -------------------------------------
+    "BALITECH_BT1_MEDICARE": {
+        "company":      "balitech-bt1",
+        "bot_company":  "Confinality",
+        "campaign_name":"Medicare",
+    },
+    "ERRANDS4_MEDICAL_SUPPLIES": {
+        "company":      "errands4",
+        "bot_company":  "ISPER",
+        "campaign_name":"Medical Supplies",
     },
 }
 

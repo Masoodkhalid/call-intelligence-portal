@@ -1,0 +1,82 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NI__20260626-182002_8503786138-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-26",
+  "time": "18:20:02",
+  "phone": "8503786138",
+  "filename": "20260626-182002_8503786138-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NI/20260626-182002_8503786138-all.mp3",
+  "duration": 26.28,
+  "text": "Hey, how are you doing? It's Caroline, thanks for picking up. Say what now? Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints. To see if you qualify. Do you have Medicare Part A and B? I don't need that.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "start": 2.58,
+      "end": 6.18,
+      "text": "It's Caroline, thanks for picking up."
+    },
+    {
+      "start": 6.18,
+      "end": 9.94,
+      "text": "Say what now?"
+    },
+    {
+      "start": 9.94,
+      "end": 17.08,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints."
+    },
+    {
+      "start": 17.08,
+      "end": 19.1,
+      "text": "To see if you qualify."
+    },
+    {
+      "start": 19.1,
+      "end": 23.1,
+      "text": "Do you have Medicare Part A and B?"
+    },
+    {
+      "start": 23.1,
+      "end": 25.1,
+      "text": "I don't need that."
+    }
+  ],
+  "word_count": 45,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey, how are you doing? It's Caroline, thanks for picking up. Say what now? Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints. To see if you qualify. Do you have Medicare Part A and B? I don't need that.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "It's Caroline, thanks for picking up Say what now? Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints To see if you qualify"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Do you have Medicare Part A and B?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I don't need that"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 45
+}

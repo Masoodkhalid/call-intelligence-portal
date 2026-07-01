@@ -1,0 +1,63 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__NI__20260629-165829_8126867426-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-29",
+  "time": "16:58:29",
+  "phone": "8126867426",
+  "filename": "20260629-165829_8126867426-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-NI/20260629-165829_8126867426-all.mp3",
+  "duration": 39.02,
+  "text": "Good evening. My name is Lena. I'm just checking something from our records from your local county in the state of Indiana. It will just take a few seconds. So are you currently enrolled in Medicare Part A and B? Well, I was asking if you both Part A and B of Medicare. Can you hear me? I was asking if you have Part A and B of Medicare.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": "Good evening. My name is Lena. I'm just checking something from our records from your local"
+    },
+    {
+      "start": 9.0,
+      "end": 14.0,
+      "text": "county in the state of Indiana. It will just take a few seconds. So are you currently enrolled"
+    },
+    {
+      "start": 14.0,
+      "end": 28.0,
+      "text": "in Medicare Part A and B? Well, I was asking if you both Part A and B of Medicare. Can you hear me?"
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "I was asking if you have Part A and B of Medicare."
+    }
+  ],
+  "word_count": 69,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "Good evening. My name is Lena. I'm just checking something from our records from your local county in the state of Indiana. It will just take a few seconds. So are you currently enrolled in Medicare Part A and B? Well, I was asking if you both Part A and B of Medicare. Can you hear me? I was asking if you have Part A and B of Medicare.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Good evening"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Lena I'm just checking something from our records from your local county in the state of Indiana It will just take a few seconds So are you currently enrolled in Medicare Part A and B?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Well, I was asking if you both Part A and B of Medicare Can you hear me? I was asking if you have Part A and B of Medicare"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 69
+}

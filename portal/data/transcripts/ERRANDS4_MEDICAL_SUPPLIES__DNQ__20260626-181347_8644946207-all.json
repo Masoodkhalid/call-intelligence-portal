@@ -1,0 +1,69 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-181347_8644946207-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-26",
+  "time": "18:13:47",
+  "phone": "8644946207",
+  "filename": "20260626-181347_8644946207-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-DNQ/20260626-181347_8644946207-all.mp3",
+  "duration": 27.65,
+  "text": "Hello. Hi, this is Jennifer with U.S. Medical Supplies. I hope I caught you at a good time. You did. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without fricking your finger. Do you have diabetes? No, I don't. That's good. Take care now.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Hello. Hi, this is Jennifer with U.S. Medical Supplies. I hope I caught you at a good time."
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "You did."
+    },
+    {
+      "start": 11.0,
+      "end": 16.0,
+      "text": "I'm calling about the continuous glucose monitor. It lets you track your blood sugar without"
+    },
+    {
+      "start": 16.0,
+      "end": 21.0,
+      "text": "fricking your finger. Do you have diabetes?"
+    },
+    {
+      "start": 21.0,
+      "end": 26.0,
+      "text": "No, I don't."
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "That's good. Take care now."
+    }
+  ],
+  "word_count": 50,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello. Hi, this is Jennifer with U.S. Medical Supplies. I hope I caught you at a good time. You did. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without fricking your finger. Do you have diabetes? No, I don't. That's good. Take care now.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, this is Jennifer with U.S Medical Supplies I hope I caught you at a good time You did I'm calling about the continuous glucose monitor It lets you track your blood sugar without fricking your finger Do you have diabetes? No, I don't That's good Take care now"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 50
+}

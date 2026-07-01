@@ -1,0 +1,84 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__RAXFER__20260626-172248_3364560038-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-26",
+  "time": "17:22:48",
+  "phone": "3364560038",
+  "filename": "20260626-172248_3364560038-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-RAXFER/20260626-172248_3364560038-all.mp3",
+  "duration": 38.23,
+  "text": "Hey, how are you doing? It's Caroline calling for wellness direct. Thanks for picking up. What can I do with it? Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints. To see if you qualify for this, do you have Medicare Part A and B? Do I do, yeah. Okay, I'm going to connect you with a specialist right now. Hold tight for just a second, please.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "It's Caroline calling for wellness direct."
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "Thanks for picking up."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "What can I do with it?"
+    },
+    {
+      "start": 10.0,
+      "end": 17.0,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints."
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "text": "To see if you qualify for this, do you have Medicare Part A and B?"
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "text": "Do I do, yeah."
+    },
+    {
+      "start": 27.0,
+      "end": 30.0,
+      "text": "Okay, I'm going to connect you with a specialist right now."
+    },
+    {
+      "start": 30.0,
+      "end": 33.0,
+      "text": "Hold tight for just a second, please."
+    }
+  ],
+  "word_count": 72,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey, how are you doing? It's Caroline calling for wellness direct Thanks for picking up What can I do with it? Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints To see if you qualify for this, do you have Medicare Part A and B? Do I do, yeah Okay, I'm going to connect you with a specialist right now Hold tight for just a second, please",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "It's Caroline calling for wellness direct Thanks for picking up What can I do with it? Actually, there's a painless glucose monitor that tracks your sugar all day, no fingerprints To see if you qualify for this, do you have Medicare Part A and B? Do I do, yeah Okay, I'm going to connect you with a specialist right now Hold tight for just a second, please"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 72
+}

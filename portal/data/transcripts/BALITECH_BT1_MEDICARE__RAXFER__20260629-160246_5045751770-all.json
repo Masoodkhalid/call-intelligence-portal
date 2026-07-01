@@ -1,0 +1,145 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__RAXFER__20260629-160246_5045751770-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-29",
+  "time": "16:02:46",
+  "phone": "5045751770",
+  "filename": "20260629-160246_5045751770-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-RAXFER/20260629-160246_5045751770-all.mp3",
+  "duration": 77.26,
+  "text": "Hello? Are you there? Yeah. Good afternoon. My name is Julia. Oh, Julia. I'm just checking something as per our records from your local county in the state of Louisiana. So just quick, both Part A and B of your Medicare are currently active, right? Oh, yes, if you still sit on top of me, yes. Well, I was asking if you both Part A and B of Medicare? Oh, yes, it is. Yes, it is. So our records indicate that you haven't claimed your free upgrade, which offer benefits like food cards, $300 cash back, flex cards, and very low premiums. So let me get a benefit specialist online who can activate these benefits on your current coverage free of cost, okay? We're getting connected to our benefits specialist in a minute. [inaudible]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.54,
+      "text": "Hello?"
+    },
+    {
+      "start": 6.54,
+      "end": 8.48,
+      "text": "Are you there?"
+    },
+    {
+      "start": 8.48,
+      "end": 9.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 9.48,
+      "end": 10.48,
+      "text": "Good afternoon."
+    },
+    {
+      "start": 10.48,
+      "end": 11.48,
+      "text": "My name is Julia."
+    },
+    {
+      "start": 11.48,
+      "end": 12.48,
+      "text": "Oh, Julia."
+    },
+    {
+      "start": 12.48,
+      "end": 19.16,
+      "text": "I'm just checking something as per our records from your local county in the state of Louisiana."
+    },
+    {
+      "start": 19.16,
+      "end": 24.6,
+      "text": "So just quick, both Part A and B of your Medicare are currently active, right?"
+    },
+    {
+      "start": 24.6,
+      "end": 29.84,
+      "text": "Oh, yes, if you still sit on top of me, yes."
+    },
+    {
+      "start": 29.84,
+      "end": 34.28,
+      "text": "Well, I was asking if you both Part A and B of Medicare?"
+    },
+    {
+      "start": 34.28,
+      "end": 37.28,
+      "text": "Oh, yes, it is."
+    },
+    {
+      "start": 37.28,
+      "end": 39.04,
+      "text": "Yes, it is."
+    },
+    {
+      "start": 39.04,
+      "end": 44.2,
+      "text": "So our records indicate that you haven't claimed your free upgrade, which offer benefits like"
+    },
+    {
+      "start": 44.2,
+      "end": 50.08,
+      "text": "food cards, $300 cash back, flex cards, and very low premiums."
+    },
+    {
+      "start": 50.08,
+      "end": 54.08,
+      "text": "So let me get a benefit specialist online who can activate these benefits on your current"
+    },
+    {
+      "start": 54.08,
+      "end": 59.36,
+      "text": "coverage free of cost, okay?"
+    },
+    {
+      "start": 59.36,
+      "end": 62.0,
+      "text": "We're getting connected to our benefits specialist in a minute."
+    },
+    {
+      "start": 62.0,
+      "end": 62.0,
+      "text": "[inaudible]"
+    }
+  ],
+  "word_count": 134,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "Hello? Are you there? Yeah. Good afternoon. My name is Julia. Oh, Julia. I'm just checking something as per our records from your local county in the state of Louisiana. So just quick, both Part A and B of your Medicare are currently active, right? Oh, yes, if you still sit on top of me, yes. Well, I was asking if you both Part A and B of Medicare? Oh, yes, it is. Yes, it is. So our records indicate that you haven't claimed your free upgrade, which offer benefits like food cards, $300 cash back, flex cards, and very low premiums. So let me get a benefit specialist online who can activate these benefits on your current coverage free of cost, okay? We're getting connected to our benefits specialist in a minute. [inaudible]",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello? Are you there?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Yeah"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Good afternoon"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Julia Oh, Julia I'm just checking something as per our records from your local county in the state of Louisiana So just quick, both Part A and B of your Medicare are currently active, right? Oh, yes, if you still sit on top of me, yes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Well, I was asking if you both Part A and B of Medicare?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Oh, yes, it is Yes, it is So our records indicate that you haven't claimed your free upgrade, which offer benefits like food cards, $300 cash back, flex cards, and very low premiums So let me get a benefit specialist online who can activate these benefits on your current coverage free of cost, okay? We're getting connected to our benefits specialist in a minute [inaudible]"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": true,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 134
+}

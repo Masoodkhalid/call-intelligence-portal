@@ -1,0 +1,73 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NP__20260626-173032_9726935670-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-26",
+  "time": "17:30:32",
+  "phone": "9726935670",
+  "filename": "20260626-173032_9726935670-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NP/20260626-173032_9726935670-all.mp3",
+  "duration": 17.71,
+  "text": "Hey. How are you doing? It's been calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints. pricks. Quick, thank you. Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Hey. How are you doing?"
+    },
+    {
+      "start": 3.0,
+      "end": 9.0,
+      "text": "It's been calling from Wellness Direct. Thanks for picking up."
+    },
+    {
+      "start": 9.0,
+      "end": 15.0,
+      "text": "Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints."
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "pricks."
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "Quick, thank you."
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "text": "Thank you."
+    }
+  ],
+  "word_count": 35,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hey. How are you doing? It's been calling from Wellness Direct. Thanks for picking up. Actually, there's a painless glucose monitor that tracks your sugar all day. No fingerprints. pricks. Quick, thank you. Thank you.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hey"
+    },
+    {
+      "speaker": "BOT",
+      "text": "How are you doing?"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "It's been calling from Wellness Direct Thanks for picking up Actually, there's a painless glucose monitor that tracks your sugar all day No fingerprints pricks Quick, thank you Thank you"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 35
+}

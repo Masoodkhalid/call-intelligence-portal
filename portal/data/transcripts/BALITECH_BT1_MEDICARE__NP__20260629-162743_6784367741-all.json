@@ -1,0 +1,64 @@
+{
+  "id": "BALITECH_BT1_MEDICARE__NP__20260629-162743_6784367741-all",
+  "campaign": "BALITECH_BT1_MEDICARE",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-29",
+  "time": "16:27:43",
+  "phone": "6784367741",
+  "filename": "20260629-162743_6784367741-all.mp3",
+  "rel_path": "mcc/BALITECH_BT1_MEDICARE/BALITECH_BT1_MEDICARE-NP/20260629-162743_6784367741-all.mp3",
+  "duration": 18.58,
+  "text": "Hello. Hello. Good evening. This is Cassie speaking. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that is...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hello."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hello."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Good evening. This is Cassie speaking."
+    },
+    {
+      "start": 8.0,
+      "end": 17.0,
+      "text": "So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet."
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "And that is..."
+    }
+  ],
+  "word_count": 29,
+  "company": "balitech-bt1",
+  "bot_company": "Confinality",
+  "campaign_name": "Medicare",
+  "bot_text": "Hello. Hello. Good evening. This is Cassie speaking. So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet. And that is...",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello Hello Good evening This is Cassie speaking So I'm calling because your Medicare member profile hasn't been transferred into Medicare's national database for 2026 yet"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "And that is"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": true,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 29
+}

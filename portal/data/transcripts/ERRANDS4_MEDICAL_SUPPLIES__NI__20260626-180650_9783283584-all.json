@@ -1,0 +1,69 @@
+{
+  "id": "ERRANDS4_MEDICAL_SUPPLIES__NI__20260626-180650_9783283584-all",
+  "campaign": "ERRANDS4_MEDICAL_SUPPLIES",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-26",
+  "time": "18:06:50",
+  "phone": "9783283584",
+  "filename": "20260626-180650_9783283584-all.mp3",
+  "rel_path": "mcc/ERRANDS4_MEDICAL_SUPPLIES/ERRANDS4_MEDICAL_SUPPLIES-NI/20260626-180650_9783283584-all.mp3",
+  "duration": 19.08,
+  "text": "Hello. Hi, this is Harper with U.S. medical supply. I hope I caught you at a good time. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Do you have diabetes?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 5.76,
+      "text": "Hi, this is Harper with U.S. medical supply."
+    },
+    {
+      "start": 5.76,
+      "end": 8.32,
+      "text": "I hope I caught you at a good time."
+    },
+    {
+      "start": 8.32,
+      "end": 13.04,
+      "text": "I'm calling about the continuous glucose monitor."
+    },
+    {
+      "start": 13.04,
+      "end": 16.6,
+      "text": "It lets you track your blood sugar without pricking your finger."
+    },
+    {
+      "start": 16.6,
+      "end": 18.68,
+      "text": "Do you have diabetes?"
+    }
+  ],
+  "word_count": 40,
+  "company": "errands4",
+  "bot_company": "ISPER",
+  "campaign_name": "Medical Supplies",
+  "bot_text": "Hello. Hi, this is Harper with U.S. medical supply. I hope I caught you at a good time. I'm calling about the continuous glucose monitor. It lets you track your blood sugar without pricking your finger. Do you have diabetes?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, this is Harper with U.S medical supply I hope I caught you at a good time I'm calling about the continuous glucose monitor It lets you track your blood sugar without pricking your finger Do you have diabetes?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": true,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 40
+}
