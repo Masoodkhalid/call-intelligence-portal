@@ -108,11 +108,15 @@ def parse_rows(csv_text):
     return rows
 
 
+def campaign_folder_name(rec):
+    client_tag = safe_folder(rec["client"])
+    camp_tag   = safe_folder(rec["campaign"])
+    return f"{client_tag}_{camp_tag}" if camp_tag else client_tag
+
+
 def dest_path(rec):
     """Build the local mp3 path under mcc/."""
-    client_tag  = safe_folder(rec["client"])   # e.g. HALINK_HIHALINK_
-    camp_tag    = safe_folder(rec["campaign"])  # e.g. FE
-    folder_name = f"{client_tag}_{camp_tag}" if camp_tag else client_tag
+    folder_name = campaign_folder_name(rec)
     dispo       = rec["dispo"].upper()
     folder      = os.path.join(C.RECORDINGS_DIR,
                                folder_name,
@@ -120,8 +124,30 @@ def dest_path(rec):
     return os.path.join(folder, rec["filename"])
 
 
+def write_meta(rec):
+    """Write _meta.json into the top-level campaign folder so common.py can
+    resolve company/bot_company/campaign_name without any hardcoded mapping."""
+    folder_name = campaign_folder_name(rec)
+    top_folder  = os.path.join(C.RECORDINGS_DIR, folder_name)
+    meta_path   = os.path.join(top_folder, "_meta.json")
+    if os.path.exists(meta_path):
+        return  # already written
+    os.makedirs(top_folder, exist_ok=True)
+    import json as _json
+    meta = {
+        "company":       rec["client"],
+        "bot_company":   rec["bot"],
+        "campaign_name": rec["campaign"],
+        "folder":        folder_name,
+    }
+    with open(meta_path, "w") as f:
+        _json.dump(meta, f, indent=2)
+
+
 def download_one(rec, dry_run=False):
     path = dest_path(rec)
+    if not dry_run:
+        write_meta(rec)   # always ensure sidecar exists
     if os.path.exists(path):
         return "skip", rec["filename"]
     if dry_run:

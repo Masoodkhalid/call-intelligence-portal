@@ -143,13 +143,31 @@ _KNOWN_CAMPAIGNS = {"FE", "MEDICARE", "SOLAR"}
 
 
 def folder_meta(folder_name):
-    """Return (company, bot_company, campaign_name) for a recordings folder."""
+    """Return (company, bot_company, campaign_name) for a recordings folder.
+
+    Priority:
+      1. _meta.json sidecar written by fetch_sheet.py (auto, no code change needed)
+      2. _FOLDER_META hardcoded dict (legacy + mcc* overrides)
+      3. mcc* pattern -> Confinality / Medicare
+      4. Generic heuristic fallback
+    """
+    # 1. sidecar written by fetch_sheet at download time
+    meta_path = os.path.join(RECORDINGS_DIR, folder_name, "_meta.json")
+    if os.path.isfile(meta_path):
+        m = load_json(meta_path, {})
+        if m.get("company"):
+            return m["company"], m.get("bot_company", "Unknown"), m.get("campaign_name", "Unknown")
+
+    # 2. hardcoded overrides (mcc* and legacy folders without sidecars)
     if folder_name in _FOLDER_META:
         m = _FOLDER_META[folder_name]
         return m["company"], m["bot_company"], m["campaign_name"]
+
+    # 3. mcc* pattern
     if re.match(r"^mcc\d+$", folder_name, re.I):
         return folder_name, "Confinality", "Medicare"
-    # generic fallback
+
+    # 4. generic fallback
     up = folder_name.upper()
     for camp in sorted(_KNOWN_CAMPAIGNS, key=len, reverse=True):
         if up.endswith("_" + camp):
