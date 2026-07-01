@@ -1,0 +1,73 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__N__20260630-161939_7194849833-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "N",
+  "dispo_label": "No Answer",
+  "date": "2026-06-30",
+  "time": "16:19:39",
+  "phone": "7194849833",
+  "filename": "20260630-161939_7194849833-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-N/20260630-161939_7194849833-all.mp3",
+  "duration": 30.1,
+  "text": "Hi, my name is Mabel, and I'm with AutoCAD. Thank you for what was doing in your area, you need to be overcame for your auto insurance, and you want to help you find a better way. You just need to be sure to find either way, but now I'm with you under the age of 80. Sorry, I didn't touch that. You just need to come really quick, are you under the age of 80?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Hi, my name is Mabel, and I'm with AutoCAD."
+    },
+    {
+      "start": 3.8,
+      "end": 8.44,
+      "text": "Thank you for what was doing in your area, you need to be overcame for your auto insurance,"
+    },
+    {
+      "start": 8.44,
+      "end": 10.6,
+      "text": "and you want to help you find a better way."
+    },
+    {
+      "start": 10.6,
+      "end": 15.7,
+      "text": "You just need to be sure to find either way, but now I'm with you under the age of 80."
+    },
+    {
+      "start": 20.7,
+      "end": 22.6,
+      "text": "Sorry, I didn't touch that."
+    },
+    {
+      "start": 22.6,
+      "end": 25.9,
+      "text": "You just need to come really quick, are you under the age of 80?"
+    }
+  ],
+  "word_count": 76,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Mabel, and I'm with AutoCAD. Thank you for what was doing in your area, you need to be overcame for your auto insurance, and you want to help you find a better way. You just need to be sure to find either way, but now I'm with you under the age of 80. Sorry, I didn't touch that. You just need to come really quick, are you under the age of 80?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Mabel, and I'm with AutoCAD Thank you for what was doing in your area, you need to be overcame for your auto insurance, and you want to help you find a better way You just need to be sure to find either way, but now I'm with you under the age of 80"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, I didn't touch that"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You just need to come really quick, are you under the age of 80?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 76
+}

@@ -1,0 +1,91 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__N__20260630-163051_3032771368-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "N",
+  "dispo_label": "No Answer",
+  "date": "2026-06-30",
+  "time": "16:30:51",
+  "phone": "3032771368",
+  "filename": "20260630-163051_3032771368-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-N/20260630-163051_3032771368-all.mp3",
+  "duration": 39.89,
+  "text": "Hi, my name is Megan, and I'm with AutoCare. I'm not going to use that GAD phase. I'm going to help you find a better rate. Just to make sure we're finding you the right quote. May I ask, are you under the age of 80? Sorry, I didn't catch that. Just to confirm really quick, are you under the age of 80? Sorry, I didn't catch that. Just to confirm really quick, are you under the age of 80?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi, my name is Megan, and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "I'm not going to use that GAD phase."
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "I'm going to help you find a better rate."
+    },
+    {
+      "start": 12.0,
+      "end": 20.0,
+      "text": "Just to make sure we're finding you the right quote. May I ask, are you under the age of 80?"
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": "Sorry, I didn't catch that."
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": "Just to confirm really quick, are you under the age of 80?"
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "Sorry, I didn't catch that."
+    },
+    {
+      "start": 32.0,
+      "end": 36.0,
+      "text": "Just to confirm really quick, are you under the age of 80?"
+    }
+  ],
+  "word_count": 80,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Megan, and I'm with AutoCare. I'm not going to use that GAD phase. I'm going to help you find a better rate. Just to make sure we're finding you the right quote. May I ask, are you under the age of 80? Sorry, I didn't catch that. Just to confirm really quick, are you under the age of 80? Sorry, I didn't catch that. Just to confirm really quick, are you under the age of 80?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Megan, and I'm with AutoCare I'm not going to use that GAD phase I'm going to help you find a better rate Just to make sure we're finding you the right quote May I ask, are you under the age of 80?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, I didn't catch that"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Just to confirm really quick, are you under the age of 80?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, I didn't catch that"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Just to confirm really quick, are you under the age of 80?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 80
+}

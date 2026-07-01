@@ -1,0 +1,65 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__NP__20260630-174517_7242697055-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-30",
+  "time": "17:45:17",
+  "phone": "7242697055",
+  "filename": "20260630-174517_7242697055-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-NP/20260630-174517_7242697055-all.mp3",
+  "duration": 18.36,
+  "text": "Hi, my name is Meghan, and I'm with AutoCare. Please press \"B\" and I confirm you are not a telemarketer. Maybe overpaying for your auto insurance, and we want to help you find a better rate. Just to make sure the marketing calls are not accepted. May I ask? Please add this name and number to the viewer. Do not call this.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi, my name is Meghan, and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Please press \"B\" and I confirm you are not a telemarketer."
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": "Maybe overpaying for your auto insurance, and we want to help you find a better rate."
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "Just to make sure the marketing calls are not accepted."
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "May I ask?"
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": "Please add this name and number to the viewer. Do not call this."
+    }
+  ],
+  "word_count": 62,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Meghan, and I'm with AutoCare. Please press \"B\" and I confirm you are not a telemarketer. Maybe overpaying for your auto insurance, and we want to help you find a better rate. Just to make sure the marketing calls are not accepted. May I ask? Please add this name and number to the viewer. Do not call this.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Meghan, and I'm with AutoCare Please press \"B\" and I confirm you are not a telemarketer Maybe overpaying for your auto insurance, and we want to help you find a better rate Just to make sure the marketing calls are not accepted May I ask? Please add this name and number to the viewer Do not call this"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 62
+}

@@ -66,7 +66,15 @@
     },
     {
       "speaker": "BOT",
-      "text": "To mark your message urgent press 2 To mark your message private press 3 To send your message as is press pound Are you"
+      "text": "To mark your message urgent press 2 To mark your message private press 3"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To send your message as is press pound"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you"
     }
   ],
   "stages": {

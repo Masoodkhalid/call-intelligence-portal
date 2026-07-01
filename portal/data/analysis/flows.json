@@ -40,6 +40,10 @@
     ],
     "top_customer_lines": [
       [
+        "to send your message as is, press pound",
+        18
+      ],
+      [
         "at the tone",
         5
       ],
@@ -81,10 +85,6 @@
       ],
       [
         "to review, re-record, or add to your message, press 1",
-        3
-      ],
-      [
-        "hi, my name is julia",
         3
       ]
     ],
@@ -537,27 +537,27 @@
     "dispo": "DNQ",
     "label": "Did Not Qualify",
     "is_win": false,
-    "count": 167,
-    "avg_duration": 35.7,
-    "avg_words": 78.8,
+    "count": 176,
+    "avg_duration": 35.3,
+    "avg_words": 78.4,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 161,
-        "pct": 96.4
+        "count": 168,
+        "pct": 95.5
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
         "count": 161,
-        "pct": 96.4
+        "pct": 91.5
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
         "count": 146,
-        "pct": 87.4
+        "pct": 83.0
       },
       {
         "key": "transfer",
@@ -569,7 +569,7 @@
         "key": "disqualify",
         "label": "Disqualified",
         "count": 113,
-        "pct": 67.7
+        "pct": 64.2
       }
     ],
     "top_customer_lines": [
@@ -587,10 +587,6 @@
       ],
       [
         "yeah",
-        6
-      ],
-      [
-        "to check if you qualify, so can you please confirm?",
         6
       ],
       [
@@ -618,7 +614,11 @@
         3
       ],
       [
-        "yes hi, my name is lisa",
+        "yes hi, my name is lisa i'm calling because in the recent updates, the governmen",
+        3
+      ],
+      [
+        "hi, my name is emma i'm calling about the final expensive churn option that may ",
         3
       ]
     ],
@@ -779,27 +779,27 @@
     "dispo": "NI",
     "label": "Not Interested",
     "is_win": false,
-    "count": 169,
-    "avg_duration": 38.6,
-    "avg_words": 67.7,
+    "count": 179,
+    "avg_duration": 38.4,
+    "avg_words": 68.8,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 166,
-        "pct": 98.2
+        "count": 175,
+        "pct": 97.8
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
         "count": 148,
-        "pct": 87.6
+        "pct": 82.7
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
         "count": 102,
-        "pct": 60.4
+        "pct": 57.0
       },
       {
         "key": "transfer",
@@ -848,11 +848,7 @@
         3
       ],
       [
-        "hi, my name is emma",
-        3
-      ],
-      [
-        "okay, all right so check if you qualify",
+        "hi, my name is emma i'm calling because in the recent episode, the government ha",
         3
       ],
       [
@@ -861,6 +857,10 @@
       ],
       [
         "hi, my name is adeline i'm calling about the final expense insurance option that",
+        3
+      ],
+      [
+        "by me yesterday i'm calling about the final expense insurance options that may h",
         3
       ]
     ],
@@ -876,6 +876,14 @@
       [
         "thanks connecting you for now if you can give me just a moment, there's no oblig",
         2
+      ],
+      [
+        "hi, my name is sandy and i'm with autocare can i just say the message? they don'",
+        1
+      ],
+      [
+        "you do currently have active auto insurance on your vehicle correct to disconnec",
+        1
       ],
       [
         "girl, why are you doing this? girl, why are you doing this? are you doing that, ",
@@ -894,27 +902,27 @@
     "dispo": "NP",
     "label": "No Pitch (cut early)",
     "is_win": false,
-    "count": 166,
-    "avg_duration": 24.3,
-    "avg_words": 44.9,
+    "count": 177,
+    "avg_duration": 23.7,
+    "avg_words": 45.2,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 154,
-        "pct": 92.8
+        "count": 164,
+        "pct": 92.7
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
         "count": 133,
-        "pct": 80.1
+        "pct": 75.1
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
         "count": 34,
-        "pct": 20.5
+        "pct": 19.2
       },
       {
         "key": "transfer",
@@ -941,6 +949,10 @@
       [
         "i'm sorry",
         8
+      ],
+      [
+        "hi, my name is sandy and i'm with autocare based on what we're seeing in your ar",
+        4
       ],
       [
         "i want to help you get these benefits processed before they go unclaimed",
@@ -973,16 +985,16 @@
       [
         "i've got the card you call i'm not ready to tell right now so you may send me a ",
         3
-      ],
-      [
-        "\"hello?\" \"hello?\" \"hi, my name is julia i'm calling about the final expense insu",
-        3
       ]
     ],
     "top_objections": [
       [
         "thanks connecting you for now if you can give me just a moment, there's no oblig",
         2
+      ],
+      [
+        "hi, my name is sandy and i'm with autocare based on what we're seeing in your ar",
+        1
       ]
     ],
     "example_ids": [
@@ -997,15 +1009,15 @@
     "dispo": "N",
     "label": "No Answer",
     "is_win": false,
-    "count": 155,
-    "avg_duration": 13.2,
-    "avg_words": 5.2,
+    "count": 165,
+    "avg_duration": 14.5,
+    "avg_words": 9.6,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 153,
-        "pct": 98.7
+        "count": 163,
+        "pct": 98.8
       },
       {
         "key": "pitch",
@@ -1034,6 +1046,10 @@
     ],
     "top_customer_lines": [
       [
+        "just to confirm really quick, are you under the age of 80?",
+        8
+      ],
+      [
         "thank you",
         2
       ],
@@ -1050,6 +1066,10 @@
         2
       ],
       [
+        "my name is claire, and i'm with autocare based on what we're seeing in your area",
+        2
+      ],
+      [
         "my name is lina i'm just checking something from our records from your local cou",
         1
       ],
@@ -1058,27 +1078,19 @@
         1
       ],
       [
-        "i am",
+        "hi, my name is mabel, and i'm with autocare based on what we're seeing in your a",
         1
       ],
       [
-        "[phone ringing] hello?",
+        "\"hi, my name is megan, and i'm with autocad.\" \"you don't know what we're seeing ",
         1
       ],
       [
-        "[phone ringing]",
+        "hi, my name is meghan and i'm with autocare based on what we're seeing in your a",
         1
       ],
       [
-        "(phone ringing) hello?",
-        1
-      ],
-      [
-        "(phone beeps) hello?",
-        1
-      ],
-      [
-        "at the telling, please record your message when you've finished recording you ma",
+        "hi, my name is mabel and i'm with autocare based on what we're seeing in your ar",
         1
       ]
     ],
@@ -1100,33 +1112,33 @@
     "dispo": "RAXFER",
     "label": "Transferred to Agent",
     "is_win": true,
-    "count": 168,
-    "avg_duration": 134.3,
-    "avg_words": 107.0,
+    "count": 179,
+    "avg_duration": 130.7,
+    "avg_words": 105.3,
     "funnel": [
       {
         "key": "greeting",
         "label": "Greeting",
-        "count": 161,
-        "pct": 95.8
+        "count": 172,
+        "pct": 96.1
       },
       {
         "key": "pitch",
         "label": "Pitch / reason for call",
         "count": 154,
-        "pct": 91.7
+        "pct": 86.0
       },
       {
         "key": "qualify",
         "label": "Qualify (Part A & B)",
         "count": 138,
-        "pct": 82.1
+        "pct": 77.1
       },
       {
         "key": "transfer",
         "label": "Transfer to agent",
-        "count": 152,
-        "pct": 90.5
+        "count": 161,
+        "pct": 89.9
       },
       {
         "key": "disqualify",
@@ -1173,7 +1185,7 @@
         3
       ],
       [
-        "yes perfect you're qualified for the low cost final expense insurance plans let ",
+        "hello hello hi, my name is ayla i'm calling because in the recent updates, the g",
         3
       ],
       [
@@ -1181,7 +1193,7 @@
         3
       ],
       [
-        "i am between 40 and 85 years old perfect you are qualified for the low cost fina",
+        "hello hello my name is eden i'm calling because in the recent updates, the gover",
         3
       ]
     ],

@@ -1,0 +1,55 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__DNQ__20260630-162827_5209791634-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-30",
+  "time": "16:28:27",
+  "phone": "5209791634",
+  "filename": "20260630-162827_5209791634-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-DNQ/20260630-162827_5209791634-all.mp3",
+  "duration": 21.17,
+  "text": "So, hi my name is Megan and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better rate. Just to make sure we're finding you the right quote. May I ask, are you under the age of 80? No.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.56,
+      "text": "So, hi my name is Megan and I'm with AutoCare. Based on what we're seeing in your area,"
+    },
+    {
+      "start": 6.56,
+      "end": 11.12,
+      "text": "you may be overpaying for your auto insurance and we want to help you find a better rate."
+    },
+    {
+      "start": 11.76,
+      "end": 16.64,
+      "text": "Just to make sure we're finding you the right quote. May I ask, are you under the age of 80?"
+    },
+    {
+      "start": 19.44,
+      "end": 19.76,
+      "text": "No."
+    }
+  ],
+  "word_count": 57,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "So, hi my name is Megan and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better rate. Just to make sure we're finding you the right quote. May I ask, are you under the age of 80? No.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "So, hi my name is Megan and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better rate Just to make sure we're finding you the right quote May I ask, are you under the age of 80? No"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 57
+}

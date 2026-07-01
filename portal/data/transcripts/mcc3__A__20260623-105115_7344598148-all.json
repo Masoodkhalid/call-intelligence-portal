@@ -88,15 +88,7 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "To mark your right, it's private Press three"
-    },
-    {
-      "speaker": "BOT",
-      "text": "To send your message as is, press pound"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "To review"
+      "text": "To mark your right, it's private Press three To send your message as is, press pound To review"
     }
   ],
   "stages": {

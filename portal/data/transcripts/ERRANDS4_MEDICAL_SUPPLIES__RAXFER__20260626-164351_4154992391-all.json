@@ -225,7 +225,15 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Yes Hi, this is Nancy with U.S medical supplies I hope I caught you at a good time I only see him I'm calling about the continuous glucose monitor It lets you track your blood sugar without pricking your finger Yeah I'm not Do you have diabetes? I am I am diabetes Sorry, I didn't catch that I have a diabetes now Do you currently have diabetes? I have a diabetes right now I am a diabetes Okay Let me grab a specialist real quick Hang on just a second Hi, my name is Brian with healthcare solution on our recorders"
+      "text": "Yes Hi, this is Nancy with U.S medical supplies I hope I caught you at a good time I only see him I'm calling about the continuous glucose monitor It lets you track your blood sugar without pricking your finger Yeah I'm not Do you have diabetes? I am I am diabetes"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, I didn't catch that"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "I have a diabetes now Do you currently have diabetes? I have a diabetes right now I am a diabetes Okay Let me grab a specialist real quick Hang on just a second Hi, my name is Brian with healthcare solution on our recorders"
     },
     {
       "speaker": "BOT",

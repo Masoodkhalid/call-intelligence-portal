@@ -1,0 +1,98 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__NI__20260630-175803_2147179829-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-30",
+  "time": "17:58:03",
+  "phone": "2147179829",
+  "filename": "20260630-175803_2147179829-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-NI/20260630-175803_2147179829-all.mp3",
+  "duration": 37.73,
+  "text": "Hi, my name is Claire and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance, and we want to help you find a better rate. Just an example of finding you the right quote. May I ask, are you under the age of 80? >> Oh, yes. Yes, I'm 14 years old. >> Sorry, I didn't catch that. Just to confirm really quick, are you under the age of 80? >> Oh, my goodness, yes. Oh, Lord, yes, I'm only 14.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.28,
+      "text": "Hi, my name is Claire and I'm with AutoCare."
+    },
+    {
+      "start": 4.28,
+      "end": 6.62,
+      "text": "Based on what we're seeing in your area,"
+    },
+    {
+      "start": 6.62,
+      "end": 9.48,
+      "text": "you may be overpaying for your auto insurance,"
+    },
+    {
+      "start": 9.48,
+      "end": 12.04,
+      "text": "and we want to help you find a better rate."
+    },
+    {
+      "start": 12.04,
+      "end": 14.64,
+      "text": "Just an example of finding you the right quote."
+    },
+    {
+      "start": 14.64,
+      "end": 17.98,
+      "text": "May I ask, are you under the age of 80?"
+    },
+    {
+      "start": 17.98,
+      "end": 23.04,
+      "text": ">> Oh, yes. Yes, I'm 14 years old."
+    },
+    {
+      "start": 24.0,
+      "end": 26.68,
+      "text": ">> Sorry, I didn't catch that."
+    },
+    {
+      "start": 26.68,
+      "end": 28.32,
+      "text": "Just to confirm really quick,"
+    },
+    {
+      "start": 28.32,
+      "end": 30.44,
+      "text": "are you under the age of 80?"
+    },
+    {
+      "start": 30.44,
+      "end": 35.64,
+      "text": ">> Oh, my goodness, yes. Oh, Lord, yes, I'm only 14."
+    }
+  ],
+  "word_count": 91,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Claire and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance, and we want to help you find a better rate. Just an example of finding you the right quote. May I ask, are you under the age of 80? >> Oh, yes. Yes, I'm 14 years old. >> Sorry, I didn't catch that. Just to confirm really quick, are you under the age of 80? >> Oh, my goodness, yes. Oh, Lord, yes, I'm only 14.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Claire and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance, and we want to help you find a better rate Just an example of finding you the right quote May I ask, are you under the age of 80? Oh, yes Yes, I'm 14 years old"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, I didn't catch that"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Just to confirm really quick, are you under the age of 80? Oh, my goodness, yes Oh, Lord, yes, I'm only 14"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 91
+}

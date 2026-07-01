@@ -1,0 +1,65 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__DNQ__20260630-141428_5402410642-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-30",
+  "time": "14:14:28",
+  "phone": "5402410642",
+  "filename": "20260630-141428_5402410642-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-DNQ/20260630-141428_5402410642-all.mp3",
+  "duration": 22.61,
+  "text": "Hi, I'm Megan, and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance. And we want to help you find a better rate. Just to make sure we're finding the right quote. May I ask, are you under the age of 80? No?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi, I'm Megan, and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "Based on what we're seeing in your area, you may be overpaying for your auto insurance."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "And we want to help you find a better rate."
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "Just to make sure we're finding the right quote."
+    },
+    {
+      "start": 14.0,
+      "end": 18.0,
+      "text": "May I ask, are you under the age of 80?"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "No?"
+    }
+  ],
+  "word_count": 53,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, I'm Megan, and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance. And we want to help you find a better rate. Just to make sure we're finding the right quote. May I ask, are you under the age of 80? No?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, I'm Megan, and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance And we want to help you find a better rate Just to make sure we're finding the right quote May I ask, are you under the age of 80? No?"
+    }
+  ],
+  "stages": {
+    "greeting": false,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 53
+}

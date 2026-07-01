@@ -131,6 +131,11 @@ _FOLDER_META = {
         "bot_company":  "ISPER",
         "campaign_name":"Medical Supplies",
     },
+    "SHELBYFE_AUTO_CARE_INSURANCE": {
+        "company":      "shelbyfe",
+        "bot_company":  "Idrak",
+        "campaign_name":"Auto Care Insurance",
+    },
 }
 
 # Fallback: mcc* folders are all Medicare / Confinality

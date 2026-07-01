@@ -1,19 +1,19 @@
 {
-  "total_calls": 1553,
-  "transfers": 168,
-  "transfer_rate": 10.8,
+  "total_calls": 1604,
+  "transfers": 179,
+  "transfer_rate": 11.2,
   "dispo_counts": {
     "A": 149,
     "BDNC": 119,
     "BN": 40,
     "DAIR": 120,
     "DC": 120,
-    "DNQ": 167,
+    "DNQ": 176,
     "LB": 70,
-    "NI": 169,
-    "NP": 166,
-    "N": 155,
-    "RAXFER": 168,
+    "NI": 179,
+    "NP": 177,
+    "N": 165,
+    "RAXFER": 179,
     "RI": 30,
     "LH": 80
   },
@@ -137,6 +137,24 @@
         "RAXFER": 22
       }
     },
+    "shelbyfe": {
+      "count": 51,
+      "wins": 11,
+      "transfer_rate": 21.6,
+      "campaigns": [
+        "Auto Care Insurance"
+      ],
+      "bot_companies": [
+        "Idrak"
+      ],
+      "dispo_counts": {
+        "DNQ": 9,
+        "NI": 10,
+        "NP": 11,
+        "N": 10,
+        "RAXFER": 11
+      }
+    },
     "mcc11": {
       "count": 202,
       "wins": 20,
@@ -239,9 +257,11 @@
     "mcc11",
     "mcc3",
     "mcc5",
-    "mcc7"
+    "mcc7",
+    "shelbyfe"
   ],
   "all_campaigns": [
+    "Auto Care Insurance",
     "FE",
     "Medical Supplies",
     "Medicare"
@@ -249,6 +269,7 @@
   "all_bot_companies": [
     "Confinality",
     "ISPER",
+    "Idrak",
     "REEV"
   ],
   "avg_duration": 36.7

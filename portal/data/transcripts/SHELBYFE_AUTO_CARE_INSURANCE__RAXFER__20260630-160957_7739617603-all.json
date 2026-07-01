@@ -1,0 +1,115 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__RAXFER__20260630-160957_7739617603-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-30",
+  "time": "16:09:57",
+  "phone": "7739617603",
+  "filename": "20260630-160957_7739617603-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-RAXFER/20260630-160957_7739617603-all.mp3",
+  "duration": 45.36,
+  "text": "Hello. Hi. My name is Claire and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better rate. Just to make sure we're finding you the right quote, may I ask, are you under the age of 80? Yeah. Great. I will now transfer you to a specialist to discuss your premium savings options. All just a moment. My name is Jacob. I'm from AutoCare. How are you? Terrible. If you're terrible, while you pick this all, simple question.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Hi."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "My name is Claire and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 9.56,
+      "text": "Based on what we're seeing in your area, you may be overpaying for your auto insurance"
+    },
+    {
+      "start": 9.56,
+      "end": 12.36,
+      "text": "and we want to help you find a better rate."
+    },
+    {
+      "start": 12.36,
+      "end": 16.92,
+      "text": "Just to make sure we're finding you the right quote, may I ask, are you under the age of"
+    },
+    {
+      "start": 16.92,
+      "end": 17.92,
+      "text": "80?"
+    },
+    {
+      "start": 17.92,
+      "end": 18.92,
+      "text": "Yeah."
+    },
+    {
+      "start": 18.92,
+      "end": 19.92,
+      "text": "Great."
+    },
+    {
+      "start": 19.92,
+      "end": 27.0,
+      "text": "I will now transfer you to a specialist to discuss your premium savings options."
+    },
+    {
+      "start": 27.0,
+      "end": 36.26,
+      "text": "All just a moment."
+    },
+    {
+      "start": 36.26,
+      "end": 37.26,
+      "text": "My name is Jacob."
+    },
+    {
+      "start": 37.26,
+      "end": 38.26,
+      "text": "I'm from AutoCare."
+    },
+    {
+      "start": 38.26,
+      "end": 41.26,
+      "text": "How are you?"
+    },
+    {
+      "start": 41.26,
+      "end": 42.26,
+      "text": "Terrible."
+    },
+    {
+      "start": 42.26,
+      "end": 45.28,
+      "text": "If you're terrible, while you pick this all, simple question."
+    }
+  ],
+  "word_count": 97,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hello Hi My name is Claire and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better rate Just to make sure we're finding you the right quote, may I ask, are you under the age of 80? Yeah Great I will now transfer you to a specialist to discuss your premium savings options All just a moment",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello Hi My name is Claire and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better rate Just to make sure we're finding you the right quote, may I ask, are you under the age of 80? Yeah Great I will now transfer you to a specialist to discuss your premium savings options All just a moment"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 76
+}

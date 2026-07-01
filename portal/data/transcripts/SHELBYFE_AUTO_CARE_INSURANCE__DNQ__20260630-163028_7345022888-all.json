@@ -1,0 +1,63 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__DNQ__20260630-163028_7345022888-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-30",
+  "time": "16:30:28",
+  "phone": "7345022888",
+  "filename": "20260630-163028_7345022888-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-DNQ/20260630-163028_7345022888-all.mp3",
+  "duration": 20.38,
+  "text": "Which is the second time. Hello. My name is Mabel and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better rate. Just to make sure we're finding you the right quote, may I ask, are you under the age of 80? No.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Which is the second time. Hello. My name is Mabel and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 11.0,
+      "text": "Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better rate."
+    },
+    {
+      "start": 11.0,
+      "end": 16.0,
+      "text": "Just to make sure we're finding you the right quote, may I ask, are you under the age of 80?"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "No."
+    }
+  ],
+  "word_count": 61,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Which is the second time. Hello. My name is Mabel and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better rate. Just to make sure we're finding you the right quote, may I ask, are you under the age of 80? No.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Which is the second time"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Mabel and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better rate Just to make sure we're finding you the right quote, may I ask, are you under the age of 80? No"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 61
+}

@@ -1,0 +1,55 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__NP__20260630-175852_2102671861-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-30",
+  "time": "17:58:52",
+  "phone": "2102671861",
+  "filename": "20260630-175852_2102671861-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-NP/20260630-175852_2102671861-all.mp3",
+  "duration": 17.71,
+  "text": "Hi, my name is Sandy and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance. And we want to help you find a better rate. Just to make sure we're finding either right quote, may I ask how old you are?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi, my name is Sandy and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "Based on what we're seeing in your area, you may be overpaying for your auto insurance."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "And we want to help you find a better rate."
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": "Just to make sure we're finding either right quote, may I ask how old you are?"
+    }
+  ],
+  "word_count": 51,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Sandy and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance. And we want to help you find a better rate. Just to make sure we're finding either right quote, may I ask how old you are?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Sandy and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance And we want to help you find a better rate Just to make sure we're finding either right quote, may I ask how old you are?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 51
+}

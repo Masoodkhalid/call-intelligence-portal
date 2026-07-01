@@ -1,0 +1,45 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__RAXFER__20260630-163934_7063589487-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-30",
+  "time": "16:39:34",
+  "phone": "7063589487",
+  "filename": "20260630-163934_7063589487-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-RAXFER/20260630-163934_7063589487-all.mp3",
+  "duration": 39.53,
+  "text": "Hi, my name is Jason, I'm from AutoCare, how are you doing today? Hi, my name is Jason, my name is Jason, my name is Jason.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hi, my name is Jason, I'm from AutoCare, how are you doing today?"
+    },
+    {
+      "start": 30.0,
+      "end": 35.0,
+      "text": "Hi, my name is Jason, my name is Jason, my name is Jason."
+    }
+  ],
+  "word_count": 26,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Jason, I'm from AutoCare, how are you doing today? Hi, my name is Jason, my name is Jason, my name is Jason.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Jason, I'm from AutoCare, how are you doing today? Hi, my name is Jason, my name is Jason, my name is Jason"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 26
+}

@@ -1,0 +1,55 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__NP__20260630-173645_4784529411-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-30",
+  "time": "17:36:45",
+  "phone": "4784529411",
+  "filename": "20260630-173645_4784529411-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-NP/20260630-173645_4784529411-all.mp3",
+  "duration": 12.38,
+  "text": "Hi, my name is Sandy, and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance, and we want to help you find a better rate. Just to make sure we're finding either way.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi, my name is Sandy, and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "Based on what we're seeing in your area, you may be overpaying for your auto insurance,"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "and we want to help you find a better rate."
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "Just to make sure we're finding either way."
+    }
+  ],
+  "word_count": 43,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Sandy, and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance, and we want to help you find a better rate. Just to make sure we're finding either way.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Sandy, and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance, and we want to help you find a better rate Just to make sure we're finding either way"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 43
+}

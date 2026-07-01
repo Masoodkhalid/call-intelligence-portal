@@ -1,0 +1,103 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__NI__20260630-165225_3866735781-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-30",
+  "time": "16:52:25",
+  "phone": "3866735781",
+  "filename": "20260630-165225_3866735781-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-NI/20260630-165225_3866735781-all.mp3",
+  "duration": 34.49,
+  "text": ">> Hi, my name is Sandy and I'm with AutoCare. >> Can I just say the message? >> They don't want to be in your area. >> Yeah, they don't want to be over-leaving for your auto insurance. >> And do you want to help you find a better rate? Just to make sure we're finding either right quote, may I ask how old you are? >> To leave a message for someone else, press 2. >> To disconnect, press star 9 or just hang up. >> Sorry, I didn't catch that. You do currently have active auto insurance on your vehicle. >> Correct. >> To disconnect, press star 9 or just hang up.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": ">> Hi, my name is Sandy and I'm with AutoCare."
+    },
+    {
+      "start": 3.9,
+      "end": 5.1,
+      "text": ">> Can I just say the message?"
+    },
+    {
+      "start": 5.1,
+      "end": 5.96,
+      "text": ">> They don't want to be in your area."
+    },
+    {
+      "start": 5.96,
+      "end": 8.52,
+      "text": ">> Yeah, they don't want to be over-leaving for your auto insurance."
+    },
+    {
+      "start": 8.52,
+      "end": 11.08,
+      "text": ">> And do you want to help you find a better rate?"
+    },
+    {
+      "start": 11.08,
+      "end": 14.6,
+      "text": "Just to make sure we're finding either right quote, may I ask how old you are?"
+    },
+    {
+      "start": 14.6,
+      "end": 17.32,
+      "text": ">> To leave a message for someone else, press 2."
+    },
+    {
+      "start": 17.32,
+      "end": 22.64,
+      "text": ">> To disconnect, press star 9 or just hang up."
+    },
+    {
+      "start": 22.64,
+      "end": 24.84,
+      "text": ">> Sorry, I didn't catch that."
+    },
+    {
+      "start": 24.84,
+      "end": 28.36,
+      "text": "You do currently have active auto insurance on your vehicle."
+    },
+    {
+      "start": 28.36,
+      "end": 28.64,
+      "text": ">> Correct."
+    },
+    {
+      "start": 28.64,
+      "end": 31.8,
+      "text": ">> To disconnect, press star 9 or just hang up."
+    }
+  ],
+  "word_count": 114,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": ">> Hi, my name is Sandy and I'm with AutoCare. >> Can I just say the message? >> They don't want to be in your area. >> Yeah, they don't want to be over-leaving for your auto insurance. >> And do you want to help you find a better rate? Just to make sure we're finding either right quote, may I ask how old you are? >> To leave a message for someone else, press 2. >> To disconnect, press star 9 or just hang up. >> Sorry, I didn't catch that. You do currently have active auto insurance on your vehicle. >> Correct. >> To disconnect, press star 9 or just hang up.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Sandy and I'm with AutoCare Can I just say the message? They don't want to be in your area Yeah, they don't want to be over-leaving for your auto insurance And do you want to help you find a better rate? Just to make sure we're finding either right quote, may I ask how old you are? To leave a message for someone else, press 2 To disconnect, press star 9 or just hang up"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, I didn't catch that"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You do currently have active auto insurance on your vehicle Correct To disconnect, press star 9 or just hang up"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 114
+}

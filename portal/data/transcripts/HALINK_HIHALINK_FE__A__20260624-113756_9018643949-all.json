@@ -149,15 +149,27 @@
     },
     {
       "speaker": "BOT",
-      "text": "Or add your message, press 1 To mark your message urgent, press 2 To mark your message private, press 3 To send your message as is, press pound"
+      "text": "Or add your message, press 1 To mark your message urgent, press 2 To mark your message private, press 3"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "I'm sorry, I didn't quite get that Can you please confirm if you are under the age of 65? We record or add to your message, press 1"
+      "text": "To send your message as is, press pound"
     },
     {
       "speaker": "BOT",
-      "text": "To mark your message urgent, press 2 To mark your message private, press 3 To send your message as is, press pound"
+      "text": "I'm sorry, I didn't quite get that"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Can you please confirm if you are under the age of 65? We record or add to your message, press 1"
+    },
+    {
+      "speaker": "BOT",
+      "text": "To mark your message urgent, press 2 To mark your message private, press 3"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To send your message as is, press pound"
     }
   ],
   "stages": {

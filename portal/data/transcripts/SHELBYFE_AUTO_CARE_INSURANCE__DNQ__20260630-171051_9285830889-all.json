@@ -1,0 +1,60 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__DNQ__20260630-171051_9285830889-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-30",
+  "time": "17:10:51",
+  "phone": "9285830889",
+  "filename": "20260630-171051_9285830889-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-DNQ/20260630-171051_9285830889-all.mp3",
+  "duration": 23.18,
+  "text": "Hello, my name is Claire and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better weight. Just to make sure we're finding you the right quote. May I ask, are you under the age of AB?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Hello, my name is Claire and I'm with AutoCare."
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": "Based on what we're seeing in your area, you may be overpaying for your auto insurance"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "and we want to help you find a better weight."
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "Just to make sure we're finding you the right quote."
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": "May I ask, are you under the age of AB?"
+    }
+  ],
+  "word_count": 55,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hello, my name is Claire and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better weight. Just to make sure we're finding you the right quote. May I ask, are you under the age of AB?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hello, my name is Claire and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better weight Just to make sure we're finding you the right quote May I ask, are you under the age of AB?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 55
+}

@@ -1,0 +1,80 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__DNQ__20260630-160851_7195068647-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "DNQ",
+  "dispo_label": "Did Not Qualify",
+  "date": "2026-06-30",
+  "time": "16:08:51",
+  "phone": "7195068647",
+  "filename": "20260630-160851_7195068647-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-DNQ/20260630-160851_7195068647-all.mp3",
+  "duration": 39.17,
+  "text": "Hi, my name is Megan and I'm with AutoCare. Basically, I would like to ask you to open your auto insurance. I want to help you find a better rate. Just to make sure we're finding you the right quote. May I ask, are you under the age of 80? I understand. I'm not trying to make any changes right now. I just need to verify one quick detail so I can update the information correctly. Just to confirm really quick, are you under the age of 80?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi, my name is Megan and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Basically, I would like to ask you to open your auto insurance."
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "I want to help you find a better rate."
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "Just to make sure we're finding you the right quote."
+    },
+    {
+      "start": 14.0,
+      "end": 22.0,
+      "text": "May I ask, are you under the age of 80?"
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "text": "I understand."
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": "I'm not trying to make any changes right now."
+    },
+    {
+      "start": 26.0,
+      "end": 31.0,
+      "text": "I just need to verify one quick detail so I can update the information correctly."
+    },
+    {
+      "start": 31.0,
+      "end": 35.0,
+      "text": "Just to confirm really quick, are you under the age of 80?"
+    }
+  ],
+  "word_count": 88,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Megan and I'm with AutoCare. Basically, I would like to ask you to open your auto insurance. I want to help you find a better rate. Just to make sure we're finding you the right quote. May I ask, are you under the age of 80? I understand. I'm not trying to make any changes right now. I just need to verify one quick detail so I can update the information correctly. Just to confirm really quick, are you under the age of 80?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Megan and I'm with AutoCare Basically, I would like to ask you to open your auto insurance I want to help you find a better rate Just to make sure we're finding you the right quote May I ask, are you under the age of 80? I understand I'm not trying to make any changes right now I just need to verify one quick detail so I can update the information correctly Just to confirm really quick, are you under the age of 80?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 88
+}

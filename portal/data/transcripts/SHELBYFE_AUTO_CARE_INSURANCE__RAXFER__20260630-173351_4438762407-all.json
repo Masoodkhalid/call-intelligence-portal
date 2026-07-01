@@ -1,0 +1,115 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__RAXFER__20260630-173351_4438762407-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-30",
+  "time": "17:33:51",
+  "phone": "4438762407",
+  "filename": "20260630-173351_4438762407-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-RAXFER/20260630-173351_4438762407-all.mp3",
+  "duration": 75.82,
+  "text": "My name is Jacob, I'm from AutoCare, how are you? Come on! Well, the school is about the car insurance, and we're only providing you some discounted quotes on that. So, I want to know how many cars we own. Oh, I have no cars. Okay. And what is your zip code? What is our what? What is your zip code? 2-1-0-1-4. What is your date of birth? June 22nd, 1956. And what is the name of your current auto insurance provider? What is the name of your current auto insurance provider? I told you I don't have a car.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "My name is Jacob, I'm from AutoCare, how are you?"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Come on!"
+    },
+    {
+      "start": 9.0,
+      "end": 15.24,
+      "text": "Well, the school is about the car insurance, and we're only providing you some discounted"
+    },
+    {
+      "start": 15.24,
+      "end": 16.24,
+      "text": "quotes on that."
+    },
+    {
+      "start": 16.24,
+      "end": 19.36,
+      "text": "So, I want to know how many cars we own."
+    },
+    {
+      "start": 19.36,
+      "end": 24.08,
+      "text": "Oh, I have no cars."
+    },
+    {
+      "start": 24.08,
+      "end": 25.56,
+      "text": "Okay."
+    },
+    {
+      "start": 25.56,
+      "end": 27.84,
+      "text": "And what is your zip code?"
+    },
+    {
+      "start": 27.84,
+      "end": 32.08,
+      "text": "What is our what?"
+    },
+    {
+      "start": 32.08,
+      "end": 38.84,
+      "text": "What is your zip code?"
+    },
+    {
+      "start": 38.84,
+      "end": 42.84,
+      "text": "2-1-0-1-4."
+    },
+    {
+      "start": 42.84,
+      "end": 49.24,
+      "text": "What is your date of birth?"
+    },
+    {
+      "start": 49.24,
+      "end": 59.3,
+      "text": "June 22nd, 1956."
+    },
+    {
+      "start": 59.3,
+      "end": 65.32,
+      "text": "And what is the name of your current auto insurance provider?"
+    },
+    {
+      "start": 65.32,
+      "end": 69.76,
+      "text": "What is the name of your current auto insurance provider?"
+    },
+    {
+      "start": 69.76,
+      "end": 75.52,
+      "text": "I told you I don't have a car."
+    }
+  ],
+  "word_count": 100,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "My name is Jacob, I'm from AutoCare, how are you? Come on! Well, the school is about the car insurance, and we're only providing you some discounted quotes on that. So, I want to know how many cars we own. Oh, I have no cars. Okay. And what is your zip code? What is our what? What is your zip code? 2-1-0-1-4. What is your date of birth? June 22nd, 1956. And what is the name of your current auto insurance provider? What is the name of your current auto insurance provider? I told you I don't have a car.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "My name is Jacob, I'm from AutoCare, how are you? Come on! Well, the school is about the car insurance, and we're only providing you some discounted quotes on that So, I want to know how many cars we own Oh, I have no cars Okay And what is your zip code? What is our what? What is your zip code? 2-1-0-1-4 What is your date of birth? June 22nd, 1956 And what is the name of your current auto insurance provider? What is the name of your current auto insurance provider? I told you I don't have a car"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 100
+}

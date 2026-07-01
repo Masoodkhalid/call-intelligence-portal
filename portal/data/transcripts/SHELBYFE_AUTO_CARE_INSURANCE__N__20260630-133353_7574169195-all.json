@@ -1,0 +1,73 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__N__20260630-133353_7574169195-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "N",
+  "dispo_label": "No Answer",
+  "date": "2026-06-30",
+  "time": "13:33:53",
+  "phone": "7574169195",
+  "filename": "20260630-133353_7574169195-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-N/20260630-133353_7574169195-all.mp3",
+  "duration": 29.45,
+  "text": "Hi, my name is Mabel, and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance, and we've got to help you find a better weight. Just to make sure we're finding you the right quote, may I ask, are you under the age of 80? Sorry, I didn't catch that. Just to confirm really quick, are you under the age of 80?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi, my name is Mabel, and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "Based on what we're seeing in your area, you may be overpaying for your auto insurance,"
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "and we've got to help you find a better weight."
+    },
+    {
+      "start": 11.0,
+      "end": 17.0,
+      "text": "Just to make sure we're finding you the right quote, may I ask, are you under the age of 80?"
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "Sorry, I didn't catch that."
+    },
+    {
+      "start": 23.0,
+      "end": 27.0,
+      "text": "Just to confirm really quick, are you under the age of 80?"
+    }
+  ],
+  "word_count": 72,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Mabel, and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance, and we've got to help you find a better weight. Just to make sure we're finding you the right quote, may I ask, are you under the age of 80? Sorry, I didn't catch that. Just to confirm really quick, are you under the age of 80?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Mabel, and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance, and we've got to help you find a better weight Just to make sure we're finding you the right quote, may I ask, are you under the age of 80?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, I didn't catch that"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Just to confirm really quick, are you under the age of 80?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 72
+}

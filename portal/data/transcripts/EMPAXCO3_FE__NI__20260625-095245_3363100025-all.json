@@ -65,15 +65,7 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Hi, my name is Emma"
-    },
-    {
-      "speaker": "BOT",
-      "text": "I'm calling because in the recent episode, the government has introduced the final insurance plans at a highly subsidized rate that you may qualify for"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "Okay, all right So check if you qualify"
+      "text": "Hi, my name is Emma I'm calling because in the recent episode, the government has introduced the final insurance plans at a highly subsidized rate that you may qualify for Okay, all right So check if you qualify"
     },
     {
       "speaker": "BOT",

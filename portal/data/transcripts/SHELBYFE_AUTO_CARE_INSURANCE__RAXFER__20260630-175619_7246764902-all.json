@@ -1,0 +1,110 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__RAXFER__20260630-175619_7246764902-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-30",
+  "time": "17:56:19",
+  "phone": "7246764902",
+  "filename": "20260630-175619_7246764902-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-RAXFER/20260630-175619_7246764902-all.mp3",
+  "duration": 74.02,
+  "text": "Hi. My name is Claire, and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance, and we want to help you find a better rate. Just to make sure we're finding you the right quote. May I ask, are you under the age of 80? My what? Sorry, I didn't catch that. Just to confirm really quick, are you under the age of 80? I'm 80 years old. Great. I will now transfer you to a specialist to discuss your premium savings options. Hold just a moment. Hi. See Jimmy from U.S. AutoCare. How are you doing today? Hello? Yes, ma'am. This is about our insurance course. We have our mobile. No, don't ask the caller.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi. My name is Claire, and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "Based on what we're seeing in your area, you may be overpaying for your auto insurance,"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "and we want to help you find a better rate."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Just to make sure we're finding you the right quote."
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": "May I ask, are you under the age of 80?"
+    },
+    {
+      "start": 19.0,
+      "end": 23.0,
+      "text": "My what?"
+    },
+    {
+      "start": 23.0,
+      "end": 26.0,
+      "text": "Sorry, I didn't catch that."
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": "Just to confirm really quick, are you under the age of 80?"
+    },
+    {
+      "start": 29.0,
+      "end": 32.0,
+      "text": "I'm 80 years old."
+    },
+    {
+      "start": 32.0,
+      "end": 39.0,
+      "text": "Great. I will now transfer you to a specialist to discuss your premium savings options."
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": "Hold just a moment."
+    },
+    {
+      "start": 55.0,
+      "end": 65.0,
+      "text": "Hi. See Jimmy from U.S. AutoCare. How are you doing today?"
+    },
+    {
+      "start": 65.0,
+      "end": 67.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 67.0,
+      "end": 72.0,
+      "text": "Yes, ma'am. This is about our insurance course. We have our mobile."
+    },
+    {
+      "start": 72.0,
+      "end": 74.0,
+      "text": "No, don't ask the caller."
+    }
+  ],
+  "word_count": 126,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi My name is Claire, and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance, and we want to help you find a better rate Just to make sure we're finding you the right quote May I ask, are you under the age of 80? My what? Sorry, I didn't catch that Just to confirm really quick, are you under the age of 80? I'm 80 years old Great I will now transfer you to a specialist to discuss your premium savings options Hold just a moment",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi My name is Claire, and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance, and we want to help you find a better rate Just to make sure we're finding you the right quote May I ask, are you under the age of 80? My what? Sorry, I didn't catch that Just to confirm really quick, are you under the age of 80? I'm 80 years old Great I will now transfer you to a specialist to discuss your premium savings options Hold just a moment"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 97
+}

@@ -117,7 +117,11 @@
     },
     {
       "speaker": "BOT",
-      "text": "Can you hear me? To mark your message urgent, press 2 To mark your message private, press 3 To send your message as is, press pound"
+      "text": "Can you hear me? To mark your message urgent, press 2 To mark your message private, press 3"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To send your message as is, press pound"
     }
   ],
   "stages": {

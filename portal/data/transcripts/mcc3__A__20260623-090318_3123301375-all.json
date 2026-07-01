@@ -140,11 +140,11 @@
     },
     {
       "speaker": "BOT",
-      "text": "To mark your message private, press 3 Descend your message as is, press pound"
+      "text": "To mark your message private, press 3"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "are used to"
+      "text": "Descend your message as is, press pound are used to"
     }
   ],
   "stages": {

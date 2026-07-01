@@ -1,0 +1,135 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__RAXFER__20260630-161829_2517696642-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-30",
+  "time": "16:18:29",
+  "phone": "2517696642",
+  "filename": "20260630-161829_2517696642-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-RAXFER/20260630-161829_2517696642-all.mp3",
+  "duration": 85.82,
+  "text": "Hi. My name is Sandy and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance. And we want to help you find a better rate. Just to make sure we're finding either right quote, may I ask how old you are? Uh, one good game. Sorry, I didn't catch that. You do currently have active auto insurance on your vehicle, correct? Yes. Great. I will now transfer you to a specialist to discuss your premium savings options. Hold just a moment. Okay. Hi, this is Jimmy from U.S. AutoCare. How are you doing today? Okay. Well, the rest of our insurance have been recently dropped down. You do have a car insurance, right? Yes. So we are providing information about auto insurance codes. Would you like to hear discounted codes on your auto insurance? Would you like to hear what? Would you like to hear discounted codes on your auto insurance? I don't know exactly what I'm playing now, so when doing a good, give me a quote.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi. My name is Sandy and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Based on what we're seeing in your area,"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "you may be overpaying for your auto insurance."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "And we want to help you find a better rate."
+    },
+    {
+      "start": 11.0,
+      "end": 16.0,
+      "text": "Just to make sure we're finding either right quote, may I ask how old you are?"
+    },
+    {
+      "start": 16.0,
+      "end": 22.0,
+      "text": "Uh, one good game."
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "Sorry, I didn't catch that."
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": "You do currently have active auto insurance on your vehicle, correct?"
+    },
+    {
+      "start": 29.0,
+      "end": 33.0,
+      "text": "Yes."
+    },
+    {
+      "start": 33.0,
+      "end": 39.0,
+      "text": "Great. I will now transfer you to a specialist to discuss your premium savings options."
+    },
+    {
+      "start": 39.0,
+      "end": 41.0,
+      "text": "Hold just a moment."
+    },
+    {
+      "start": 41.0,
+      "end": 46.0,
+      "text": "Okay."
+    },
+    {
+      "start": 46.0,
+      "end": 51.0,
+      "text": "Hi, this is Jimmy from U.S. AutoCare. How are you doing today?"
+    },
+    {
+      "start": 51.0,
+      "end": 53.0,
+      "text": "Okay."
+    },
+    {
+      "start": 53.0,
+      "end": 59.0,
+      "text": "Well, the rest of our insurance have been recently dropped down. You do have a car insurance, right?"
+    },
+    {
+      "start": 59.0,
+      "end": 62.0,
+      "text": "Yes."
+    },
+    {
+      "start": 62.0,
+      "end": 69.0,
+      "text": "So we are providing information about auto insurance codes. Would you like to hear discounted codes on your auto insurance?"
+    },
+    {
+      "start": 69.0,
+      "end": 72.0,
+      "text": "Would you like to hear what?"
+    },
+    {
+      "start": 72.0,
+      "end": 76.0,
+      "text": "Would you like to hear discounted codes on your auto insurance?"
+    },
+    {
+      "start": 76.0,
+      "end": 86.0,
+      "text": "I don't know exactly what I'm playing now, so when doing a good, give me a quote."
+    }
+  ],
+  "word_count": 178,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi My name is Sandy and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance And we want to help you find a better rate Just to make sure we're finding either right quote, may I ask how old you are? Uh, one good game Sorry, I didn't catch that You do currently have active auto insurance on your vehicle, correct? Yes Great I will now transfer you to a specialist to discuss your premium savings options Hold just a moment",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi My name is Sandy and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance And we want to help you find a better rate Just to make sure we're finding either right quote, may I ask how old you are? Uh, one good game Sorry, I didn't catch that You do currently have active auto insurance on your vehicle, correct? Yes Great I will now transfer you to a specialist to discuss your premium savings options Hold just a moment"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 91
+}

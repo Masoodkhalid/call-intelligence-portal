@@ -1,0 +1,70 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__N__20260630-134959_3017608702-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "N",
+  "dispo_label": "No Answer",
+  "date": "2026-06-30",
+  "time": "13:49:59",
+  "phone": "3017608702",
+  "filename": "20260630-134959_3017608702-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-N/20260630-134959_3017608702-all.mp3",
+  "duration": 32.4,
+  "text": "\"Hi, my name is Megan, and I'm with AutoCAD.\" \"You don't know what we're seeing in your area, you're overpaying for your auto insurance.\" \"And if you want me to find a better rate, you just make sure we're finding you the right quote.\" \"Ma'am, are you under the age of 80?\" \"Sorry, I didn't touch that.\" \"You just make a firm rate check, are you under the age of 80?\" (buzzing)",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.32,
+      "text": "\"Hi, my name is Megan, and I'm with AutoCAD.\""
+    },
+    {
+      "start": 4.32,
+      "end": 9.28,
+      "text": "\"You don't know what we're seeing in your area, you're overpaying for your auto insurance.\""
+    },
+    {
+      "start": 9.28,
+      "end": 14.16,
+      "text": "\"And if you want me to find a better rate, you just make sure we're finding you the right quote.\""
+    },
+    {
+      "start": 14.16,
+      "end": 17.2,
+      "text": "\"Ma'am, are you under the age of 80?\""
+    },
+    {
+      "start": 22.16,
+      "end": 24.24,
+      "text": "\"Sorry, I didn't touch that.\""
+    },
+    {
+      "start": 24.24,
+      "end": 27.92,
+      "text": "\"You just make a firm rate check, are you under the age of 80?\""
+    },
+    {
+      "start": 30.0,
+      "end": 32.24,
+      "text": "(buzzing)"
+    }
+  ],
+  "word_count": 72,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "\"Hi, my name is Megan, and I'm with AutoCAD.\" \"You don't know what we're seeing in your area, you're overpaying for your auto insurance.\" \"And if you want me to find a better rate, you just make sure we're finding you the right quote.\" \"Ma'am, are you under the age of 80?\" \"Sorry, I didn't touch that.\" \"You just make a firm rate check, are you under the age of 80?\" (buzzing)",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "\"Hi, my name is Megan, and I'm with AutoCAD.\" \"You don't know what we're seeing in your area, you're overpaying for your auto insurance.\" \"And if you want me to find a better rate, you just make sure we're finding you the right quote.\" \"Ma'am, are you under the age of 80?\" \"Sorry, I didn't touch that.\" \"You just make a firm rate check, are you under the age of 80?\" (buzzing)"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 72
+}

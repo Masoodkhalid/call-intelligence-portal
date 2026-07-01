@@ -1,5 +1,5 @@
 {
-  "threshold": 18,
+  "threshold": 19,
   "lines": [
     [
       "are you there",
@@ -46,16 +46,16 @@
       56
     ],
     [
+      "blank audio",
+      56
+    ],
+    [
       "so far have you received any updates or notifications about this yet",
       55
     ],
     [
       "so have you received any notification about these benefits yet",
       54
-    ],
-    [
-      "blank audio",
-      52
     ],
     [
       "how are you doing today",
@@ -190,6 +190,10 @@
       22
     ],
     [
+      "sorry i didn t catch that",
+      22
+    ],
+    [
       "so to see if you qualify for this can you please share your age",
       22
     ],
@@ -236,18 +240,6 @@
     [
       "i can verify it real quick",
       19
-    ],
-    [
-      "to send your message as is press pound",
-      18
-    ],
-    [
-      "i m calling because in the recent update the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for",
-      18
-    ],
-    [
-      "i m calling to let you know about a cashback benefit that can help with out of pocket expenses of up to <NUM> <NUM> especially during a hospital stay",
-      18
     ]
   ]
 }

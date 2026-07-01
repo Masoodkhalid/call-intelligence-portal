@@ -1,0 +1,83 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__NI__20260630-113340_2564360897-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "NI",
+  "dispo_label": "Not Interested",
+  "date": "2026-06-30",
+  "time": "11:33:40",
+  "phone": "2564360897",
+  "filename": "20260630-113340_2564360897-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-NI/20260630-113340_2564360897-all.mp3",
+  "duration": 33.91,
+  "text": "Hi, my name is Sandy, and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance. And we want to help you find a better rate. Just to make sure we're finding either right quote, may I ask how old you are? Maybe two. Sorry, I didn't catch that. You do currently have active auto insurance on your vehicle, correct? I do. My husband takes it out.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi, my name is Sandy, and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "Based on what we're seeing in your area, you may be overpaying for your auto insurance."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "And we want to help you find a better rate."
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": "Just to make sure we're finding either right quote, may I ask how old you are?"
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "text": "Maybe two."
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Sorry, I didn't catch that."
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "text": "You do currently have active auto insurance on your vehicle, correct?"
+    },
+    {
+      "start": 27.0,
+      "end": 32.0,
+      "text": "I do. My husband takes it out."
+    }
+  ],
+  "word_count": 76,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Sandy, and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance. And we want to help you find a better rate. Just to make sure we're finding either right quote, may I ask how old you are? Maybe two. Sorry, I didn't catch that. You do currently have active auto insurance on your vehicle, correct? I do. My husband takes it out.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Sandy, and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance And we want to help you find a better rate Just to make sure we're finding either right quote, may I ask how old you are? Maybe two"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, I didn't catch that"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You do currently have active auto insurance on your vehicle, correct? I do My husband takes it out"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 76
+}

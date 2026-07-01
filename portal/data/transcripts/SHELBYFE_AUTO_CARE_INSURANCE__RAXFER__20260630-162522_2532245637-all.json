@@ -1,0 +1,120 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__RAXFER__20260630-162522_2532245637-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-30",
+  "time": "16:25:22",
+  "phone": "2532245637",
+  "filename": "20260630-162522_2532245637-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-RAXFER/20260630-162522_2532245637-all.mp3",
+  "duration": 65.45,
+  "text": "Hi, my name is Sandy and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance. And we want to help you find a better rate. Just to make sure we're finding either right quote, may I ask how old you are? Old enough it still gets hard. Or maybe I shouldn't say it's young enough. You do currently have active auto insurance on your vehicle, correct? Well, I've got an active sector. You want to try it out? Great. I will now transfer you to a specialist to discuss your premium savings options. Hold just a moment. Are you still with me? I'm here. My name is Jacob. I'm from AutoCare. How are you? Well, good for you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi, my name is Sandy and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Based on what we're seeing in your area,"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "you may be overpaying for your auto insurance."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "And we want to help you find a better rate."
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Just to make sure we're finding either right quote,"
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "may I ask how old you are?"
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "text": "Old enough it still gets hard."
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "Or maybe I shouldn't say it's young enough."
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": "You do currently have active auto insurance on your vehicle, correct?"
+    },
+    {
+      "start": 29.0,
+      "end": 33.0,
+      "text": "Well, I've got an active sector."
+    },
+    {
+      "start": 33.0,
+      "end": 35.0,
+      "text": "You want to try it out?"
+    },
+    {
+      "start": 35.0,
+      "end": 41.0,
+      "text": "Great. I will now transfer you to a specialist to discuss your premium savings options."
+    },
+    {
+      "start": 41.0,
+      "end": 45.0,
+      "text": "Hold just a moment."
+    },
+    {
+      "start": 45.0,
+      "end": 48.0,
+      "text": "Are you still with me?"
+    },
+    {
+      "start": 48.0,
+      "end": 56.0,
+      "text": "I'm here."
+    },
+    {
+      "start": 56.0,
+      "end": 60.0,
+      "text": "My name is Jacob. I'm from AutoCare. How are you?"
+    },
+    {
+      "start": 60.0,
+      "end": 64.0,
+      "text": "Well, good for you."
+    }
+  ],
+  "word_count": 128,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Sandy and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance And we want to help you find a better rate Just to make sure we're finding either right quote, may I ask how old you are? Old enough it still gets hard Or maybe I shouldn't say it's young enough You do currently have active auto insurance on your vehicle, correct? Well, I've got an active sector You want to try it out? Great I will now transfer you to a specialist to discuss your premium savings options Hold just a moment",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Sandy and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance And we want to help you find a better rate Just to make sure we're finding either right quote, may I ask how old you are? Old enough it still gets hard Or maybe I shouldn't say it's young enough You do currently have active auto insurance on your vehicle, correct? Well, I've got an active sector You want to try it out? Great I will now transfer you to a specialist to discuss your premium savings options Hold just a moment"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 107
+}

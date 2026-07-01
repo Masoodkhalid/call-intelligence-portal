@@ -1,0 +1,55 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__NP__20260630-171750_8154783633-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "NP",
+  "dispo_label": "No Pitch (cut early)",
+  "date": "2026-06-30",
+  "time": "17:17:50",
+  "phone": "8154783633",
+  "filename": "20260630-171750_8154783633-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-NP/20260630-171750_8154783633-all.mp3",
+  "duration": 13.46,
+  "text": "Hi, my name is Megan and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better rate. Just to make sure we're finding you the right way.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi, my name is Megan and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "Based on what we're seeing in your area, you may be overpaying for your auto insurance"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "and we want to help you find a better rate."
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Just to make sure we're finding you the right way."
+    }
+  ],
+  "word_count": 45,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Megan and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better rate. Just to make sure we're finding you the right way.",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Megan and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance and we want to help you find a better rate Just to make sure we're finding you the right way"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 45
+}

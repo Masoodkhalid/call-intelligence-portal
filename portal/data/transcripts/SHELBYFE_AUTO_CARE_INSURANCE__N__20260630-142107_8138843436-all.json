@@ -1,0 +1,93 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__N__20260630-142107_8138843436-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "N",
+  "dispo_label": "No Answer",
+  "date": "2026-06-30",
+  "time": "14:21:07",
+  "phone": "8138843436",
+  "filename": "20260630-142107_8138843436-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-N/20260630-142107_8138843436-all.mp3",
+  "duration": 48.53,
+  "text": "Hi, my name is Sandy and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance. And we want to help you find a better rate. Just to make sure we're finding either right quote, may I ask how old you are? I completely understand. And this will only take a few seconds. I just need to verify one quick detail from the report I'm reviewing just to confirm really quick. You do currently have active auto insurance on your vehicle, correct? Sorry, I didn't catch that. You do currently have active auto insurance on your vehicle, correct?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi, my name is Sandy and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": "Based on what we're seeing in your area, you may be overpaying for your auto insurance."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "And we want to help you find a better rate."
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": "Just to make sure we're finding either right quote, may I ask how old you are?"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "I completely understand."
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "And this will only take a few seconds."
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": "I just need to verify one quick detail from the report I'm reviewing just to confirm really quick."
+    },
+    {
+      "start": 29.0,
+      "end": 33.0,
+      "text": "You do currently have active auto insurance on your vehicle, correct?"
+    },
+    {
+      "start": 37.0,
+      "end": 39.0,
+      "text": "Sorry, I didn't catch that."
+    },
+    {
+      "start": 39.0,
+      "end": 43.0,
+      "text": "You do currently have active auto insurance on your vehicle, correct?"
+    }
+  ],
+  "word_count": 107,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Sandy and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance. And we want to help you find a better rate. Just to make sure we're finding either right quote, may I ask how old you are? I completely understand. And this will only take a few seconds. I just need to verify one quick detail from the report I'm reviewing just to confirm really quick. You do currently have active auto insurance on your vehicle, correct? Sorry, I didn't catch that. You do currently have active auto insurance on your vehicle, correct?",
+  "post_transfer_trimmed": false,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Sandy and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance And we want to help you find a better rate Just to make sure we're finding either right quote, may I ask how old you are? I completely understand And this will only take a few seconds I just need to verify one quick detail from the report I'm reviewing just to confirm really quick You do currently have active auto insurance on your vehicle, correct?"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, I didn't catch that"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "You do currently have active auto insurance on your vehicle, correct?"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": false,
+    "disqualify": false
+  },
+  "bot_word_count": 107
+}

@@ -54,7 +54,15 @@
     },
     {
       "speaker": "BOT",
-      "text": "To mark your message urgent, press 2 To mark your message private, press 3 To send your message as is pressed pound Are you still there?"
+      "text": "To mark your message urgent, press 2 To mark your message private, press 3"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To send your message as is pressed pound"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Are you still there?"
     }
   ],
   "stages": {

@@ -46,15 +46,7 @@
   "turns": [
     {
       "speaker": "CUSTOMER",
-      "text": "\"Hello?\" \"Hello.\" \"What do you want?\" \"Hi, my name is Emma"
-    },
-    {
-      "speaker": "BOT",
-      "text": "I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for"
-    },
-    {
-      "speaker": "CUSTOMER",
-      "text": "So, check if you qualify So, can you please confirm, are you between 40 and 85 years old?\" \"Why?\" \"Could you please confirm, if you are between 40 and 85 years old?\" \"Why, you want to know how I am?\" \"Thanks for your time Goodbye.\""
+      "text": "\"Hello?\" \"Hello.\" \"What do you want?\" \"Hi, my name is Emma I'm calling because in the recent update, the government has introduced final expense insurance plans at a highly subsidized rate that you may qualify for So, check if you qualify So, can you please confirm, are you between 40 and 85 years old?\" \"Why?\" \"Could you please confirm, if you are between 40 and 85 years old?\" \"Why, you want to know how I am?\" \"Thanks for your time Goodbye.\""
     }
   ],
   "stages": {

@@ -1,0 +1,155 @@
+{
+  "id": "SHELBYFE_AUTO_CARE_INSURANCE__RAXFER__20260630-161518_5867723006-all",
+  "campaign": "SHELBYFE_AUTO_CARE_INSURANCE",
+  "dispo": "RAXFER",
+  "dispo_label": "Transferred to Agent",
+  "date": "2026-06-30",
+  "time": "16:15:18",
+  "phone": "5867723006",
+  "filename": "20260630-161518_5867723006-all.mp3",
+  "rel_path": "mcc/SHELBYFE_AUTO_CARE_INSURANCE/SHELBYFE_AUTO_CARE_INSURANCE-RAXFER/20260630-161518_5867723006-all.mp3",
+  "duration": 90.0,
+  "text": "Hi, my name is Sandy and I'm with AutoCare. Based on what we're seeing in your area, you may be overpaying for your auto insurance. And we want to help you find a better rate. Just to make sure we're finding either right quote, may I ask how old you are? Harder than two. Sorry, I didn't catch that. You do currently have active auto insurance on your vehicle, correct? Maybe. Great, I will now transfer you to a specialist to discuss your premium savings options. Hope just a moment. Are you still with me? I'm still here. Hello? Yeah, what do you want? AutoCare, how are you? What insurance company are you calling from? Auto insurance. What auto insurance company? What insurance company are you calling from? AutoCare. I'm calling you from AutoCare.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hi, my name is Sandy and I'm with AutoCare."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Based on what we're seeing in your area,"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "you may be overpaying for your auto insurance."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "And we want to help you find a better rate."
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Just to make sure we're finding either right quote,"
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "may I ask how old you are?"
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "Harder than two."
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Sorry, I didn't catch that."
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "text": "You do currently have active auto insurance on your vehicle, correct?"
+    },
+    {
+      "start": 27.0,
+      "end": 32.0,
+      "text": "Maybe."
+    },
+    {
+      "start": 32.0,
+      "end": 35.0,
+      "text": "Great, I will now transfer you to a specialist"
+    },
+    {
+      "start": 35.0,
+      "end": 37.0,
+      "text": "to discuss your premium savings options."
+    },
+    {
+      "start": 37.0,
+      "end": 41.0,
+      "text": "Hope just a moment."
+    },
+    {
+      "start": 41.0,
+      "end": 44.0,
+      "text": "Are you still with me?"
+    },
+    {
+      "start": 44.0,
+      "end": 50.0,
+      "text": "I'm still here."
+    },
+    {
+      "start": 50.0,
+      "end": 55.0,
+      "text": "Hello?"
+    },
+    {
+      "start": 55.0,
+      "end": 59.0,
+      "text": "Yeah, what do you want?"
+    },
+    {
+      "start": 59.0,
+      "end": 62.0,
+      "text": "AutoCare, how are you?"
+    },
+    {
+      "start": 62.0,
+      "end": 65.0,
+      "text": "What insurance company are you calling from?"
+    },
+    {
+      "start": 65.0,
+      "end": 68.0,
+      "text": "Auto insurance."
+    },
+    {
+      "start": 68.0,
+      "end": 72.0,
+      "text": "What auto insurance company?"
+    },
+    {
+      "start": 72.0,
+      "end": 80.0,
+      "text": "What insurance company are you calling from?"
+    },
+    {
+      "start": 80.0,
+      "end": 83.0,
+      "text": "AutoCare."
+    },
+    {
+      "start": 83.0,
+      "end": 88.0,
+      "text": "I'm calling you from AutoCare."
+    }
+  ],
+  "word_count": 134,
+  "company": "shelbyfe",
+  "bot_company": "Idrak",
+  "campaign_name": "Auto Care Insurance",
+  "bot_text": "Hi, my name is Sandy and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance And we want to help you find a better rate Just to make sure we're finding either right quote, may I ask how old you are? Harder than two Sorry, I didn't catch that You do currently have active auto insurance on your vehicle, correct? Maybe Great, I will now transfer you to a specialist to discuss your premium savings options Hope just a moment",
+  "post_transfer_trimmed": true,
+  "turns": [
+    {
+      "speaker": "CUSTOMER",
+      "text": "Hi, my name is Sandy and I'm with AutoCare Based on what we're seeing in your area, you may be overpaying for your auto insurance And we want to help you find a better rate Just to make sure we're finding either right quote, may I ask how old you are? Harder than two Sorry, I didn't catch that You do currently have active auto insurance on your vehicle, correct? Maybe Great, I will now transfer you to a specialist to discuss your premium savings options Hope just a moment"
+    }
+  ],
+  "stages": {
+    "greeting": true,
+    "pitch": false,
+    "qualify": false,
+    "transfer": true,
+    "disqualify": false
+  },
+  "bot_word_count": 90
+}

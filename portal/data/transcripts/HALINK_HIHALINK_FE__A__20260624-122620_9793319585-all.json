@@ -139,15 +139,15 @@
     },
     {
       "speaker": "BOT",
-      "text": "Your message, press 1 to mark your message urgent, press 2 To mark your message private, press 3 To send your message as is, press pound"
+      "text": "Your message, press 1 to mark your message urgent, press 2 To mark your message private, press 3"
     },
     {
       "speaker": "CUSTOMER",
-      "text": "I'm sorry, I didn't quite get that"
+      "text": "To send your message as is, press pound"
     },
     {
       "speaker": "BOT",
-      "text": "Are you clear?"
+      "text": "I'm sorry, I didn't quite get that Are you clear?"
     },
     {
       "speaker": "CUSTOMER",
@@ -155,7 +155,15 @@
     },
     {
       "speaker": "BOT",
-      "text": "Or add to your message, press 1 To mark your message urgent, press 2 To mark your message private, press 3 To send your message as is, press pound [BLANK_AUDIO]"
+      "text": "Or add to your message, press 1 To mark your message urgent, press 2 To mark your message private, press 3"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "To send your message as is, press pound"
+    },
+    {
+      "speaker": "BOT",
+      "text": "[BLANK_AUDIO]"
     }
   ],
   "stages": {

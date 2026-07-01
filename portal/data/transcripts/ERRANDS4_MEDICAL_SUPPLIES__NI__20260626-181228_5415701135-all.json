@@ -55,7 +55,15 @@
     },
     {
       "speaker": "CUSTOMER",
-      "text": "Who's there? Hi, this is Caroline with U.S medical supplies I hope I caught you at a good time Okay I'm calling about the continuous glucose monitor It lets you track your blood sugar without pricking your finger Do you have diabetes? I don't think I do that I'm going to ask my husband Sorry, I didn't catch that Just a simple yes or no Do you currently have diabetes?"
+      "text": "Who's there? Hi, this is Caroline with U.S medical supplies I hope I caught you at a good time Okay I'm calling about the continuous glucose monitor It lets you track your blood sugar without pricking your finger Do you have diabetes? I don't think I do that I'm going to ask my husband"
+    },
+    {
+      "speaker": "BOT",
+      "text": "Sorry, I didn't catch that"
+    },
+    {
+      "speaker": "CUSTOMER",
+      "text": "Just a simple yes or no Do you currently have diabetes?"
     },
     {
       "speaker": "BOT",

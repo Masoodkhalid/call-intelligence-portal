@@ -3,12 +3,12 @@
   "flows": [
     {
       "signature": "greeting",
-      "calls": 559,
-      "pct": 36.0,
+      "calls": 596,
+      "pct": 37.2,
       "dispo_breakdown": [
         [
           "N",
-          152
+          162
         ],
         [
           "DAIR",
@@ -27,20 +27,24 @@
           34
         ],
         [
+          "NP",
+          31
+        ],
+        [
           "RI",
           30
+        ],
+        [
+          "NI",
+          25
         ],
         [
           "LH",
           23
         ],
         [
-          "NP",
-          22
-        ],
-        [
-          "NI",
-          16
+          "DNQ",
+          7
         ],
         [
           "BN",
@@ -52,10 +56,10 @@
         ],
         [
           "RAXFER",
-          4
+          6
         ]
       ],
-      "transfer_rate": 0.7,
+      "transfer_rate": 1.0,
       "examples": [
         "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-145337_8436075973-all",
         "AICONTACT_MEDICARE__AICONTACT_MEDICARE-A__20260624-154235_2294722760-all",
@@ -66,7 +70,7 @@
     {
       "signature": "greeting \u2192 pitch \u2192 qualify",
       "calls": 316,
-      "pct": 20.3,
+      "pct": 19.7,
       "dispo_breakdown": [
         [
           "NI",
@@ -124,7 +128,7 @@
     {
       "signature": "greeting \u2192 pitch",
       "calls": 310,
-      "pct": 20.0,
+      "pct": 19.3,
       "dispo_breakdown": [
         [
           "NP",
@@ -178,7 +182,7 @@
     {
       "signature": "greeting \u2192 pitch \u2192 qualify \u2192 transfer",
       "calls": 120,
-      "pct": 7.7,
+      "pct": 7.5,
       "dispo_breakdown": [
         [
           "RAXFER",
@@ -208,7 +212,7 @@
     {
       "signature": "greeting \u2192 pitch \u2192 qualify \u2192 disqualify",
       "calls": 108,
-      "pct": 7.0,
+      "pct": 6.7,
       "dispo_breakdown": [
         [
           "DNQ",
@@ -233,8 +237,8 @@
     },
     {
       "signature": "(no speech)",
-      "calls": 35,
-      "pct": 2.3,
+      "calls": 39,
+      "pct": 2.4,
       "dispo_breakdown": [
         [
           "A",
@@ -250,15 +254,23 @@
         ],
         [
           "NP",
-          4
+          5
         ],
         [
           "BDNC",
           3
         ],
         [
+          "DNQ",
+          2
+        ],
+        [
           "N",
           2
+        ],
+        [
+          "NI",
+          1
         ],
         [
           "LH",
@@ -294,7 +306,7 @@
     {
       "signature": "greeting \u2192 qualify",
       "calls": 15,
-      "pct": 1.0,
+      "pct": 0.9,
       "dispo_breakdown": [
         [
           "DNQ",
@@ -315,6 +327,32 @@
         "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-172400_2073529355-all",
         "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-172504_7209035349-all",
         "ERRANDS4_MEDICAL_SUPPLIES__DNQ__20260626-172817_4122950998-all"
+      ]
+    },
+    {
+      "signature": "greeting \u2192 transfer",
+      "calls": 15,
+      "pct": 0.9,
+      "dispo_breakdown": [
+        [
+          "RAXFER",
+          12
+        ],
+        [
+          "DC",
+          2
+        ],
+        [
+          "BDNC",
+          1
+        ]
+      ],
+      "transfer_rate": 80.0,
+      "examples": [
+        "EMPAXCO3_FE__RAXFER__20260625-104701_5737230161-all",
+        "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RAXFER__20260625-104701_5737230161-all",
+        "EMPAXCO3_SOLAR__RAXFER__20260625-104701_5737230161-all",
+        "SHELBYFE_AUTO_CARE_INSURANCE__RAXFER__20260630-160957_7739617603-all"
       ]
     },
     {
@@ -426,32 +464,6 @@
       ]
     },
     {
-      "signature": "greeting \u2192 transfer",
-      "calls": 6,
-      "pct": 0.4,
-      "dispo_breakdown": [
-        [
-          "RAXFER",
-          3
-        ],
-        [
-          "DC",
-          2
-        ],
-        [
-          "BDNC",
-          1
-        ]
-      ],
-      "transfer_rate": 50.0,
-      "examples": [
-        "EMPAXCO3_FE__RAXFER__20260625-104701_5737230161-all",
-        "EMPAXCO3_SOLAR__EMPAXCO3_SOLAR-RAXFER__20260625-104701_5737230161-all",
-        "EMPAXCO3_SOLAR__RAXFER__20260625-104701_5737230161-all",
-        "mcc11__BDNC__20260623-155840_2707535288-all"
-      ]
-    },
-    {
       "signature": "pitch",
       "calls": 5,
       "pct": 0.3,
@@ -512,7 +524,7 @@
     {
       "signature": "greeting \u2192 pitch \u2192 qualify \u2192 transfer \u2192 objection",
       "calls": 4,
-      "pct": 0.3,
+      "pct": 0.2,
       "dispo_breakdown": [
         [
           "RAXFER",
@@ -577,6 +589,26 @@
       ]
     },
     {
+      "signature": "greeting \u2192 objection",
+      "calls": 2,
+      "pct": 0.1,
+      "dispo_breakdown": [
+        [
+          "NP",
+          1
+        ],
+        [
+          "A",
+          1
+        ]
+      ],
+      "transfer_rate": 0.0,
+      "examples": [
+        "SHELBYFE_AUTO_CARE_INSURANCE__NP__20260630-174217_2252811849-all",
+        "mcc11__A__20260623-153343_2694470209-all"
+      ]
+    },
+    {
       "signature": "greeting \u2192 disqualify",
       "calls": 2,
       "pct": 0.1,
@@ -590,21 +622,6 @@
       "examples": [
         "mcc3__A__20260623-105810_3148304965-all",
         "mcc5__A__20260623-125106_9543834360-all"
-      ]
-    },
-    {
-      "signature": "greeting \u2192 objection",
-      "calls": 1,
-      "pct": 0.1,
-      "dispo_breakdown": [
-        [
-          "A",
-          1
-        ]
-      ],
-      "transfer_rate": 0.0,
-      "examples": [
-        "mcc11__A__20260623-153343_2694470209-all"
       ]
     }
   ]
